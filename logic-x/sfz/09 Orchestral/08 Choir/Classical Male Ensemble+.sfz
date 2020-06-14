@@ -1,0 +1,59 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Classical Male Ensemble+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Classical Choir/Classical Choir Male\
+
+<group> volume=2        // Aa
+<region> sample=BB ClMale Aa n38.aif key=38 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=106467 loop_end=383422
+<region> sample=BB ClMale Aa n41.aif key=41 lokey=40 hikey=42 end=285516 loop_mode=loop_continuous loop_start=95528 loop_end=277891
+<region> sample=BB ClMale Aa n44.aif key=44 lokey=43 hikey=45 loop_mode=loop_continuous loop_start=183810 loop_end=470611
+<region> sample=BB ClMale Aa n47.aif key=47 lokey=46 hikey=48 volume=-1 loop_mode=loop_continuous loop_start=140374 loop_end=296430
+<region> sample=BB ClMale Aa n50.aif key=50 lokey=49 hikey=51 volume=-1 loop_mode=loop_continuous loop_start=73162 loop_end=276323
+<region> sample=BB ClMale Aa n53.aif key=53 lokey=52 hikey=54 loop_mode=loop_continuous loop_start=113170 loop_end=413272
+<region> sample=BB ClMale Aa n56.aif key=56 lokey=55 hikey=57 loop_mode=loop_continuous loop_start=103625 loop_end=392150
+<region> sample=BB ClMale Aa n59.aif key=59 lokey=58 hikey=60 volume=1 loop_mode=loop_continuous loop_start=123330 loop_end=385547
+<region> sample=BB ClMale Aa n62.aif key=62 lokey=61 hikey=63 loop_mode=loop_continuous loop_start=106164 loop_end=311222
+<region> sample=BB ClMale Aa n65.aif key=65 lokey=64 hikey=66 volume=1 loop_mode=loop_continuous loop_start=30801 loop_end=171037
+<region> sample=BB ClMale Aa n68.aif key=68 lokey=67 hikey=69 loop_mode=loop_continuous loop_start=82085 loop_end=265477
+<region> sample=BB ClMale Aa n71.aif key=71 lokey=70 hikey=127 loop_mode=loop_continuous loop_start=54321 loop_end=195873
+
+<group> volume=3        // Oo
+<region> sample=BB ClMale Oo n38.aif key=38 lokey=0 hikey=39 volume=1 loop_mode=loop_continuous loop_start=113089 loop_end=324319
+<region> sample=BB ClMale Oo n41.aif key=41 lokey=40 hikey=42 loop_mode=loop_continuous loop_start=215144 loop_end=430288
+<region> sample=BB ClMale Oo n44.aif key=44 lokey=43 hikey=45 volume=1 loop_mode=loop_continuous loop_start=64970 loop_end=250404
+<region> sample=BB ClMale Oo n47.aif key=47 lokey=46 hikey=48 loop_mode=loop_continuous loop_start=213029 loop_end=385566
+<region> sample=BB ClMale Oo n50.aif key=50 lokey=49 hikey=51 loop_mode=loop_continuous loop_start=145976 loop_end=384957
+<region> sample=BB ClMale Oo n53.aif key=53 lokey=52 hikey=54 loop_mode=loop_continuous loop_start=140331 loop_end=333540
+<region> sample=BB ClMale Oo n56.aif key=56 lokey=55 hikey=57 loop_mode=loop_continuous loop_start=94941 loop_end=355145
+<region> sample=BB ClMale Oo n59.aif key=59 lokey=58 hikey=60 volume=-1 loop_mode=loop_continuous loop_start=102339 loop_end=330323
+<region> sample=BB ClMale Oo n62.aif key=62 lokey=61 hikey=63 loop_mode=loop_continuous loop_start=112321 loop_end=209112
+<region> sample=BB ClMale Oo n65.aif key=65 lokey=64 hikey=66 loop_mode=loop_continuous loop_start=128008 loop_end=302526
+<region> sample=BB ClMale Oo n68.aif key=68 lokey=67 hikey=69 loop_mode=loop_continuous loop_start=136371 loop_end=290155
+<region> sample=BB ClMale Oo n71.aif key=71 lokey=70 hikey=127 loop_mode=loop_continuous loop_start=111899 loop_end=292455
+
+<group>        // Uu
+<region> sample=BB ClMale Uu n38.aif key=38 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=196181 loop_end=453508
+<region> sample=BB ClMale Uu n41.aif key=41 lokey=40 hikey=42 volume=2 loop_mode=loop_continuous loop_start=177363 loop_end=587737
+<region> sample=BB ClMale Uu n44.aif key=44 lokey=43 hikey=45 loop_mode=loop_continuous loop_start=87084 loop_end=240251
+<region> sample=BB ClMale Uu n47.aif key=47 lokey=46 hikey=48 volume=1 loop_mode=loop_continuous loop_start=131595 loop_end=324134
+<region> sample=BB ClMale Uu n50.aif key=50 lokey=49 hikey=51 volume=2 loop_mode=loop_continuous loop_start=177269 loop_end=396425
+<region> sample=BB ClMale Uu n53.aif key=53 lokey=52 hikey=54 volume=1 loop_mode=loop_continuous loop_start=186460 loop_end=394489
+<region> sample=BB ClMale Uu n56.aif key=56 lokey=55 hikey=57 loop_mode=loop_continuous loop_start=98345 loop_end=285121
+<region> sample=BB ClMale Uu n59.aif key=59 lokey=58 hikey=60 loop_mode=loop_continuous loop_start=213745 loop_end=500126
+<region> sample=BB ClMale Uu n62.aif key=62 lokey=61 hikey=63 loop_mode=loop_continuous loop_start=198201 loop_end=432400
+<region> sample=BB ClMale Uu n65.aif key=65 lokey=64 hikey=66 volume=2 loop_mode=loop_continuous loop_start=289270 loop_end=538727
+<region> sample=BB ClMale Uu n68.aif key=68 lokey=67 hikey=69 volume=2 loop_mode=loop_continuous loop_start=137995 loop_end=433747
+<region> sample=BB ClMale Uu n71.aif key=71 lokey=70 hikey=127 loop_mode=loop_continuous loop_start=150104 loop_end=390189
+
+<group> volume=3        // Mm
+<region> sample=BB ClMale Mm n41.aif key=41 lokey=0 hikey=42 loop_mode=loop_continuous loop_start=140554 loop_end=464418
+<region> sample=BB ClMale Mm n44.aif key=44 lokey=43 hikey=45 loop_mode=loop_continuous loop_start=96531 loop_end=352882
+<region> sample=BB ClMale Mm n47.aif key=47 lokey=46 hikey=48 volume=2 loop_mode=loop_continuous loop_start=196739 loop_end=435798
+<region> sample=BB ClMale Mm n50.aif key=50 lokey=49 hikey=51 volume=1 loop_mode=loop_continuous loop_start=71638 loop_end=247814
+<region> sample=BB ClMale Mm n53.aif key=53 lokey=52 hikey=54 loop_mode=loop_continuous loop_start=202894 loop_end=389067
+<region> sample=BB ClMale Mm n56.aif key=56 lokey=55 hikey=57 loop_mode=loop_continuous loop_start=139582 loop_end=284453
+<region> sample=BB ClMale Mm n59.aif key=59 lokey=58 hikey=60 end=294002 loop_mode=loop_continuous loop_start=115391 loop_end=290588
+<region> sample=BB ClMale Mm n62.aif key=62 lokey=61 hikey=63 volume=3 loop_mode=loop_continuous loop_start=110575 loop_end=331837
+<region> sample=BB ClMale Mm n65.aif key=65 lokey=64 hikey=66 volume=4 loop_mode=loop_continuous loop_start=136942 loop_end=282436
+<region> sample=BB ClMale Mm n68.aif key=68 lokey=67 hikey=127 volume=3 loop_mode=loop_continuous loop_start=122785 loop_end=326879

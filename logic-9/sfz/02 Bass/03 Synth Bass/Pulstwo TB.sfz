@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Pulstwo TB.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Pulstwo Punch\
+
+<group>        // Group #1
+<region> sample=Pulstwo96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=29954 loop_end=30038
+<region> sample=Pulstwo90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=35689 loop_end=35927
+<region> sample=Pulstwo84.wav key=84 lokey=82 hikey=87 tune=-3 loop_mode=loop_continuous loop_start=44242 loop_end=44410
+<region> sample=Pulstwo78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=61846 loop_end=62084
+<region> sample=Pulstwo72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=78675 loop_end=79011
+<region> sample=Pulstwo66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=75481 loop_end=76433
+<region> sample=Pulstwo60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=78758 loop_end=79433
+<region> sample=Pulstwo54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=75542 loop_end=76494
+<region> sample=Pulstwo48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=75159 loop_end=77853
+<region> sample=Pulstwo42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=76708 loop_end=78612
+<region> sample=Pulstwo36.wav key=36 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=64019 loop_end=72103

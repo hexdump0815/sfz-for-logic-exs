@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Pulsone SQ.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Pulsone Bass\
+
+<group>        // Group #1
+<region> sample=Pulsone125.wav key=36 lokey=0 hikey=127 lovel=114 hivel=127 loop_mode=loop_continuous loop_start=21913 loop_end=23261
+<region> sample=Pulsone096.wav key=36 lokey=0 hikey=127 lovel=96 hivel=113 loop_mode=loop_continuous loop_start=20581 loop_end=21930
+<region> sample=Pulsone080.wav key=36 lokey=0 hikey=127 lovel=83 hivel=95 loop_mode=loop_continuous loop_start=18842 loop_end=20193
+<region> sample=Pulsone072.wav key=36 lokey=0 hikey=127 lovel=72 hivel=82 loop_mode=loop_continuous loop_start=19273 loop_end=20623
+<region> sample=Pulsone060.wav key=36 lokey=0 hikey=127 lovel=60 hivel=71 loop_mode=loop_continuous loop_start=17939 loop_end=19289
+<region> sample=Pulsone048.wav key=36 lokey=0 hikey=127 lovel=48 hivel=59 loop_mode=loop_continuous loop_start=19339 loop_end=20687
+<region> sample=Pulsone032.wav key=36 lokey=0 hikey=127 lovel=32 hivel=47 loop_mode=loop_continuous loop_start=8148 loop_end=9501
+<region> sample=Pulsone016.wav key=36 lokey=0 hikey=127 lovel=1 hivel=31 loop_mode=loop_continuous loop_start=11372 loop_end=12721

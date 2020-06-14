@@ -1,0 +1,691 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Session Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Session Bass\
+
+<group> lovel=108 hivel=127 locc1=0 hicc1=41        // f atk i1
+<region> sample=BsSdy f atk i1x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  1 e.aif key=40 lokey=39 hikey=41 volume=3 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy f atk i1x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 locc1=0 hicc1=41        // f atk i2
+<region> sample=BsSdy f atk i2x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  1 e.aif key=40 lokey=39 hikey=41 volume=3 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy f atk i2x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 locc1=0 hicc1=41        // f atk m1
+<region> sample=BsSdy f atk m1x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  1 e.aif key=40 lokey=39 hikey=41 volume=3 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy f atk m1x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 locc1=0 hicc1=41        // f atk m2
+<region> sample=BsSdy f atk m2x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  1 e.aif key=40 lokey=39 hikey=41 volume=3 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy f atk m2x  1 g.aif key=43 lokey=42 hikey=44 end=4755 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 volume=-5 locc1=85 hicc1=127        // f atk sld
+<region> sample=BsSdy f atk sld  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy f atk sld  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 volume=-5 locc1=42 hicc1=84        // f atk slu
+<region> sample=BsSdy f atk slu  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy f atk slu  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 locc1=0 hicc1=41        // f sus i for atk i
+<region> sample=BsSdy f sus i  1 c#.aif key=37 lokey=0 hikey=38 offset=9209 loop_mode=loop_continuous loop_start=343527 loop_end=372888
+<region> sample=BsSdy f sus i  4 g.aif key=79 lokey=78 hikey=80 offset=2127 loop_mode=loop_continuous loop_start=165924 loop_end=185940
+<region> sample=BsSdy f sus i  3 e.aif key=64 lokey=63 hikey=65 offset=3414 loop_mode=loop_continuous loop_start=662095 loop_end=715130
+<region> sample=BsSdy f sus i  3 g.aif key=67 lokey=66 hikey=68 offset=3390 loop_mode=loop_continuous loop_start=387717 loop_end=429837
+<region> sample=BsSdy f sus i  3a#.aif key=70 lokey=69 hikey=71 offset=4518 loop_mode=loop_continuous loop_start=258456 loop_end=275290
+<region> sample=BsSdy f sus i  4 c#.aif key=73 lokey=72 hikey=74 offset=3830 loop_mode=loop_continuous loop_start=196711 loop_end=223923
+<region> sample=BsSdy f sus i  4 e.aif key=76 lokey=75 hikey=77 offset=2935 loop_mode=loop_continuous loop_start=183387 loop_end=203331
+<region> sample=BsSdy f sus i  1 e.aif key=40 lokey=39 hikey=41 offset=6449 loop_mode=loop_continuous loop_start=898084 loop_end=1023837
+<region> sample=BsSdy f sus i  1 g.aif key=43 lokey=42 hikey=44 offset=8939 loop_mode=loop_continuous loop_start=526907 loop_end=588096
+<region> sample=BsSdy f sus i  1a#.aif key=46 lokey=45 hikey=47 offset=8804 loop_mode=loop_continuous loop_start=321957 loop_end=344670
+<region> sample=BsSdy f sus i  2 c#.aif key=49 lokey=48 hikey=50 offset=4894 loop_mode=loop_continuous loop_start=458132 loop_end=481686
+<region> sample=BsSdy f sus i  2 e.aif key=52 lokey=51 hikey=53 volume=3 offset=9207 loop_mode=loop_continuous loop_start=461938 loop_end=492421
+<region> sample=BsSdy f sus i  2 g.aif key=55 lokey=54 hikey=56 offset=5764 loop_mode=loop_continuous loop_start=381326 loop_end=408777
+<region> sample=BsSdy f sus i  2a#.aif key=58 lokey=57 hikey=59 offset=5702 loop_mode=loop_continuous loop_start=366452 loop_end=419605
+<region> sample=BsSdy f sus i  3 c#.aif key=61 lokey=60 hikey=62 offset=5918 loop_mode=loop_continuous loop_start=165560 loop_end=175746
+
+<group> lovel=108 hivel=127 volume=-5 locc1=85 hicc1=127        // f sus i for sld
+<region> sample=BsSdy f sus i  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=loop_continuous loop_start=343527 loop_end=372888
+<region> sample=BsSdy f sus i  4 g.aif key=79 lokey=78 hikey=80 loop_mode=loop_continuous loop_start=165924 loop_end=185940
+<region> sample=BsSdy f sus i  4 c#.aif key=73 lokey=72 hikey=74 offset=729 loop_mode=loop_continuous loop_start=196711 loop_end=223923
+<region> sample=BsSdy f sus i  3a#.aif key=70 lokey=69 hikey=71 offset=2177 loop_mode=loop_continuous loop_start=258456 loop_end=275290
+<region> sample=BsSdy f sus i  4 e.aif key=76 lokey=75 hikey=77 offset=1618 loop_mode=loop_continuous loop_start=183387 loop_end=203331
+<region> sample=BsSdy f sus i  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=898084 loop_end=1023837
+<region> sample=BsSdy f sus i  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=526907 loop_end=588096
+<region> sample=BsSdy f sus i  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=321957 loop_end=344670
+<region> sample=BsSdy f sus i  2 c#.aif key=49 lokey=48 hikey=50 offset=559 loop_mode=loop_continuous loop_start=458132 loop_end=481686
+<region> sample=BsSdy f sus i  2 e.aif key=52 lokey=51 hikey=53 offset=2708 loop_mode=loop_continuous loop_start=461938 loop_end=492421
+<region> sample=BsSdy f sus i  2 g.aif key=55 lokey=54 hikey=56 offset=112 loop_mode=loop_continuous loop_start=381326 loop_end=408777
+<region> sample=BsSdy f sus i  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=366452 loop_end=419605
+<region> sample=BsSdy f sus i  3 c#.aif key=61 lokey=60 hikey=62 offset=2242 loop_mode=loop_continuous loop_start=165560 loop_end=175746
+<region> sample=BsSdy f sus i  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=662095 loop_end=715130
+<region> sample=BsSdy f sus i  3 g.aif key=67 lokey=66 hikey=68 offset=564 loop_mode=loop_continuous loop_start=387717 loop_end=429837
+
+<group> lovel=108 hivel=127 volume=-5 locc1=42 hicc1=84        // f sus i for slu
+<region> sample=BsSdy f sus i  1 c#.aif key=37 lokey=0 hikey=38 offset=1068 loop_mode=loop_continuous loop_start=343527 loop_end=372888
+<region> sample=BsSdy f sus i  4 g.aif key=79 lokey=78 hikey=80 loop_mode=loop_continuous loop_start=165924 loop_end=185940
+<region> sample=BsSdy f sus i  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=loop_continuous loop_start=196711 loop_end=223923
+<region> sample=BsSdy f sus i  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=258456 loop_end=275290
+<region> sample=BsSdy f sus i  4 e.aif key=76 lokey=75 hikey=77 loop_mode=loop_continuous loop_start=183387 loop_end=203331
+<region> sample=BsSdy f sus i  1 e.aif key=40 lokey=39 hikey=41 offset=700 loop_mode=loop_continuous loop_start=898084 loop_end=1023837
+<region> sample=BsSdy f sus i  1 g.aif key=43 lokey=42 hikey=44 offset=3098 loop_mode=loop_continuous loop_start=526907 loop_end=588096
+<region> sample=BsSdy f sus i  1a#.aif key=46 lokey=45 hikey=47 offset=54 loop_mode=loop_continuous loop_start=321957 loop_end=344670
+<region> sample=BsSdy f sus i  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=458132 loop_end=481686
+<region> sample=BsSdy f sus i  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=461938 loop_end=492421
+<region> sample=BsSdy f sus i  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=381326 loop_end=408777
+<region> sample=BsSdy f sus i  2a#.aif key=58 lokey=57 hikey=59 offset=1133 loop_mode=loop_continuous loop_start=366452 loop_end=419605
+<region> sample=BsSdy f sus i  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=165560 loop_end=175746
+<region> sample=BsSdy f sus i  3 e.aif key=64 lokey=63 hikey=65 offset=559 loop_mode=loop_continuous loop_start=662095 loop_end=715130
+<region> sample=BsSdy f sus i  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=387717 loop_end=429837
+
+<group> lovel=108 hivel=127 volume=1 locc1=0 hicc1=41        // f sus m for atk m
+<region> sample=BsSdy f sus m  4 g.aif key=79 lokey=78 hikey=80 offset=2127 loop_mode=loop_continuous loop_start=146027 loop_end=158730
+<region> sample=BsSdy f sus m  4 c#.aif key=73 lokey=72 hikey=74 offset=3830 loop_mode=loop_continuous loop_start=244147 loop_end=268007
+<region> sample=BsSdy f sus m  3a#.aif key=70 lokey=69 hikey=71 offset=4518 loop_mode=loop_continuous loop_start=288564 loop_end=309381
+<region> sample=BsSdy f sus m  4 e.aif key=76 lokey=75 hikey=77 offset=2935 loop_mode=loop_continuous loop_start=206101 loop_end=224842
+<region> sample=BsSdy f sus m  1 c#.aif key=37 lokey=0 hikey=38 offset=9209 loop_mode=loop_continuous loop_start=653720 loop_end=665213
+<region> sample=BsSdy f sus m  1 e.aif key=40 lokey=39 hikey=41 volume=3 offset=6449 loop_mode=loop_continuous loop_start=1046137 loop_end=1117393
+<region> sample=BsSdy f sus m  1 g.aif key=43 lokey=42 hikey=44 offset=8939 loop_mode=loop_continuous loop_start=574288 loop_end=625680
+<region> sample=BsSdy f sus m  1a#.aif key=46 lokey=45 hikey=47 offset=8804 loop_mode=loop_continuous loop_start=260696 loop_end=281904
+<region> sample=BsSdy f sus m  2 c#.aif key=49 lokey=48 hikey=50 offset=4894 loop_mode=loop_continuous loop_start=441289 loop_end=495393
+<region> sample=BsSdy f sus m  2 e.aif key=52 lokey=51 hikey=53 offset=9207 loop_mode=loop_continuous loop_start=419694 loop_end=461395
+<region> sample=BsSdy f sus m  2 g.aif key=55 lokey=54 hikey=56 offset=5764 loop_mode=loop_continuous loop_start=315658 loop_end=367407
+<region> sample=BsSdy f sus m  2a#.aif key=58 lokey=57 hikey=59 offset=5702 loop_mode=loop_continuous loop_start=352367 loop_end=384345
+<region> sample=BsSdy f sus m  3 c#.aif key=61 lokey=60 hikey=62 offset=5918 loop_mode=loop_continuous loop_start=177023 loop_end=193262
+<region> sample=BsSdy f sus m  3 e.aif key=64 lokey=63 hikey=65 offset=3414 loop_mode=loop_continuous loop_start=685550 loop_end=726751
+<region> sample=BsSdy f sus m  3 g.aif key=67 lokey=66 hikey=68 offset=3390 loop_mode=loop_continuous loop_start=420836 loop_end=462191
+
+<group> lovel=108 hivel=127 volume=5        // Flag f atk i1
+<region> sample=BsSdy flag f atk i1x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 volume=5        // Flag f atk i2
+<region> sample=BsSdy flag f atk i2x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 volume=5        // Flag f atk m1
+<region> sample=BsSdy flag f atk m1x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 volume=5        // Flag f atk m2
+<region> sample=BsSdy flag f atk m2x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=108 hivel=127 volume=5        // Flag f sus i
+<region> sample=BsSdy flag f sus i  4 g.aif key=79 lokey=81 hikey=127 loop_mode=loop_continuous loop_start=296523 loop_end=315251
+
+<group> lovel=108 hivel=127 volume=5        // Flag f sus m
+<region> sample=BsSdy flag f sus m  4 g.aif key=79 lokey=81 hikey=127 loop_mode=loop_continuous loop_start=311718 loop_end=329547
+
+<group> lovel=75 hivel=107 volume=4        // Flag mf atk i1
+<region> sample=BsSdy flag mf atk i1x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=75 hivel=107 volume=5        // Flag mf atk i2
+<region> sample=BsSdy flag mf atk i2x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=75 hivel=107 volume=5        // Flag mf atk m1
+<region> sample=BsSdy flag mf atk m1x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=75 hivel=107 volume=5        // Flag mf atk m2
+<region> sample=BsSdy flag mf atk m2x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=75 hivel=107 volume=5        // Flag mf sus i
+<region> sample=BsSdy flag mf sus i  4 g.aif key=79 lokey=81 hikey=127 loop_mode=loop_continuous loop_start=290950 loop_end=308000
+
+<group> lovel=75 hivel=107 volume=5        // Flag mf sus m
+<region> sample=BsSdy flag mf sus m  4 g.aif key=79 lokey=81 hikey=127 loop_mode=loop_continuous loop_start=316295 loop_end=333229
+
+<group> lovel=0 hivel=74 volume=7        // Flag p atk i1
+<region> sample=BsSdy flag p atk i1x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=74 volume=7        // Flag p atk i2
+<region> sample=BsSdy flag p atk i2x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=74 volume=4        // Flag p atk m1
+<region> sample=BsSdy flag p atk m1x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=74 volume=4        // Flag p atk m2
+<region> sample=BsSdy flag p atk m2x  4 g.aif key=79 lokey=81 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=74 volume=4        // Flag p sus i
+<region> sample=BsSdy flag p sus i  4 g.aif key=79 lokey=81 hikey=127 loop_mode=loop_continuous loop_start=155527 loop_end=173594
+
+<group> lovel=0 hivel=74 volume=4        // Flag p sus m
+<region> sample=BsSdy flag p sus m  4 g.aif key=79 lokey=81 hikey=127 loop_mode=loop_continuous loop_start=182877 loop_end=201166
+
+<group> lovel=80 hivel=107 volume=8 locc1=0 hicc1=41        // mf atk i1
+<region> sample=BsSdy mf atk i1x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy mf atk i1x  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=10 locc1=0 hicc1=41        // mf atk i2
+<region> sample=BsSdy mf atk i2x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy mf atk i2x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=8 locc1=0 hicc1=41        // mf atk m1
+<region> sample=BsSdy mf atk m1x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=BsSdy mf atk m1x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=8 locc1=0 hicc1=41        // mf atk m2
+<region> sample=BsSdy mf atk m2x  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy mf atk m2x  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=8 locc1=85 hicc1=127        // mf atk sld
+<region> sample=BsSdy mf atk sld  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy mf atk sld  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=8 locc1=42 hicc1=84        // mf atk slu
+<region> sample=BsSdy mf atk slu  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  4 g.aif key=79 lokey=78 hikey=80 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  4 e.aif key=76 lokey=75 hikey=77 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=BsSdy mf atk slu  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=8 locc1=0 hicc1=41        // mf sus i for atk i
+<region> sample=BsSdy mf sus i  1 c#.aif key=37 lokey=0 hikey=38 offset=8111 loop_mode=loop_continuous loop_start=435270 loop_end=462051
+<region> sample=BsSdy mf sus i  4 g.aif key=79 lokey=78 hikey=80 offset=1138 loop_mode=loop_continuous loop_start=110650 loop_end=118180
+<region> sample=BsSdy mf sus i  2 e.aif key=52 lokey=51 hikey=53 offset=4256 loop_mode=loop_continuous loop_start=337664 loop_end=373498
+<region> sample=BsSdy mf sus i  2 g.aif key=55 lokey=54 hikey=56 offset=3623 loop_mode=loop_continuous loop_start=360782 loop_end=375179
+<region> sample=BsSdy mf sus i  3a#.aif key=70 lokey=69 hikey=71 offset=1720 loop_mode=loop_continuous loop_start=291419 loop_end=315631
+<region> sample=BsSdy mf sus i  4 c#.aif key=73 lokey=72 hikey=74 offset=1162 loop_mode=loop_continuous loop_start=195242 loop_end=208302
+<region> sample=BsSdy mf sus i  4 e.aif key=76 lokey=75 hikey=77 offset=1158 loop_mode=loop_continuous loop_start=165187 loop_end=173210
+<region> sample=BsSdy mf sus i  3 g.aif key=67 lokey=66 hikey=68 offset=1821 loop_mode=loop_continuous loop_start=335839 loop_end=353154
+<region> sample=BsSdy mf sus i  3 e.aif key=64 lokey=63 hikey=65 offset=894 loop_mode=loop_continuous loop_start=608013 loop_end=641981
+<region> sample=BsSdy mf sus i  3 c#.aif key=61 lokey=60 hikey=62 offset=3258 loop_mode=loop_continuous loop_start=183826 loop_end=197192
+<region> sample=BsSdy mf sus i  2a#.aif key=58 lokey=57 hikey=59 offset=3418 loop_mode=loop_continuous loop_start=264860 loop_end=282448
+<region> sample=BsSdy mf sus i  2 c#.aif key=49 lokey=48 hikey=50 offset=5642 loop_mode=loop_continuous loop_start=355355 loop_end=373801
+<region> sample=BsSdy mf sus i  1a#.aif key=46 lokey=45 hikey=47 offset=7382 loop_mode=loop_continuous loop_start=256923 loop_end=276580
+<region> sample=BsSdy mf sus i  1 g.aif key=43 lokey=42 hikey=44 offset=4221 loop_mode=loop_continuous loop_start=473299 loop_end=528208
+<region> sample=BsSdy mf sus i  1 e.aif key=40 lokey=39 hikey=41 offset=5728 loop_mode=loop_continuous loop_start=985105 loop_end=1082882
+
+<group> lovel=80 hivel=107 volume=8 locc1=85 hicc1=127        // mf sus i for sld
+<region> sample=BsSdy mf sus i  1 c#.aif key=37 lokey=0 hikey=38 offset=3795 loop_mode=loop_continuous loop_start=435270 loop_end=462051
+<region> sample=BsSdy mf sus i  4 g.aif key=79 lokey=78 hikey=80 offset=1647 loop_mode=loop_continuous loop_start=110650 loop_end=118180
+<region> sample=BsSdy mf sus i  2 e.aif key=52 lokey=51 hikey=53 offset=573 loop_mode=loop_continuous loop_start=337664 loop_end=373498
+<region> sample=BsSdy mf sus i  2 g.aif key=55 lokey=54 hikey=56 offset=2707 loop_mode=loop_continuous loop_start=360782 loop_end=375179
+<region> sample=BsSdy mf sus i  2a#.aif key=58 lokey=57 hikey=59 offset=2715 loop_mode=loop_continuous loop_start=264860 loop_end=282448
+<region> sample=BsSdy mf sus i  3 c#.aif key=61 lokey=60 hikey=62 offset=3298 loop_mode=loop_continuous loop_start=183826 loop_end=197192
+<region> sample=BsSdy mf sus i  3 e.aif key=64 lokey=63 hikey=65 offset=1300 loop_mode=loop_continuous loop_start=608013 loop_end=641981
+<region> sample=BsSdy mf sus i  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=335839 loop_end=353154
+<region> sample=BsSdy mf sus i  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=291419 loop_end=315631
+<region> sample=BsSdy mf sus i  4 c#.aif key=73 lokey=72 hikey=74 loop_mode=loop_continuous loop_start=195242 loop_end=208302
+<region> sample=BsSdy mf sus i  4 e.aif key=76 lokey=75 hikey=77 offset=738 loop_mode=loop_continuous loop_start=165187 loop_end=173210
+<region> sample=BsSdy mf sus i  2 c#.aif key=49 lokey=48 hikey=50 offset=1407 loop_mode=loop_continuous loop_start=355355 loop_end=373801
+<region> sample=BsSdy mf sus i  1a#.aif key=46 lokey=45 hikey=47 offset=1596 loop_mode=loop_continuous loop_start=256923 loop_end=276580
+<region> sample=BsSdy mf sus i  1 g.aif key=43 lokey=42 hikey=44 offset=1242 loop_mode=loop_continuous loop_start=473299 loop_end=528208
+<region> sample=BsSdy mf sus i  1 e.aif key=40 lokey=39 hikey=41 offset=3266 loop_mode=loop_continuous loop_start=985105 loop_end=1082882
+
+<group> lovel=80 hivel=107 volume=8 locc1=42 hicc1=84        // mf sus i for slu
+<region> sample=BsSdy mf sus i  1 c#.aif key=37 lokey=0 hikey=38 loop_mode=loop_continuous loop_start=435270 loop_end=462051
+<region> sample=BsSdy mf sus i  4 g.aif key=79 lokey=78 hikey=80 loop_mode=loop_continuous loop_start=110650 loop_end=118180
+<region> sample=BsSdy mf sus i  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=337664 loop_end=373498
+<region> sample=BsSdy mf sus i  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=360782 loop_end=375179
+<region> sample=BsSdy mf sus i  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=264860 loop_end=282448
+<region> sample=BsSdy mf sus i  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=183826 loop_end=197192
+<region> sample=BsSdy mf sus i  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=608013 loop_end=641981
+<region> sample=BsSdy mf sus i  3 g.aif key=67 lokey=66 hikey=68 offset=348 loop_mode=loop_continuous loop_start=335839 loop_end=353154
+<region> sample=BsSdy mf sus i  3a#.aif key=70 lokey=69 hikey=71 offset=412 loop_mode=loop_continuous loop_start=291419 loop_end=315631
+<region> sample=BsSdy mf sus i  4 c#.aif key=73 lokey=72 hikey=74 offset=1506 loop_mode=loop_continuous loop_start=195242 loop_end=208302
+<region> sample=BsSdy mf sus i  4 e.aif key=76 lokey=75 hikey=77 loop_mode=loop_continuous loop_start=165187 loop_end=173210
+<region> sample=BsSdy mf sus i  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=355355 loop_end=373801
+<region> sample=BsSdy mf sus i  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=256923 loop_end=276580
+<region> sample=BsSdy mf sus i  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=473299 loop_end=528208
+<region> sample=BsSdy mf sus i  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=985105 loop_end=1082882
+
+<group> lovel=80 hivel=107 volume=10 locc1=0 hicc1=41        // mf sus m for atk m
+<region> sample=BsSdy mf sus m  4 g.aif key=79 lokey=78 hikey=80 offset=1138 loop_mode=loop_continuous loop_start=96009 loop_end=106012
+<region> sample=BsSdy mf sus m  2 e.aif key=52 lokey=51 hikey=53 offset=4256 loop_mode=loop_continuous loop_start=367266 loop_end=403634
+<region> sample=BsSdy mf sus m  2a#.aif key=58 lokey=57 hikey=59 offset=3418 loop_mode=loop_continuous loop_start=235361 loop_end=252964
+<region> sample=BsSdy mf sus m  3 c#.aif key=61 lokey=60 hikey=62 offset=3258 loop_mode=loop_continuous loop_start=170058 loop_end=178334
+<region> sample=BsSdy mf sus m  3 e.aif key=64 lokey=63 hikey=65 offset=894 loop_mode=loop_continuous loop_start=408645 loop_end=467010
+<region> sample=BsSdy mf sus m  3 g.aif key=67 lokey=66 hikey=68 offset=1821 loop_mode=loop_continuous loop_start=263948 loop_end=278798
+<region> sample=BsSdy mf sus m  4 e.aif key=76 lokey=75 hikey=77 offset=1158 loop_mode=loop_continuous loop_start=139016 loop_end=154122
+<region> sample=BsSdy mf sus m  4 c#.aif key=73 lokey=72 hikey=74 offset=1162 loop_mode=loop_continuous loop_start=141607 loop_end=156725
+<region> sample=BsSdy mf sus m  3a#.aif key=70 lokey=69 hikey=71 offset=1720 loop_mode=loop_continuous loop_start=247521 loop_end=266824
+<region> sample=BsSdy mf sus m  2 g.aif key=55 lokey=54 hikey=56 offset=3623 loop_mode=loop_continuous loop_start=264089 loop_end=291317
+<region> sample=BsSdy mf sus m  2 c#.aif key=49 lokey=48 hikey=50 offset=5642 loop_mode=loop_continuous loop_start=310512 loop_end=337246
+<region> sample=BsSdy mf sus m  1a#.aif key=46 lokey=45 hikey=47 offset=7382 loop_mode=loop_continuous loop_start=206732 loop_end=225650
+<region> sample=BsSdy mf sus m  1 g.aif key=43 lokey=42 hikey=44 offset=4221 loop_mode=loop_continuous loop_start=384610 loop_end=409816
+<region> sample=BsSdy mf sus m  1 e.aif key=40 lokey=39 hikey=41 offset=5728 loop_mode=loop_continuous loop_start=1226542 loop_end=1318448
+<region> sample=BsSdy mf sus m  1 c#.aif key=37 lokey=0 hikey=38 offset=8111 loop_mode=loop_continuous loop_start=367791 loop_end=404764
+
+<group> lovel=0 hivel=29 volume=10        // muted i1
+<region> sample=BsSdy muted  i1x  0b.aif key=35 lokey=0 hikey=41 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i1x  1a.aif key=45 lokey=48 hikey=56 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i1x  2 d.aif key=50 lokey=57 hikey=62 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i1x  1 e.aif key=40 lokey=42 hikey=47 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i1x  3 g.aif key=67 lokey=63 hikey=80 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=29 volume=10        // muted i2
+<region> sample=BsSdy muted  i2x  3 g.aif key=67 lokey=63 hikey=80 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i2x  0b.aif key=35 lokey=0 hikey=41 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i2x  2 d.aif key=50 lokey=57 hikey=62 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i2x  1 e.aif key=40 lokey=42 hikey=47 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  i2x  1a.aif key=45 lokey=48 hikey=56 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=29 volume=10        // muted m1
+<region> sample=BsSdy muted  m1x  0b.aif key=35 lokey=0 hikey=41 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  m1x  3 g.aif key=67 lokey=63 hikey=80 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  m1x  2 d.aif key=50 lokey=57 hikey=62 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  m1x  1 e.aif key=40 lokey=42 hikey=47 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  m1x  1a.aif key=45 lokey=48 hikey=56 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=29 volume=10        // muted m2
+<region> sample=BsSdy muted  m2x  0b.aif key=35 lokey=0 hikey=41 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  m2x  1 e.aif key=40 lokey=42 hikey=47 pitch_keytrack=0 volume=-2 loop_mode=no_loop
+<region> sample=BsSdy muted  m2x  1a.aif key=45 lokey=48 hikey=56 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  m2x  2 d.aif key=50 lokey=57 hikey=62 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=BsSdy muted  m2x  3 g.aif key=67 lokey=63 hikey=80 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=59 hivel=63 volume=-3 trigger=release        // Noise 1
+<region> sample=BsSdy finger noise  13.AIF key=60 lokey=80 hikey=80 loop_mode=one_shot
+<region> sample=BsSdy finger noise  12.AIF key=60 lokey=79 hikey=79 loop_mode=one_shot
+<region> sample=BsSdy finger noise  11.AIF key=78 lokey=78 hikey=78 loop_mode=one_shot
+<region> sample=BsSdy finger noise  10.AIF key=77 lokey=77 hikey=77 loop_mode=one_shot
+<region> sample=BsSdy finger noise  1.AIF key=36 lokey=0 hikey=36 loop_mode=one_shot
+<region> sample=BsSdy finger noise  16.AIF key=43 lokey=43 hikey=43 loop_mode=one_shot
+<region> sample=BsSdy finger noise  20.AIF key=48 lokey=48 hikey=48 loop_mode=one_shot
+<region> sample=BsSdy finger noise  4.AIF key=50 lokey=50 hikey=50 loop_mode=one_shot
+<region> sample=BsSdy finger noise  9.AIF key=55 lokey=55 hikey=55 loop_mode=one_shot
+<region> sample=BsSdy finger noise  13.AIF key=60 lokey=60 hikey=60 loop_mode=one_shot
+<region> sample=BsSdy finger noise  2.AIF key=67 lokey=67 hikey=67 loop_mode=one_shot
+<region> sample=BsSdy finger noise  6.AIF key=72 lokey=72 hikey=72 loop_mode=one_shot
+<region> sample=BsSdy finger noise  1.AIF key=76 lokey=76 hikey=76 loop_mode=one_shot
+<region> sample=BsSdy finger noise  8.AIF key=74 lokey=74 hikey=74 loop_mode=one_shot
+<region> sample=BsSdy finger noise  5.AIF key=71 lokey=71 hikey=71 loop_mode=one_shot
+<region> sample=BsSdy finger noise  3.AIF key=69 lokey=69 hikey=69 loop_mode=one_shot
+<region> sample=BsSdy finger noise  18.AIF key=65 lokey=65 hikey=65 loop_mode=one_shot
+<region> sample=BsSdy finger noise  17.AIF key=64 lokey=64 hikey=64 loop_mode=one_shot
+<region> sample=BsSdy finger noise  15.AIF key=62 lokey=62 hikey=62 loop_mode=one_shot
+<region> sample=BsSdy finger noise  12.AIF key=59 lokey=59 hikey=59 loop_mode=one_shot
+<region> sample=BsSdy finger noise  10.AIF key=57 lokey=57 hikey=57 loop_mode=one_shot
+<region> sample=BsSdy finger noise  7.AIF key=53 lokey=53 hikey=53 loop_mode=one_shot
+<region> sample=BsSdy finger noise  6.AIF key=52 lokey=52 hikey=52 loop_mode=one_shot
+<region> sample=BsSdy finger noise  2.AIF key=47 lokey=47 hikey=47 loop_mode=one_shot
+<region> sample=BsSdy finger noise  18.AIF key=45 lokey=45 hikey=45 loop_mode=one_shot
+<region> sample=BsSdy finger noise  14.AIF key=41 lokey=41 hikey=41 loop_mode=one_shot
+<region> sample=BsSdy finger noise  13.AIF key=40 lokey=40 hikey=40 loop_mode=one_shot
+<region> sample=BsSdy finger noise  11.AIF key=38 lokey=38 hikey=38 loop_mode=one_shot
+<region> sample=BsSdy finger noise  12.AIF key=39 lokey=39 hikey=39 loop_mode=one_shot
+<region> sample=BsSdy finger noise  14.AIF key=61 lokey=61 hikey=61 loop_mode=one_shot
+<region> sample=BsSdy finger noise  16.AIF key=63 lokey=63 hikey=63 loop_mode=one_shot
+<region> sample=BsSdy finger noise  19.AIF key=66 lokey=66 hikey=66 loop_mode=one_shot
+<region> sample=BsSdy finger noise  20.AIF key=68 lokey=68 hikey=68 loop_mode=one_shot
+<region> sample=BsSdy finger noise  4.AIF key=70 lokey=70 hikey=70 loop_mode=one_shot
+<region> sample=BsSdy finger noise  7.AIF key=73 lokey=73 hikey=73 loop_mode=one_shot
+<region> sample=BsSdy finger noise  9.AIF key=75 lokey=75 hikey=75 loop_mode=one_shot
+<region> sample=BsSdy finger noise  11.AIF key=58 lokey=58 hikey=58 loop_mode=one_shot
+<region> sample=BsSdy finger noise  1.AIF key=56 lokey=56 hikey=56 loop_mode=one_shot
+<region> sample=BsSdy finger noise  10.AIF key=37 lokey=37 hikey=37 loop_mode=one_shot
+<region> sample=BsSdy finger noise  15.AIF key=42 lokey=42 hikey=42 loop_mode=one_shot
+<region> sample=BsSdy finger noise  17.AIF key=44 lokey=44 hikey=44 loop_mode=one_shot
+<region> sample=BsSdy finger noise  19.AIF key=46 lokey=46 hikey=46 loop_mode=one_shot
+<region> sample=BsSdy finger noise  3.AIF key=49 lokey=49 hikey=49 loop_mode=one_shot
+<region> sample=BsSdy finger noise  5.AIF key=51 lokey=51 hikey=51 loop_mode=one_shot
+<region> sample=BsSdy finger noise  8.AIF key=54 lokey=54 hikey=54 loop_mode=one_shot
+
+<group> lovel=100 hivel=110 volume=-6 trigger=release        // Noise 2
+<region> sample=BsSdy finger noise  13.AIF key=60 lokey=80 hikey=80 loop_mode=one_shot
+<region> sample=BsSdy finger noise  12.AIF key=60 lokey=79 hikey=79 loop_mode=one_shot
+<region> sample=BsSdy finger noise  11.AIF key=78 lokey=78 hikey=78 loop_mode=one_shot
+<region> sample=BsSdy finger noise  10.AIF key=77 lokey=77 hikey=77 loop_mode=one_shot
+<region> sample=BsSdy finger noise  1.AIF key=36 lokey=0 hikey=36 loop_mode=one_shot
+<region> sample=BsSdy finger noise  16.AIF key=43 lokey=43 hikey=43 loop_mode=one_shot
+<region> sample=BsSdy finger noise  20.AIF key=48 lokey=48 hikey=48 loop_mode=one_shot
+<region> sample=BsSdy finger noise  4.AIF key=50 lokey=50 hikey=50 loop_mode=one_shot
+<region> sample=BsSdy finger noise  9.AIF key=55 lokey=55 hikey=55 loop_mode=one_shot
+<region> sample=BsSdy finger noise  13.AIF key=60 lokey=60 hikey=60 loop_mode=one_shot
+<region> sample=BsSdy finger noise  2.AIF key=67 lokey=67 hikey=67 loop_mode=one_shot
+<region> sample=BsSdy finger noise  6.AIF key=72 lokey=72 hikey=72 loop_mode=one_shot
+<region> sample=BsSdy finger noise  1.AIF key=76 lokey=76 hikey=76 loop_mode=one_shot
+<region> sample=BsSdy finger noise  8.AIF key=74 lokey=74 hikey=74 loop_mode=one_shot
+<region> sample=BsSdy finger noise  5.AIF key=71 lokey=71 hikey=71 loop_mode=one_shot
+<region> sample=BsSdy finger noise  3.AIF key=69 lokey=69 hikey=69 loop_mode=one_shot
+<region> sample=BsSdy finger noise  18.AIF key=65 lokey=65 hikey=65 loop_mode=one_shot
+<region> sample=BsSdy finger noise  17.AIF key=64 lokey=64 hikey=64 loop_mode=one_shot
+<region> sample=BsSdy finger noise  15.AIF key=62 lokey=62 hikey=62 loop_mode=one_shot
+<region> sample=BsSdy finger noise  12.AIF key=59 lokey=59 hikey=59 loop_mode=one_shot
+<region> sample=BsSdy finger noise  10.AIF key=57 lokey=57 hikey=57 loop_mode=one_shot
+<region> sample=BsSdy finger noise  7.AIF key=53 lokey=53 hikey=53 loop_mode=one_shot
+<region> sample=BsSdy finger noise  6.AIF key=52 lokey=52 hikey=52 loop_mode=one_shot
+<region> sample=BsSdy finger noise  2.AIF key=47 lokey=47 hikey=47 loop_mode=one_shot
+<region> sample=BsSdy finger noise  18.AIF key=45 lokey=45 hikey=45 loop_mode=one_shot
+<region> sample=BsSdy finger noise  14.AIF key=41 lokey=41 hikey=41 loop_mode=one_shot
+<region> sample=BsSdy finger noise  13.AIF key=40 lokey=40 hikey=40 loop_mode=one_shot
+<region> sample=BsSdy finger noise  11.AIF key=38 lokey=38 hikey=38 loop_mode=one_shot
+<region> sample=BsSdy finger noise  12.AIF key=39 lokey=39 hikey=39 loop_mode=one_shot
+<region> sample=BsSdy finger noise  14.AIF key=61 lokey=61 hikey=61 loop_mode=one_shot
+<region> sample=BsSdy finger noise  16.AIF key=63 lokey=63 hikey=63 loop_mode=one_shot
+<region> sample=BsSdy finger noise  19.AIF key=66 lokey=66 hikey=66 loop_mode=one_shot
+<region> sample=BsSdy finger noise  20.AIF key=68 lokey=68 hikey=68 loop_mode=one_shot
+<region> sample=BsSdy finger noise  4.AIF key=70 lokey=70 hikey=70 loop_mode=one_shot
+<region> sample=BsSdy finger noise  7.AIF key=73 lokey=73 hikey=73 loop_mode=one_shot
+<region> sample=BsSdy finger noise  9.AIF key=75 lokey=75 hikey=75 loop_mode=one_shot
+<region> sample=BsSdy finger noise  11.AIF key=58 lokey=58 hikey=58 loop_mode=one_shot
+<region> sample=BsSdy finger noise  1.AIF key=56 lokey=56 hikey=56 loop_mode=one_shot
+<region> sample=BsSdy finger noise  10.AIF key=37 lokey=37 hikey=37 loop_mode=one_shot
+<region> sample=BsSdy finger noise  15.AIF key=42 lokey=42 hikey=42 loop_mode=one_shot
+<region> sample=BsSdy finger noise  17.AIF key=44 lokey=44 hikey=44 loop_mode=one_shot
+<region> sample=BsSdy finger noise  19.AIF key=46 lokey=46 hikey=46 loop_mode=one_shot
+<region> sample=BsSdy finger noise  3.AIF key=49 lokey=49 hikey=49 loop_mode=one_shot
+<region> sample=BsSdy finger noise  5.AIF key=51 lokey=51 hikey=51 loop_mode=one_shot
+<region> sample=BsSdy finger noise  8.AIF key=54 lokey=54 hikey=54 loop_mode=one_shot
+
+<group> lovel=30 hivel=79 volume=7 locc1=0 hicc1=41        // p atk i1
+<region> sample=BsSdy p atk i1x  4 e.aif key=76 lokey=75 hikey=77 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  1 c#.aif key=37 lokey=0 hikey=38 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  4 g.aif key=79 lokey=78 hikey=80 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  2 c#.aif key=49 lokey=48 hikey=50 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  2 g.aif key=55 lokey=54 hikey=56 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  2 e.aif key=52 lokey=51 hikey=53 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  3 e.aif key=64 lokey=63 hikey=65 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  3 c#.aif key=61 lokey=60 hikey=62 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  4 c#.aif key=73 lokey=72 hikey=74 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  1a#.aif key=46 lokey=45 hikey=47 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  1 g.aif key=43 lokey=42 hikey=44 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  1 e.aif key=40 lokey=39 hikey=41 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i1x  3 g.aif key=67 lokey=66 hikey=68 volume=6 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=5 locc1=0 hicc1=41        // p atk i2
+<region> sample=BsSdy p atk i2x  4 g.aif key=79 lokey=78 hikey=80 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  4 e.aif key=76 lokey=75 hikey=77 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  3 g.aif key=67 lokey=66 hikey=68 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  4 c#.aif key=73 lokey=72 hikey=74 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  3 e.aif key=64 lokey=63 hikey=65 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  3 c#.aif key=61 lokey=60 hikey=62 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  2 g.aif key=55 lokey=54 hikey=56 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  2 e.aif key=52 lokey=51 hikey=53 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  2 c#.aif key=49 lokey=48 hikey=50 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  1a#.aif key=46 lokey=45 hikey=47 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  1 g.aif key=43 lokey=42 hikey=44 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  1 e.aif key=40 lokey=39 hikey=41 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk i2x  1 c#.aif key=37 lokey=0 hikey=38 volume=6 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=11 locc1=0 hicc1=41        // p atk m1
+<region> sample=BsSdy p atk m1x  4 g.aif key=79 lokey=78 hikey=80 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  2 c#.aif key=49 lokey=48 hikey=50 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  2 e.aif key=52 lokey=51 hikey=53 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  2 g.aif key=55 lokey=54 hikey=56 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  3 c#.aif key=61 lokey=60 hikey=62 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  4 c#.aif key=73 lokey=72 hikey=74 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  4 e.aif key=76 lokey=75 hikey=77 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  3 g.aif key=67 lokey=66 hikey=68 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  3 e.aif key=64 lokey=63 hikey=65 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  1a#.aif key=46 lokey=45 hikey=47 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  1 e.aif key=40 lokey=39 hikey=41 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  1 c#.aif key=37 lokey=0 hikey=38 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m1x  1 g.aif key=43 lokey=42 hikey=44 volume=6 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=5 locc1=0 hicc1=41        // p atk m2
+<region> sample=BsSdy p atk m2x  4 g.aif key=79 lokey=78 hikey=80 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  4 e.aif key=76 lokey=75 hikey=77 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  4 c#.aif key=73 lokey=72 hikey=74 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  3 g.aif key=67 lokey=66 hikey=68 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  3 c#.aif key=61 lokey=60 hikey=62 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  3 e.aif key=64 lokey=63 hikey=65 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  2 e.aif key=52 lokey=51 hikey=53 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  2 g.aif key=55 lokey=54 hikey=56 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  2 c#.aif key=49 lokey=48 hikey=50 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  1a#.aif key=46 lokey=45 hikey=47 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  1 g.aif key=43 lokey=42 hikey=44 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  1 e.aif key=40 lokey=39 hikey=41 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk m2x  1 c#.aif key=37 lokey=0 hikey=38 volume=6 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=7 locc1=85 hicc1=127        // p atk sld
+<region> sample=BsSdy p atk sld  1 c#.aif key=37 lokey=0 hikey=38 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  4 g.aif key=79 lokey=78 hikey=80 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  2 c#.aif key=49 lokey=48 hikey=50 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  2 g.aif key=55 lokey=54 hikey=56 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  2 e.aif key=52 lokey=51 hikey=53 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  3 e.aif key=64 lokey=63 hikey=65 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  3 c#.aif key=61 lokey=60 hikey=62 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  4 c#.aif key=73 lokey=72 hikey=74 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  4 e.aif key=76 lokey=75 hikey=77 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  3 g.aif key=67 lokey=66 hikey=68 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  1a#.aif key=46 lokey=45 hikey=47 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  1 g.aif key=43 lokey=42 hikey=44 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk sld  1 e.aif key=40 lokey=39 hikey=41 volume=6 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=7 locc1=42 hicc1=84        // p atk slu
+<region> sample=BsSdy p atk slu  1 c#.aif key=37 lokey=0 hikey=38 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  4 g.aif key=79 lokey=78 hikey=80 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  2 c#.aif key=49 lokey=48 hikey=50 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  2 g.aif key=55 lokey=54 hikey=56 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  2 e.aif key=52 lokey=51 hikey=53 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  3 e.aif key=64 lokey=63 hikey=65 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  3 c#.aif key=61 lokey=60 hikey=62 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  4 c#.aif key=73 lokey=72 hikey=74 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  4 e.aif key=76 lokey=75 hikey=77 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  3 g.aif key=67 lokey=66 hikey=68 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  1a#.aif key=46 lokey=45 hikey=47 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  1 g.aif key=43 lokey=42 hikey=44 volume=6 loop_mode=no_loop
+<region> sample=BsSdy p atk slu  1 e.aif key=40 lokey=39 hikey=41 volume=6 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=7 locc1=0 hicc1=41        // p sus i for atk i
+<region> sample=BsSdy p sus i  1 c#.aif key=37 lokey=0 hikey=38 volume=6 offset=5583 loop_mode=loop_continuous loop_start=346935 loop_end=379352
+<region> sample=BsSdy p sus i  4 g.aif key=79 lokey=78 hikey=80 volume=6 offset=1561 loop_mode=loop_continuous loop_start=96730 loop_end=105498
+<region> sample=BsSdy p sus i  2 c#.aif key=49 lokey=48 hikey=50 volume=6 offset=5840 loop_mode=loop_continuous loop_start=262390 loop_end=289127
+<region> sample=BsSdy p sus i  2 g.aif key=55 lokey=54 hikey=56 volume=6 offset=1395 loop_mode=loop_continuous loop_start=209389 loop_end=222450
+<region> sample=BsSdy p sus i  2 e.aif key=52 lokey=51 hikey=53 volume=6 offset=3711 loop_mode=loop_continuous loop_start=317920 loop_end=336099
+<region> sample=BsSdy p sus i  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=loop_continuous loop_start=157195 loop_end=173086
+<region> sample=BsSdy p sus i  3 e.aif key=64 lokey=63 hikey=65 volume=6 offset=1755 loop_mode=loop_continuous loop_start=528440 loop_end=559478
+<region> sample=BsSdy p sus i  3 c#.aif key=61 lokey=60 hikey=62 volume=6 offset=1853 loop_mode=loop_continuous loop_start=105125 loop_end=114674
+<region> sample=BsSdy p sus i  4 c#.aif key=73 lokey=72 hikey=74 volume=6 offset=2340 loop_mode=loop_continuous loop_start=135873 loop_end=147332
+<region> sample=BsSdy p sus i  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=loop_continuous loop_start=270590 loop_end=294822
+<region> sample=BsSdy p sus i  1a#.aif key=46 lokey=45 hikey=47 volume=6 offset=6862 loop_mode=loop_continuous loop_start=189445 loop_end=208366
+<region> sample=BsSdy p sus i  1 g.aif key=43 lokey=42 hikey=44 volume=6 offset=6569 loop_mode=loop_continuous loop_start=365383 loop_end=413040
+<region> sample=BsSdy p sus i  1 e.aif key=40 lokey=39 hikey=41 volume=6 offset=5824 loop_mode=loop_continuous loop_start=599759 loop_end=640400
+<region> sample=BsSdy p sus i  4 e.aif key=76 lokey=75 hikey=77 volume=6 offset=66 loop_mode=loop_continuous loop_start=111916 loop_end=122212
+<region> sample=BsSdy p sus i  3 g.aif key=67 lokey=66 hikey=68 volume=6 offset=1297 loop_mode=loop_continuous loop_start=319259 loop_end=350734
+
+<group> lovel=30 hivel=79 volume=7 locc1=85 hicc1=127        // p sus i for sld
+<region> sample=BsSdy p sus i  1 c#.aif key=37 lokey=0 hikey=38 volume=6 offset=752 loop_mode=loop_continuous loop_start=346935 loop_end=379352
+<region> sample=BsSdy p sus i  4 g.aif key=79 lokey=78 hikey=80 volume=6 offset=2364 loop_mode=loop_continuous loop_start=96730 loop_end=105498
+<region> sample=BsSdy p sus i  2 c#.aif key=49 lokey=48 hikey=50 volume=6 offset=752 loop_mode=loop_continuous loop_start=262390 loop_end=289127
+<region> sample=BsSdy p sus i  2 g.aif key=55 lokey=54 hikey=56 volume=6 loop_mode=loop_continuous loop_start=209389 loop_end=222450
+<region> sample=BsSdy p sus i  2 e.aif key=52 lokey=51 hikey=53 volume=6 offset=1685 loop_mode=loop_continuous loop_start=317920 loop_end=336099
+<region> sample=BsSdy p sus i  2a#.aif key=58 lokey=57 hikey=59 volume=6 offset=52 loop_mode=loop_continuous loop_start=157195 loop_end=173086
+<region> sample=BsSdy p sus i  3 e.aif key=64 lokey=63 hikey=65 volume=6 offset=1571 loop_mode=loop_continuous loop_start=528440 loop_end=559478
+<region> sample=BsSdy p sus i  3 c#.aif key=61 lokey=60 hikey=62 volume=6 offset=1853 loop_mode=loop_continuous loop_start=105125 loop_end=114674
+<region> sample=BsSdy p sus i  4 c#.aif key=73 lokey=72 hikey=74 volume=6 offset=122 loop_mode=loop_continuous loop_start=135873 loop_end=147332
+<region> sample=BsSdy p sus i  4 e.aif key=76 lokey=75 hikey=77 volume=6 loop_mode=loop_continuous loop_start=111916 loop_end=122212
+<region> sample=BsSdy p sus i  3 g.aif key=67 lokey=66 hikey=68 volume=6 offset=1168 loop_mode=loop_continuous loop_start=319259 loop_end=350734
+<region> sample=BsSdy p sus i  3a#.aif key=70 lokey=69 hikey=71 volume=6 offset=1041 loop_mode=loop_continuous loop_start=270590 loop_end=294822
+<region> sample=BsSdy p sus i  1a#.aif key=46 lokey=45 hikey=47 volume=6 offset=891 loop_mode=loop_continuous loop_start=189445 loop_end=208366
+<region> sample=BsSdy p sus i  1 g.aif key=43 lokey=42 hikey=44 volume=6 loop_mode=loop_continuous loop_start=365383 loop_end=413040
+<region> sample=BsSdy p sus i  1 e.aif key=40 lokey=39 hikey=41 volume=6 offset=176 loop_mode=loop_continuous loop_start=599759 loop_end=640400
+
+<group> lovel=30 hivel=79 volume=7 locc1=42 hicc1=84        // p sus i for slu
+<region> sample=BsSdy p sus i  1 c#.aif key=37 lokey=0 hikey=38 volume=6 loop_mode=loop_continuous loop_start=346935 loop_end=379352
+<region> sample=BsSdy p sus i  4 g.aif key=79 lokey=78 hikey=80 volume=6 loop_mode=loop_continuous loop_start=96730 loop_end=105498
+<region> sample=BsSdy p sus i  2 c#.aif key=49 lokey=48 hikey=50 volume=6 loop_mode=loop_continuous loop_start=262390 loop_end=289127
+<region> sample=BsSdy p sus i  2 g.aif key=55 lokey=54 hikey=56 volume=6 offset=528 loop_mode=loop_continuous loop_start=209389 loop_end=222450
+<region> sample=BsSdy p sus i  2 e.aif key=52 lokey=51 hikey=53 volume=6 loop_mode=loop_continuous loop_start=317920 loop_end=336099
+<region> sample=BsSdy p sus i  2a#.aif key=58 lokey=57 hikey=59 volume=6 offset=1180 loop_mode=loop_continuous loop_start=157195 loop_end=173086
+<region> sample=BsSdy p sus i  3 e.aif key=64 lokey=63 hikey=65 volume=6 loop_mode=loop_continuous loop_start=528440 loop_end=559478
+<region> sample=BsSdy p sus i  3 c#.aif key=61 lokey=60 hikey=62 volume=6 loop_mode=loop_continuous loop_start=105125 loop_end=114674
+<region> sample=BsSdy p sus i  4 c#.aif key=73 lokey=72 hikey=74 volume=6 loop_mode=loop_continuous loop_start=135873 loop_end=147332
+<region> sample=BsSdy p sus i  4 e.aif key=76 lokey=75 hikey=77 volume=6 offset=952 loop_mode=loop_continuous loop_start=111916 loop_end=122212
+<region> sample=BsSdy p sus i  3 g.aif key=67 lokey=66 hikey=68 volume=6 loop_mode=loop_continuous loop_start=319259 loop_end=350734
+<region> sample=BsSdy p sus i  3a#.aif key=70 lokey=69 hikey=71 volume=6 offset=208 loop_mode=loop_continuous loop_start=270590 loop_end=294822
+<region> sample=BsSdy p sus i  1a#.aif key=46 lokey=45 hikey=47 volume=6 loop_mode=loop_continuous loop_start=189445 loop_end=208366
+<region> sample=BsSdy p sus i  1 g.aif key=43 lokey=42 hikey=44 volume=6 offset=2107 loop_mode=loop_continuous loop_start=365383 loop_end=413040
+<region> sample=BsSdy p sus i  1 e.aif key=40 lokey=39 hikey=41 volume=6 loop_mode=loop_continuous loop_start=599759 loop_end=640400
+
+<group> lovel=30 hivel=79 volume=11 locc1=0 hicc1=41        // p sus m for atk m
+<region> sample=BsSdy p sus m  4 g.aif key=79 lokey=78 hikey=80 volume=6 offset=1561 loop_mode=loop_continuous loop_start=89654 loop_end=97748
+<region> sample=BsSdy p sus m  2 c#.aif key=49 lokey=48 hikey=50 volume=6 offset=5840 loop_mode=loop_continuous loop_start=279726 loop_end=306450
+<region> sample=BsSdy p sus m  2 e.aif key=52 lokey=51 hikey=53 volume=6 offset=3711 loop_mode=loop_continuous loop_start=284088 loop_end=308688
+<region> sample=BsSdy p sus m  2 g.aif key=55 lokey=54 hikey=56 volume=6 offset=1395 loop_mode=loop_continuous loop_start=177723 loop_end=191678
+<region> sample=BsSdy p sus m  2a#.aif key=58 lokey=57 hikey=59 volume=6 loop_mode=loop_continuous loop_start=148241 loop_end=170199
+<region> sample=BsSdy p sus m  3 c#.aif key=61 lokey=60 hikey=62 volume=6 offset=1853 loop_mode=loop_continuous loop_start=104342 loop_end=111346
+<region> sample=BsSdy p sus m  4 c#.aif key=73 lokey=72 hikey=74 volume=6 offset=2340 loop_mode=loop_continuous loop_start=125266 loop_end=140380
+<region> sample=BsSdy p sus m  4 e.aif key=76 lokey=75 hikey=77 volume=6 offset=66 loop_mode=loop_continuous loop_start=109595 loop_end=119353
+<region> sample=BsSdy p sus m  3 g.aif key=67 lokey=66 hikey=68 volume=6 offset=1297 loop_mode=loop_continuous loop_start=258856 loop_end=280242
+<region> sample=BsSdy p sus m  3a#.aif key=70 lokey=69 hikey=71 volume=6 loop_mode=loop_continuous loop_start=215419 loop_end=237350
+<region> sample=BsSdy p sus m  3 e.aif key=64 lokey=63 hikey=65 volume=6 offset=1755 loop_mode=loop_continuous loop_start=515108 loop_end=562987
+<region> sample=BsSdy p sus m  1a#.aif key=46 lokey=45 hikey=47 volume=6 offset=6862 loop_mode=loop_continuous loop_start=211616 loop_end=226010
+<region> sample=BsSdy p sus m  1 e.aif key=40 lokey=39 hikey=41 volume=6 offset=5824 loop_mode=loop_continuous loop_start=603149 loop_end=644874
+<region> sample=BsSdy p sus m  1 c#.aif key=37 lokey=0 hikey=38 volume=6 offset=5583 loop_mode=loop_continuous loop_start=347461 loop_end=380564
+<region> sample=BsSdy p sus m  1 g.aif key=43 lokey=42 hikey=44 volume=6 offset=6569 loop_mode=loop_continuous loop_start=405373 loop_end=436860

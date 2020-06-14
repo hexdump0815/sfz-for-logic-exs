@@ -1,0 +1,70 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Gospel Ensemble+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Gospel Choir\
+
+<group> volume=2        // Aa
+<region> sample=BB Gospel Aa n60.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=142398 loop_end=233147
+<region> sample=BB Gospel Aa n48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=100052 loop_end=210210
+<region> sample=BB Gospel Aa n51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=105388 loop_end=190420
+<region> sample=BB Gospel Aa n54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=87765 loop_end=176802
+<region> sample=BB Gospel Aa n57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=129740 loop_end=242944
+<region> sample=BB Gospel Aa n42.aif key=42 lokey=0 hikey=43 loop_mode=loop_continuous loop_start=170423 loop_end=317343
+<region> sample=BB Gospel Aa n45.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=105304 loop_end=224485
+<region> sample=BB Gospel Aa n63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=78980 loop_end=149768
+<region> sample=BB Gospel Aa n66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=97021 loop_end=186825
+<region> sample=BB Gospel Aa n69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=114227 loop_end=223275
+<region> sample=BB Gospel Aa n72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=110288 loop_end=217950
+<region> sample=BB Gospel Aa n75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=75495 loop_end=158211
+<region> sample=BB Gospel Aa n78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=61081 loop_end=136913
+<region> sample=BB Gospel Aa n81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=68332 loop_end=122372
+<region> sample=BB Gospel Aa n84.aif key=84 lokey=83 hikey=127 loop_mode=loop_continuous loop_start=70409 loop_end=132824
+
+<group>        // Uu
+<region> sample=BB Gospel Uu n60.aif key=60 lokey=59 hikey=61 volume=-1 loop_mode=loop_continuous loop_start=154028 loop_end=328592
+<region> sample=BB Gospel Uu n48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=141707 loop_end=288773
+<region> sample=BB Gospel Uu n51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=145809 loop_end=346185
+<region> sample=BB Gospel Uu n54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=163299 loop_end=366394
+<region> sample=BB Gospel Uu n57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=157453 loop_end=325250
+<region> sample=BB Gospel Uu n45.aif key=45 lokey=0 hikey=46 loop_mode=loop_continuous loop_start=105440 loop_end=226516
+<region> sample=BB Gospel Uu n63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=95139 loop_end=200172
+<region> sample=BB Gospel Uu n66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=85483 loop_end=208075
+<region> sample=BB Gospel Uu n69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=121930 loop_end=228787
+<region> sample=BB Gospel Uu n72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=87471 loop_end=178918
+<region> sample=BB Gospel Uu n75.aif key=75 lokey=74 hikey=76 end=146815 loop_mode=loop_continuous loop_start=67739 loop_end=144607
+<region> sample=BB Gospel Uu n78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=92392 loop_end=189226
+<region> sample=BB Gospel Uu n81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=95057 loop_end=180786
+<region> sample=BB Gospel Uu n84.aif key=84 lokey=83 hikey=127 loop_mode=loop_continuous loop_start=109271 loop_end=201663
+
+<group> volume=3        // Oo
+<region> sample=BB Gospel Oo n60.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=105676 loop_end=233750
+<region> sample=BB Gospel Oo n48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=110293 loop_end=220586
+<region> sample=BB Gospel Oo n51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=172766 loop_end=337297
+<region> sample=BB Gospel Oo n54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=136893 loop_end=273786
+<region> sample=BB Gospel Oo n57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=128059 loop_end=273782
+<region> sample=BB Gospel Oo n45.aif key=45 lokey=0 hikey=46 loop_mode=loop_continuous loop_start=167492 loop_end=324180
+<region> sample=BB Gospel Oo n63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=112815 loop_end=229918
+<region> sample=BB Gospel Oo n66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=131380 loop_end=253478
+<region> sample=BB Gospel Oo n69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=96036 loop_end=199926
+<region> sample=BB Gospel Oo n72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=94965 loop_end=204924
+<region> sample=BB Gospel Oo n75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=116386 loop_end=226346
+<region> sample=BB Gospel Oo n78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=94171 loop_end=188342
+<region> sample=BB Gospel Oo n81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=102460 loop_end=217656
+<region> sample=BB Gospel Oo n84.aif key=84 lokey=83 hikey=127 loop_mode=loop_continuous loop_start=79756 loop_end=190948
+
+<group>        // Mm
+<region> sample=BB Gospel Mm n60.aif key=60 lokey=59 hikey=61 volume=2 loop_mode=loop_continuous loop_start=136572 loop_end=279447
+<region> sample=BB Gospel Mm n48.aif key=48 lokey=47 hikey=49 volume=3 loop_mode=loop_continuous loop_start=160350 loop_end=323886
+<region> sample=BB Gospel Mm n51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=169786 loop_end=328127
+<region> sample=BB Gospel Mm n54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=98092 loop_end=238884
+<region> sample=BB Gospel Mm n57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=107325 loop_end=214650
+<region> sample=BB Gospel Mm n45.aif key=45 lokey=0 hikey=46 loop_mode=loop_continuous loop_start=163487 loop_end=321979
+<region> sample=BB Gospel Mm n63.aif key=63 lokey=62 hikey=64 volume=2 loop_mode=loop_continuous loop_start=103911 loop_end=225825
+<region> sample=BB Gospel Mm n66.aif key=66 lokey=65 hikey=67 volume=2 loop_mode=loop_continuous loop_start=95040 loop_end=206554
+<region> sample=BB Gospel Mm n69.aif key=69 lokey=68 hikey=70 volume=2 loop_mode=loop_continuous loop_start=86169 loop_end=174873
+<region> sample=BB Gospel Mm n72.aif key=72 lokey=71 hikey=73 volume=2 loop_mode=loop_continuous loop_start=89970 loop_end=185009
+<region> sample=BB Gospel Mm n75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=76022 loop_end=154616
+<region> sample=BB Gospel Mm n78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=153312 loop_end=292686
+<region> sample=BB Gospel Mm n81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=83857 loop_end=165700
+<region> sample=BB Gospel Mm n84.aif key=84 lokey=83 hikey=127 loop_mode=loop_continuous loop_start=62326 loop_end=125030

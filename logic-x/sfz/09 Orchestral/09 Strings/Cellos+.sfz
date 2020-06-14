@@ -1,0 +1,342 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cellos+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Cellos/Cellos-L_legato_f\
+
+<group> lovel=111 hivel=127 volume=-3        // Legato:Forte
+<region> sample=VC-L_legato_f_C2.wav key=36 lokey=21 hikey=36 loop_mode=loop_continuous loop_start=55608 loop_end=218399
+<region> sample=VC-L_legato_f_D2.wav key=38 lokey=37 hikey=38 loop_mode=loop_continuous loop_start=105712 loop_end=224057
+<region> sample=VC-L_legato_f_E2.wav key=40 lokey=39 hikey=40 loop_mode=loop_continuous loop_start=69608 loop_end=238362
+<region> sample=VC-L_legato_f_F#2.wav key=42 lokey=41 hikey=42 volume=2 loop_mode=loop_continuous loop_start=83586 loop_end=223741
+<region> sample=VC-L_legato_f_G#2.wav key=44 lokey=43 hikey=44 volume=2 loop_mode=loop_continuous loop_start=36619 loop_end=234612
+<region> sample=VC-L_legato_f_A#2.wav key=46 lokey=45 hikey=46 volume=2 loop_mode=loop_continuous loop_start=98497 loop_end=227838
+<region> sample=VC-L_legato_f_C3.wav key=48 lokey=47 hikey=48 loop_mode=loop_continuous loop_start=62512 loop_end=203298
+<region> sample=VC-L_legato_f_D3.wav key=50 lokey=49 hikey=50 volume=2 loop_mode=loop_continuous loop_start=37456 loop_end=234998
+<region> sample=VC-L_legato_f_E3.wav key=52 lokey=51 hikey=52 volume=4 loop_mode=loop_continuous loop_start=115960 loop_end=206602
+<region> sample=VC-L_legato_f_F#3.wav key=54 lokey=53 hikey=54 volume=5 loop_mode=loop_continuous loop_start=78915 loop_end=175965
+<region> sample=VC-L_legato_f_G#3.wav key=56 lokey=55 hikey=56 volume=5 loop_mode=loop_continuous loop_start=72803 loop_end=218529
+<region> sample=VC-L_legato_f_A#3.wav key=58 lokey=57 hikey=58 volume=-2 loop_mode=loop_continuous loop_start=20191 loop_end=193095
+<region> sample=VC-L_legato_f_C4.wav key=60 lokey=59 hikey=60 loop_mode=loop_continuous loop_start=40360 loop_end=177850
+<region> sample=VC-L_legato_f_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=34137 loop_end=203710
+<region> sample=VC-L_legato_f_E4.wav key=64 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=52363 loop_end=167895
+<region> sample=VC-L_legato_f_F#4.wav key=66 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=60478 loop_end=186301
+<region> sample=VC-L_legato_f_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=27419 loop_end=160510
+<region> sample=VC-L_legato_f_A#4.wav key=70 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=22885 loop_end=179085
+<region> sample=VC-L_legato_f_C5.wav key=72 lokey=71 hikey=108 loop_mode=loop_continuous loop_start=71247 loop_end=159091
+
+<group> lovel=56 hivel=110 volume=2        // Legato:Mezzo Forte
+<region> sample=VC-L_legato_mf_C2.wav key=36 lokey=21 hikey=36 volume=-3 loop_mode=loop_continuous loop_start=92619 loop_end=457408
+<region> sample=VC-L_legato_mf_D2.wav key=38 lokey=37 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=98480 loop_end=443723
+<region> sample=VC-L_legato_mf_E2.wav key=40 lokey=39 hikey=40 volume=-3 loop_mode=loop_continuous loop_start=150087 loop_end=487803
+<region> sample=VC-L_legato_mf_F#2.wav key=42 lokey=41 hikey=42 volume=-3 loop_mode=loop_continuous loop_start=63170 loop_end=445449
+<region> sample=VC-L_legato_mf_G#2.wav key=44 lokey=43 hikey=44 volume=-3 loop_mode=loop_continuous loop_start=70832 loop_end=507405
+<region> sample=VC-L_legato_mf_A#2.wav key=46 lokey=45 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=187670 loop_end=522738
+<region> sample=VC-L_legato_mf_C3.wav key=48 lokey=47 hikey=48 volume=-3 loop_mode=loop_continuous loop_start=142291 loop_end=488523
+<region> sample=VC-L_legato_mf_D3.wav key=50 lokey=49 hikey=50 loop_mode=loop_continuous loop_start=244788 loop_end=474034
+<region> sample=VC-L_legato_mf_E3.wav key=52 lokey=51 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=194202 loop_end=455404
+<region> sample=VC-L_legato_mf_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=109572 loop_end=467754
+<region> sample=VC-L_legato_mf_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=65179 loop_end=508591
+<region> sample=VC-L_legato_mf_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=135449 loop_end=458988
+<region> sample=VC-L_legato_mf_C4.wav key=60 lokey=59 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=143292 loop_end=548754
+<region> sample=VC-L_legato_mf_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=133817 loop_end=561484
+<region> sample=VC-L_legato_mf_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=93245 loop_end=526434
+<region> sample=VC-L_legato_mf_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=65157 loop_end=512607
+<region> sample=VC-L_legato_mf_G#4.wav key=68 lokey=67 hikey=68 volume=-3 loop_mode=loop_continuous loop_start=68261 loop_end=488686
+<region> sample=VC-L_legato_mf_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=140571 loop_end=478623
+<region> sample=VC-L_legato_mf_C5.wav key=72 lokey=71 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=44752 loop_end=505786
+
+<group> lovel=0 hivel=55 volume=2        // Legato:Piano
+<region> sample=VC-L_legato_p_C2.wav key=36 lokey=21 hikey=36 volume=-3 loop_mode=loop_continuous loop_start=110893 loop_end=363149
+<region> sample=VC-L_legato_p_D2.wav key=38 lokey=37 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=101182 loop_end=503012
+<region> sample=VC-L_legato_p_E2.wav key=40 lokey=39 hikey=40 volume=-5 loop_mode=loop_continuous loop_start=158158 loop_end=439055
+<region> sample=VC-L_legato_p_F#2.wav key=42 lokey=41 hikey=42 volume=-3 loop_mode=loop_continuous loop_start=173824 loop_end=492154
+<region> sample=VC-L_legato_p_G#2.wav key=44 lokey=43 hikey=44 volume=-3 loop_mode=loop_continuous loop_start=148620 loop_end=545150
+<region> sample=VC-L_legato_p_A#2.wav key=46 lokey=45 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=147491 loop_end=550459
+<region> sample=VC-L_legato_p_C3.wav key=48 lokey=47 hikey=48 volume=-3 loop_mode=loop_continuous loop_start=172039 loop_end=490588
+<region> sample=VC-L_legato_p_D3.wav key=50 lokey=49 hikey=50 volume=-3 loop_mode=loop_continuous loop_start=161273 loop_end=562149
+<region> sample=VC-L_legato_p_E3.wav key=52 lokey=51 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=205882 loop_end=488514
+<region> sample=VC-L_legato_p_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=105651 loop_end=525268
+<region> sample=VC-L_legato_p_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=196192 loop_end=566703
+<region> sample=VC-L_legato_p_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=210573 loop_end=536144
+<region> sample=VC-L_legato_p_C4.wav key=60 lokey=59 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=151080 loop_end=525765
+<region> sample=VC-L_legato_p_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=131890 loop_end=529950
+<region> sample=VC-L_legato_p_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=117202 loop_end=533065
+<region> sample=VC-L_legato_p_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=139106 loop_end=446857
+<region> sample=VC-L_legato_p_G#4.wav key=68 lokey=67 hikey=68 volume=-3 loop_mode=loop_continuous loop_start=345127 loop_end=519650
+<region> sample=VC-L_legato_p_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=363166 loop_end=480898
+<region> sample=VC-L_legato_p_C5.wav key=72 lokey=71 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=104084 loop_end=391215
+
+<group>        // Tremolo
+<region> sample=VC-L_tremolo_mf_C#2.wav key=37 lokey=21 hikey=36 loop_mode=loop_continuous loop_start=60831 loop_end=160321
+<region> sample=VC-L_tremolo_mf_C#2.wav key=37 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=60831 loop_end=160321
+<region> sample=VC-L_tremolo_mf_D#2.wav key=39 lokey=38 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=26880 loop_end=180790
+<region> sample=VC-L_tremolo_mf_D#2.wav key=39 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=26880 loop_end=180790
+<region> sample=VC-L_tremolo_mf_F2.wav key=41 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=26748 loop_end=170815
+<region> sample=VC-L_tremolo_mf_F2.wav key=41 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=26748 loop_end=170815
+<region> sample=VC-L_tremolo_mf_G2.wav key=43 lokey=42 hikey=42 loop_mode=loop_continuous loop_start=50098 loop_end=146681
+<region> sample=VC-L_tremolo_mf_G2.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=50098 loop_end=146681
+<region> sample=VC-L_tremolo_mf_A2.wav key=45 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=110082 loop_end=178330
+<region> sample=VC-L_tremolo_mf_A2.wav key=45 lokey=45 hikey=45 loop_mode=loop_continuous loop_start=110082 loop_end=178330
+<region> sample=VC-L_tremolo_mf_B2.wav key=47 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=91896 loop_end=165095
+<region> sample=VC-L_tremolo_mf_B2.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=91896 loop_end=165095
+<region> sample=VC-L_tremolo_mf_C#3.wav key=49 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=81557 loop_end=197088
+<region> sample=VC-L_tremolo_mf_C#3.wav key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=81557 loop_end=197088
+<region> sample=VC-L_tremolo_mf_D#3.wav key=51 lokey=50 hikey=50 loop_mode=loop_continuous loop_start=112426 loop_end=184227
+<region> sample=VC-L_tremolo_mf_D#3.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=112426 loop_end=184227
+<region> sample=VC-L_tremolo_mf_F3.wav key=53 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=131049 loop_end=207275
+<region> sample=VC-L_tremolo_mf_F3.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=131049 loop_end=207275
+<region> sample=VC-L_tremolo_mf_G3.wav key=55 lokey=54 hikey=54 loop_mode=loop_continuous loop_start=131022 loop_end=204404
+<region> sample=VC-L_tremolo_mf_G3.wav key=55 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=131022 loop_end=204404
+<region> sample=VC-L_tremolo_mf_A3.wav key=57 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=79751 loop_end=164294
+<region> sample=VC-L_tremolo_mf_A3.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=79751 loop_end=164294
+<region> sample=VC-L_tremolo_mf_B3.wav key=59 lokey=58 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=120617 loop_end=201460
+<region> sample=VC-L_tremolo_mf_B3.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=120617 loop_end=201460
+<region> sample=VC-L_tremolo_mf_C#4.wav key=61 lokey=60 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=7671 loop_end=113535
+<region> sample=VC-L_tremolo_mf_C#4.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=7671 loop_end=113535
+<region> sample=VC-L_tremolo_mf_D#4.wav key=63 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=94521 loop_end=203825
+<region> sample=VC-L_tremolo_mf_D#4.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=94521 loop_end=203825
+<region> sample=VC-L_tremolo_mf_F4.wav key=65 lokey=64 hikey=64 loop_mode=loop_continuous loop_start=41368 loop_end=197907
+<region> sample=VC-L_tremolo_mf_F4.wav key=65 lokey=65 hikey=65 loop_mode=loop_continuous loop_start=41368 loop_end=197907
+<region> sample=VC-L_tremolo_mf_G4.wav key=67 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=44468 loop_end=184280
+<region> sample=VC-L_tremolo_mf_G4.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=44468 loop_end=184280
+<region> sample=VC-L_tremolo_mf_A4.wav key=69 lokey=68 hikey=68 loop_mode=loop_continuous loop_start=126698 loop_end=191921
+<region> sample=VC-L_tremolo_mf_A4.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=126698 loop_end=191921
+<region> sample=VC-L_tremolo_mf_B4.wav key=71 lokey=70 hikey=70 loop_mode=loop_continuous loop_start=91149 loop_end=212128
+<region> sample=VC-L_tremolo_mf_B4.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=91149 loop_end=212128
+<region> sample=VC-L_tremolo_mf_B4.wav key=71 lokey=72 hikey=108 loop_mode=loop_continuous loop_start=91149 loop_end=212128
+
+<group>        // Trills:Halftone
+<region> sample=VC-L_trills_ht_C#2.wav key=37 lokey=21 hikey=36 loop_mode=loop_continuous loop_start=155441 loop_end=216594
+<region> sample=VC-L_trills_ht_C#2.wav key=37 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=155441 loop_end=216594
+<region> sample=VC-L_trills_ht_D#2.wav key=39 lokey=38 hikey=38 loop_mode=loop_continuous loop_start=167580 loop_end=237187
+<region> sample=VC-L_trills_ht_D#2.wav key=39 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=167580 loop_end=237187
+<region> sample=VC-L_trills_ht_F2.wav key=41 lokey=40 hikey=41 volume=2 loop_mode=loop_continuous loop_start=169651 loop_end=233318
+<region> sample=VC-L_trills_ht_G2.wav key=43 lokey=42 hikey=42 volume=6 loop_mode=loop_continuous loop_start=124462 loop_end=242849
+<region> sample=VC-L_trills_ht_G2.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=124462 loop_end=242849
+<region> sample=VC-L_trills_ht_A2.wav key=45 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=144353 loop_end=241510
+<region> sample=VC-L_trills_ht_A2.wav key=45 lokey=45 hikey=45 loop_mode=loop_continuous loop_start=144353 loop_end=241510
+<region> sample=VC-L_trills_ht_B2.wav key=47 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=137212 loop_end=233198
+<region> sample=VC-L_trills_ht_B2.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=137212 loop_end=233198
+<region> sample=VC-L_trills_ht_C#3.wav key=49 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=150047 loop_end=237558
+<region> sample=VC-L_trills_ht_C#3.wav key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=150047 loop_end=237558
+<region> sample=VC-L_trills_ht_D#3.wav key=51 lokey=50 hikey=50 volume=4 loop_mode=loop_continuous loop_start=115745 loop_end=217769
+<region> sample=VC-L_trills_ht_D#3.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=115745 loop_end=217769
+<region> sample=VC-L_trills_ht_F3.wav key=53 lokey=52 hikey=52 volume=3 loop_mode=loop_continuous loop_start=99485 loop_end=256142
+<region> sample=VC-L_trills_ht_F3.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=99485 loop_end=256142
+<region> sample=VC-L_trills_ht_G3.wav key=55 lokey=54 hikey=54 volume=3 loop_mode=loop_continuous loop_start=74301 loop_end=157058
+<region> sample=VC-L_trills_ht_G3.wav key=55 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=74301 loop_end=157058
+<region> sample=VC-L_trills_ht_A3.wav key=57 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=110981 loop_end=186144
+<region> sample=VC-L_trills_ht_A3.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=110981 loop_end=186144
+<region> sample=VC-L_trills_ht_B3.wav key=59 lokey=58 hikey=58 loop_mode=loop_continuous loop_start=131647 loop_end=218082
+<region> sample=VC-L_trills_ht_B3.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=131647 loop_end=218082
+<region> sample=VC-L_trills_ht_C#4.wav key=61 lokey=60 hikey=60 loop_mode=loop_continuous loop_start=58546 loop_end=192853
+<region> sample=VC-L_trills_ht_C#4.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=58546 loop_end=192853
+<region> sample=VC-L_trills_ht_D#4.wav key=63 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=102333 loop_end=186940
+<region> sample=VC-L_trills_ht_D#4.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=102333 loop_end=186940
+<region> sample=VC-L_trills_ht_F4.wav key=65 lokey=64 hikey=64 loop_mode=loop_continuous loop_start=100998 loop_end=226433
+<region> sample=VC-L_trills_ht_F4.wav key=65 lokey=65 hikey=65 loop_mode=loop_continuous loop_start=100998 loop_end=226433
+<region> sample=VC-L_trills_ht_G4.wav key=67 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=20568 loop_end=184819
+<region> sample=VC-L_trills_ht_G4.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=20568 loop_end=184819
+<region> sample=VC-L_trills_ht_A4.wav key=69 lokey=68 hikey=68 loop_mode=loop_continuous loop_start=53566 loop_end=150019
+<region> sample=VC-L_trills_ht_A4.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=53566 loop_end=150019
+<region> sample=VC-L_trills_ht_B4.wav key=71 lokey=70 hikey=70 loop_mode=loop_continuous loop_start=90679 loop_end=195826
+<region> sample=VC-L_trills_ht_B4.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=90679 loop_end=195826
+<region> sample=VC-L_trills_ht_C#5.wav key=73 lokey=72 hikey=108 loop_mode=loop_continuous loop_start=79075 loop_end=177767
+
+<group>        // Trills:Whole Tone
+<region> sample=VC-L_trills_wt_C#2.wav key=37 lokey=21 hikey=36 volume=-2 loop_mode=loop_continuous loop_start=123704 loop_end=240475
+<region> sample=VC-L_trills_wt_C#2.wav key=37 lokey=37 hikey=37 volume=-2 loop_mode=loop_continuous loop_start=123704 loop_end=240475
+<region> sample=VC-L_trills_wt_D#2.wav key=39 lokey=38 hikey=38 volume=1 loop_mode=loop_continuous loop_start=106488 loop_end=222608
+<region> sample=VC-L_trills_wt_D#2.wav key=39 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=106488 loop_end=222608
+<region> sample=VC-L_trills_wt_F2.wav key=41 lokey=40 hikey=40 volume=2 loop_mode=loop_continuous loop_start=84604 loop_end=226712
+<region> sample=VC-L_trills_wt_F2.wav key=41 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=84604 loop_end=226712
+<region> sample=VC-L_trills_wt_G2.wav key=43 lokey=42 hikey=42 volume=4 loop_mode=loop_continuous loop_start=135719 loop_end=251011
+<region> sample=VC-L_trills_wt_G2.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=135719 loop_end=251011
+<region> sample=VC-L_trills_wt_A2.wav key=45 lokey=44 hikey=45 loop_mode=loop_continuous loop_start=80560 loop_end=220551
+<region> sample=VC-L_trills_wt_B2.wav key=47 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=135905 loop_end=240171
+<region> sample=VC-L_trills_wt_B2.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=135905 loop_end=240171
+<region> sample=VC-L_trills_wt_C#3.wav key=49 lokey=48 hikey=49 loop_mode=loop_continuous loop_start=118422 loop_end=230900
+<region> sample=VC-L_trills_wt_D#3.wav key=51 lokey=50 hikey=50 volume=3 loop_mode=loop_continuous loop_start=82839 loop_end=243596
+<region> sample=VC-L_trills_wt_D#3.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=82839 loop_end=243596
+<region> sample=VC-L_trills_wt_F3.wav key=53 lokey=52 hikey=52 volume=5 loop_mode=loop_continuous loop_start=101308 loop_end=225847
+<region> sample=VC-L_trills_wt_F3.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=101308 loop_end=225847
+<region> sample=VC-L_trills_wt_G3.wav key=55 lokey=54 hikey=54 volume=3 loop_mode=loop_continuous loop_start=106861 loop_end=198465
+<region> sample=VC-L_trills_wt_G3.wav key=55 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=106861 loop_end=198465
+<region> sample=VC-L_trills_wt_A3.wav key=57 lokey=56 hikey=56 volume=2 loop_mode=loop_continuous loop_start=124425 loop_end=201094
+<region> sample=VC-L_trills_wt_A3.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=124425 loop_end=201094
+<region> sample=VC-L_trills_wt_B3.wav key=59 lokey=58 hikey=58 loop_mode=loop_continuous loop_start=100655 loop_end=206038
+<region> sample=VC-L_trills_wt_B3.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=100655 loop_end=206038
+<region> sample=VC-L_trills_wt_C#4.wav key=61 lokey=60 hikey=60 loop_mode=loop_continuous loop_start=117581 loop_end=179496
+<region> sample=VC-L_trills_wt_C#4.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=117581 loop_end=179496
+<region> sample=VC-L_trills_wt_D#4.wav key=63 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=103236 loop_end=213599
+<region> sample=VC-L_trills_wt_D#4.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=103236 loop_end=213599
+<region> sample=VC-L_trills_wt_F4.wav key=65 lokey=64 hikey=64 loop_mode=loop_continuous loop_start=131839 loop_end=208675
+<region> sample=VC-L_trills_wt_F4.wav key=65 lokey=65 hikey=65 loop_mode=loop_continuous loop_start=131839 loop_end=208675
+<region> sample=VC-L_trills_wt_G4.wav key=67 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=118173 loop_end=207020
+<region> sample=VC-L_trills_wt_G4.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=118173 loop_end=207020
+<region> sample=VC-L_trills_wt_A4.wav key=69 lokey=68 hikey=68 loop_mode=loop_continuous loop_start=131740 loop_end=209739
+<region> sample=VC-L_trills_wt_A4.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=131740 loop_end=209739
+<region> sample=VC-L_trills_wt_B4.wav key=71 lokey=70 hikey=71 loop_mode=loop_continuous loop_start=121424 loop_end=199700
+<region> sample=VC-L_trills_wt_C#5.wav key=73 lokey=72 hikey=72 loop_mode=loop_continuous loop_start=107413 loop_end=201117
+<region> sample=VC-L_trills_wt_C#5.wav key=73 lokey=73 hikey=108 loop_mode=loop_continuous loop_start=107413 loop_end=201117
+
+<group> lovel=111 hivel=127        // Pizzicato:Forte
+<region> sample=VC_pizz_f_C2.wav key=36 lokey=21 hikey=36 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_D2.wav key=38 lokey=37 hikey=37 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_D2.wav key=38 lokey=38 hikey=38 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_E2.wav key=40 lokey=39 hikey=39 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_E2.wav key=40 lokey=40 hikey=40 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_F#2.wav key=42 lokey=41 hikey=41 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_F#2.wav key=42 lokey=42 hikey=42 loop_mode=no_loop
+<region> sample=VC_pizz_f_G#2.wav key=44 lokey=43 hikey=43 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_G#2.wav key=44 lokey=44 hikey=44 loop_mode=no_loop
+<region> sample=VC_pizz_f_A#2.wav key=46 lokey=45 hikey=45 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_A#2.wav key=46 lokey=46 hikey=46 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_C3.wav key=48 lokey=47 hikey=47 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_C3.wav key=48 lokey=48 hikey=48 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_D3.wav key=50 lokey=49 hikey=49 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_D3.wav key=50 lokey=50 hikey=50 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_E3.wav key=52 lokey=51 hikey=51 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_E3.wav key=52 lokey=52 hikey=52 loop_mode=no_loop
+<region> sample=VC_pizz_f_F#3.wav key=54 lokey=53 hikey=53 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_F#3.wav key=54 lokey=54 hikey=54 loop_mode=no_loop
+<region> sample=VC_pizz_f_G#3.wav key=56 lokey=55 hikey=55 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_G#3.wav key=56 lokey=56 hikey=56 loop_mode=no_loop
+<region> sample=VC_pizz_f_A#3.wav key=58 lokey=57 hikey=57 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_A#3.wav key=58 lokey=58 hikey=58 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_C4.wav key=60 lokey=59 hikey=59 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_C4.wav key=60 lokey=60 hikey=60 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_D4.wav key=62 lokey=61 hikey=61 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_D4.wav key=62 lokey=62 hikey=62 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_f_E4.wav key=64 lokey=63 hikey=63 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_E4.wav key=64 lokey=64 hikey=64 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_F#4.wav key=66 lokey=65 hikey=65 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_F#4.wav key=66 lokey=66 hikey=66 loop_mode=no_loop
+<region> sample=VC_pizz_f_G#4.wav key=68 lokey=67 hikey=67 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_G#4.wav key=68 lokey=68 hikey=68 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_A#4.wav key=70 lokey=69 hikey=69 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_A#4.wav key=70 lokey=70 hikey=70 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_C5.wav key=72 lokey=71 hikey=71 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_C5.wav key=72 lokey=72 hikey=72 volume=-3 loop_mode=no_loop
+<region> sample=VC_pizz_f_C5.wav key=72 lokey=73 hikey=108 volume=-3 loop_mode=no_loop
+
+<group> lovel=0 hivel=110 volume=1        // Pizzicato:Mezzo Forte
+<region> sample=VC_pizz_mf_C2.wav key=36 lokey=21 hikey=36 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_D2.wav key=38 lokey=37 hikey=37 volume=-4 loop_mode=no_loop
+<region> sample=VC_pizz_mf_D2.wav key=38 lokey=38 hikey=38 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_E2.wav key=40 lokey=39 hikey=39 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_E2.wav key=40 lokey=40 hikey=40 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_F#2.wav key=42 lokey=41 hikey=41 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_F#2.wav key=42 lokey=42 hikey=42 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_G#2.wav key=44 lokey=43 hikey=43 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_G#2.wav key=44 lokey=44 hikey=44 loop_mode=no_loop
+<region> sample=VC_pizz_mf_A#2.wav key=46 lokey=45 hikey=45 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_A#2.wav key=46 lokey=46 hikey=46 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_C3.wav key=48 lokey=47 hikey=47 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_C3.wav key=48 lokey=48 hikey=48 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_D3.wav key=50 lokey=49 hikey=49 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_D3.wav key=50 lokey=50 hikey=50 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_E3.wav key=52 lokey=51 hikey=51 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_E3.wav key=52 lokey=52 hikey=52 loop_mode=no_loop
+<region> sample=VC_pizz_mf_F#3.wav key=54 lokey=53 hikey=53 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_F#3.wav key=54 lokey=54 hikey=54 loop_mode=no_loop
+<region> sample=VC_pizz_mf_G#3.wav key=56 lokey=55 hikey=55 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_G#3.wav key=56 lokey=56 hikey=56 loop_mode=no_loop
+<region> sample=VC_pizz_mf_A#3.wav key=58 lokey=57 hikey=57 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_A#3.wav key=58 lokey=58 hikey=58 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_C4.wav key=60 lokey=59 hikey=59 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_C4.wav key=60 lokey=60 hikey=60 volume=-2 loop_mode=no_loop
+<region> sample=VC_pizz_mf_D4.wav key=62 lokey=61 hikey=61 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_D4.wav key=62 lokey=62 hikey=62 volume=-9 loop_mode=no_loop
+<region> sample=VC_pizz_mf_E4.wav key=64 lokey=63 hikey=63 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_E4.wav key=64 lokey=64 hikey=64 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_F#4.wav key=66 lokey=65 hikey=65 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_F#4.wav key=66 lokey=66 hikey=66 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_G#4.wav key=68 lokey=67 hikey=67 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_G#4.wav key=68 lokey=68 hikey=68 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_A#4.wav key=70 lokey=69 hikey=69 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_A#4.wav key=70 lokey=70 hikey=70 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_C5.wav key=72 lokey=71 hikey=71 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_C5.wav key=72 lokey=72 hikey=72 volume=-6 loop_mode=no_loop
+<region> sample=VC_pizz_mf_C5.wav key=72 lokey=73 hikey=108 volume=-6 loop_mode=no_loop
+
+<group> volume=-6        // Staccato:Down Bow
+<region> sample=VC_stac_downbow_mf_C2.wav key=36 lokey=21 hikey=36 lovel=0 hivel=110 volume=-2 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_C2.wav key=36 lokey=21 hikey=36 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_D2.wav key=38 lokey=37 hikey=38 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_D2.wav key=38 lokey=37 hikey=38 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_E2.wav key=40 lokey=39 hikey=40 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_E2.wav key=40 lokey=39 hikey=40 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_F#2.wav key=42 lokey=41 hikey=42 lovel=0 hivel=110 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_F#2.wav key=42 lokey=41 hikey=42 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_G#2.wav key=44 lokey=43 hikey=44 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_G#2.wav key=44 lokey=43 hikey=44 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_A#2.wav key=46 lokey=45 hikey=46 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_A#2.wav key=46 lokey=45 hikey=46 lovel=111 hivel=127 volume=-2 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_C3.wav key=48 lokey=47 hikey=48 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_C3.wav key=48 lokey=47 hikey=48 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_D3.wav key=50 lokey=49 hikey=50 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_D3.wav key=50 lokey=49 hikey=50 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_E3.wav key=52 lokey=51 hikey=52 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_E3.wav key=52 lokey=51 hikey=52 lovel=111 hivel=127 volume=2 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_F#3.wav key=54 lokey=53 hikey=54 lovel=0 hivel=110 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_F#3.wav key=54 lokey=53 hikey=54 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_G#3.wav key=56 lokey=55 hikey=56 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_G#3.wav key=56 lokey=55 hikey=56 lovel=111 hivel=127 volume=2 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_A#3.wav key=58 lokey=57 hikey=58 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_A#3.wav key=58 lokey=57 hikey=58 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_C4.wav key=60 lokey=59 hikey=60 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_C4.wav key=60 lokey=59 hikey=60 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_D4.wav key=62 lokey=61 hikey=62 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_D4.wav key=62 lokey=61 hikey=62 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_E4.wav key=64 lokey=63 hikey=64 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_E4.wav key=64 lokey=63 hikey=64 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_F#4.wav key=66 lokey=65 hikey=66 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_F#4.wav key=66 lokey=65 hikey=66 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_G#4.wav key=68 lokey=67 hikey=68 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_G#4.wav key=68 lokey=67 hikey=68 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_A#4.wav key=70 lokey=69 hikey=70 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_A#4.wav key=70 lokey=69 hikey=70 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_downbow_mf_C5.wav key=72 lokey=71 hikey=108 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_downbow_f_C5.wav key=72 lokey=71 hikey=108 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+
+<group> volume=-6        // Staccato:Up Bow
+<region> sample=VC_stac_upbow_mf_C2.wav key=36 lokey=21 hikey=36 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_C2.wav key=36 lokey=21 hikey=36 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_D2.wav key=38 lokey=37 hikey=38 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_D2.wav key=38 lokey=37 hikey=38 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_E2.wav key=40 lokey=39 hikey=40 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_E2.wav key=40 lokey=39 hikey=40 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_F#2.wav key=42 lokey=41 hikey=42 lovel=0 hivel=110 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_F#2.wav key=42 lokey=41 hikey=42 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_G#2.wav key=44 lokey=43 hikey=44 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_G#2.wav key=44 lokey=43 hikey=44 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_A#2.wav key=46 lokey=45 hikey=46 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_A#2.wav key=46 lokey=45 hikey=46 lovel=111 hivel=127 volume=-2 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_C3.wav key=48 lokey=47 hikey=48 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_C3.wav key=48 lokey=47 hikey=48 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_D3.wav key=50 lokey=49 hikey=50 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_D3.wav key=50 lokey=49 hikey=50 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_E3.wav key=52 lokey=51 hikey=52 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_E3.wav key=52 lokey=51 hikey=52 lovel=111 hivel=127 volume=2 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_F#3.wav key=54 lokey=53 hikey=54 lovel=0 hivel=110 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_F#3.wav key=54 lokey=53 hikey=54 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_G#3.wav key=56 lokey=55 hikey=56 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_G#3.wav key=56 lokey=55 hikey=56 lovel=111 hivel=127 volume=2 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_A#3.wav key=58 lokey=57 hikey=58 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_A#3.wav key=58 lokey=57 hikey=58 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_C4.wav key=60 lokey=59 hikey=60 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_C4.wav key=60 lokey=59 hikey=60 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_D4.wav key=62 lokey=61 hikey=62 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_D4.wav key=62 lokey=61 hikey=62 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_E4.wav key=64 lokey=63 hikey=64 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_E4.wav key=64 lokey=63 hikey=64 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_F#4.wav key=66 lokey=65 hikey=66 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_F#4.wav key=66 lokey=65 hikey=66 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_G#4.wav key=68 lokey=67 hikey=68 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_G#4.wav key=68 lokey=67 hikey=68 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_A#4.wav key=70 lokey=69 hikey=70 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_A#4.wav key=70 lokey=69 hikey=70 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=VC_stac_upbow_mf_C5.wav key=72 lokey=71 hikey=108 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=VC_stac_upbow_f_C5.wav key=72 lokey=71 hikey=108 lovel=111 hivel=127 volume=-3 loop_mode=no_loop

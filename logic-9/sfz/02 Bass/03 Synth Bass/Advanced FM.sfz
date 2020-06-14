@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Advanced FM.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Advanced FM\
+
+<group>        // Group #1
+<region> sample=3hook96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=27 loop_end=56222
+<region> sample=3hook90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=1255 loop_end=93874
+<region> sample=3hook84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=98 loop_end=56711
+<region> sample=3hook78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=654 loop_end=60773
+<region> sample=3hook72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=222 loop_end=54969
+<region> sample=3hook66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=80 loop_end=80156
+<region> sample=3hook60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=229 loop_end=64366
+<region> sample=3hook54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=204 loop_end=64240
+<region> sample=3hook48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=277 loop_end=108134
+<region> sample=3hook42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=479 loop_end=68171
+<region> sample=3hook36.wav key=36 lokey=34 hikey=39 loop_mode=loop_continuous loop_start=1341 loop_end=95985
+<region> sample=3hook30.wav key=30 lokey=28 hikey=33 loop_mode=loop_continuous loop_start=808 loop_end=108714
+<region> sample=3hook24.wav key=24 lokey=0 hikey=27 loop_mode=loop_continuous loop_start=1341 loop_end=120168
+
+<group> volume=-4        // Group #2
+<region> sample=FM127 96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=32 loop_end=46291
+<region> sample=FM127 90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=15 loop_end=46390
+<region> sample=FM127 84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=26 loop_end=51037
+<region> sample=FM127 78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=51 loop_end=66323
+<region> sample=FM127 72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=61 loop_end=66531
+<region> sample=FM127 66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=34 loop_end=66526
+<region> sample=FM127 60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=69 loop_end=66249
+<region> sample=FM127 54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=129 loop_end=71772
+<region> sample=FM127 48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=174 loop_end=66772
+<region> sample=FM127 42.wav key=42 lokey=0 hikey=45 loop_mode=loop_continuous loop_start=529 loop_end=67353

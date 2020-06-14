@@ -1,0 +1,28 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Mini D basic.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Mini D basic\
+
+<group> volume=4        // Group #1
+<region> sample=MiniD51.aif key=51 lokey=50 hikey=52 tune=-21 loop_mode=loop_continuous loop_start=20910 loop_end=190191
+<region> sample=MiniD48.aif key=48 lokey=47 hikey=49 tune=-22 loop_mode=loop_continuous loop_start=30460 loop_end=204785
+<region> sample=MiniD54.aif key=54 lokey=53 hikey=55 tune=-22 loop_mode=loop_continuous loop_start=37733 loop_end=178225
+<region> sample=MiniD84.aif key=84 lokey=83 hikey=85 tune=-1 loop_mode=loop_continuous loop_start=14080 loop_end=209820
+<region> sample=MiniD87.aif key=87 lokey=86 hikey=88 tune=2 loop_mode=loop_continuous loop_start=18360 loop_end=207100
+<region> sample=MiniD90.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=13457 loop_end=198681
+<region> sample=MiniD60.aif key=60 lokey=59 hikey=61 tune=-22 loop_mode=loop_continuous loop_start=30979 loop_end=196141
+<region> sample=MiniD57.aif key=57 lokey=56 hikey=58 tune=-21 loop_mode=loop_continuous loop_start=33510 loop_end=199538
+<region> sample=MiniD45.aif key=45 lokey=44 hikey=46 tune=-20 loop_mode=loop_continuous loop_start=42978 loop_end=216609
+<region> sample=MiniD42.aif key=42 lokey=41 hikey=43 tune=-20 loop_mode=loop_continuous loop_start=27518 loop_end=199772
+<region> sample=MiniD63.aif key=63 lokey=62 hikey=64 tune=-22 loop_mode=loop_continuous loop_start=31616 loop_end=192015
+<region> sample=MiniD66.aif key=66 lokey=65 hikey=67 tune=-20 loop_mode=loop_continuous loop_start=25377 loop_end=214963
+<region> sample=MiniD69.aif key=69 lokey=68 hikey=70 tune=-22 loop_mode=loop_continuous loop_start=21304 loop_end=210912
+<region> sample=MiniD75.aif key=75 lokey=74 hikey=76 tune=-21 loop_mode=loop_continuous loop_start=18324 loop_end=199953
+<region> sample=MiniD72.aif key=72 lokey=71 hikey=73 tune=-22 loop_mode=loop_continuous loop_start=21183 loop_end=199505
+<region> sample=MiniD39.aif key=39 lokey=38 hikey=40 tune=-24 loop_mode=loop_continuous loop_start=58337 loop_end=213582
+<region> sample=MiniD36.aif key=36 lokey=0 hikey=37 tune=-20 loop_mode=loop_continuous loop_start=85614 loop_end=214073
+<region> sample=MiniD81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=28083 loop_end=204497
+<region> sample=MiniD78.aif key=78 lokey=77 hikey=79 tune=-12 loop_mode=loop_continuous loop_start=14635 loop_end=207711
+<region> sample=MiniD96.aif key=96 lokey=95 hikey=127 tune=5 loop_mode=loop_continuous loop_start=22707 loop_end=200920
+<region> sample=MiniD93.aif key=93 lokey=92 hikey=94 tune=4 loop_mode=loop_continuous loop_start=12435 loop_end=203678

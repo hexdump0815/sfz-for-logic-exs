@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Pluck Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/05 Synthesizers/04 Sequence Elements/Pluck SQ\
+
+<group>        // Group #1
+<region> sample=HardSQ60.wav key=72 lokey=70 hikey=127 loop_mode=no_loop
+<region> sample=HardSQ54.wav key=66 lokey=64 hikey=69 loop_mode=no_loop
+<region> sample=HardSQ48.wav key=60 lokey=58 hikey=63 loop_mode=no_loop
+<region> sample=HardSQ42.wav key=54 lokey=52 hikey=57 loop_mode=no_loop
+<region> sample=HardSQ36.wav key=48 lokey=46 hikey=51 loop_mode=no_loop
+
+<group>        // Group #2
+<region> sample=HardSQ30.wav key=42 lokey=0 hikey=45 loop_mode=no_loop

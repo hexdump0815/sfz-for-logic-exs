@@ -1,0 +1,41 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Full Organ.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Church Organ/Organ Ped 16,8\
+
+<group> volume=-1        // Tutti
+<region> sample=Organ Tutti  6 f.aif key=89 lokey=88 hikey=127 loop_mode=loop_continuous loop_start=378340 loop_end=636359
+<region> sample=Organ Tutti  6 d.aif key=86 lokey=85 hikey=87 loop_mode=loop_continuous loop_start=377706 loop_end=644214
+<region> sample=Organ Tutti  5b.aif key=83 lokey=82 hikey=84 loop_mode=loop_continuous loop_start=108006 loop_end=414058
+<region> sample=Organ Tutti  5 g#.aif key=80 lokey=79 hikey=81 loop_mode=loop_continuous loop_start=152518 loop_end=375502
+<region> sample=Organ Tutti  5 d.aif key=74 lokey=73 hikey=75 loop_mode=loop_continuous loop_start=247757 loop_end=601607
+<region> sample=Organ Tutti  2 g#.aif key=44 lokey=43 hikey=45 loop_mode=loop_continuous loop_start=284037 loop_end=627377
+<region> sample=Organ Tutti  2 d.aif key=38 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=435218 loop_end=771342
+<region> sample=Organ Tutti  2 f.aif key=41 lokey=40 hikey=42 loop_mode=loop_continuous loop_start=173980 loop_end=270887
+<region> sample=Organ Tutti  2b.aif key=47 lokey=46 hikey=48 loop_mode=loop_continuous loop_start=240184 loop_end=423752
+<region> sample=Organ Tutti  3 d.aif key=50 lokey=49 hikey=51 loop_mode=loop_continuous loop_start=361519 loop_end=553181
+<region> sample=Organ Tutti  3 f.aif key=53 lokey=52 hikey=54 loop_mode=loop_continuous loop_start=205010 loop_end=448878
+<region> sample=Organ Tutti  3 g#.aif key=56 lokey=55 hikey=57 loop_mode=loop_continuous loop_start=154044 loop_end=328578
+<region> sample=Organ Tutti  3b.aif key=59 lokey=58 hikey=60 loop_mode=loop_continuous loop_start=158053 loop_end=263072
+<region> sample=Organ Tutti  4 g#.aif key=68 lokey=67 hikey=69 loop_mode=loop_continuous loop_start=228777 loop_end=503771
+<region> sample=Organ Tutti  4 f.aif key=65 lokey=64 hikey=66 loop_mode=loop_continuous loop_start=247757 loop_end=855248
+<region> sample=Organ Tutti  4 d.aif key=62 lokey=61 hikey=63 loop_mode=loop_continuous loop_start=246566 loop_end=466159
+<region> sample=Organ Tutti  4b.aif key=71 lokey=70 hikey=72 loop_mode=loop_continuous loop_start=206013 loop_end=525363
+<region> sample=Organ Tutti  5 f.aif key=77 lokey=76 hikey=78 loop_mode=loop_continuous loop_start=379018 loop_end=576962
+
+<group> volume=-4 locc63=126 hicc63=126        // Pedal 16+8
+<region> sample=Organ Ped 16,8  1a.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=66291 loop_end=263949
+<region> sample=Organ Ped 16,8  1 c.aif key=36 lokey=0 hikey=37 loop_mode=loop_continuous loop_start=211283 loop_end=595233
+<region> sample=Organ Ped 16,8  1 d#.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=77031 loop_end=403030
+<region> sample=Organ Ped 16,8  1 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=133007 loop_end=301022
+<region> sample=Organ Ped 16,8  2 c.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=110170 loop_end=178249
+<region> sample=Organ Ped 16,8  2 d#.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=100043 loop_end=442262
+
+<group> volume=-2 locc63=127 hicc63=127        // Pedal 16+8+8
+<region> sample=Organ Ped 16,8,8  1a.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=392407 loop_end=613123
+<region> sample=Organ Ped 16,8,8  1 c.aif key=36 lokey=0 hikey=37 volume=3 loop_mode=loop_continuous loop_start=219944 loop_end=457852
+<region> sample=Organ Ped 16,8,8  1 d#.aif key=39 lokey=38 hikey=40 volume=2 loop_mode=loop_continuous loop_start=148817 loop_end=477154
+<region> sample=Organ Ped 16,8,8  1 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=216888 loop_end=370455
+<region> sample=Organ Ped 16,8,8  2 c.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=200346 loop_end=523799
+<region> sample=Organ Ped 16,8,8  2 d#.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=333616 loop_end=564117

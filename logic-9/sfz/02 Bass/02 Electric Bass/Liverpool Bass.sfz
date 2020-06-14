@@ -1,0 +1,144 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Liverpool Bass.exs    by EXS2SFZ 1.1.7
+
+//
+// Attention!! The original files uses the unsupported sfz parameter loop_tune - your sfz-samples might be out of tune! //
+//
+
+
+<control>
+default_path=../../../Sampler Files/Liverpool Bass\
+
+<group>        // Dead Notes
+<region> sample=IL Btl Bass dead note 12.aif key=12 lokey=0 hikey=12 loop_mode=one_shot pitch_keytrack=0
+<region> sample=IL Btl Bass dead note 01.aif key=13 lokey=13 hikey=13 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 04.aif key=14 lokey=14 hikey=14 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 02.aif key=15 lokey=15 hikey=15 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 07.aif key=16 lokey=16 hikey=16 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 11.aif key=17 lokey=17 hikey=17 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 08.aif key=18 lokey=18 hikey=18 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 05.aif key=19 lokey=19 hikey=19 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 09.aif key=20 lokey=20 hikey=20 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 03.aif key=21 lokey=21 hikey=21 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 10.aif key=22 lokey=22 hikey=22 loop_mode=one_shot
+<region> sample=IL Btl Bass dead note 06.aif key=23 lokey=23 hikey=23 loop_mode=one_shot
+
+<group>        // Bombs
+<region> sample=IL Btl Bass bomb 08.aif key=25 lokey=25 hikey=25 loop_mode=no_loop
+<region> sample=IL Btl Bass bomb 09.aif key=24 lokey=24 hikey=24 loop_mode=no_loop
+<region> sample=IL Btl Bass bomb 05.aif key=27 lokey=27 hikey=27 loop_mode=no_loop
+<region> sample=IL Btl Bass bomb 02.aif key=26 lokey=26 hikey=26 loop_mode=no_loop
+
+<group> lovel=0 hivel=123 volume=3 locc1=0 hicc1=64        // Sustain 1
+<region> sample=IL Btl Bass sustn F#0a.aif key=42 lokey=42 hikey=43 loop_mode=loop_continuous loop_start=42038 loop_end=84176
+<region> sample=IL Btl Bass sustn E0c.aif key=40 lokey=28 hikey=41 tune=4 loop_mode=loop_continuous loop_start=125166 loop_end=155249
+// (unsupported) loop_tune=2
+
+<region> sample=IL Btl Bass sustn G#0c.aif key=44 lokey=44 hikey=44 volume=-1 tune=3 loop_mode=loop_continuous loop_start=33107 loop_end=47575
+<region> sample=IL Btl Bass sustn A0b.aif key=45 lokey=45 hikey=46 volume=-1 loop_mode=loop_continuous loop_start=85384 loop_end=114290
+<region> sample=IL Btl Bass sustn B0c.aif key=47 lokey=47 hikey=48 tune=-2 loop_mode=loop_continuous loop_start=107535 loop_end=138225
+<region> sample=IL Btl Bass sustn C#1d.aif key=49 lokey=49 hikey=49 volume=1 loop_mode=loop_continuous loop_start=42112 loop_end=60568
+<region> sample=IL Btl Bass sustn D1c.aif key=50 lokey=50 hikey=51 loop_mode=loop_continuous loop_start=121894 loop_end=150117
+<region> sample=IL Btl Bass sustn E1c.aif key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=118599 loop_end=149632
+<region> sample=IL Btl Bass sustn F#1a.aif key=54 lokey=53 hikey=54 tune=3 loop_mode=loop_continuous loop_start=58463 loop_end=85683
+<region> sample=IL Btl Bass sustn G1c.aif key=55 lokey=55 hikey=56 tune=5 loop_mode=loop_continuous loop_start=80241 loop_end=109139
+// (unsupported) loop_tune=1
+
+<region> sample=IL Btl Bass sustn A1a.aif key=57 lokey=57 hikey=58 tune=-6 loop_mode=loop_continuous loop_start=109139 loop_end=137933
+<region> sample=IL Btl Bass sustn B1a.aif key=59 lokey=59 hikey=60 volume=-1 loop_mode=loop_continuous loop_start=45581 loop_end=62992
+// (unsupported) loop_tune=-9
+
+<region> sample=IL Btl Bass sustn C#2a.aif key=61 lokey=61 hikey=62 volume=-2 tune=-7 loop_mode=loop_continuous loop_start=24054 loop_end=36416
+<region> sample=IL Btl Bass sustn D#2a.aif key=63 lokey=63 hikey=64 volume=-2 tune=-6 loop_mode=loop_continuous loop_start=29735 loop_end=43298
+<region> sample=IL Btl Bass sustn F2b.aif key=65 lokey=65 hikey=66 volume=-3 tune=-17 loop_mode=loop_continuous loop_start=33036 loop_end=54800
+<region> sample=IL Btl Bass sustn G2c.aif key=67 lokey=67 hikey=68 volume=-3 tune=-15 loop_mode=loop_continuous loop_start=30843 loop_end=50917
+<region> sample=IL Btl Bass sustn A2b.aif key=69 lokey=69 hikey=70 volume=-2 tune=-27 loop_mode=loop_continuous loop_start=36403 loop_end=47460
+<region> sample=IL Btl Bass sustn B2c.aif key=71 lokey=71 hikey=72 volume=-4 tune=-28 loop_mode=loop_continuous loop_start=34961 loop_end=45332
+<region> sample=IL Btl Bass sustn C#3d.aif key=73 lokey=73 hikey=127 volume=-4 tune=-31 loop_mode=loop_continuous loop_start=24540 loop_end=33608
+
+<group> lovel=0 hivel=123 volume=3 locc1=0 hicc1=64        // Sustain 2
+<region> sample=IL Btl Bass sustn E0b.aif key=40 lokey=28 hikey=41 tune=7 loop_mode=loop_continuous loop_start=154496 loop_end=185659
+<region> sample=IL Btl Bass sustn F#0c.aif key=42 lokey=42 hikey=43 tune=4 loop_mode=loop_continuous loop_start=99542 loop_end=130159
+// (unsupported) loop_tune=2
+
+<region> sample=IL Btl Bass sustn G#0d.aif key=44 lokey=44 hikey=44 tune=4 loop_mode=loop_continuous loop_start=49927 loop_end=72909
+<region> sample=IL Btl Bass sustn A0c.aif key=45 lokey=45 hikey=46 volume=-2 tune=1 loop_mode=loop_continuous loop_start=127026 loop_end=157536
+<region> sample=IL Btl Bass sustn B0g.aif key=47 lokey=47 hikey=48 tune=-1 loop_mode=loop_continuous loop_start=143605 loop_end=172933
+// (unsupported) loop_tune=3
+
+<region> sample=IL Btl Bass sustn C#1c.aif key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=132861 loop_end=163419
+<region> sample=IL Btl Bass sustn D1b.aif key=50 lokey=50 hikey=51 loop_mode=loop_continuous loop_start=205499 loop_end=236112
+<region> sample=IL Btl Bass sustn E1b.aif key=52 lokey=52 hikey=52 tune=-2 loop_mode=loop_continuous loop_start=141569 loop_end=172581
+<region> sample=IL Btl Bass sustn F#1b.aif key=54 lokey=53 hikey=54 tune=4 loop_mode=loop_continuous loop_start=134947 loop_end=166490
+<region> sample=IL Btl Bass sustn G1a.aif key=55 lokey=55 hikey=56 volume=4 tune=1 loop_mode=loop_continuous loop_start=55077 loop_end=70841
+<region> sample=IL Btl Bass sustn A1d.aif key=57 lokey=57 hikey=58 volume=-1 tune=-4 loop_mode=loop_continuous loop_start=114286 loop_end=145103
+<region> sample=IL Btl Bass sustn B1b.aif key=59 lokey=59 hikey=60 loop_mode=loop_continuous loop_start=53595 loop_end=69251
+// (unsupported) loop_tune=-7
+
+<region> sample=IL Btl Bass sustn C#2c.aif key=61 lokey=61 hikey=62 tune=-8 loop_mode=loop_continuous loop_start=53770 loop_end=69919
+<region> sample=IL Btl Bass sustn D#2c.aif key=63 lokey=63 hikey=64 tune=-5 loop_mode=loop_continuous loop_start=32394 loop_end=47090
+<region> sample=IL Btl Bass sustn F2a.aif key=65 lokey=65 hikey=66 volume=-2 tune=-17 loop_mode=loop_continuous loop_start=44622 loop_end=66633
+<region> sample=IL Btl Bass sustn G2a.aif key=67 lokey=67 hikey=68 volume=1 tune=-16 loop_mode=loop_continuous loop_start=51411 loop_end=68795
+<region> sample=IL Btl Bass sustn A2c.aif key=69 lokey=69 hikey=70 tune=-28 loop_mode=loop_continuous loop_start=40821 loop_end=56805
+<region> sample=IL Btl Bass sustn B2b.aif key=71 lokey=71 hikey=72 volume=-5 tune=-28 loop_mode=loop_continuous loop_start=48411 loop_end=68101
+<region> sample=IL Btl Bass sustn C#3c.aif key=73 lokey=73 hikey=127 tune=-30 loop_mode=loop_continuous loop_start=26036 loop_end=36665
+
+<group> lovel=124 hivel=127 volume=1 locc1=0 hicc1=64        // Slide Offs
+<region> sample=IL B Bass sld off F0b.aif key=41 lokey=28 hikey=42 loop_mode=no_loop
+<region> sample=IL B Bass sld off G#0a.aif key=44 lokey=43 hikey=44 loop_mode=no_loop
+<region> sample=IL B Bass sld off A#0a.aif key=46 lokey=45 hikey=46 loop_mode=no_loop
+<region> sample=IL B Bass sld off B0a.aif key=47 lokey=47 hikey=48 loop_mode=no_loop
+<region> sample=IL B Bass sld off D1a.aif key=50 lokey=49 hikey=50 loop_mode=no_loop
+<region> sample=IL B Bass sld off E1b.aif key=52 lokey=51 hikey=52 loop_mode=no_loop
+<region> sample=IL B Bass sld off F#1c.aif key=54 lokey=53 hikey=54 loop_mode=no_loop
+<region> sample=IL B Bass sld off G1d.aif key=55 lokey=55 hikey=56 loop_mode=no_loop
+<region> sample=IL B Bass sld off A1b.aif key=57 lokey=57 hikey=58 loop_mode=no_loop
+<region> sample=IL B Bass sld off B1b.aif key=59 lokey=59 hikey=60 tune=-18 loop_mode=no_loop
+<region> sample=IL B Bass sld off D2c.aif key=62 lokey=61 hikey=63 tune=-18 loop_mode=no_loop
+<region> sample=IL B Bass sld off E2c.aif key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=IL B Bass sld off F#2b.aif key=67 lokey=66 hikey=67 tune=-30 loop_mode=no_loop
+<region> sample=IL B Bass sld off A2a.aif key=69 lokey=68 hikey=69 loop_mode=no_loop
+<region> sample=IL B Bass sld off B2a.aif key=71 lokey=70 hikey=72 loop_mode=no_loop
+<region> sample=IL B Bass sld off C#3c.aif key=73 lokey=73 hikey=127 tune=-29 loop_mode=no_loop
+
+<group> locc1=65 hicc1=127        // Mutes 1
+<region> sample=IL Btl Bass mute D1a.aif key=50 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=IL Btl Bass mute F#0b.aif key=42 lokey=41 hikey=42 tune=-8 loop_mode=no_loop
+<region> sample=IL Btl Bass mute E1b.aif key=52 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=IL Btl Bass mute G1a.aif key=55 lokey=55 hikey=56 loop_mode=no_loop
+<region> sample=IL Btl Bass mute B1b.aif key=59 lokey=59 hikey=60 volume=-3 loop_mode=no_loop
+<region> sample=IL Btl Bass mute D#2a.aif key=63 lokey=63 hikey=64 tune=-8 loop_mode=no_loop
+<region> sample=IL Btl Bass mute B2c.aif key=71 lokey=71 hikey=72 volume=-2 tune=-22 loop_mode=no_loop
+<region> sample=IL Btl Bass mute C#3a.aif key=73 lokey=73 hikey=127 tune=-31 loop_mode=no_loop
+<region> sample=IL Btl Bass mute E0b.aif key=40 lokey=28 hikey=40 tune=-2 loop_mode=no_loop
+<region> sample=IL Btl Bass mute G0c.aif key=44 lokey=43 hikey=44 tune=-10 loop_mode=no_loop
+<region> sample=IL Btl Bass mute A0c.aif key=45 lokey=45 hikey=45 volume=-2 loop_mode=no_loop
+<region> sample=IL Btl Bass mute A#0b.aif key=46 lokey=46 hikey=46 volume=2 tune=-6 loop_mode=no_loop
+<region> sample=IL Btl Bass mute B0d.aif key=47 lokey=47 hikey=48 volume=-2 tune=-12 loop_mode=no_loop
+<region> sample=IL Btl Bass mute C#1b.aif key=49 lokey=49 hikey=49 volume=-2 tune=-6 loop_mode=no_loop
+<region> sample=IL Btl Bass mute F#1c.aif key=54 lokey=54 hikey=54 loop_mode=no_loop
+<region> sample=IL Btl Bass mute A1b.aif key=57 lokey=57 hikey=58 volume=-1 loop_mode=no_loop
+<region> sample=IL Btl Bass mute C#2a.aif key=61 lokey=61 hikey=62 loop_mode=no_loop
+<region> sample=IL Btl Bass mute F2b.aif key=65 lokey=65 hikey=66 tune=-10 loop_mode=no_loop
+<region> sample=IL Btl Bass mute G2b.aif key=67 lokey=67 hikey=68 loop_mode=no_loop
+<region> sample=IL Btl Bass mute A2a.aif key=69 lokey=69 hikey=70 tune=-20 loop_mode=no_loop
+
+<group> locc1=65 hicc1=127        // Mutes 2
+<region> sample=IL Btl Bass mute E0a.aif key=40 lokey=28 hikey=40 tune=-4 loop_mode=no_loop
+<region> sample=IL Btl Bass mute F0c.aif key=42 lokey=41 hikey=42 tune=-4 loop_mode=no_loop
+<region> sample=IL Btl Bass mute G#0b.aif key=44 lokey=43 hikey=44 loop_mode=no_loop
+<region> sample=IL Btl Bass mute A0b.aif key=45 lokey=45 hikey=46 volume=-1 tune=-6 loop_mode=no_loop
+<region> sample=IL Btl Bass mute B0a.aif key=47 lokey=47 hikey=48 tune=-2 loop_mode=no_loop
+<region> sample=IL Btl Bass mute C#1a.aif key=49 lokey=49 hikey=49 volume=-2 tune=-5 loop_mode=no_loop
+<region> sample=IL Btl Bass mute D1b.aif key=50 lokey=50 hikey=51 tune=-7 loop_mode=no_loop
+<region> sample=IL Btl Bass mute E1a.aif key=52 lokey=52 hikey=53 tune=-8 loop_mode=no_loop
+<region> sample=IL Btl Bass mute F#1d.aif key=54 lokey=54 hikey=55 loop_mode=no_loop
+<region> sample=IL Btl Bass mute A1a.aif key=57 lokey=56 hikey=58 volume=-1 tune=-2 loop_mode=no_loop
+<region> sample=IL Btl Bass mute B1a.aif key=59 lokey=59 hikey=60 volume=-1 tune=-2 loop_mode=no_loop
+<region> sample=IL Btl Bass mute C#2b.aif key=61 lokey=61 hikey=62 loop_mode=no_loop
+<region> sample=IL Btl Bass mute D#2b.aif key=63 lokey=63 hikey=64 tune=-10 loop_mode=no_loop
+<region> sample=IL Btl Bass mute F2a.aif key=65 lokey=65 hikey=66 tune=-8 loop_mode=no_loop
+<region> sample=IL Btl Bass mute G2a.aif key=67 lokey=67 hikey=68 tune=-8 loop_mode=no_loop
+<region> sample=IL Btl Bass mute A2b.aif key=69 lokey=69 hikey=70 tune=-15 loop_mode=no_loop
+<region> sample=IL Btl Bass mute B2a.aif key=71 lokey=71 hikey=72 tune=-16 loop_mode=no_loop
+<region> sample=IL Btl Bass mute C#3b.aif key=73 lokey=73 hikey=127 tune=-32 loop_mode=no_loop

@@ -1,0 +1,11 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sawvelo legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Sawvelo legato\
+
+<group>        // Group #1
+<region> sample=SawVeloSoft.wav key=48 lokey=0 hikey=127 lovel=48 hivel=70 loop_mode=loop_continuous loop_start=29433 loop_end=30780
+<region> sample=SawVeloMed.wav key=48 lokey=0 hikey=127 lovel=71 hivel=99 loop_mode=loop_continuous loop_start=30784 loop_end=32130
+<region> sample=SawVeloHard.wav key=48 lokey=0 hikey=127 lovel=100 hivel=127 loop_mode=loop_continuous loop_start=33483 loop_end=34829
+<region> sample=SawVeloDark.wav key=48 lokey=0 hikey=127 lovel=1 hivel=47 loop_mode=loop_continuous loop_start=25382 loop_end=26728

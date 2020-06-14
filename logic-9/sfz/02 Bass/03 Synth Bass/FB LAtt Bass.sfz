@@ -1,0 +1,27 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - FB LAtt Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/FB LAtt Bass\
+
+<group>        // Group #1
+<region> sample=FLLatt69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=195665 loop_end=196467
+<region> sample=FLLatt48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=196893 loop_end=197568
+<region> sample=FLLatt96.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=192200 loop_end=195526
+<region> sample=FLLatt57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=195649 loop_end=196451
+<region> sample=FLLatt90.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=191407 loop_end=195222
+<region> sample=FLLatt75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=193358 loop_end=196335
+<region> sample=FLLatt87.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=186726 loop_end=188569
+<region> sample=FLLatt45.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=196475 loop_end=197277
+<region> sample=FLLatt81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=196184 loop_end=198590
+<region> sample=FLLatt66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=194678 loop_end=195632
+<region> sample=FLLatt54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=196519 loop_end=197473
+<region> sample=FLLatt84.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=188270 loop_end=193244
+<region> sample=FLLatt72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=195609 loop_end=196115
+<region> sample=FLLatt60.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=196596 loop_end=197270
+<region> sample=FLLatt42.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=195963 loop_end=196915
+<region> sample=FLLatt78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=191861 loop_end=194484
+<region> sample=FLLatt51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=196084 loop_end=197219
+<region> sample=FLLatt93.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=196338 loop_end=197140
+<region> sample=FLLatt63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=191323 loop_end=196711
+<region> sample=FLLatt39.aif key=39 lokey=0 hikey=40 loop_mode=loop_continuous loop_start=191239 loop_end=192371

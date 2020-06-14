@@ -1,0 +1,70 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Piccolo+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Piccolo/Piccolo-L_LV_nA_sus_mf\
+
+<group>        // Legato
+<region> sample=PFL-L_LV_nA_sus_mf_F#6.wav key=78 lokey=77 hikey=78 loop_mode=loop_continuous loop_start=122251 loop_end=179154
+<region> sample=PFL-L_LV_nA_sus_mf_E6.wav key=76 lokey=75 hikey=76 volume=2 loop_mode=loop_continuous loop_start=113776 loop_end=246993
+<region> sample=PFL-L_LV_nA_sus_mf_D6.wav key=74 lokey=73 hikey=74 volume=2 loop_mode=loop_continuous loop_start=145265 loop_end=233738
+<region> sample=PFL-L_LV_nA_sus_mf_C6.wav key=72 lokey=71 hikey=72 volume=-3 loop_mode=loop_continuous loop_start=143920 loop_end=256500
+<region> sample=PFL-L_LV_nA_sus_mf_D5.wav key=62 lokey=21 hikey=62 loop_mode=loop_continuous loop_start=200423 loop_end=324955
+<region> sample=PFL-L_LV_nA_sus_mf_C8.wav key=96 lokey=96 hikey=96 loop_mode=loop_continuous loop_start=151435 loop_end=230660
+<region> sample=PFL-L_LV_nA_sus_mf_C8.wav key=96 lokey=95 hikey=95 loop_mode=loop_continuous loop_start=151435 loop_end=230660
+<region> sample=PFL-L_LV_nA_sus_mf_A#7.wav key=94 lokey=93 hikey=94 loop_mode=loop_continuous loop_start=189149 loop_end=224879
+<region> sample=PFL-L_LV_nA_sus_mf_G#7.wav key=92 lokey=91 hikey=92 volume=-5 loop_mode=loop_continuous loop_start=169246 loop_end=271065
+<region> sample=PFL-L_LV_nA_sus_mf_F#7.wav key=90 lokey=89 hikey=90 volume=-4 loop_mode=loop_continuous loop_start=74356 loop_end=256299
+<region> sample=PFL-L_LV_nA_sus_mf_E7.wav key=88 lokey=87 hikey=88 volume=2 loop_mode=loop_continuous loop_start=212248 loop_end=286184
+<region> sample=PFL-L_LV_nA_sus_mf_D7.wav key=86 lokey=85 hikey=86 loop_mode=loop_continuous loop_start=215021 loop_end=282240
+<region> sample=PFL-L_LV_nA_sus_mf_C7.wav key=84 lokey=83 hikey=84 volume=-2 loop_mode=loop_continuous loop_start=235669 loop_end=320372
+<region> sample=PFL-L_LV_nA_sus_mf_A#6.wav key=82 lokey=81 hikey=82 loop_mode=loop_continuous loop_start=216153 loop_end=305460
+<region> sample=PFL-L_LV_nA_sus_mf_G#6.wav key=80 lokey=79 hikey=80 loop_mode=loop_continuous loop_start=228895 loop_end=325265
+<region> sample=PFL-L_LV_nA_sus_mf_A#5.wav key=70 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=174329 loop_end=275745
+<region> sample=PFL-L_LV_nA_sus_mf_G#5.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=130106 loop_end=222769
+<region> sample=PFL-L_LV_nA_sus_mf_F#5.wav key=66 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=106666 loop_end=245467
+<region> sample=PFL-L_LV_nA_sus_mf_E5.wav key=64 lokey=64 hikey=64 loop_mode=loop_continuous loop_start=224929 loop_end=293023
+<region> sample=PFL-L_LV_nA_sus_mf_D#5.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=204296 loop_end=303713
+<region> sample=PFL-L_LV_nA_sus_mf_C#8.wav key=97 lokey=97 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=139711 loop_end=200131
+
+<group> lovel=89 hivel=127        // Staccato:Mezzo Forte
+<region> sample=PFL_stac_mf1_F#6.wav key=78 lokey=77 hikey=78 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_E6.wav key=76 lokey=75 hikey=76 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_D6.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_C6.wav key=72 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_D5.wav key=62 lokey=21 hikey=62 volume=-4 loop_mode=no_loop
+<region> sample=PFL_stac_f1_C7.wav key=84 lokey=83 hikey=84 volume=-2 loop_mode=no_loop
+<region> sample=PFL_stac_f1_A#6.wav key=82 lokey=81 hikey=82 volume=1 loop_mode=no_loop
+<region> sample=PFL_stac_f1_G#6.wav key=80 lokey=79 hikey=80 loop_mode=no_loop
+<region> sample=PFL_stac_f1_D7.wav key=86 lokey=85 hikey=86 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_A#5.wav key=70 lokey=69 hikey=70 volume=-2 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_G#5.wav key=68 lokey=67 hikey=68 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_F#5.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_E5.wav key=64 lokey=64 hikey=64 loop_mode=no_loop
+<region> sample=PFL_stac_mf1_D#5.wav key=63 lokey=63 hikey=63 volume=-4 loop_mode=no_loop
+<region> sample=PFL_stac_f1_C8.wav key=96 lokey=97 hikey=108 volume=-1 loop_mode=no_loop
+<region> sample=PFL_stac_f1_C8.wav key=96 lokey=96 hikey=96 volume=-1 loop_mode=no_loop
+<region> sample=PFL_stac_f1_B7.wav key=95 lokey=95 hikey=95 volume=-1 loop_mode=no_loop
+<region> sample=PFL_stac_f1_A#7.wav key=94 lokey=93 hikey=94 volume=2 loop_mode=no_loop
+<region> sample=PFL_stac_f1_G#7.wav key=92 lokey=91 hikey=92 volume=-4 loop_mode=no_loop
+<region> sample=PFL_stac_f1_F#7.wav key=90 lokey=89 hikey=90 volume=-2 loop_mode=no_loop
+<region> sample=PFL_stac_f1_E7.wav key=88 lokey=87 hikey=88 volume=-2 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-2        // Staccato:Piano
+<region> sample=PFL_stac_p1_B7.wav key=95 lokey=95 hikey=108 loop_mode=no_loop
+<region> sample=PFL_stac_p1_A#7.wav key=94 lokey=94 hikey=94 loop_mode=no_loop
+<region> sample=PFL_stac_p1_A7.wav key=93 lokey=93 hikey=93 volume=-2 loop_mode=no_loop
+<region> sample=PFL_stac_p1_G7.wav key=91 lokey=91 hikey=92 volume=-1 loop_mode=no_loop
+<region> sample=PFL_stac_p1_F7.wav key=89 lokey=89 hikey=90 loop_mode=no_loop
+<region> sample=PFL_stac_p1_D#7.wav key=87 lokey=87 hikey=88 volume=1 loop_mode=no_loop
+<region> sample=PFL_stac_p1_C#7.wav key=85 lokey=85 hikey=86 volume=1 loop_mode=no_loop
+<region> sample=PFL_stac_p1_B6.wav key=83 lokey=83 hikey=84 volume=3 pan=-40 loop_mode=no_loop
+<region> sample=PFL_stac_p1_A6.wav key=81 lokey=81 hikey=82 volume=3 loop_mode=no_loop
+<region> sample=PFL_stac_p1_G6.wav key=79 lokey=79 hikey=80 loop_mode=no_loop
+<region> sample=PFL_stac_p1_F6.wav key=77 lokey=77 hikey=78 volume=5 loop_mode=no_loop
+<region> sample=PFL_stac_p1_D#6.wav key=75 lokey=75 hikey=76 loop_mode=no_loop
+<region> sample=PFL_stac_p1_C#6.wav key=73 lokey=73 hikey=74 loop_mode=no_loop
+<region> sample=PFL_stac_p1_B5.wav key=71 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=PFL_stac_p1_A5.wav key=69 lokey=69 hikey=70 loop_mode=no_loop
+<region> sample=PFL_stac_p1_G5.wav key=67 lokey=67 hikey=68 volume=2 loop_mode=no_loop
+<region> sample=PFL_stac_p1_F5.wav key=65 lokey=21 hikey=66 loop_mode=no_loop

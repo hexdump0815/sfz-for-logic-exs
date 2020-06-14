@@ -1,0 +1,31 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Xylophone.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Xylophone/Xylophone_HO_f_L\
+
+<group>        // Xyl_HO_f_L
+<region> sample=Xyl_HO_f_L_E6.wav key=76 lokey=76 hikey=77 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_D6.wav key=74 lokey=74 hikey=75 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_C6.wav key=72 lokey=72 hikey=73 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_A#5.wav key=70 lokey=70 hikey=71 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_G#5.wav key=68 lokey=68 hikey=69 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_R_F#5.wav key=66 lokey=66 hikey=67 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_E5.wav key=64 lokey=64 hikey=65 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_D5.wav key=62 lokey=62 hikey=63 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_C5.wav key=60 lokey=60 hikey=61 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_A#4.wav key=58 lokey=58 hikey=59 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_G#4.wav key=56 lokey=56 hikey=57 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_F#4.wav key=54 lokey=54 hikey=55 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_F4.wav key=53 lokey=21 hikey=53 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_G#7.wav key=92 lokey=92 hikey=93 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_B7.wav key=95 lokey=95 hikey=95 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_C8.wav key=96 lokey=96 hikey=108 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_F#7.wav key=90 lokey=90 hikey=91 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_D7.wav key=86 lokey=86 hikey=87 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_G#6.wav key=80 lokey=80 hikey=81 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_F#6.wav key=78 lokey=78 hikey=79 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_A#6.wav key=82 lokey=82 hikey=83 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_C7.wav key=84 lokey=84 hikey=85 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_E7.wav key=88 lokey=88 hikey=89 volume=-2 loop_mode=no_loop
+<region> sample=Xyl_HO_f_L_A#7.wav key=94 lokey=94 hikey=94 volume=-2 loop_mode=no_loop

@@ -1,0 +1,269 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Steinway Grand Piano.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/01 Acoustic Pianos/Steinway Grand Piano/Steinway Pedal V1\
+
+<group> lovel=90 hivel=127 volume=2 locc64=64 hicc64=127        // p1 - Steinway pedal V3 90-127
+<region> sample=Stw ped v3 108.aif key=108 lokey=107 hikey=127 volume=1 loop_mode=no_loop
+<region> sample=Stw ped v3 099.aif key=99 lokey=98 hikey=100 loop_mode=loop_continuous loop_start=203363 loop_end=266450
+<region> sample=Stw ped v3 093.aif key=93 lokey=92 hikey=94 volume=4 loop_mode=loop_continuous loop_start=123567 loop_end=150848
+<region> sample=Stw ped v3 090.aif key=90 lokey=89 hikey=91 volume=2 loop_mode=loop_continuous loop_start=260249 loop_end=341696
+<region> sample=Stw ped v3 081.aif key=81 lokey=80 hikey=82 volume=3 loop_mode=loop_continuous loop_start=230034 loop_end=301192
+<region> sample=Stw ped v3 102.aif key=102 lokey=101 hikey=103 loop_mode=loop_continuous loop_start=194912 loop_end=241294
+<region> sample=Stw ped v3 024.aif key=24 lokey=0 hikey=26 loop_mode=loop_continuous loop_start=807528 loop_end=932531
+<region> sample=Stw ped v3 042.aif key=42 lokey=39 hikey=43 loop_mode=loop_continuous loop_start=489651 loop_end=576445
+<region> sample=Stw ped v3 066.aif key=66 lokey=65 hikey=67 volume=1 loop_mode=loop_continuous loop_start=468596 loop_end=662675
+<region> sample=Stw ped v3 087.aif key=87 lokey=86 hikey=88 volume=4 loop_mode=loop_continuous loop_start=194659 loop_end=226679
+<region> sample=Stw ped v3 060.aif key=60 lokey=59 hikey=61 volume=-1 loop_mode=loop_continuous loop_start=220458 loop_end=300883
+<region> sample=Stw ped v3 063.aif key=63 lokey=62 hikey=64 volume=-1 loop_mode=loop_continuous loop_start=611722 loop_end=741829
+<region> sample=Stw ped v3 072.aif key=72 lokey=71 hikey=73 volume=1 loop_mode=loop_continuous loop_start=457665 loop_end=604096
+<region> sample=Stw ped v3 054.aif key=54 lokey=53 hikey=55 volume=1 loop_mode=loop_continuous loop_start=503622 loop_end=631479
+<region> sample=Stw ped v3 048.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=372328 loop_end=526191
+<region> sample=Stw ped v3 051.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=527290 loop_end=643028
+<region> sample=Stw ped v3 057.aif key=57 lokey=56 hikey=58 volume=1 loop_mode=loop_continuous loop_start=600425 loop_end=724654
+<region> sample=Stw ped v3 045.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=484742 loop_end=601224
+<region> sample=Stw ped v3 078.aif key=78 lokey=77 hikey=79 volume=2 loop_mode=loop_continuous loop_start=203917 loop_end=243404
+<region> sample=Stw ped v3 075.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=223279 loop_end=323953
+<region> sample=Stw ped v3 069.aif key=69 lokey=68 hikey=70 volume=2 loop_mode=loop_continuous loop_start=342354 loop_end=528432
+<region> sample=Stw ped v3 084.aif key=84 lokey=83 hikey=85 volume=4 loop_mode=loop_continuous loop_start=203671 loop_end=259107
+<region> sample=Stw ped v3 096.aif key=96 lokey=95 hikey=97 volume=2 loop_mode=loop_continuous loop_start=162475 loop_end=213175
+<region> sample=Stw ped v3 030.aif key=30 lokey=27 hikey=32 volume=-1 loop_mode=loop_continuous loop_start=768696 loop_end=916687
+<region> sample=Stw ped v3 036.aif key=36 lokey=33 hikey=38 loop_mode=loop_continuous loop_start=705951 loop_end=841498
+<region> sample=Stw ped v3 105.aif key=105 lokey=104 hikey=106 loop_mode=no_loop
+
+<group> lovel=90 hivel=127 lokey=92 hikey=127 locc64=0 hicc64=63        // 1.4 - Steinway V5-No Dampers
+<region> sample=Steinway V5  108.aif key=108 lokey=107 hikey=127 volume=4 loop_mode=no_loop
+<region> sample=Steinway V5  099.aif key=99 lokey=98 hikey=100 volume=4 loop_mode=no_loop
+<region> sample=Steinway V5  093.aif key=93 lokey=92 hikey=94 volume=6 loop_mode=loop_continuous loop_start=122619 loop_end=126221
+<region> sample=Steinway V5  102.aif key=102 lokey=101 hikey=103 volume=4 loop_mode=no_loop
+<region> sample=Steinway V5  096.aif key=96 lokey=95 hikey=97 volume=4 loop_mode=loop_continuous loop_start=126390 loop_end=129626
+<region> sample=Steinway V5  105.aif key=105 lokey=104 hikey=106 volume=4 loop_mode=loop_continuous loop_start=69840 loop_end=71272
+
+<group> lovel=90 hivel=127 lokey=41 hikey=91 locc64=0 hicc64=63        // 1.3 - Steinway V5-TripleUnWound
+<region> sample=Steinway V5  090.aif key=90 lokey=89 hikey=91 volume=3 loop_mode=loop_continuous loop_start=132757 loop_end=134676
+<region> sample=Steinway V5  081.aif key=81 lokey=80 hikey=82 volume=2 loop_mode=loop_continuous loop_start=537148 loop_end=545119
+<region> sample=Steinway V5  042.aif key=42 lokey=41 hikey=44 loop_mode=loop_continuous loop_start=963227 loop_end=964652
+<region> sample=Steinway V5  066.aif key=66 lokey=65 hikey=67 volume=-1 loop_mode=loop_continuous loop_start=714130 loop_end=717814
+<region> sample=Steinway V5  087.aif key=87 lokey=86 hikey=88 volume=2 loop_mode=loop_continuous loop_start=266857 loop_end=271077
+<region> sample=Steinway V5  060.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=732654 loop_end=737012
+<region> sample=Steinway V5  063.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=820861 loop_end=822552
+<region> sample=Steinway V5  072.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=628705 loop_end=634997
+<region> sample=Steinway V5  057.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=951790 loop_end=955387
+<region> sample=Steinway V5  046.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=1326947 loop_end=1328831
+<region> sample=Steinway V5  051.aif key=51 lokey=50 hikey=52 volume=-2 loop_mode=loop_continuous loop_start=879385 loop_end=883908
+<region> sample=Steinway V5  054.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=1242029 loop_end=1245585
+<region> sample=Steinway V5  048.aif key=48 lokey=48 hikey=49 loop_mode=loop_continuous loop_start=1073468 loop_end=1083884
+<region> sample=Steinway V5  078.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=346561 loop_end=350171
+<region> sample=Steinway V5  075.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=550336 loop_end=553863
+<region> sample=Steinway V5  069.aif key=69 lokey=68 hikey=70 volume=2 loop_mode=loop_continuous loop_start=578489 loop_end=586272
+<region> sample=Steinway V5  084.aif key=84 lokey=83 hikey=85 volume=4 loop_mode=loop_continuous loop_start=281699 loop_end=285256
+
+<group> lovel=90 hivel=127 lokey=0 hikey=28 locc64=0 hicc64=63        // 1.1 - Steinway V5-Single Wound
+<region> sample=Steinway V5  021.aif key=21 lokey=0 hikey=22 loop_mode=loop_continuous loop_start=1136893 loop_end=1138494
+<region> sample=Steinway V5  024.aif key=24 lokey=23 hikey=25 loop_mode=loop_continuous loop_start=1428350 loop_end=1429678
+<region> sample=Steinway V5  027.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=1392902 loop_end=1398549
+
+<group> lovel=0 hivel=39 lokey=0 hikey=28 volume=-4 locc64=0 hicc64=63        // 4.1 - Steinway V2-Single Wound
+<region> sample=Steinway V2  021.aif key=21 lokey=0 hikey=22 loop_mode=loop_continuous loop_start=281553 loop_end=283154
+<region> sample=Steinway V2  024.aif key=24 lokey=23 hikey=25 loop_mode=loop_continuous loop_start=406831 loop_end=409531
+<region> sample=Steinway V2  027.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=500468 loop_end=504338
+
+<group> lovel=0 hivel=39 locc64=64 hicc64=127        // p4 - Steinway pedal V1
+<region> sample=Stw ped v1 024.AIF key=24 lokey=0 hikey=27 loop_mode=no_loop
+<region> sample=Stw ped v1 108.AIF key=108 lokey=107 hikey=127 loop_mode=no_loop
+<region> sample=Stw ped v1 099.AIF key=99 lokey=98 hikey=100 loop_mode=no_loop
+<region> sample=Stw ped v1 102.AIF key=102 lokey=101 hikey=103 loop_mode=no_loop
+<region> sample=Stw ped v1 084.AIF key=84 lokey=83 hikey=85 loop_mode=no_loop
+<region> sample=Stw ped v1 078.AIF key=78 lokey=77 hikey=79 loop_mode=no_loop
+<region> sample=Stw ped v1 072.AIF key=72 lokey=71 hikey=73 loop_mode=no_loop
+<region> sample=Stw ped v1 066.AIF key=66 lokey=65 hikey=67 loop_mode=no_loop
+<region> sample=Stw ped v1 060.AIF key=60 lokey=59 hikey=61 loop_mode=no_loop
+<region> sample=Stw ped v1 054.AIF key=54 lokey=53 hikey=55 loop_mode=no_loop
+<region> sample=Stw ped v1 048.AIF key=48 lokey=47 hikey=49 loop_mode=no_loop
+<region> sample=Stw ped v1 042.AIF key=42 lokey=40 hikey=43 loop_mode=no_loop
+<region> sample=Stw ped v1 030.AIF key=30 lokey=28 hikey=33 loop_mode=no_loop
+<region> sample=Stw ped v1 036.AIF key=36 lokey=34 hikey=39 loop_mode=no_loop
+<region> sample=Stw ped v1 096.AIF key=96 lokey=95 hikey=97 loop_mode=no_loop
+<region> sample=Stw ped v1 045.AIF key=45 lokey=44 hikey=46 loop_mode=no_loop
+<region> sample=Stw ped v1 051.AIF key=51 lokey=50 hikey=52 loop_mode=no_loop
+<region> sample=Stw ped v1 057.AIF key=57 lokey=56 hikey=58 loop_mode=no_loop
+<region> sample=Stw ped v1 069.AIF key=69 lokey=68 hikey=70 loop_mode=no_loop
+<region> sample=Stw ped v1 063.AIF key=63 lokey=62 hikey=64 loop_mode=no_loop
+<region> sample=Stw ped v1 075.AIF key=75 lokey=74 hikey=76 loop_mode=no_loop
+<region> sample=Stw ped v1 081.AIF key=81 lokey=80 hikey=82 loop_mode=no_loop
+<region> sample=Stw ped v1 087.AIF key=87 lokey=86 hikey=88 loop_mode=no_loop
+<region> sample=Stw ped v1 090.AIF key=90 lokey=89 hikey=91 loop_mode=no_loop
+<region> sample=Stw ped v1 093.AIF key=93 lokey=92 hikey=94 loop_mode=no_loop
+<region> sample=Stw ped v1 105.AIF key=105 lokey=104 hikey=106 loop_mode=no_loop
+
+<group> lovel=90 hivel=127 lokey=29 hikey=40 locc64=0 hicc64=63        // 1.2 - Steinway V5-Double Wound
+<region> sample=Steinway V5  039.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=1308984 loop_end=1314640
+<region> sample=Steinway V5  030.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=1902018 loop_end=1914383
+<region> sample=Steinway V5  036.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=1433591 loop_end=1438298
+<region> sample=Steinway V5  033.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=1381277 loop_end=1384476
+
+<group> lovel=60 hivel=89 lokey=0 hikey=28 locc64=0 hicc64=63        // 2.1 - Steinway V4-Single Wound
+<region> sample=Steinway V4  027.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=1438957 loop_end=1445721
+<region> sample=Steinway V4  024.aif key=24 lokey=23 hikey=25 loop_mode=loop_continuous loop_start=1281693 loop_end=1285687
+<region> sample=Steinway V4  021.aif key=21 lokey=0 hikey=22 loop_mode=loop_continuous loop_start=794426 loop_end=796034
+
+<group> lovel=60 hivel=89 lokey=29 hikey=40 locc64=0 hicc64=63        // 2.2 - Steinway V4-Double Wound
+<region> sample=Steinway V4  036.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=1487650 loop_end=1490333
+<region> sample=Steinway V4  039.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=994814 loop_end=996508
+<region> sample=Steinway V4  030.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=1684014 loop_end=1686870
+<region> sample=Steinway V4  033.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=1687581 loop_end=1689996
+
+<group> lovel=60 hivel=89 lokey=41 hikey=91 volume=-3 locc64=0 hicc64=63        // 2.3 - Steinway V4-TripleUnWound
+<region> sample=Steinway V4  078.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=298383 loop_end=301165
+<region> sample=Steinway V4  081.aif key=81 lokey=80 hikey=82 volume=6 loop_mode=loop_continuous loop_start=511322 loop_end=516600
+<region> sample=Steinway V4  084.aif key=84 lokey=83 hikey=85 volume=6 loop_mode=loop_continuous loop_start=202129 loop_end=204973
+<region> sample=Steinway V4  090.aif key=90 lokey=89 hikey=91 volume=5 loop_mode=loop_continuous loop_start=280256 loop_end=287360
+<region> sample=Steinway V4  075.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=400443 loop_end=407435
+<region> sample=Steinway V4  060.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=521693 loop_end=522199
+<region> sample=Steinway V4  066.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=712152 loop_end=715707
+<region> sample=Steinway V4  072.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=461579 loop_end=463593
+<region> sample=Steinway V4  087.aif key=87 lokey=86 hikey=88 volume=5 loop_mode=loop_continuous loop_start=232987 loop_end=237561
+<region> sample=Steinway V4  054.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=995434 loop_end=999471
+<region> sample=Steinway V4  063.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=778510 loop_end=782178
+<region> sample=Steinway V4  048.aif key=48 lokey=48 hikey=49 loop_mode=loop_continuous loop_start=1219863 loop_end=1224041
+<region> sample=Steinway V4  051.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=1032031 loop_end=1035708
+<region> sample=Steinway V4  069.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=753719 loop_end=757313
+<region> sample=Steinway V4  057.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=1104837 loop_end=1109126
+<region> sample=Steinway V4  046.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=1252239 loop_end=1255639
+<region> sample=Steinway V4  042.aif key=42 lokey=41 hikey=44 loop_mode=loop_continuous loop_start=1038314 loop_end=1039258
+
+<group> lovel=60 hivel=89 lokey=92 hikey=127 locc64=0 hicc64=63        // 2.4 - Steinway V4 No Dampers
+<region> sample=Steinway V4  093.aif key=93 lokey=92 hikey=94 volume=7 loop_mode=loop_continuous loop_start=135324 loop_end=137883
+<region> sample=Steinway V4  096.aif key=96 lokey=95 hikey=97 volume=6 loop_mode=loop_continuous loop_start=203915 loop_end=209338
+<region> sample=Steinway V4  099.aif key=99 lokey=98 hikey=100 volume=6 loop_mode=loop_continuous loop_start=86433 loop_end=88062
+<region> sample=Steinway V4  102.aif key=102 lokey=101 hikey=103 volume=2 loop_mode=no_loop
+<region> sample=Steinway V4  105.aif key=105 lokey=104 hikey=106 volume=3 loop_mode=loop_continuous loop_start=77286 loop_end=78188
+<region> sample=Steinway V4  108.aif key=108 lokey=107 hikey=127 volume=3 loop_mode=loop_continuous loop_start=67223 loop_end=68132
+
+<group> lovel=40 hivel=59 lokey=0 hikey=28 volume=-1 locc64=0 hicc64=63        // 3.1 - Steinway V3-Single Wound
+<region> sample=Steinway V3  024.aif key=24 lokey=23 hikey=25 loop_mode=loop_continuous loop_start=1112470 loop_end=1117807
+<region> sample=Steinway V3  027.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=1214152 loop_end=1219781
+<region> sample=Steinway V3  021.aif key=21 lokey=0 hikey=22 loop_mode=loop_continuous loop_start=797016 loop_end=801399
+
+<group> lovel=40 hivel=59 lokey=29 hikey=40 volume=-3 locc64=0 hicc64=63        // 3.2 - Steinway V3-Double Wound
+<region> sample=Steinway V3  036.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=820931 loop_end=822276
+<region> sample=Steinway V3  030.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=929735 loop_end=931633
+<region> sample=Steinway V3  039.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=925880 loop_end=931364
+<region> sample=Steinway V3  033.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=1046482 loop_end=1048076
+
+<group> lovel=40 hivel=59 lokey=41 hikey=91 locc64=0 hicc64=63        // 3.3 - Steinway V3-Triple Wound
+<region> sample=Steinway V3  090.aif key=90 lokey=89 hikey=91 volume=1 loop_mode=loop_continuous loop_start=130581 loop_end=134064
+<region> sample=Steinway V3  084.aif key=84 lokey=83 hikey=85 volume=3 loop_mode=loop_continuous loop_start=131877 loop_end=136018
+<region> sample=Steinway V3  078.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=183373 loop_end=185211
+<region> sample=Steinway V3  072.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=410803 loop_end=416929
+<region> sample=Steinway V3  066.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=374801 loop_end=377528
+<region> sample=Steinway V3  060.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=345399 loop_end=348092
+<region> sample=Steinway V3  054.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=775327 loop_end=781267
+<region> sample=Steinway V3  048.aif key=48 lokey=48 hikey=49 loop_mode=loop_continuous loop_start=805695 loop_end=808385
+<region> sample=Steinway V3  042.aif key=42 lokey=41 hikey=44 loop_mode=loop_continuous loop_start=746336 loop_end=748230
+<region> sample=Steinway V3  046.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=924493 loop_end=929021
+<region> sample=Steinway V3  051.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=606331 loop_end=609716
+<region> sample=Steinway V3  057.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=583101 loop_end=584898
+<region> sample=Steinway V3  063.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=587215 loop_end=590741
+<region> sample=Steinway V3  069.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=464729 loop_end=471816
+<region> sample=Steinway V3  075.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=235491 loop_end=239589
+<region> sample=Steinway V3  081.aif key=81 lokey=80 hikey=82 volume=2 loop_mode=loop_continuous loop_start=307065 loop_end=311495
+<region> sample=Steinway V3  087.aif key=87 lokey=86 hikey=88 volume=4 loop_mode=loop_continuous loop_start=100759 loop_end=104418
+
+<group> lovel=40 hivel=59 lokey=92 hikey=127 locc64=0 hicc64=63        // 3.4 - Steinway V3 No Dampers
+<region> sample=Steinway V3  102.aif key=102 lokey=101 hikey=103 volume=2 loop_mode=loop_continuous loop_start=73225 loop_end=75886
+<region> sample=Steinway V3  096.aif key=96 lokey=95 hikey=97 volume=3 loop_mode=loop_continuous loop_start=88165 loop_end=90794
+<region> sample=Steinway V3  099.aif key=99 lokey=98 hikey=100 volume=4 loop_mode=loop_continuous loop_start=77154 loop_end=79167
+<region> sample=Steinway V3  108.aif key=108 lokey=107 hikey=127 volume=2 loop_mode=loop_continuous loop_start=64121 loop_end=68579
+<region> sample=Steinway V3  093.aif key=93 lokey=92 hikey=94 volume=4 loop_mode=loop_continuous loop_start=93926 loop_end=98404
+<region> sample=Steinway V3  105.aif key=105 lokey=104 hikey=106 volume=2 loop_mode=loop_continuous loop_start=59680 loop_end=63287
+
+<group> lovel=0 hivel=39 lokey=29 hikey=40 volume=-3 locc64=0 hicc64=63        // 4.2 - Steinway V2-Double Wound
+<region> sample=Steinway V2  030.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=431023 loop_end=432918
+<region> sample=Steinway V2  036.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=888770 loop_end=891450
+<region> sample=Steinway V2  039.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=343988 loop_end=348509
+<region> sample=Steinway V2  033.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=396372 loop_end=397977
+
+<group> lovel=0 hivel=39 lokey=41 hikey=91 volume=-2 locc64=0 hicc64=63        // 4.3 - Steinway V2-TripleUnWound
+<region> sample=Steinway V2  084.aif key=84 lokey=83 hikey=85 volume=3 loop_mode=loop_continuous loop_start=132878 loop_end=134885
+<region> sample=Steinway V2  078.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=227807 loop_end=229703
+<region> sample=Steinway V2  072.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=325524 loop_end=326948
+<region> sample=Steinway V2  066.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=244157 loop_end=247360
+<region> sample=Steinway V2  060.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=232502 loop_end=234855
+<region> sample=Steinway V2  054.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=521608 loop_end=523982
+<region> sample=Steinway V2  048.aif key=48 lokey=48 hikey=49 loop_mode=loop_continuous loop_start=427065 loop_end=428751
+<region> sample=Steinway V2  042.aif key=42 lokey=41 hikey=44 loop_mode=loop_continuous loop_start=452833 loop_end=454723
+<region> sample=Steinway V2  046.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=545245 loop_end=547885
+<region> sample=Steinway V2  051.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=505638 loop_end=508183
+<region> sample=Steinway V2  057.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=369076 loop_end=373063
+<region> sample=Steinway V2  069.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=289950 loop_end=292145
+<region> sample=Steinway V2  063.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=330784 loop_end=333744
+<region> sample=Steinway V2  075.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=177524 loop_end=179215
+<region> sample=Steinway V2  081.aif key=81 lokey=80 hikey=82 volume=1 loop_mode=loop_continuous loop_start=203570 loop_end=206356
+<region> sample=Steinway V2  087.aif key=87 lokey=86 hikey=88 volume=4 loop_mode=loop_continuous loop_start=145253 loop_end=147928
+<region> sample=Steinway V2  090.aif key=90 lokey=89 hikey=91 volume=1 loop_mode=loop_continuous loop_start=93989 loop_end=94520
+
+<group> lovel=0 hivel=39 lokey=92 hikey=127 volume=-2 locc64=0 hicc64=63        // 4.4 - Steinway V2 No Dampers
+<region> sample=Steinway V2  108.aif key=108 lokey=107 hikey=127 volume=3 loop_mode=no_loop
+<region> sample=Steinway V2  099.aif key=99 lokey=98 hikey=100 volume=4 loop_mode=no_loop
+<region> sample=Steinway V2  102.aif key=102 lokey=101 hikey=103 volume=3 loop_mode=no_loop
+<region> sample=Steinway V2  096.aif key=96 lokey=95 hikey=97 volume=3 loop_mode=loop_continuous loop_start=59946 loop_end=62261
+<region> sample=Steinway V2  093.aif key=93 lokey=92 hikey=94 volume=4 loop_mode=loop_continuous loop_start=69405 loop_end=71917
+<region> sample=Steinway V2  105.aif key=105 lokey=104 hikey=106 volume=3 loop_mode=no_loop
+
+<group> lovel=60 hivel=89 volume=2 locc64=64 hicc64=127        // p2 - Steinway pedal V3 60-89
+<region> sample=Stw ped v3 078.aif key=78 lokey=77 hikey=79 volume=2 loop_mode=loop_continuous loop_start=203917 loop_end=243404
+<region> sample=Stw ped v3 081.aif key=81 lokey=80 hikey=82 volume=3 loop_mode=loop_continuous loop_start=230034 loop_end=301192
+<region> sample=Stw ped v3 084.aif key=84 lokey=83 hikey=85 volume=4 loop_mode=loop_continuous loop_start=203671 loop_end=259107
+<region> sample=Stw ped v3 090.aif key=90 lokey=89 hikey=91 volume=2 loop_mode=loop_continuous loop_start=260249 loop_end=341696
+<region> sample=Stw ped v3 093.aif key=93 lokey=92 hikey=94 volume=4 loop_mode=loop_continuous loop_start=123567 loop_end=150848
+<region> sample=Stw ped v3 096.aif key=96 lokey=95 hikey=97 volume=2 loop_mode=loop_continuous loop_start=162475 loop_end=213175
+<region> sample=Stw ped v3 075.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=223279 loop_end=323953
+<region> sample=Stw ped v3 099.aif key=99 lokey=98 hikey=100 loop_mode=loop_continuous loop_start=203363 loop_end=266450
+<region> sample=Stw ped v3 102.aif key=102 lokey=101 hikey=103 loop_mode=loop_continuous loop_start=194912 loop_end=241294
+<region> sample=Stw ped v3 060.aif key=60 lokey=59 hikey=61 volume=-1 loop_mode=loop_continuous loop_start=220458 loop_end=300883
+<region> sample=Stw ped v3 066.aif key=66 lokey=65 hikey=67 volume=1 loop_mode=loop_continuous loop_start=468596 loop_end=662675
+<region> sample=Stw ped v3 072.aif key=72 lokey=71 hikey=73 volume=1 loop_mode=loop_continuous loop_start=457665 loop_end=604096
+<region> sample=Stw ped v3 087.aif key=87 lokey=86 hikey=88 volume=4 loop_mode=loop_continuous loop_start=194659 loop_end=226679
+<region> sample=Stw ped v3 054.aif key=54 lokey=53 hikey=55 volume=1 loop_mode=loop_continuous loop_start=503622 loop_end=631479
+<region> sample=Stw ped v3 063.aif key=63 lokey=62 hikey=64 volume=-1 loop_mode=loop_continuous loop_start=611722 loop_end=741829
+<region> sample=Stw ped v3 105.aif key=105 lokey=104 hikey=106 loop_mode=no_loop
+<region> sample=Stw ped v3 108.aif key=108 lokey=107 hikey=127 volume=1 loop_mode=no_loop
+<region> sample=Stw ped v3 069.aif key=69 lokey=68 hikey=70 volume=2 loop_mode=loop_continuous loop_start=342354 loop_end=528432
+<region> sample=Stw ped v3 057.aif key=57 lokey=56 hikey=58 volume=1 loop_mode=loop_continuous loop_start=600425 loop_end=724654
+<region> sample=Stw ped v3 051.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=527290 loop_end=643028
+<region> sample=Stw ped v3 048.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=372328 loop_end=526191
+<region> sample=Stw ped v3 045.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=484742 loop_end=601224
+<region> sample=Stw ped v3 042.aif key=42 lokey=39 hikey=43 loop_mode=loop_continuous loop_start=489651 loop_end=576445
+<region> sample=Stw ped v3 036.aif key=36 lokey=33 hikey=38 loop_mode=loop_continuous loop_start=705951 loop_end=841498
+<region> sample=Stw ped v3 030.aif key=30 lokey=27 hikey=32 volume=-1 loop_mode=loop_continuous loop_start=768696 loop_end=916687
+<region> sample=Stw ped v3 024.aif key=24 lokey=0 hikey=26 loop_mode=loop_continuous loop_start=807528 loop_end=932531
+
+<group> lovel=40 hivel=59 locc64=64 hicc64=127        // p3 - Steinway pedal V2
+<region> sample=Stw ped v2 102.aif key=102 lokey=101 hikey=103 loop_mode=loop_continuous loop_start=121928 loop_end=161228
+<region> sample=Stw ped v2 096.aif key=96 lokey=95 hikey=97 loop_mode=loop_continuous loop_start=172740 loop_end=207380
+<region> sample=Stw ped v2 099.aif key=99 lokey=98 hikey=100 volume=-1 loop_mode=loop_continuous loop_start=110407 loop_end=142101
+<region> sample=Stw ped v2 108.aif key=108 lokey=107 hikey=127 loop_mode=no_loop
+<region> sample=Stw ped v2 090.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=176468 loop_end=213833
+<region> sample=Stw ped v2 084.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=196376 loop_end=235938
+<region> sample=Stw ped v2 078.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=408331 loop_end=460015
+<region> sample=Stw ped v2 072.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=413014 loop_end=512734
+<region> sample=Stw ped v2 066.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=426936 loop_end=525267
+<region> sample=Stw ped v2 060.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=219569 loop_end=253152
+<region> sample=Stw ped v2 054.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=551882 loop_end=675304
+<region> sample=Stw ped v2 048.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=579876 loop_end=694903
+<region> sample=Stw ped v2 042.aif key=42 lokey=39 hikey=43 loop_mode=loop_continuous loop_start=470113 loop_end=558345
+<region> sample=Stw ped v2 036.aif key=36 lokey=33 hikey=38 loop_mode=loop_continuous loop_start=626589 loop_end=759692
+<region> sample=Stw ped v2 030.aif key=30 lokey=27 hikey=32 volume=-1 loop_mode=loop_continuous loop_start=765668 loop_end=880260
+<region> sample=Stw ped v2 024.aif key=24 lokey=0 hikey=26 loop_mode=loop_continuous loop_start=767915 loop_end=928898
+<region> sample=Stw ped v2 045.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=324788 loop_end=498135
+<region> sample=Stw ped v2 051.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=567137 loop_end=677497
+<region> sample=Stw ped v2 057.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=553204 loop_end=745069
+<region> sample=Stw ped v2 063.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=806865 loop_end=895153
+<region> sample=Stw ped v2 069.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=541018 loop_end=616339
+<region> sample=Stw ped v2 075.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=164769 loop_end=223858
+<region> sample=Stw ped v2 081.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=383678 loop_end=443915
+<region> sample=Stw ped v2 087.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=218336 loop_end=284557
+<region> sample=Stw ped v2 093.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=170726 loop_end=214037
+<region> sample=Stw ped v2 105.aif key=105 lokey=104 hikey=106 loop_mode=loop_continuous loop_start=153795 loop_end=193318

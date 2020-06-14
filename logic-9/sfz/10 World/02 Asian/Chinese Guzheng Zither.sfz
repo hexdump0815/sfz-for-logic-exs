@@ -1,0 +1,231 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Chinese Guzheng Zither.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Chinese Guzheng Zither\
+
+<group> volume=-6 locc1=31 hicc1=96        // 5.  Guzheng - Bend Down
+<region> sample=IL02-GUZ_BND_3802.wav key=38 lokey=0 hikey=39 volume=-1 end=416575 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_8602.wav key=86 lokey=81 hikey=120 end=141826 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_4202.wav key=42 lokey=42 hikey=44 volume=-1 end=369120 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_4702.wav key=47 lokey=47 hikey=49 volume=-1 end=320571 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5002.wav key=50 lokey=50 hikey=51 volume=-1 end=304820 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_4002.wav key=40 lokey=40 hikey=41 volume=-1 end=453352 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_4502.wav key=45 lokey=45 hikey=46 volume=-1 end=336175 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5202.wav key=52 lokey=52 hikey=53 volume=-1 end=370365 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5402.wav key=54 lokey=54 hikey=57 volume=-1 tune=10 end=344607 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5902.wav key=59 lokey=58 hikey=60 volume=-1 end=236103 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_6202.wav key=62 lokey=61 hikey=63 volume=3 tune=7 end=205627 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_6402.wav key=64 lokey=64 hikey=65 volume=2 end=201886 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_6602.wav key=66 lokey=66 hikey=68 volume=2 end=141366 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_6902.wav key=69 lokey=69 hikey=70 volume=1 end=207751 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7102.wav key=71 lokey=71 hikey=73 volume=-1 end=214740 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7402.wav key=74 lokey=74 hikey=75 end=175940 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7602.wav key=76 lokey=76 hikey=77 end=158327 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7802.wav key=78 lokey=78 hikey=80 end=153380 loop_mode=no_loop
+
+<group> volume=1 locc1=97 hicc1=127        // 6.  Guzheng - Short Gliss
+<region> sample=IL02-GUZ_GLS_4702.wav key=47 lokey=0 hikey=48 volume=-2 end=487769 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_7603.wav key=76 lokey=79 hikey=120 volume=-5 end=230399 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_5202.wav key=52 lokey=49 hikey=50 volume=-1 end=301625 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_6602.wav key=66 lokey=65 hikey=68 volume=1 end=146615 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_6902.wav key=69 lokey=69 hikey=69 end=187139 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_7101.wav key=71 lokey=70 hikey=71 end=246964 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_7102.wav key=71 lokey=72 hikey=73 volume=-1 end=201935 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_7401.wav key=74 lokey=74 hikey=74 volume=-3 end=288013 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_7402.wav key=74 lokey=75 hikey=75 volume=-4 end=243614 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_7601.wav key=76 lokey=76 hikey=76 volume=-3 end=266087 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLB_7602.wav key=76 lokey=77 hikey=78 volume=-4 end=171550 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_5201.wav key=52 lokey=51 hikey=52 volume=-3 end=428447 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_5401.wav key=54 lokey=53 hikey=54 end=425239 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_5402.wav key=54 lokey=55 hikey=55 volume=-1 end=421690 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_5701.wav key=59 lokey=56 hikey=57 volume=1 end=403864 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_5901.wav key=59 lokey=58 hikey=59 end=375106 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_5902.wav key=59 lokey=60 hikey=61 volume=-1 end=455113 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_6401.wav key=64 lokey=63 hikey=64 end=413333 loop_mode=no_loop
+<region> sample=IL02-GUZ_GLS_6402.wav key=64 lokey=62 hikey=62 volume=1 end=262975 loop_mode=no_loop
+
+<group> lovel=65 hivel=95 volume=-3 locc1=0 hicc1=30        // 2a.  Guzheng - Hard Non Vib
+<region> sample=IL02-GUZ_NVF_3801.wav key=38 lokey=0 hikey=39 volume=-2 end=648799 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4002.wav key=40 lokey=40 hikey=41 end=776737 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4201.wav key=42 lokey=42 hikey=44 end=648467 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4501.wav key=45 lokey=45 hikey=46 volume=-3 end=719788 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4702.wav key=47 lokey=47 hikey=48 volume=-1 end=722412 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4901.wav key=49 lokey=49 hikey=49 volume=-2 end=540560 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5002.wav key=50 lokey=50 hikey=51 volume=-3 end=547699 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5201.wav key=52 lokey=52 hikey=53 end=539511 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5401.wav key=54 lokey=54 hikey=54 volume=-3 end=459224 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5501.wav key=55 lokey=55 hikey=56 volume=-5 tune=10 end=373651 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5701.wav key=57 lokey=57 hikey=58 end=540675 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5901.wav key=59 lokey=59 hikey=60 end=477144 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6102.wav key=61 lokey=61 hikey=61 volume=-2 end=449759 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6202.wav key=62 lokey=62 hikey=63 end=379129 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6401.wav key=64 lokey=64 hikey=65 volume=1 end=412652 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6602.wav key=66 lokey=66 hikey=66 volume=1 end=341063 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6702.wav key=67 lokey=67 hikey=68 volume=2 end=243575 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6902.wav key=69 lokey=69 hikey=70 volume=-1 end=345063 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7101.wav key=71 lokey=71 hikey=72 volume=-2 end=318963 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7302.wav key=73 lokey=73 hikey=73 end=330191 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7402.wav key=74 lokey=74 hikey=75 end=296028 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7601.wav key=76 lokey=76 hikey=77 volume=-1 tune=9 end=315636 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7901.wav key=79 lokey=78 hikey=80 volume=-2 end=243357 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8101.wav key=81 lokey=81 hikey=82 volume=-1 end=233257 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8302.wav key=83 lokey=83 hikey=84 end=211109 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8501.wav key=85 lokey=85 hikey=85 end=237914 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8601.wav key=86 lokey=86 hikey=120 end=196375 loop_mode=no_loop
+
+<group> lovel=65 hivel=95 volume=-3 locc1=0 hicc1=30        // 2b.  Guzheng - Hard Non Vib
+<region> sample=IL02-GUZ_NVF_3801.wav key=38 lokey=0 hikey=40 volume=-2 end=648799 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4702.wav key=47 lokey=48 hikey=49 volume=-1 end=722412 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4002.wav key=40 lokey=41 hikey=42 end=776737 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4201.wav key=42 lokey=43 hikey=45 end=648467 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4501.wav key=45 lokey=46 hikey=47 volume=-3 end=719788 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_4901.wav key=49 lokey=50 hikey=50 volume=-2 end=540560 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5002.wav key=50 lokey=51 hikey=52 volume=-3 end=547699 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5201.wav key=52 lokey=53 hikey=54 end=539511 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5401.wav key=54 lokey=55 hikey=55 volume=-3 tune=5 end=459224 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5501.wav key=55 lokey=56 hikey=57 volume=-5 end=373651 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5701.wav key=57 lokey=58 hikey=59 end=540675 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_5901.wav key=59 lokey=60 hikey=61 end=477144 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6102.wav key=61 lokey=62 hikey=62 volume=-2 end=449759 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6202.wav key=62 lokey=63 hikey=64 end=379129 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6401.wav key=64 lokey=65 hikey=66 volume=1 end=412652 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6602.wav key=66 lokey=67 hikey=67 volume=1 end=341063 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6702.wav key=67 lokey=68 hikey=69 volume=2 end=243575 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_6902.wav key=69 lokey=70 hikey=71 volume=-1 end=345063 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7101.wav key=71 lokey=72 hikey=73 volume=-2 end=318963 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7302.wav key=73 lokey=74 hikey=74 end=330191 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7402.wav key=74 lokey=75 hikey=76 end=296028 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7601.wav key=76 lokey=77 hikey=78 volume=-1 tune=9 end=315636 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_7901.wav key=79 lokey=79 hikey=81 volume=-2 end=243357 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8101.wav key=81 lokey=82 hikey=83 volume=-1 end=233257 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8302.wav key=83 lokey=84 hikey=85 end=211109 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8501.wav key=85 lokey=86 hikey=86 end=237914 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVF_8601.wav key=86 lokey=87 hikey=120 end=196375 loop_mode=no_loop
+
+<group> lovel=124 hivel=127 volume=-5 locc1=0 hicc1=30        // 4.  Guzheng - Bend Up + Down
+<region> sample=IL02-GUZ_BND_8601.wav key=86 lokey=86 hikey=120 end=145336 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_3801.wav key=38 lokey=0 hikey=39 end=407169 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_4001.wav key=40 lokey=40 hikey=42 end=417433 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_4501.wav key=45 lokey=43 hikey=46 end=373570 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_4701.wav key=47 lokey=47 hikey=48 volume=1 end=355438 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5001.wav key=50 lokey=49 hikey=49 volume=1 end=403514 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5201.wav key=52 lokey=50 hikey=51 end=355658 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5401.wav key=54 lokey=52 hikey=53 end=364094 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_5701.wav key=57 lokey=54 hikey=58 end=400346 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_6401.wav key=64 lokey=59 hikey=65 end=231002 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_6601.wav key=66 lokey=66 hikey=68 volume=1 end=211787 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_6901.wav key=69 lokey=69 hikey=70 end=247055 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7101.wav key=71 lokey=71 hikey=73 end=202995 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7401.wav key=74 lokey=74 hikey=75 end=219901 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7601.wav key=76 lokey=76 hikey=77 end=146972 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_7801.wav key=78 lokey=78 hikey=80 end=165352 loop_mode=no_loop
+<region> sample=IL02-GUZ_BND_8301.wav key=83 lokey=81 hikey=85 volume=1 end=148541 loop_mode=no_loop
+
+<group> lovel=0 hivel=64 volume=-2 locc1=0 hicc1=30        // 1a.  Guzheng - Soft Non Vib
+<region> sample=IL02-GUZ_NVP_4301.wav key=43 lokey=43 hikey=44 volume=-2 tune=-13 end=383486 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5002.wav key=50 lokey=50 hikey=51 volume=-2 end=419367 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_3802.wav key=38 lokey=0 hikey=39 end=466858 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7901.wav key=79 lokey=79 hikey=80 volume=-1 tune=3 end=184348 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4001.wav key=40 lokey=40 hikey=41 end=479845 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4202.wav key=42 lokey=42 hikey=42 tune=7 end=466439 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4501.wav key=45 lokey=45 hikey=46 tune=-8 end=552579 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8101.wav key=81 lokey=81 hikey=82 volume=-1 tune=-3 end=226784 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8301.wav key=83 lokey=83 hikey=84 tune=-9 end=230488 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8502.wav key=85 lokey=85 hikey=85 tune=9 end=221621 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8601.wav key=86 lokey=86 hikey=120 tune=-7 end=221706 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4701.wav key=47 lokey=47 hikey=48 tune=-6 end=463921 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4902.wav key=49 lokey=49 hikey=49 tune=38 end=485040 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5202.wav key=52 lokey=52 hikey=53 end=364722 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5402.wav key=54 lokey=54 hikey=54 volume=-1 end=527263 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5502.wav key=55 lokey=55 hikey=56 end=507050 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5702.wav key=57 lokey=57 hikey=58 volume=-1 end=446246 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5902.wav key=59 lokey=59 hikey=60 tune=-3 end=433120 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6101.wav key=61 lokey=61 hikey=61 end=487931 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6201.wav key=62 lokey=62 hikey=63 end=382099 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6401.wav key=64 lokey=64 hikey=65 volume=1 end=327149 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6602.wav key=66 lokey=66 hikey=66 volume=1 end=285971 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6702.wav key=67 lokey=67 hikey=68 volume=2 tune=2 end=299908 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6902.wav key=69 lokey=69 hikey=70 volume=1 end=346934 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7102.wav key=71 lokey=71 hikey=72 volume=-1 tune=-6 end=382485 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7302.wav key=73 lokey=73 hikey=73 volume=-1 tune=-5 end=337006 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7401.wav key=74 lokey=74 hikey=75 volume=-2 tune=-6 end=327560 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7601.wav key=76 lokey=76 hikey=77 volume=-1 tune=11 end=289131 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7802.wav key=78 lokey=78 hikey=78 volume=-2 tune=-7 end=327580 loop_mode=no_loop
+
+<group> lovel=0 hivel=64 volume=-2 locc1=0 hicc1=30        // 1b.  Guzheng - Soft Non Vib
+<region> sample=IL02-GUZ_NVP_3802.wav key=38 lokey=0 hikey=40 end=466858 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7901.wav key=79 lokey=80 hikey=81 volume=-1 tune=3 end=184348 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4001.wav key=40 lokey=41 hikey=42 end=479845 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4202.wav key=42 lokey=43 hikey=43 tune=7 end=466439 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4301.wav key=43 lokey=44 hikey=45 volume=-2 tune=-13 end=383486 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4501.wav key=45 lokey=46 hikey=47 tune=-8 end=552579 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8101.wav key=81 lokey=82 hikey=83 volume=-1 tune=-3 end=226784 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8301.wav key=83 lokey=84 hikey=85 tune=-9 end=230488 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8502.wav key=85 lokey=86 hikey=86 tune=9 end=221621 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_8601.wav key=86 lokey=87 hikey=120 tune=-7 end=221706 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4701.wav key=47 lokey=48 hikey=49 tune=-6 end=463921 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_4902.wav key=49 lokey=50 hikey=50 tune=38 end=485040 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5002.wav key=50 lokey=51 hikey=52 volume=-2 end=419367 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5202.wav key=52 lokey=53 hikey=54 end=364722 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5402.wav key=54 lokey=55 hikey=55 volume=-1 end=527263 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5502.wav key=55 lokey=56 hikey=57 end=507050 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5702.wav key=57 lokey=58 hikey=59 volume=-1 end=446246 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_5902.wav key=59 lokey=60 hikey=61 tune=-3 end=433120 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6101.wav key=61 lokey=62 hikey=62 end=487931 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6201.wav key=62 lokey=63 hikey=64 end=382099 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6401.wav key=64 lokey=65 hikey=66 volume=1 end=327149 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6602.wav key=66 lokey=67 hikey=67 volume=1 end=285971 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6702.wav key=67 lokey=68 hikey=69 volume=2 tune=2 end=299908 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_6902.wav key=69 lokey=70 hikey=71 volume=1 end=346934 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7102.wav key=71 lokey=72 hikey=73 volume=-1 tune=-6 end=382485 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7302.wav key=73 lokey=74 hikey=74 volume=-1 tune=-5 end=337006 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7401.wav key=74 lokey=75 hikey=76 volume=-2 tune=-6 end=327560 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7601.wav key=76 lokey=77 hikey=78 volume=-1 tune=11 end=289131 loop_mode=no_loop
+<region> sample=IL02-GUZ_NVP_7802.wav key=78 lokey=79 hikey=79 volume=-2 tune=-7 end=327580 loop_mode=no_loop
+
+<group> lovel=96 hivel=123 volume=-4 locc1=0 hicc1=30        // 3a.  Guzheng - Expressive Vib
+<region> sample=IL02-GUZ_EXP_3801.wav key=38 lokey=0 hikey=39 volume=-1 end=530227 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4001.wav key=40 lokey=40 hikey=41 end=496073 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4201.wav key=42 lokey=42 hikey=43 end=476253 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4501.wav key=45 lokey=44 hikey=45 volume=-1 end=512723 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4701.wav key=47 lokey=46 hikey=48 volume=1 end=479578 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5002.wav key=50 lokey=49 hikey=51 end=465471 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5201.wav key=52 lokey=52 hikey=53 end=403386 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5402.wav key=54 lokey=54 hikey=55 volume=-3 end=442883 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5702.wav key=57 lokey=56 hikey=58 end=440887 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5902.wav key=59 lokey=59 hikey=60 end=378950 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6201.wav key=62 lokey=61 hikey=63 volume=-1 end=355763 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6401.wav key=64 lokey=64 hikey=65 end=329637 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6601.wav key=66 lokey=66 hikey=67 volume=2 end=330118 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6902.wav key=69 lokey=68 hikey=70 volume=-1 end=318315 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7101.wav key=71 lokey=71 hikey=72 volume=1 end=275472 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7402.wav key=74 lokey=73 hikey=75 tune=5 end=261450 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7601.wav key=76 lokey=76 hikey=77 end=256398 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7801.wav key=78 lokey=78 hikey=79 volume=-2 end=189384 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_8102.wav key=81 lokey=80 hikey=82 volume=-1 end=218418 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_8301.wav key=83 lokey=83 hikey=84 end=191289 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_8601.wav key=86 lokey=85 hikey=120 end=188560 loop_mode=no_loop
+
+<group> lovel=96 hivel=123 volume=-4 locc1=0 hicc1=30        // 3b.  Guzheng - Expressive Vib
+<region> sample=IL02-GUZ_EXP_3801.wav key=38 lokey=0 hikey=40 volume=-1 end=530227 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4001.wav key=40 lokey=41 hikey=42 end=496073 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4201.wav key=42 lokey=43 hikey=44 end=476253 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4501.wav key=45 lokey=45 hikey=46 volume=-1 end=512723 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_4701.wav key=47 lokey=47 hikey=49 volume=1 end=479578 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5002.wav key=50 lokey=50 hikey=52 end=465471 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5201.wav key=52 lokey=53 hikey=54 end=403386 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5402.wav key=54 lokey=55 hikey=56 volume=-3 end=442883 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5702.wav key=57 lokey=57 hikey=59 end=440887 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_5902.wav key=59 lokey=60 hikey=61 end=378950 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6201.wav key=62 lokey=62 hikey=64 volume=-1 end=355763 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6401.wav key=64 lokey=65 hikey=66 end=329637 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6601.wav key=66 lokey=67 hikey=68 volume=2 end=330118 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_6902.wav key=69 lokey=69 hikey=71 volume=-1 end=318315 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7101.wav key=71 lokey=72 hikey=73 volume=1 end=275472 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7402.wav key=74 lokey=74 hikey=76 tune=5 end=261450 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7601.wav key=76 lokey=77 hikey=78 end=256398 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_7801.wav key=78 lokey=79 hikey=80 volume=-2 end=189384 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_8102.wav key=81 lokey=81 hikey=83 volume=-1 end=218418 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_8301.wav key=83 lokey=84 hikey=85 end=191289 loop_mode=no_loop
+<region> sample=IL02-GUZ_EXP_8601.wav key=86 lokey=86 hikey=120 end=188560 loop_mode=no_loop

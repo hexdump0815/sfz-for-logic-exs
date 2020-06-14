@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Thunder 2.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/02 Ambient Environments/Environments Bank\
+
+<group>
+<region> sample=5_Thunder 3.aif key=60 lokey=36 hikey=107 loop_mode=loop_continuous loop_start=0 loop_end=651695

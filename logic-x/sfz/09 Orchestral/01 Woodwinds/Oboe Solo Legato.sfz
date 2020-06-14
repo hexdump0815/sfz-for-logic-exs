@@ -1,0 +1,26 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Oboe Solo Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Oboe Solo/Oboe-L_mV_nA_sus_mp\
+
+<group> volume=4        // OB2-L_mV_nA_sus_mp
+<region> sample=OB2-L_mV_nA_sus_mp_E6.wav key=88 lokey=87 hikey=88 volume=-3 loop_mode=loop_continuous loop_start=101190 loop_end=207064
+<region> sample=OB2-L_mV_nA_sus_mp_E5.wav key=76 lokey=75 hikey=76 volume=-3 loop_mode=loop_continuous loop_start=163049 loop_end=323800
+<region> sample=OB2-L_mV_nA_sus_mp_F#5.wav key=78 lokey=77 hikey=78 volume=-3 loop_mode=loop_continuous loop_start=201143 loop_end=308087
+<region> sample=OB2-L_mV_nA_sus_mp_F6.wav key=89 lokey=89 hikey=89 volume=-5 loop_mode=loop_continuous loop_start=64950 loop_end=263022
+<region> sample=OB2-L_mV_nA_sus_mp_D6.wav key=86 lokey=85 hikey=86 volume=-3 loop_mode=loop_continuous loop_start=107694 loop_end=295250
+<region> sample=OB2-L_mV_nA_sus_mp_C6.wav key=84 lokey=83 hikey=84 volume=-6 loop_mode=loop_continuous loop_start=60566 loop_end=127067
+<region> sample=OB2-L_mV_nA_sus_mp_F#6.wav key=90 lokey=90 hikey=108 volume=-7 loop_mode=loop_continuous loop_start=92758 loop_end=205698
+<region> sample=OB2-L_mV_nA_sus_mp_A#5.wav key=82 lokey=81 hikey=82 volume=-3 loop_mode=loop_continuous loop_start=174742 loop_end=300722
+<region> sample=OB2-L_mV_nA_sus_mp_G#5.wav key=80 lokey=79 hikey=80 volume=-3 loop_mode=loop_continuous loop_start=111447 loop_end=332221
+<region> sample=OB2-L_mV_nA_sus_mp_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=loop_continuous loop_start=107255 loop_end=315876
+<region> sample=OB2-L_mV_nA_sus_mp_C5.wav key=72 lokey=71 hikey=72 volume=-1 loop_mode=loop_continuous loop_start=195160 loop_end=332128
+<region> sample=OB2-L_mV_nA_sus_mp_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=76033 loop_end=181343
+<region> sample=OB2-L_mV_nA_sus_mp_G#4.wav key=68 lokey=67 hikey=68 volume=-3 loop_mode=loop_continuous loop_start=140278 loop_end=274493
+<region> sample=OB2-L_mV_nA_sus_mp_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=168150 loop_end=336014
+<region> sample=OB2-L_mV_nA_sus_mp_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=223994 loop_end=329947
+<region> sample=OB2-L_mV_nA_sus_mp_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=128410 loop_end=253341
+<region> sample=OB2-L_mV_nA_sus_mp_C4.wav key=60 lokey=60 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=136589 loop_end=174499
+<region> sample=OB2-L_mV_nA_sus_mp_B3.wav key=59 lokey=59 hikey=59 volume=-3 loop_mode=loop_continuous loop_start=161729 loop_end=327248
+<region> sample=OB2-L_mV_nA_sus_mp_A#3.wav key=58 lokey=21 hikey=58 volume=-4 loop_mode=loop_continuous loop_start=162496 loop_end=335357

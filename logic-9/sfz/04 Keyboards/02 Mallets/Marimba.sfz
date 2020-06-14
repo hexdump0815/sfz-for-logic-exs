@@ -1,0 +1,65 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Marimba.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/04 Keyboards/02 Mallets/Marimba\
+
+<group> lovel=80 hivel=109 volume=3        // Marimba mf
+<region> sample=Marimba ln mf l1x  4 f.aif key=77 lokey=76 hikey=79 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  3b.aif key=71 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  3a.aif key=69 lokey=68 hikey=70 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  3 d.aif key=62 lokey=61 hikey=63 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  4 d.aif key=74 lokey=73 hikey=75 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  4b.aif key=83 lokey=83 hikey=84 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  3 f.aif key=65 lokey=64 hikey=67 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  2 f.aif key=53 lokey=0 hikey=55 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  2b.aif key=59 lokey=59 hikey=60 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  4a.aif key=81 lokey=80 hikey=82 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  2a.aif key=57 lokey=56 hikey=58 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  5 d.aif key=86 lokey=85 hikey=87 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  5 f.aif key=89 lokey=88 hikey=92 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  5b.aif key=95 lokey=93 hikey=96 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  6 d.aif key=98 lokey=97 hikey=99 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  6 f.aif key=101 lokey=100 hikey=103 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  6a.aif key=105 lokey=104 hikey=106 loop_mode=no_loop
+<region> sample=Marimba ln mf l1x  6b.aif key=107 lokey=107 hikey=127 loop_mode=no_loop
+
+<group> lovel=110 hivel=127 volume=2        // Marimba f
+<region> sample=Marimba ln f l1x  4 f.aif key=77 lokey=76 hikey=79 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  4a.aif key=81 lokey=80 hikey=82 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  3a.aif key=69 lokey=68 hikey=70 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  3 d.aif key=62 lokey=61 hikey=63 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  3 f.aif key=65 lokey=64 hikey=67 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  4 d.aif key=74 lokey=73 hikey=75 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  3b.aif key=71 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  2 f.aif key=53 lokey=0 hikey=55 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  4b.aif key=83 lokey=83 hikey=84 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  2b.aif key=59 lokey=59 hikey=60 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  2a.aif key=57 lokey=56 hikey=58 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  5 d.aif key=86 lokey=85 hikey=87 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  5 f.aif key=89 lokey=88 hikey=92 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  5b.aif key=95 lokey=93 hikey=96 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  6 d.aif key=98 lokey=97 hikey=99 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  6 f.aif key=101 lokey=100 hikey=103 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  6a.aif key=105 lokey=104 hikey=106 loop_mode=no_loop
+<region> sample=Marimba ln f l1x  6b.aif key=107 lokey=107 hikey=127 loop_mode=no_loop
+
+<group> lovel=0 hivel=79 volume=12        // Marimba p
+<region> sample=Marimba ln p l1x  4 f.aif key=77 lokey=76 hikey=79 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  2 f.aif key=53 lokey=0 hikey=55 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  4 d.aif key=74 lokey=73 hikey=75 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  3 d.aif key=62 lokey=61 hikey=63 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  3b.aif key=71 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  3 f.aif key=65 lokey=64 hikey=67 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  4b.aif key=83 lokey=83 hikey=84 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  3a.aif key=69 lokey=68 hikey=70 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  4a.aif key=81 lokey=80 hikey=82 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  5 f.aif key=89 lokey=88 hikey=92 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  5 d.aif key=86 lokey=85 hikey=87 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  2b.aif key=59 lokey=59 hikey=60 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  2a.aif key=57 lokey=56 hikey=58 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  5b.aif key=95 lokey=93 hikey=96 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  6 d.aif key=98 lokey=97 hikey=99 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  6 f.aif key=101 lokey=100 hikey=103 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  6a.aif key=105 lokey=104 hikey=106 loop_mode=no_loop
+<region> sample=Marimba ln p l1x  6b.aif key=107 lokey=107 hikey=127 loop_mode=no_loop

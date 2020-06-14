@@ -1,0 +1,112 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Suitcase Electric Piano.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/04 Keyboards/01 Electric Pianos/Suitcase Electric Piano\
+
+<group> lovel=61 hivel=90        // Med Hi
+<region> sample=RSM 42 F#1#3.aif key=42 lokey=42 hikey=48 tune=-10 loop_mode=loop_continuous loop_start=49237 loop_end=54447
+<region> sample=RSM 35 B 0#3.aif key=35 lokey=35 hikey=37 tune=-6 loop_mode=loop_continuous loop_start=68295 loop_end=71141
+<region> sample=RSM 31 G 0#2.aif key=31 lokey=31 hikey=34 tune=-25 loop_mode=loop_continuous loop_start=56756 loop_end=63851
+<region> sample=RSM 41 F 1#2.aif key=41 lokey=38 hikey=41 tune=-7 loop_mode=loop_continuous loop_start=66693 loop_end=70714
+<region> sample=RSM 29 F 0#1.aif key=29 lokey=21 hikey=30 tune=-21 loop_mode=loop_continuous loop_start=65847 loop_end=69838
+<region> sample=RSM 67 G 3#3.aif key=67 lokey=67 hikey=69 tune=-5 loop_mode=loop_continuous loop_start=28432 loop_end=31685
+<region> sample=RSM 70 A#3#3.aif key=70 lokey=70 hikey=70 tune=-4 loop_mode=loop_continuous loop_start=25368 loop_end=28198
+<region> sample=RSM 71 B 3#3.aif key=71 lokey=71 hikey=72 tune=-6 loop_mode=loop_continuous loop_start=19230 loop_end=21453
+<region> sample=RSM 74 D 4#2.aif key=74 lokey=73 hikey=74 tune=-3 loop_mode=loop_continuous loop_start=26579 loop_end=28977
+<region> sample=RSM 63 D#3#2.aif key=63 lokey=62 hikey=66 tune=-5 loop_mode=loop_continuous loop_start=48327 loop_end=53414
+<region> sample=RSM 57 A 2#2.aif key=57 lokey=55 hikey=60 tune=-5 loop_mode=loop_continuous loop_start=34608 loop_end=40602
+<region> sample=RSM 52 E 2#2.aif key=52 lokey=52 hikey=54 tune=-7 loop_mode=loop_continuous loop_start=27757 loop_end=36019
+<region> sample=RSM 84 C 5#2.aif key=84 lokey=82 hikey=86 tune=-4 loop_mode=loop_continuous loop_start=19561 loop_end=21199
+<region> sample=RSM 78 F#4#3.aif key=78 lokey=78 hikey=81 tune=-4 loop_mode=loop_continuous loop_start=22296 loop_end=24198
+<region> sample=RSM 77 F 4#2.aif key=77 lokey=77 hikey=77 tune=-3 loop_mode=loop_continuous loop_start=19963 loop_end=22356
+<region> sample=RSM 59 B 2#2.aif key=59 lokey=61 hikey=61 tune=-7 loop_mode=loop_continuous loop_start=45454 loop_end=51500
+<region> sample=RSM 48 C 2#3.aif key=48 lokey=49 hikey=51 tune=-6 loop_mode=loop_continuous loop_start=51378 loop_end=58430
+<region> sample=RSM 10 E 6#2.aif key=100 lokey=100 hikey=127 tune=-12 loop_mode=loop_continuous loop_start=9424 loop_end=10619
+<region> sample=RSM 10 E 6#2.aif key=100 lokey=99 hikey=99 tune=-11 loop_mode=loop_continuous loop_start=9424 loop_end=10619
+<region> sample=RSM 97 C#6#2.aif key=97 lokey=95 hikey=98 tune=-6 loop_mode=loop_continuous loop_start=13899 loop_end=15562
+<region> sample=RSM 93 A 5#2.aif key=93 lokey=93 hikey=94 tune=-3 loop_mode=loop_continuous loop_start=9666 loop_end=11388
+<region> sample=RSM 92 G#5#2.aif key=92 lokey=91 hikey=92 tune=-3 loop_mode=loop_continuous loop_start=15977 loop_end=18043
+<region> sample=RSM 88 E 5#2.aif key=88 lokey=89 hikey=90 tune=-3 loop_mode=loop_continuous loop_start=17523 loop_end=18992
+<region> sample=RSM 86 D 5#2.aif key=86 lokey=87 hikey=88 tune=-4 loop_mode=loop_continuous loop_start=16991 loop_end=18600
+<region> sample=RSM 75 D#4#2.aif key=75 lokey=75 hikey=76 tune=-5 loop_mode=loop_continuous loop_start=22219 loop_end=24902
+
+<group> lovel=1 hivel=60        // Hard
+<region> sample=RSM 38 D 1#1.aif key=38 lokey=37 hikey=38 tune=-6 loop_mode=loop_continuous loop_start=43817 loop_end=46210
+<region> sample=RSM 48 C 2#1.aif key=48 lokey=46 hikey=47 tune=-7 loop_mode=loop_continuous loop_start=45582 loop_end=48603
+<region> sample=RSM 56 G#2#1.aif key=56 lokey=51 hikey=56 tune=-6 loop_mode=loop_continuous loop_start=37134 loop_end=38827
+<region> sample=RSM 58 A#2#1.aif key=58 lokey=57 hikey=59 tune=-2 loop_mode=loop_continuous loop_start=34647 loop_end=36158
+<region> sample=RSM 62 D 3#1.aif key=62 lokey=60 hikey=61 tune=-4 loop_mode=loop_continuous loop_start=34825 loop_end=36023
+<region> sample=RSM 64 E 3#1.aif key=64 lokey=62 hikey=64 tune=-4 loop_mode=loop_continuous loop_start=14318 loop_end=14852
+<region> sample=RSM 67 G 3#1.aif key=67 lokey=65 hikey=67 tune=-3 loop_mode=loop_continuous loop_start=48134 loop_end=48583
+<region> sample=RSM 71 B 3#1.aif key=71 lokey=71 hikey=72 tune=-6 loop_mode=loop_continuous loop_start=36808 loop_end=38231
+<region> sample=RSM 70 A#3#1.aif key=70 lokey=70 hikey=70 tune=-4 loop_mode=loop_continuous loop_start=55535 loop_end=57894
+<region> sample=RSM 69 A 3#1.aif key=69 lokey=68 hikey=69 tune=-3 loop_mode=loop_continuous loop_start=26045 loop_end=26445
+<region> sample=RSM 74 D 4#1.aif key=74 lokey=73 hikey=75 tune=-2 loop_mode=loop_continuous loop_start=48227 loop_end=49876
+<region> sample=RSM 78 F#4#1.aif key=78 lokey=76 hikey=80 tune=-3 loop_mode=loop_continuous loop_start=21642 loop_end=23901
+<region> sample=RSM 49 C#2#1.aif key=49 lokey=48 hikey=50 tune=-4 loop_mode=loop_continuous loop_start=40014 loop_end=42552
+<region> sample=RSM 45 A 1#1.aif key=45 lokey=42 hikey=45 tune=-8 loop_mode=loop_continuous loop_start=45230 loop_end=46825
+<region> sample=RSM 39 D#1#1.aif key=39 lokey=39 hikey=41 tune=-6 loop_mode=loop_continuous loop_start=50172 loop_end=52431
+<region> sample=RSM 31 G 0#1.aif key=31 lokey=30 hikey=32 tune=-31 loop_mode=loop_continuous loop_start=50697 loop_end=54230
+<region> sample=RSM 36 C 1#1.aif key=36 lokey=33 hikey=36 tune=-12 loop_mode=loop_continuous loop_start=56331 loop_end=59009
+<region> sample=RSM 85 C#5#1.aif key=85 lokey=81 hikey=84 tune=-5 loop_mode=loop_continuous loop_start=10668 loop_end=11857
+<region> sample=RSM 88 E 5#1.aif key=88 lokey=85 hikey=88 tune=-2 loop_mode=loop_continuous loop_start=14716 loop_end=15784
+<region> sample=RSM 28 E 0#1.aif key=28 lokey=21 hikey=29 tune=-24 loop_mode=loop_continuous loop_start=45208 loop_end=49428
+<region> sample=RSM 10 E 6#1.aif key=100 lokey=100 hikey=127 tune=-12 loop_mode=loop_continuous loop_start=12576 loop_end=13373
+<region> sample=RSM 10 E 6#1.aif key=100 lokey=99 hikey=99 tune=-11 loop_mode=loop_continuous loop_start=12576 loop_end=13373
+<region> sample=RSM 97 C#6#1.aif key=97 lokey=94 hikey=98 tune=-7 loop_mode=loop_continuous loop_start=11647 loop_end=12716
+<region> sample=RSM 92 G#5#1.aif key=92 lokey=89 hikey=93 tune=-3 loop_mode=loop_continuous loop_start=13471 loop_end=14292
+
+<group> lovel=91 hivel=115        // Soft
+<region> sample=RSM 74 D 4#2.aif key=74 lokey=73 hikey=74 tune=-3 loop_mode=loop_continuous loop_start=26579 loop_end=28977
+<region> sample=RSM 71 B 3#5.aif key=71 lokey=71 hikey=72 tune=-6 loop_mode=loop_continuous loop_start=41038 loop_end=43973
+<region> sample=RSM 68 G#3#5.aif key=68 lokey=68 hikey=70 tune=-4 loop_mode=loop_continuous loop_start=64914 loop_end=68621
+<region> sample=RSM 63 D#3#4.aif key=63 lokey=63 hikey=67 tune=-5 loop_mode=loop_continuous loop_start=56077 loop_end=64130
+<region> sample=RSM 43 G 1#5.aif key=43 lokey=43 hikey=45 tune=-8 loop_mode=loop_continuous loop_start=69493 loop_end=72626
+<region> sample=RSM 57 A 2#4.aif key=57 lokey=58 hikey=60 tune=-6 loop_mode=loop_continuous loop_start=57590 loop_end=58389
+<region> sample=RSM 55 G 2#4.aif key=55 lokey=55 hikey=56 tune=-6 loop_mode=loop_continuous loop_start=41437 loop_end=43230
+<region> sample=RSM 53 F 2#4.aif key=53 lokey=53 hikey=54 tune=-1 loop_mode=loop_continuous loop_start=44474 loop_end=45483
+<region> sample=RSM 30 F#0#4.aif key=30 lokey=21 hikey=32 tune=-12 loop_mode=loop_continuous loop_start=111882 loop_end=115661
+<region> sample=RSM 36 C 1#4.aif key=36 lokey=37 hikey=40 tune=-5 loop_mode=loop_continuous loop_start=91020 loop_end=95051
+<region> sample=RSM 85 C#5#4.aif key=85 lokey=91 hikey=127 tune=-4 loop_mode=loop_continuous loop_start=18936 loop_end=21117
+<region> sample=RSM 89 F 5#4.aif key=89 lokey=88 hikey=90 tune=-1 loop_mode=loop_continuous loop_start=25949 loop_end=29732
+<region> sample=RSM 83 B 4#4.aif key=83 lokey=83 hikey=87 tune=-3 loop_mode=loop_continuous loop_start=20079 loop_end=21905
+<region> sample=RSM 81 A 4#4.aif key=81 lokey=81 hikey=82 tune=-1 loop_mode=loop_continuous loop_start=29685 loop_end=32637
+<region> sample=RSM 75 D#4#4.aif key=75 lokey=78 hikey=80 tune=-5 loop_mode=loop_continuous loop_start=36488 loop_end=43480
+<region> sample=RSM 72 C 4#4.aif key=72 lokey=75 hikey=77 tune=-3 loop_mode=loop_continuous loop_start=32987 loop_end=36097
+<region> sample=RSM 61 C#3#4.aif key=61 lokey=61 hikey=62 tune=-5 loop_mode=loop_continuous loop_start=60342 loop_end=60976
+<region> sample=RSM 56 G#2#5.aif key=56 lokey=57 hikey=57 tune=-5 loop_mode=loop_continuous loop_start=52476 loop_end=53535
+<region> sample=RSM 52 E 2#6.aif key=52 lokey=52 hikey=52 tune=-5 loop_mode=loop_continuous loop_start=52707 loop_end=54840
+<region> sample=RSM 50 D 2#5.aif key=50 lokey=51 hikey=51 tune=-5 loop_mode=loop_continuous loop_start=48648 loop_end=52240
+<region> sample=RSM 47 B 1#4.aif key=47 lokey=46 hikey=50 tune=-11 loop_mode=loop_continuous loop_start=54936 loop_end=58129
+<region> sample=RSM 40 E 1#5.aif key=40 lokey=41 hikey=42 tune=-7 loop_mode=loop_continuous loop_start=62970 loop_end=65635
+<region> sample=RSM 35 B 0#5.aif key=35 lokey=33 hikey=36 tune=-4 loop_mode=loop_continuous loop_start=85646 loop_end=89207
+
+<group> lovel=116 hivel=127        // Med Lo
+<region> sample=RSM 97 C#6#2.aif key=97 lokey=99 hikey=127 tune=-8 loop_mode=loop_continuous loop_start=13899 loop_end=15562
+<region> sample=RSM 97 C#6#2.aif key=97 lokey=98 hikey=98 tune=-7 loop_mode=loop_continuous loop_start=13899 loop_end=15562
+<region> sample=RSH 95 B 5#1.aif key=95 lokey=95 hikey=97 tune=-2 loop_mode=loop_continuous loop_start=36899 loop_end=38750
+<region> sample=RSH 93 A 5#1.aif key=93 lokey=93 hikey=94 tune=-5 loop_mode=loop_continuous loop_start=30913 loop_end=31387
+<region> sample=RSH 91 G 5#2.aif key=91 lokey=91 hikey=92 tune=-5 loop_mode=loop_continuous loop_start=29160 loop_end=30309
+<region> sample=RSH 88 E 5#1.aif key=88 lokey=88 hikey=90 tune=-3 loop_mode=loop_continuous loop_start=46673 loop_end=47107
+<region> sample=RSH 86 D 5#1.aif key=86 lokey=85 hikey=87 tune=-5 loop_mode=loop_continuous loop_start=41943 loop_end=42804
+<region> sample=RSH 80 G#4#1.aif key=80 lokey=78 hikey=84 tune=-3 loop_mode=loop_continuous loop_start=51248 loop_end=53208
+<region> sample=RSH 75 D#4#4.aif key=75 lokey=76 hikey=77 tune=-4 loop_mode=loop_continuous loop_start=56500 loop_end=57560
+<region> sample=RSH 72 C 4#3.aif key=72 lokey=71 hikey=75 tune=-4 loop_mode=loop_continuous loop_start=78972 loop_end=81157
+<region> sample=RSH 69 A 3#7.aif key=69 lokey=68 hikey=70 tune=-5 loop_mode=loop_continuous loop_start=83192 loop_end=83592
+<region> sample=RSH 66 F#3#8.aif key=66 lokey=65 hikey=67 tune=-4 loop_mode=loop_continuous loop_start=84739 loop_end=86642
+<region> sample=RSH 64 E 3#7.aif key=64 lokey=63 hikey=64 tune=-4 loop_mode=loop_continuous loop_start=101872 loop_end=104543
+<region> sample=RSH 61 C#3#2.aif key=61 lokey=61 hikey=62 tune=-4 loop_mode=loop_continuous loop_start=88717 loop_end=89510
+<region> sample=RSH 60 C 3#4.aif key=60 lokey=59 hikey=60 tune=-4 loop_mode=loop_continuous loop_start=73137 loop_end=75491
+<region> sample=RSH 57 A 2#2.aif key=57 lokey=56 hikey=58 tune=-6 loop_mode=loop_continuous loop_start=97235 loop_end=100632
+<region> sample=RSH 55 G 2#1.aif key=55 lokey=55 hikey=55 tune=-7 loop_mode=loop_continuous loop_start=115247 loop_end=118610
+<region> sample=RSH 54 F#2#3.aif key=54 lokey=53 hikey=54 tune=-9 loop_mode=loop_continuous loop_start=93960 loop_end=95619
+<region> sample=RSH 51 D#2#2.aif key=51 lokey=51 hikey=52 tune=-9 loop_mode=loop_continuous loop_start=89305 loop_end=95226
+<region> sample=RSH 50 D 2#2.aif key=50 lokey=49 hikey=50 tune=-11 loop_mode=loop_continuous loop_start=101502 loop_end=102695
+<region> sample=RSH 49 C#2#4.aif key=49 lokey=47 hikey=48 tune=-4 loop_mode=loop_continuous loop_start=126647 loop_end=128551
+<region> sample=RSH 43 G 1#1.aif key=43 lokey=43 hikey=46 tune=-4 loop_mode=loop_continuous loop_start=124599 loop_end=127288
+<region> sample=RSH 42 F#1#2.aif key=42 lokey=41 hikey=42 tune=-3 loop_mode=loop_continuous loop_start=106441 loop_end=115951
+<region> sample=RSH 40 E 1#3.aif key=40 lokey=38 hikey=40 tune=-4 loop_mode=loop_continuous loop_start=104522 loop_end=106655
+<region> sample=RSH 36 C 1#4.aif key=36 lokey=35 hikey=37 tune=-1 loop_mode=loop_continuous loop_start=125319 loop_end=128687
+<region> sample=RSH 35 B 0#2.aif key=35 lokey=32 hikey=34 tune=-3 loop_mode=loop_continuous loop_start=139748 loop_end=142597
+<region> sample=RSH 29 F 0#4.aif key=29 lokey=21 hikey=31 loop_mode=loop_continuous loop_start=115475 loop_end=120522

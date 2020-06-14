@@ -1,0 +1,12 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Rezz Off Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Rezz Off Bass\
+
+<group>        // Group #1
+<region> sample=ResOff60.WAV key=60 lokey=58 hikey=127 tune=3 loop_mode=loop_continuous loop_start=20765 loop_end=21103
+<region> sample=ResOff54.WAV key=54 lokey=52 hikey=57 tune=4 loop_mode=loop_continuous loop_start=22859 loop_end=23337
+<region> sample=ResOff48.WAV key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=31532 loop_end=32205
+<region> sample=ResOff42.WAV key=42 lokey=40 hikey=45 tune=3 loop_mode=loop_continuous loop_start=18074 loop_end=19032
+<region> sample=ResOff36.WAV key=36 lokey=0 hikey=39 tune=2 loop_mode=loop_continuous loop_start=19239 loop_end=20594

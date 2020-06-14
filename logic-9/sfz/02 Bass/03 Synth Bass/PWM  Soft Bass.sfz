@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PWM  Soft Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/PWM  Soft Bass\
+
+<group>        // Group #1
+<region> sample=MegaSoft96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=13830 loop_end=14250
+<region> sample=MegaSoft90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=22542 loop_end=22838
+<region> sample=MegaSoft84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=48592 loop_end=94984
+<region> sample=MegaSoft78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=48316 loop_end=95129
+<region> sample=MegaSoft72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=44902 loop_end=94403
+<region> sample=MegaSoft66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=54533 loop_end=101992
+<region> sample=MegaSoft60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=66451 loop_end=112388
+<region> sample=MegaSoft54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=75321 loop_end=117765
+<region> sample=MegaSoft48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=66773 loop_end=115709
+<region> sample=MegaSoft42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=57240 loop_end=106851
+<region> sample=MegaSoft36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=71876 loop_end=117756
+<region> sample=MegaSoft33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=69115 loop_end=115650

@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - TransitionFX5.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/TransitionFX5\
+
+<group>
+<region> sample=TransitionFX5.aif key=60 lokey=36 hikey=107 end=399208 loop_mode=no_loop

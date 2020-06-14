@@ -1,0 +1,31 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Violin (Pizzicato).exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/Violin (Pizzicato)\
+
+<group> lovel=110 hivel=127        // Violin pizz f
+<region> sample=Vln pizz f  4 g#.aif key=68 lokey=67 hikey=69 loop_mode=no_loop
+<region> sample=Vln pizz f  5 g#.aif key=80 lokey=79 hikey=81 volume=-2 loop_mode=no_loop
+<region> sample=Vln pizz f  5 f.aif key=77 lokey=76 hikey=78 volume=-1 loop_mode=no_loop
+<region> sample=Vln pizz f  5 d.aif key=74 lokey=73 hikey=75 volume=-1 loop_mode=no_loop
+<region> sample=Vln pizz f  4b.aif key=71 lokey=70 hikey=72 loop_mode=no_loop
+<region> sample=Vln pizz f  6 d.aif key=86 lokey=85 hikey=127 tune=3 loop_mode=no_loop
+<region> sample=Vln pizz f  5b.aif key=83 lokey=82 hikey=84 loop_mode=no_loop
+<region> sample=Vln pizz f  4 f.aif key=65 lokey=64 hikey=66 loop_mode=no_loop
+<region> sample=Vln pizz f  4 d.aif key=62 lokey=61 hikey=63 loop_mode=no_loop
+<region> sample=Vln pizz f  3b.aif key=59 lokey=58 hikey=60 volume=-3 loop_mode=no_loop
+<region> sample=Vln pizz f  3 g#.aif key=56 lokey=0 hikey=57 loop_mode=no_loop
+
+<group> lovel=0 hivel=109 volume=10        // Violin  pizz p
+<region> sample=Vln pizz p  4 d.aif key=62 lokey=61 hikey=63 volume=-13 loop_mode=no_loop
+<region> sample=Vln pizz p  4 f.aif key=65 lokey=64 hikey=66 volume=-16 tune=3 loop_mode=no_loop
+<region> sample=Vln pizz p  3 g#.aif key=56 lokey=0 hikey=57 volume=-15 loop_mode=no_loop
+<region> sample=Vln pizz p  3b.aif key=59 lokey=58 hikey=60 volume=-18 loop_mode=no_loop
+<region> sample=Vln pizz p  5 f.aif key=77 lokey=76 hikey=78 volume=-17 tune=2 loop_mode=no_loop
+<region> sample=Vln pizz p  6 d.aif key=86 lokey=85 hikey=127 volume=-17 loop_mode=no_loop
+<region> sample=Vln pizz p  5 d.aif key=74 lokey=73 hikey=75 volume=-16 loop_mode=no_loop
+<region> sample=Vln pizz p  4b.aif key=71 lokey=70 hikey=72 volume=-14 tune=3 loop_mode=no_loop
+<region> sample=Vln pizz p  5b.aif key=83 lokey=82 hikey=84 volume=-15 tune=5 loop_mode=no_loop
+<region> sample=Vln pizz p  5 g#.aif key=80 lokey=79 hikey=81 volume=-15 tune=1 loop_mode=no_loop
+<region> sample=Vln pizz p  4 g#.aif key=68 lokey=67 hikey=69 volume=-10 tune=2 loop_mode=no_loop

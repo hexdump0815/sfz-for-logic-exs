@@ -1,0 +1,25 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Fireball Decay.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/Fireball Decay\
+
+<group> volume=3        // Group #1
+<region> sample=Fire_38.aif key=38 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=1962 loop_end=177150
+<region> sample=Fire_41.aif key=41 lokey=40 hikey=42 loop_mode=loop_continuous loop_start=2125 loop_end=177354
+<region> sample=Fire_44.aif key=44 lokey=43 hikey=45 loop_mode=loop_continuous loop_start=1491 loop_end=178740
+<region> sample=Fire_47.aif key=47 lokey=46 hikey=48 loop_mode=loop_continuous loop_start=959 loop_end=177816
+<region> sample=Fire_50.aif key=50 lokey=49 hikey=51 loop_mode=loop_continuous loop_start=1646 loop_end=178817
+<region> sample=Fire_53.aif key=53 lokey=52 hikey=54 loop_mode=loop_continuous loop_start=469 loop_end=176164
+<region> sample=Fire_56.aif key=56 lokey=55 hikey=57 loop_mode=loop_continuous loop_start=366 loop_end=176351
+<region> sample=Fire_59.aif key=59 lokey=58 hikey=60 loop_mode=loop_continuous loop_start=518 loop_end=176527
+<region> sample=Fire_62.aif key=62 lokey=61 hikey=63 loop_mode=loop_continuous loop_start=793 loop_end=178973
+<region> sample=Fire_65.aif key=65 lokey=64 hikey=66 loop_mode=loop_continuous loop_start=913 loop_end=178115
+<region> sample=Fire_68.aif key=68 lokey=67 hikey=69 loop_mode=loop_continuous loop_start=562 loop_end=178731
+<region> sample=Fire_71.aif key=71 lokey=70 hikey=72 loop_mode=loop_continuous loop_start=466 loop_end=177782
+<region> sample=Fire_74.aif key=74 lokey=73 hikey=75 loop_mode=loop_continuous loop_start=383 loop_end=178114
+<region> sample=Fire_77.aif key=77 lokey=76 hikey=78 loop_mode=loop_continuous loop_start=567 loop_end=178303
+<region> sample=Fire_80.aif key=80 lokey=79 hikey=81 loop_mode=loop_continuous loop_start=805 loop_end=179411
+<region> sample=Fire_83.aif key=83 lokey=82 hikey=84 loop_mode=loop_continuous loop_start=162 loop_end=177025
+<region> sample=Fire_86.aif key=86 lokey=85 hikey=87 loop_mode=loop_continuous loop_start=1219 loop_end=176702
+<region> sample=Fire_89.aif key=89 lokey=88 hikey=127 loop_mode=loop_continuous loop_start=1526 loop_end=179717

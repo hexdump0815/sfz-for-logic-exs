@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Ambient Fx 4.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/Ambient Fx 4\
+
+<group>        // Group #1
+<region> sample=SuGrC07.aif key=67 lokey=0 hikey=127 volume=4 loop_mode=loop_continuous loop_start=89088 loop_end=262144

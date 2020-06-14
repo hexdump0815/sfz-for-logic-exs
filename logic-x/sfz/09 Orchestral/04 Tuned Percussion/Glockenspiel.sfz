@@ -1,0 +1,24 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Glockenspiel.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Glockenspiel/Glockenspiel_Pla_mf1\
+
+<group>        // GLS2_Pla_mf
+<region> sample=GLS2_Pla_mf_C8.wav key=96 lokey=96 hikey=108 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_B7.wav key=95 lokey=95 hikey=95 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_G#7.wav key=92 lokey=92 hikey=93 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_E7.wav key=88 lokey=88 hikey=89 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_D7.wav key=86 lokey=86 hikey=87 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_A#6.wav key=82 lokey=82 hikey=83 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_E6.wav key=76 lokey=76 hikey=77 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_A#5.wav key=70 lokey=70 hikey=71 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_G5.wav key=67 lokey=21 hikey=67 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_G#6.wav key=80 lokey=80 hikey=81 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_F#7.wav key=90 lokey=90 hikey=91 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_C7.wav key=84 lokey=84 hikey=85 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_F#6.wav key=78 lokey=78 hikey=79 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_G#5.wav key=68 lokey=68 hikey=69 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_C6.wav key=72 lokey=72 hikey=73 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_D6.wav key=74 lokey=74 hikey=75 volume=-2 loop_mode=no_loop
+<region> sample=GLS2_Pla_mf_A#7.wav key=94 lokey=94 hikey=94 volume=-2 loop_mode=no_loop

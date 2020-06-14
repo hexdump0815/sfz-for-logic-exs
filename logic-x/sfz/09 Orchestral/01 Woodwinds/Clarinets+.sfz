@@ -1,0 +1,100 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Clarinets+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Clarinets/Clarinets-L_sus_f\
+
+<group> lovel=89 hivel=127 volume=-3        // Legato:Forte
+<region> sample=KL-3-L_sus_f_F#5.wav key=78 lokey=77 hikey=78 loop_mode=loop_continuous loop_start=226942 loop_end=258163
+<region> sample=KL-3-L_sus_f_C4.wav key=60 lokey=59 hikey=60 loop_mode=loop_continuous loop_start=148473 loop_end=273978
+<region> sample=KL-3-L_sus_f_D3.wav key=50 lokey=21 hikey=50 volume=-4 loop_mode=loop_continuous loop_start=128035 loop_end=291924
+<region> sample=KL-3-L_sus_f_E6.wav key=88 lokey=89 hikey=108 volume=-4 loop_mode=loop_continuous loop_start=155957 loop_end=330941
+<region> sample=KL-3-L_sus_f_E6.wav key=88 lokey=87 hikey=88 volume=-6 loop_mode=loop_continuous loop_start=155957 loop_end=330941
+<region> sample=KL-3-L_sus_f_D6.wav key=86 lokey=85 hikey=86 volume=-2 loop_mode=loop_continuous loop_start=111492 loop_end=303606
+<region> sample=KL-3-L_sus_f_C6.wav key=84 lokey=83 hikey=84 volume=-3 loop_mode=loop_continuous loop_start=172537 loop_end=304982
+<region> sample=KL-3-L_sus_f_A#5.wav key=82 lokey=81 hikey=82 loop_mode=loop_continuous loop_start=102784 loop_end=321971
+<region> sample=KL-3-L_sus_f_G#5.wav key=80 lokey=79 hikey=80 loop_mode=loop_continuous loop_start=93720 loop_end=348453
+<region> sample=KL-3-L_sus_f_E5.wav key=76 lokey=75 hikey=76 loop_mode=loop_continuous loop_start=229218 loop_end=331597
+<region> sample=KL-3-L_sus_f_D5.wav key=74 lokey=73 hikey=74 loop_mode=loop_continuous loop_start=61464 loop_end=344889
+<region> sample=KL-3-L_sus_f_C5.wav key=72 lokey=71 hikey=72 volume=-3 loop_mode=loop_continuous loop_start=233999 loop_end=347531
+<region> sample=KL-3-L_sus_f_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=181998 loop_end=281987
+<region> sample=KL-3-L_sus_f_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=96845 loop_end=327796
+<region> sample=KL-3-L_sus_f_F#4.wav key=66 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=151364 loop_end=325000
+<region> sample=KL-3-L_sus_f_E4.wav key=64 lokey=63 hikey=64 volume=-2 loop_mode=loop_continuous loop_start=224299 loop_end=311259
+<region> sample=KL-3-L_sus_f_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=94770 loop_end=343153
+<region> sample=KL-3-L_sus_f_A#3.wav key=58 lokey=57 hikey=58 loop_mode=loop_continuous loop_start=99490 loop_end=349131
+<region> sample=KL-3-L_sus_f_G#3.wav key=56 lokey=55 hikey=56 volume=-4 loop_mode=loop_continuous loop_start=100173 loop_end=252880
+<region> sample=KL-3-L_sus_f_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=75903 loop_end=321471
+<region> sample=KL-3-L_sus_f_E3.wav key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=158680 loop_end=289836
+<region> sample=KL-3-L_sus_f_E3.wav key=52 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=158680 loop_end=289836
+
+<group> lovel=0 hivel=88        // Legato:Piano
+<region> sample=KL-3-L_sus_p_C6.wav key=84 lokey=83 hikey=84 volume=-3 loop_mode=loop_continuous loop_start=144624 loop_end=416572
+<region> sample=KL-3-L_sus_p_G#5.wav key=80 lokey=79 hikey=80 loop_mode=loop_continuous loop_start=128074 loop_end=465617
+<region> sample=KL-3-L_sus_p_E5.wav key=76 lokey=75 hikey=76 volume=3 loop_mode=loop_continuous loop_start=133121 loop_end=405104
+<region> sample=KL-3-L_sus_p_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=loop_continuous loop_start=201474 loop_end=580703
+<region> sample=KL-3-L_sus_p_C5.wav key=72 lokey=71 hikey=72 loop_mode=loop_continuous loop_start=332507 loop_end=515627
+<region> sample=KL-3-L_sus_p_A#4.wav key=70 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=94362 loop_end=372210
+<region> sample=KL-3-L_sus_p_A#3.wav key=58 lokey=57 hikey=58 loop_mode=loop_continuous loop_start=163251 loop_end=472699
+<region> sample=KL-3-L_sus_p_E6.wav key=88 lokey=89 hikey=108 volume=-4 loop_mode=loop_continuous loop_start=74088 loop_end=300518
+<region> sample=KL-3-L_sus_p_E6.wav key=88 lokey=87 hikey=88 volume=-4 loop_mode=loop_continuous loop_start=74088 loop_end=300518
+<region> sample=KL-3-L_sus_p_D6.wav key=86 lokey=85 hikey=86 volume=-2 loop_mode=loop_continuous loop_start=108343 loop_end=320228
+<region> sample=KL-3-L_sus_p_A#5.wav key=82 lokey=81 hikey=82 loop_mode=loop_continuous loop_start=104311 loop_end=392914
+<region> sample=KL-3-L_sus_p_F#5.wav key=78 lokey=77 hikey=78 loop_mode=loop_continuous loop_start=171268 loop_end=386254
+<region> sample=KL-3-L_sus_p_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=236606 loop_end=480585
+<region> sample=KL-3-L_sus_p_F#4.wav key=66 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=293522 loop_end=438868
+<region> sample=KL-3-L_sus_p_E4.wav key=64 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=260515 loop_end=393368
+<region> sample=KL-3-L_sus_p_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=102804 loop_end=381703
+<region> sample=KL-3-L_sus_p_C4.wav key=60 lokey=59 hikey=60 loop_mode=loop_continuous loop_start=257245 loop_end=440318
+<region> sample=KL-3-L_sus_p_G#3.wav key=56 lokey=55 hikey=56 loop_mode=loop_continuous loop_start=284498 loop_end=441287
+<region> sample=KL-3-L_sus_p_F#3.wav key=54 lokey=53 hikey=54 loop_mode=loop_continuous loop_start=211349 loop_end=409972
+<region> sample=KL-3-L_sus_p_E3.wav key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=234567 loop_end=425290
+<region> sample=KL-3-L_sus_p_E3.wav key=52 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=234567 loop_end=425290
+<region> sample=KL-3-L_sus_p_D3.wav key=50 lokey=21 hikey=50 loop_mode=loop_continuous loop_start=157606 loop_end=371927
+
+<group> lovel=89 hivel=127 volume=-5        // Staccato:Forte
+<region> sample=KL-3_stac_f1_F6.wav key=89 lokey=89 hikey=108 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_E6.wav key=88 lokey=87 hikey=88 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_D6.wav key=86 lokey=85 hikey=86 volume=-3 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_C6.wav key=84 lokey=83 hikey=84 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_A#5.wav key=82 lokey=81 hikey=82 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_G#5.wav key=80 lokey=79 hikey=80 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_F#5.wav key=78 lokey=77 hikey=78 volume=-3 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_E5.wav key=76 lokey=75 hikey=76 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_C5.wav key=72 lokey=71 hikey=72 volume=-5 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_A#4.wav key=70 lokey=69 hikey=70 volume=-6 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_G#4.wav key=68 lokey=67 hikey=68 volume=-4 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_F#4.wav key=66 lokey=65 hikey=66 volume=-6 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_D4.wav key=62 lokey=61 hikey=62 volume=-2 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_C4.wav key=60 lokey=59 hikey=60 volume=-3 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_G#3.wav key=56 lokey=55 hikey=56 volume=-6 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_F#3.wav key=54 lokey=53 hikey=54 volume=-6 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_E3.wav key=52 lokey=52 hikey=52 volume=-6 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_D#3.wav key=51 lokey=51 hikey=51 volume=-6 loop_mode=no_loop
+<region> sample=KL-3_stac_f1_D3.wav key=50 lokey=21 hikey=50 volume=-5 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-4        // Staccato:Mezzo Piano
+<region> sample=KL-3_stac_mp1_F6.wav key=89 lokey=89 hikey=108 volume=-5 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_E6.wav key=88 lokey=88 hikey=88 volume=-5 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_D6.wav key=86 lokey=86 hikey=87 volume=-4 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_C6.wav key=84 lokey=84 hikey=85 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_A#5.wav key=82 lokey=82 hikey=83 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_G#5.wav key=80 lokey=80 hikey=81 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_F#5.wav key=78 lokey=78 hikey=79 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_E5.wav key=76 lokey=76 hikey=77 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_D5.wav key=74 lokey=74 hikey=75 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_C5.wav key=72 lokey=72 hikey=73 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_A#4.wav key=70 lokey=70 hikey=71 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_G#4.wav key=68 lokey=68 hikey=69 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_C4.wav key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_A#3.wav key=58 lokey=58 hikey=59 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_G#3.wav key=56 lokey=56 hikey=57 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_F#3.wav key=54 lokey=54 hikey=55 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_E3.wav key=52 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=KL-3_stac_mp1_D3.wav key=50 lokey=21 hikey=51 loop_mode=no_loop

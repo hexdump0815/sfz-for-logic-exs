@@ -1,0 +1,232 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Orchestral Kit.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Orchestral Kit/Additional Percussion\
+
+<group>        // Diverses
+<region> sample=Orchestral Hit.wav key=104 lokey=104 hikey=104 loop_mode=no_loop
+<region> sample=Small Metal 2.wav key=103 lokey=103 hikey=103 loop_mode=no_loop
+<region> sample=Metal Clap 3.wav key=101 lokey=101 hikey=101 pan=-30 loop_mode=no_loop
+<region> sample=Tin Klick 2.wav key=98 lokey=98 hikey=98 loop_mode=loop_continuous loop_start=21084 loop_end=22828
+<region> sample=Tin Tom 4.wav key=91 lokey=91 hikey=91 loop_mode=no_loop
+<region> sample=Ti-Kast_ES-l1.wav key=86 lokey=86 hikey=86 loop_mode=no_loop
+<region> sample=rail_2_le2_f.wav key=77 lokey=77 hikey=77 lovel=111 hivel=127 pan=-10 loop_mode=no_loop
+<region> sample=Guiro-Holz_ES_sho_up_oA_1.wav key=74 lokey=74 hikey=74 pan=5 loop_mode=no_loop
+<region> sample=HBL5_Ho_ES1_mf.wav key=64 lokey=64 hikey=64 loop_mode=no_loop
+<region> sample=HBL3_Ho_ES1_mf.wav key=62 lokey=62 hikey=62 loop_mode=no_loop
+<region> sample=HBL1_Ho_ES1_mf.wav key=60 lokey=60 hikey=60 loop_mode=no_loop
+<region> sample=Ratsche-4_sh.wav key=59 lokey=59 hikey=59 loop_mode=no_loop
+<region> sample=Ji-Be1_ES1.wav key=52 lokey=52 hikey=52 pan=10 loop_mode=no_loop
+<region> sample=Kitchen Tom 2.wav key=31 lokey=31 hikey=31 pan=-30 loop_mode=no_loop
+<region> sample=Bright Knock 2.wav key=29 lokey=29 hikey=29 loop_mode=no_loop
+<region> sample=Bright Knock.wav key=28 lokey=28 hikey=28 loop_mode=no_loop
+<region> sample=Big Block.wav key=26 lokey=26 hikey=26 loop_mode=no_loop
+<region> sample=Dry Kick.wav key=24 lokey=24 hikey=24 loop_mode=no_loop
+<region> sample=Dirty Kick.wav key=23 lokey=23 hikey=23 loop_mode=no_loop
+<region> sample=Clean Kick.wav key=21 lokey=21 hikey=21 loop_mode=no_loop
+<region> sample=Ti-Kast_ES-r1.wav key=87 lokey=87 hikey=87 loop_mode=no_loop
+<region> sample=Tin Tom.wav key=88 lokey=88 hikey=88 loop_mode=loop_continuous loop_start=31155 loop_end=34194
+<region> sample=Tin Tom 2.wav key=89 lokey=89 hikey=89 loop_mode=loop_continuous loop_start=25518 loop_end=28644
+<region> sample=Tin Tom 3.wav key=90 lokey=90 hikey=90 loop_mode=loop_continuous loop_start=28037 loop_end=30522
+<region> sample=Tin Tom Double.wav key=92 lokey=92 hikey=92 loop_mode=no_loop
+<region> sample=Tambo Clap.wav key=93 lokey=93 hikey=93 loop_mode=no_loop
+<region> sample=Tambo Clap 2.wav key=94 lokey=94 hikey=94 loop_mode=no_loop
+<region> sample=Tambo Clap 3.wav key=95 lokey=95 hikey=95 loop_mode=no_loop
+<region> sample=Tambo Clap 4.wav key=96 lokey=96 hikey=96 loop_mode=no_loop
+<region> sample=Tin Klick.wav key=97 lokey=97 hikey=97 loop_mode=no_loop
+<region> sample=Metal Clap.wav key=99 lokey=99 hikey=99 pan=-30 loop_mode=no_loop
+<region> sample=Metal Clap 2.wav key=100 lokey=100 hikey=100 pan=-30 loop_mode=no_loop
+<region> sample=Small Metal.wav key=102 lokey=102 hikey=102 loop_mode=no_loop
+<region> sample=Kitchen Tom.wav key=30 lokey=30 hikey=30 pan=30 loop_mode=no_loop
+<region> sample=Narrow Kick.wav key=25 lokey=25 hikey=25 loop_mode=no_loop
+<region> sample=Close Kick.wav key=22 lokey=22 hikey=22 loop_mode=no_loop
+<region> sample=Tamb_ES_p_1.wav key=54 lokey=54 hikey=54 lovel=0 hivel=50 volume=-6 pan=20 loop_mode=no_loop
+<region> sample=Tamb_ES_mp_1.wav key=54 lokey=54 hikey=54 lovel=51 hivel=85 volume=-6 pan=20 loop_mode=no_loop
+<region> sample=Tamb_ES_f_1.wav key=54 lokey=54 hikey=54 lovel=86 hivel=110 volume=-4 pan=20 loop_mode=no_loop
+<region> sample=Tamb_ES_ff_1.wav key=54 lokey=54 hikey=54 lovel=111 hivel=127 pan=20 loop_mode=no_loop
+<region> sample=rail_2_le1_p.wav key=77 lokey=77 hikey=77 lovel=0 hivel=85 volume=-8 pan=-10 loop_mode=no_loop
+<region> sample=rail_2_le2_mf.wav key=77 lokey=77 hikey=77 lovel=86 hivel=110 volume=-6 pan=-10 loop_mode=no_loop
+<region> sample=Peitsche1_f_1.wav key=78 lokey=78 hikey=78 pan=10 loop_mode=no_loop
+<region> sample=Claves-Fibre2_ES1.wav key=75 lokey=75 hikey=75 pan=-10 loop_mode=no_loop
+<region> sample=slit_p1_A#2.wav key=76 lokey=76 hikey=76 lovel=0 hivel=85 volume=-6 pan=20 loop_mode=no_loop
+<region> sample=slit_f1_A#2.wav key=76 lokey=76 hikey=76 lovel=86 hivel=127 pan=20 loop_mode=no_loop
+<region> sample=TG1_ES_di_pp_mu_1.wav key=80 lokey=80 hikey=80 lovel=0 hivel=85 volume=-3 pan=-10 loop_mode=no_loop
+<region> sample=TG1_ES_di_f_mu_1.wav key=80 lokey=80 hikey=80 lovel=86 hivel=127 pan=-10 loop_mode=no_loop
+<region> sample=Ji-Be2_ES1.wav key=51 lokey=51 hikey=51 pan=10 loop_mode=no_loop
+<region> sample=Guiro-Holz_ES_long_up_oA_1.wav key=73 lokey=73 hikey=73 pan=5 loop_mode=no_loop
+<region> sample=HBL2_Ho_ES1_mf.wav key=61 lokey=61 hikey=61 loop_mode=no_loop
+<region> sample=HBL4_Ho_ES1_mf.wav key=63 lokey=63 hikey=63 loop_mode=no_loop
+<region> sample=Shaker-Chrom_ES1.wav key=82 lokey=82 hikey=82 lovel=0 hivel=99 loop_mode=no_loop
+<region> sample=Shaker-Chrom_ES2.wav key=82 lokey=82 hikey=82 lovel=100 hivel=127 loop_mode=no_loop
+<region> sample=Sustain Kick.wav key=27 lokey=27 hikey=27 loop_mode=no_loop
+
+<group>        // Belltree
+<region> sample=Bellt_up_fast_Me1.wav key=83 lokey=83 hikey=83 pan=-5 loop_mode=no_loop
+<region> sample=Bellt_do_fast_Me1.wav key=84 lokey=84 hikey=84 pan=-5 loop_mode=no_loop
+
+<group> pan=-10 trigger=release        // TG1_RS_trem
+<region> sample=TG1_RS_trem_ff.wav key=79 lokey=79 hikey=79 lovel=86 hivel=127 loop_mode=no_loop
+<region> sample=TG1_RS_trem_pp.wav key=79 lokey=79 hikey=79 lovel=0 hivel=85 volume=-2 loop_mode=no_loop
+
+<group> pan=-10        // TG1-L_trem
+<region> sample=TG1-L_trem_ff_4s.wav key=79 lokey=79 hikey=79 loop_mode=loop_continuous loop_start=25623 loop_end=173749
+<region> sample=TG1-L_trem_pp_4s.wav key=79 lokey=79 hikey=79 volume=-2 loop_mode=loop_continuous loop_start=78163 loop_end=175658
+
+<group> pan=-15        // Chi-Go
+<region> sample=Chi-Go_ff_3.wav key=71 lokey=71 hikey=71 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=Chi-Go_p_1.wav key=69 lokey=69 hikey=69 lovel=0 hivel=50 volume=-6 loop_mode=no_loop
+<region> sample=Chi-Go_mf_1.wav key=69 lokey=69 hikey=69 lovel=51 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=Chi-Go_ff_1.wav key=69 lokey=69 hikey=69 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=Chi-Go_p_3.wav key=71 lokey=71 hikey=71 lovel=0 hivel=50 volume=-6 loop_mode=no_loop
+<region> sample=Chi-Go_mf_3.wav key=71 lokey=71 hikey=71 lovel=51 hivel=110 volume=-4 loop_mode=no_loop
+
+<group> pan=20        // Tam-AS_ES
+<region> sample=Tam-AS_scratch1_ff_mittel.wav key=57 lokey=57 hikey=57 lovel=86 hivel=127 volume=-4 loop_mode=no_loop
+<region> sample=Tam-AS_ES_fff_Li.wav key=55 lokey=55 hikey=55 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=Tam-AS_ES_f_Li.wav key=55 lokey=55 hikey=55 lovel=86 hivel=110 volume=-7 loop_mode=no_loop
+<region> sample=Tam-AS_ES_pp_Li.wav key=55 lokey=55 hikey=55 lovel=0 hivel=50 volume=-16 loop_mode=no_loop
+<region> sample=Tam-AS_ES_mp_Li.wav key=55 lokey=55 hikey=55 lovel=51 hivel=85 volume=-12 loop_mode=no_loop
+<region> sample=Tam-AS_scratch1_p_mittel.wav key=57 lokey=57 hikey=57 lovel=0 hivel=85 volume=-12 loop_mode=no_loop
+
+<group> pan=20 trigger=release        // Tamb1_RS_trm-shake
+<region> sample=Tamb1_RS_trem-shake.wav key=53 lokey=53 hikey=53 volume=-3 loop_mode=no_loop
+
+<group> pan=20        // Tabmb-L_trm-shake
+<region> sample=Tamb1-L_trm-shake_lo.wav key=53 lokey=53 hikey=53 volume=-3 loop_mode=loop_continuous loop_start=50768 loop_end=171172
+
+<group>        // Tai_ES
+<region> sample=Tai_ES_fff_5_L1.wav key=50 lokey=50 hikey=50 lovel=111 hivel=127 pan=5 loop_mode=no_loop
+<region> sample=Tai_ES_fff_3_L1.wav key=48 lokey=48 hikey=48 lovel=111 hivel=127 pan=-5 loop_mode=no_loop
+<region> sample=Tai_ES_fff_1_L1.wav key=47 lokey=47 hikey=47 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=Tai_ES_pp_1_L1.wav key=47 lokey=47 hikey=47 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=Tai_ES_mp_1_L1.wav key=47 lokey=47 hikey=47 lovel=51 hivel=85 volume=-7 loop_mode=no_loop
+<region> sample=Tai_ES_f_1_L1.wav key=47 lokey=47 hikey=47 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=Tai_ES_pp_3_L1.wav key=48 lokey=48 hikey=48 lovel=0 hivel=50 volume=-10 pan=-5 loop_mode=no_loop
+<region> sample=Tai_ES_mp_3_L1.wav key=48 lokey=48 hikey=48 lovel=51 hivel=85 volume=-7 pan=-5 loop_mode=no_loop
+<region> sample=Tai_ES_pp_5_L1.wav key=50 lokey=50 hikey=50 lovel=0 hivel=50 volume=-10 pan=5 loop_mode=no_loop
+<region> sample=Tai_ES_mp_5_L1.wav key=50 lokey=50 hikey=50 lovel=51 hivel=85 volume=-7 pan=5 loop_mode=no_loop
+<region> sample=Tai_ES_f_5_L1.wav key=50 lokey=50 hikey=50 lovel=86 hivel=110 volume=-4 pan=5 loop_mode=no_loop
+<region> sample=Tai_ES_f_3_L1.wav key=48 lokey=48 hikey=48 lovel=86 hivel=110 volume=-4 pan=-5 loop_mode=no_loop
+
+<group>        // Roto_ES
+<region> sample=Roto_ES_fff_4_L1.wav key=45 lokey=45 hikey=45 lovel=111 hivel=127 pan=5 loop_mode=no_loop
+<region> sample=Roto_ES_fff_2_L1.wav key=43 lokey=43 hikey=43 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=Roto_ES_fff_1_L1.wav key=41 lokey=41 hikey=41 lovel=111 hivel=127 pan=-5 loop_mode=no_loop
+<region> sample=Roto_ES_pp_1_L1.wav key=41 lokey=41 hikey=41 lovel=0 hivel=50 volume=-10 pan=-5 loop_mode=no_loop
+<region> sample=Roto_ES_mp_1_L1.wav key=41 lokey=41 hikey=41 lovel=51 hivel=85 volume=-8 pan=-5 loop_mode=no_loop
+<region> sample=Roto_ES_f_1_L1.wav key=41 lokey=41 hikey=41 lovel=86 hivel=110 volume=-6 pan=-5 loop_mode=no_loop
+<region> sample=Roto_ES_pp_2_L1.wav key=43 lokey=43 hikey=43 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=Roto_ES_mp_2_L1.wav key=43 lokey=43 hikey=43 lovel=51 hivel=85 volume=-8 loop_mode=no_loop
+<region> sample=Roto_ES_f_2_L1.wav key=43 lokey=43 hikey=43 lovel=86 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=Roto_ES_pp_4_L1.wav key=45 lokey=45 hikey=45 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=Roto_ES_mp_4_L1.wav key=45 lokey=45 hikey=45 lovel=51 hivel=85 volume=-8 pan=5 loop_mode=no_loop
+<region> sample=Roto_ES_f_4_L1.wav key=45 lokey=45 hikey=45 lovel=86 hivel=110 volume=-6 pan=5 loop_mode=no_loop
+
+<group> pan=10        // Field_ES
+<region> sample=Field-S_ES_ff_L1.wav key=40 lokey=40 hikey=40 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=Field_ES_ff_L1.wav key=39 lokey=39 hikey=39 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=Field_ES_p_L1.wav key=39 lokey=39 hikey=39 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=Field_ES_mf_L1.wav key=39 lokey=39 hikey=39 lovel=51 hivel=85 volume=-8 loop_mode=no_loop
+<region> sample=Field_ES_f_L1.wav key=39 lokey=39 hikey=39 lovel=86 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=Field-S_ES_p_L1.wav key=40 lokey=40 hikey=40 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=Field-S_ES_mf_L1.wav key=40 lokey=40 hikey=40 lovel=51 hivel=85 volume=-8 loop_mode=no_loop
+<region> sample=Field-S_ES_f_L1.wav key=40 lokey=40 hikey=40 lovel=86 hivel=110 volume=-6 loop_mode=no_loop
+
+<group> pan=-20        // KTr_ES
+<region> sample=PTr_ES-L1_ff.wav key=38 lokey=38 hikey=38 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KTr_ES-L1_ff.wav key=37 lokey=37 hikey=37 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KTr_ES-L1_p.wav key=37 lokey=37 hikey=37 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=KTr_ES-L1_mf.wav key=37 lokey=37 hikey=37 lovel=51 hivel=85 volume=-7 loop_mode=no_loop
+<region> sample=KTr_ES-L1_f.wav key=37 lokey=37 hikey=37 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=PTr_ES-L1_f.wav key=38 lokey=38 hikey=38 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=PTr_ES-L1_mf.wav key=38 lokey=38 hikey=38 lovel=51 hivel=85 volume=-7 loop_mode=no_loop
+<region> sample=PTr_ES-L1_p.wav key=38 lokey=38 hikey=38 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+
+<group>        // GTr1_ES
+<region> sample=GTr1_ES_ff1.wav key=36 lokey=36 hikey=36 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=GTr1_ES-mufa_ff1.wav key=35 lokey=35 hikey=35 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=GTr1_ES_p1.wav key=36 lokey=36 hikey=36 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=GTr1_ES_mf1.wav key=36 lokey=36 hikey=36 lovel=51 hivel=85 volume=-7 loop_mode=no_loop
+<region> sample=GTr1_ES_f1.wav key=36 lokey=36 hikey=36 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=GTr1_ES-mufa_f1.wav key=35 lokey=35 hikey=35 lovel=86 hivel=110 loop_mode=no_loop
+<region> sample=GTr1_ES-mufa_mf1.wav key=35 lokey=35 hikey=35 lovel=51 hivel=85 volume=-7 loop_mode=no_loop
+<region> sample=GTr1_ES-mufa_p1.wav key=35 lokey=35 hikey=35 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+
+<group> pan=-20 trigger=release        // KTr_RS_trem
+<region> sample=KTr_RS_trem_ff.wav key=33 lokey=33 hikey=33 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KTr_RS_trem_p.wav key=33 lokey=33 hikey=33 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=KTr_RS_trem_mf.wav key=33 lokey=33 hikey=33 lovel=51 hivel=85 volume=-8 loop_mode=no_loop
+<region> sample=KTr_RS_trem_f.wav key=33 lokey=33 hikey=33 lovel=86 hivel=110 volume=-6 loop_mode=no_loop
+
+<group> pan=-20        // KTr-L_trem
+<region> sample=KTr-L_trem_ff_4s.wav key=33 lokey=33 hikey=33 lovel=111 hivel=127 loop_mode=loop_continuous loop_start=26064 loop_end=159840
+<region> sample=KTr-L_trem_f_4s.wav key=33 lokey=33 hikey=33 lovel=86 hivel=110 volume=-4 loop_mode=loop_continuous loop_start=27546 loop_end=168301
+<region> sample=KTr-L_trem_mf_8s.wav key=33 lokey=33 hikey=33 lovel=51 hivel=85 volume=-6 loop_mode=loop_continuous loop_start=39268 loop_end=339292
+<region> sample=KTr-L_trem_p_8s.wav key=33 lokey=33 hikey=33 lovel=0 hivel=50 volume=-8 loop_mode=loop_continuous loop_start=21071 loop_end=345038
+
+<group> trigger=release        // Ti-Kast_RS_trem
+<region> sample=Ti-Kast_RS_trem_mf.wav key=85 lokey=85 hikey=85 loop_mode=no_loop
+
+<group>        // Ti-Kast-L_trem
+<region> sample=Ti-Kast-L_trem_8s.wav key=85 lokey=85 hikey=85 loop_mode=loop_continuous loop_start=42299 loop_end=345043
+
+<group>        // HB1_trem-dyn
+<region> sample=HB1_trem_wool_pp-ff_2s.wav key=46 lokey=46 hikey=46 loop_mode=no_loop
+
+<group> trigger=release        // HB1_RS_trem
+<region> sample=HB1_RS_trem_wool_ff.wav key=44 lokey=44 hikey=44 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=HB1_RS_trem_wool_pp.wav key=44 lokey=44 hikey=44 lovel=0 hivel=50 volume=-8 loop_mode=no_loop
+<region> sample=HB1_RS_trem_wool_mp.wav key=44 lokey=44 hikey=44 lovel=51 hivel=85 volume=-6 loop_mode=no_loop
+<region> sample=HB1_RS_trem_wool_mf.wav key=44 lokey=44 hikey=44 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+
+<group>        // HB1-L_trem
+<region> sample=HB1-L_trem_wool_ff_8s.wav key=44 lokey=44 hikey=44 lovel=111 hivel=127 loop_mode=loop_continuous loop_start=67621 loop_end=253651
+<region> sample=HB1-L_trem_wool_mf_8s.wav key=44 lokey=44 hikey=44 lovel=86 hivel=110 volume=-4 loop_mode=loop_continuous loop_start=134649 loop_end=271411
+<region> sample=HB1-L_trem_wool_mp_8s.wav key=44 lokey=44 hikey=44 lovel=51 hivel=85 volume=-6 loop_mode=loop_continuous loop_start=70534 loop_end=250054
+<region> sample=HB1-L_trem_wool_pp_8s.wav key=44 lokey=44 hikey=44 lovel=0 hivel=50 volume=-8 loop_mode=loop_continuous loop_start=85579 loop_end=314030
+
+<group>        // Cymbals_ES
+<region> sample=HB1_trem_wool_ff_ES1.wav key=42 lokey=42 hikey=42 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=HBE12Z-SplashTr-Schff_R-ha.wav key=34 lokey=34 hikey=34 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=HBE22Z-Chi_Pa-Sch_ff_Ra_nA.wav key=32 lokey=32 hikey=32 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=HB1_trem_wool_mp_ES1.wav key=42 lokey=42 hikey=42 lovel=0 hivel=50 volume=-8 loop_mode=no_loop
+<region> sample=HB1_trem_wool_mp_ES1.wav key=42 lokey=42 hikey=42 lovel=51 hivel=85 volume=-6 loop_mode=no_loop
+<region> sample=HB1_trem_wool_mf_ES1.wav key=42 lokey=42 hikey=42 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=HBE12Z-SplashTr-Schmf_R-na.wav key=34 lokey=34 hikey=34 lovel=51 hivel=85 volume=-7 loop_mode=no_loop
+<region> sample=HBE12Z-SplashTr-Sch_f_R-na.wav key=34 lokey=34 hikey=34 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=HBE12Z-SplashTr-Sch_p_R-na.wav key=34 lokey=34 hikey=34 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+<region> sample=HBE22Z-Chi_Pa-Sch_mf_Ra_nA.wav key=32 lokey=32 hikey=32 lovel=51 hivel=85 volume=-7 loop_mode=no_loop
+<region> sample=HBE_22Z-Chi_Pa-Sch_f_Ra_nA.wav key=32 lokey=32 hikey=32 lovel=86 hivel=110 volume=-4 loop_mode=no_loop
+<region> sample=HBE_22Z-Chi_Pa-Sch_p_Ra_nA.wav key=32 lokey=32 hikey=32 lovel=0 hivel=50 volume=-10 loop_mode=no_loop
+
+<group> pan=-5        // BE_a-due
+<region> sample=BE_a-due_20Is_ff.wav key=49 lokey=49 hikey=49 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=BE_a-due_20Is_mf.wav key=49 lokey=49 hikey=49 lovel=51 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=BE_a-due_20Is_p.wav key=49 lokey=49 hikey=49 lovel=0 hivel=50 volume=-8 loop_mode=no_loop
+
+<group> pan=-10        // TG1_ES
+<region> sample=TG1_ES_di_pp_si_1.wav key=81 lokey=81 hikey=81 lovel=0 hivel=85 volume=-3 loop_mode=no_loop
+<region> sample=TG1_ES_di_f_si_1.wav key=81 lokey=81 hikey=81 lovel=86 hivel=127 loop_mode=no_loop
+
+<group> pan=-20        // Glas-Chimes
+<region> sample=Glas-Chimes_up_slow_2.wav key=65 lokey=65 hikey=65 loop_mode=no_loop
+<region> sample=Glas-Chimes_do_slow_2.wav key=66 lokey=66 hikey=66 loop_mode=no_loop
+<region> sample=Glas-Chimes_up_fast_2.wav key=67 lokey=67 hikey=67 loop_mode=no_loop
+<region> sample=Glas-Chimes_do_fast_2.wav key=68 lokey=68 hikey=68 loop_mode=no_loop
+
+<group> pan=-15        // Chi-Go_trem
+<region> sample=Chi-Go_trem_cre_1.wav key=70 lokey=70 hikey=70 loop_mode=no_loop
+<region> sample=Chi-Go_trem_cre_3.wav key=72 lokey=72 hikey=72 loop_mode=no_loop
+
+<group> pan=20        // Tam-AS-L_trem
+<region> sample=Tam-AS-L_trem_ff.wav key=56 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=111198 loop_end=503362
+
+<group> pan=20 trigger=release        // Tam-AS_RS_trem
+<region> sample=Tam-AS_RS_trem_ff.wav key=56 lokey=56 hikey=56 loop_mode=no_loop
+
+<group> pan=15        // Ratsche-4-L
+<region> sample=Ratsche-4-L_lo.wav key=58 lokey=58 hikey=58 loop_mode=loop_continuous loop_start=13700 loop_end=60848
+
+<group> pan=15 trigger=release        // Ratsche-4_RS
+<region> sample=Ratsche-4_RS_lo.wav key=58 lokey=58 hikey=58 loop_mode=no_loop

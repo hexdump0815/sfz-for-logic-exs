@@ -1,0 +1,14 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Hard Pluck Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Hard Pluck Drive\
+
+<group>        // Group #1
+<region> sample=HardPluck78.wav key=78 lokey=76 hikey=127 loop_mode=no_loop
+<region> sample=HardPluck72.wav key=72 lokey=70 hikey=75 loop_mode=no_loop
+<region> sample=HardPluck66.wav key=66 lokey=64 hikey=69 loop_mode=no_loop
+<region> sample=HardPluck60.wav key=60 lokey=58 hikey=63 loop_mode=no_loop
+<region> sample=HardPluck54.wav key=54 lokey=52 hikey=57 loop_mode=no_loop
+<region> sample=HardPluck48.wav key=48 lokey=40 hikey=51 loop_mode=no_loop
+<region> sample=HardPluck36.wav key=36 lokey=0 hikey=39 loop_mode=no_loop

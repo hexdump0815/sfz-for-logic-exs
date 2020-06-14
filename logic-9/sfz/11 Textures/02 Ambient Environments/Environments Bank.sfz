@@ -1,0 +1,13 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Environments Bank.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/02 Ambient Environments/Environments Bank\
+
+<group>
+<region> sample=1_Forrest Crickets.aif key=43 lokey=36 hikey=47 loop_mode=loop_continuous loop_start=30 loop_end=1118821
+<region> sample=2_Crickets2.aif key=55 lokey=48 hikey=59 loop_mode=loop_continuous loop_start=0 loop_end=961820
+<region> sample=3_Forest Birds.aif key=67 lokey=60 hikey=71 volume=-10 loop_mode=loop_continuous loop_start=0 loop_end=316129
+<region> sample=4_Thunder.aif key=79 lokey=72 hikey=83 end=970166 loop_mode=loop_continuous loop_start=618367 loop_end=757166
+<region> sample=5_Thunder 3.aif key=91 lokey=84 hikey=95 loop_mode=loop_continuous loop_start=0 loop_end=651695
+<region> sample=6_The Alm.aif key=103 lokey=96 hikey=107 volume=-8 loop_mode=loop_continuous loop_start=76613 loop_end=505302

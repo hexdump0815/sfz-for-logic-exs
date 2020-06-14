@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Square Long.exs    by EXS2SFZ 1.1.7
+
+//
+// Attention!! The original files uses the unsupported sfz parameter loop_tune - your sfz-samples might be out of tune! //
+//
+
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Square Long\
+
+<group>        // Group #1
+<region> sample=SquareL60.WAV key=60 lokey=55 hikey=127 tune=2 loop_mode=loop_continuous loop_start=56659 loop_end=56997
+<region> sample=SquareL48.WAV key=48 lokey=46 hikey=54 tune=4 loop_mode=loop_continuous loop_start=64064 loop_end=64740
+<region> sample=SquareL42.WAV key=42 lokey=40 hikey=45 tune=9 loop_mode=loop_continuous loop_start=51179 loop_end=52139
+// (unsupported) loop_tune=2
+
+<region> sample=SquareL36.WAV key=36 lokey=0 hikey=39 tune=3 loop_mode=loop_continuous loop_start=55771 loop_end=57123

@@ -1,0 +1,96 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Electric Stage MkII.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/04 Keyboards/01 Electric Pianos/Electric Stage MkII\
+
+<group> lovel=1 hivel=70        // MARK2 SOFT
+<region> sample=ROS 28 E 0.aif key=28 lokey=21 hikey=30 tune=10 transpose=1 loop_mode=loop_continuous loop_start=49193 loop_end=53755
+<region> sample=ROS 31 G 0.aif key=31 lokey=31 hikey=33 tune=-44 transpose=2 loop_mode=loop_continuous loop_start=60131 loop_end=64068
+<region> sample=ROS 34 A#0.aif key=34 lokey=34 hikey=38 tune=38 transpose=1 loop_mode=loop_continuous loop_start=53568 loop_end=56845
+<region> sample=ROS 40 E 1.aif key=40 lokey=39 hikey=41 tune=42 transpose=1 loop_mode=loop_continuous loop_start=76312 loop_end=78634
+<region> sample=ROS 43 G 1.aif key=43 lokey=42 hikey=44 tune=42 transpose=1 loop_mode=loop_continuous loop_start=43402 loop_end=45356
+<region> sample=ROS 46 A#1.aif key=46 lokey=45 hikey=47 tune=46 transpose=1 loop_mode=loop_continuous loop_start=62778 loop_end=64425
+<region> sample=ROS 49 C#2.aif key=49 lokey=48 hikey=50 tune=47 transpose=1 loop_mode=loop_continuous loop_start=69589 loop_end=71321
+<region> sample=ROS 52 E 2.aif key=52 lokey=51 hikey=52 tune=45 transpose=1 loop_mode=loop_continuous loop_start=62977 loop_end=65303
+<region> sample=ROS 55 G 2.aif key=55 lokey=53 hikey=55 tune=46 transpose=1 loop_mode=loop_continuous loop_start=65077 loop_end=67035
+<region> sample=ROS 58 A#2.aif key=58 lokey=56 hikey=61 tune=43 transpose=1 loop_mode=loop_continuous loop_start=43885 loop_end=45529
+<region> sample=ROS 64 E 3.aif key=64 lokey=62 hikey=65 tune=46 transpose=1 loop_mode=loop_continuous loop_start=49855 loop_end=51019
+<region> sample=ROS 67 G 3.aif key=67 lokey=66 hikey=68 tune=49 transpose=1 loop_mode=loop_continuous loop_start=64734 loop_end=66695
+<region> sample=ROS 70 A#3.aif key=70 lokey=69 hikey=72 tune=-49 transpose=2 loop_mode=loop_continuous loop_start=49474 loop_end=51125
+<region> sample=ROS 72 C 4.aif key=72 lokey=73 hikey=74 tune=49 transpose=1 loop_mode=loop_continuous loop_start=39388 loop_end=40857
+<region> sample=ROS 79 G 4.aif key=79 lokey=75 hikey=79 tune=-45 transpose=2 loop_mode=loop_continuous loop_start=25039 loop_end=26023
+<region> sample=ROS 82 A#4.aif key=82 lokey=80 hikey=82 tune=-49 transpose=2 loop_mode=loop_continuous loop_start=22115 loop_end=22889
+<region> sample=ROS 84 C 5.aif key=84 lokey=83 hikey=85 tune=46 transpose=1 loop_mode=loop_continuous loop_start=21616 loop_end=23083
+<region> sample=ROS 89 F 5.aif key=89 lokey=86 hikey=89 tune=47 transpose=1 loop_mode=loop_continuous loop_start=23613 loop_end=25675
+<region> sample=ROS 94 A#5.aif key=94 lokey=90 hikey=94 tune=46 transpose=1 loop_mode=loop_continuous loop_start=28825 loop_end=29957
+<region> sample=ROS 97 C#6.aif key=97 lokey=95 hikey=96 tune=48 transpose=1 loop_mode=loop_continuous loop_start=24988 loop_end=26938
+<region> sample=ROS100 E 6.aif key=100 lokey=97 hikey=97 tune=-44 transpose=2 loop_mode=loop_continuous loop_start=18946 loop_end=20922
+<region> sample=ROS100 E 6.aif key=100 lokey=98 hikey=127 tune=-44 transpose=2 loop_mode=loop_continuous loop_start=18946 loop_end=20922
+
+<group> lovel=71 hivel=100        // MARK2 MEDIUM
+<region> sample=ROS100 E 6.aif key=100 lokey=100 hikey=127 tune=-44 transpose=2 loop_mode=loop_continuous loop_start=18946 loop_end=20922
+<region> sample=ROS 94 A#5.aif key=94 lokey=96 hikey=99 tune=46 transpose=1 loop_mode=loop_continuous loop_start=28825 loop_end=29957
+<region> sample=ROS 89 F 5.aif key=89 lokey=89 hikey=95 tune=47 transpose=1 loop_mode=loop_continuous loop_start=23613 loop_end=25675
+<region> sample=ROM 86 D 5.aif key=86 lokey=86 hikey=88 tune=50 transpose=1 loop_mode=loop_continuous loop_start=43642 loop_end=45279
+<region> sample=ROM 84 C 5.aif key=84 lokey=83 hikey=85 tune=48 transpose=1 loop_mode=loop_continuous loop_start=39190 loop_end=40933
+<region> sample=ROM 82 A#4.aif key=82 lokey=80 hikey=82 tune=-47 transpose=2 loop_mode=loop_continuous loop_start=47281 loop_end=48934
+<region> sample=ROM 79 G 4.aif key=79 lokey=77 hikey=79 tune=48 transpose=1 loop_mode=loop_continuous loop_start=62809 loop_end=64768
+<region> sample=ROM 76 E 4.aif key=76 lokey=75 hikey=76 tune=48 transpose=1 loop_mode=loop_continuous loop_start=66428 loop_end=68759
+<region> sample=ROM 72 C 4.aif key=72 lokey=71 hikey=74 tune=46 transpose=1 loop_mode=loop_continuous loop_start=56927 loop_end=59128
+<region> sample=ROM 68 G#3.aif key=68 lokey=68 hikey=70 tune=48 transpose=1 loop_mode=loop_continuous loop_start=74820 loop_end=76786
+<region> sample=ROM 67 G 3.aif key=67 lokey=65 hikey=67 tune=49 transpose=1 loop_mode=loop_continuous loop_start=74129 loop_end=75110
+<region> sample=ROM 64 E 3.aif key=64 lokey=63 hikey=64 tune=47 transpose=1 loop_mode=loop_continuous loop_start=85700 loop_end=86428
+<region> sample=ROM 61 C#3.aif key=61 lokey=59 hikey=62 tune=46 transpose=1 loop_mode=loop_continuous loop_start=59051 loop_end=61820
+<region> sample=ROM 58 A#2.aif key=58 lokey=56 hikey=58 tune=45 transpose=1 loop_mode=loop_continuous loop_start=87496 loop_end=90787
+<region> sample=ROM 55 G 2.aif key=55 lokey=53 hikey=55 tune=47 transpose=1 loop_mode=loop_continuous loop_start=88989 loop_end=92909
+<region> sample=ROM 52 E 2.aif key=52 lokey=51 hikey=52 tune=47 transpose=1 loop_mode=loop_continuous loop_start=83421 loop_end=88080
+<region> sample=ROM 46 A#1.aif key=46 lokey=47 hikey=50 tune=48 transpose=1 loop_mode=loop_continuous loop_start=115619 loop_end=118915
+<region> sample=ROM 46 A#1.aif key=46 lokey=45 hikey=46 tune=48 transpose=1 loop_mode=loop_continuous loop_start=115619 loop_end=118915
+<region> sample=ROM 40 E 1.aif key=40 lokey=43 hikey=44 tune=44 transpose=1 loop_mode=loop_continuous loop_start=131181 loop_end=135832
+<region> sample=ROM 40 E 1.aif key=40 lokey=39 hikey=42 tune=44 transpose=1 loop_mode=loop_continuous loop_start=131181 loop_end=135832
+<region> sample=ROM 37 C#1.aif key=37 lokey=36 hikey=38 tune=-48 transpose=2 loop_mode=loop_continuous loop_start=93186 loop_end=98742
+<region> sample=ROM 34 A#0.aif key=34 lokey=33 hikey=35 tune=44 transpose=1 loop_mode=loop_continuous loop_start=109442 loop_end=112732
+<region> sample=ROM 31 G 0.aif key=31 lokey=30 hikey=32 tune=-39 transpose=2 loop_mode=loop_continuous loop_start=110130 loop_end=114080
+<region> sample=ROM 28 E 0.aif key=28 lokey=21 hikey=29 tune=32 transpose=1 loop_mode=loop_continuous loop_start=106882 loop_end=111502
+
+<group> lovel=101 hivel=120        // MARK2 HARD
+<region> sample=ROH 28 E 0.aif key=28 lokey=21 hikey=28 tune=33 transpose=1 loop_mode=loop_continuous loop_start=138395 loop_end=143015
+<region> sample=ROU 31 G 0.aif key=31 lokey=29 hikey=31 tune=-31 transpose=2 loop_mode=loop_continuous loop_start=157701 loop_end=159685
+<region> sample=ROH 34 A#0.aif key=34 lokey=32 hikey=34 tune=44 transpose=1 loop_mode=loop_continuous loop_start=136194 loop_end=139483
+<region> sample=ROH 37 C#1.aif key=37 lokey=35 hikey=39 tune=-48 transpose=2 loop_mode=loop_continuous loop_start=130114 loop_end=132892
+<region> sample=ROH 43 G 1.aif key=43 lokey=40 hikey=44 tune=45 transpose=1 loop_mode=loop_continuous loop_start=124497 loop_end=126454
+<region> sample=ROH 46 A#1.aif key=46 lokey=45 hikey=46 tune=49 transpose=1 loop_mode=loop_continuous loop_start=135415 loop_end=137064
+<region> sample=ROH 49 C#2.aif key=49 lokey=47 hikey=49 tune=48 transpose=1 loop_mode=loop_continuous loop_start=123872 loop_end=125258
+<region> sample=ROH 52 E 2.aif key=52 lokey=50 hikey=55 tune=46 transpose=1 loop_mode=loop_continuous loop_start=126780 loop_end=129109
+<region> sample=ROH 58 A#2.aif key=58 lokey=56 hikey=59 tune=48 transpose=1 loop_mode=loop_continuous loop_start=103506 loop_end=105155
+<region> sample=ROH 61 C#3.aif key=61 lokey=60 hikey=62 tune=46 transpose=1 loop_mode=loop_continuous loop_start=90009 loop_end=92777
+<region> sample=ROH 64 E 3.aif key=64 lokey=63 hikey=65 tune=47 transpose=1 loop_mode=loop_continuous loop_start=101382 loop_end=103712
+<region> sample=ROH 67 G 3.aif key=67 lokey=66 hikey=68 tune=50 transpose=1 loop_mode=loop_continuous loop_start=79648 loop_end=80629
+<region> sample=ROH 68 G#3.aif key=68 lokey=69 hikey=72 tune=47 transpose=1 loop_mode=loop_continuous loop_start=93026 loop_end=94875
+<region> sample=ROH 75 D#4.aif key=75 lokey=73 hikey=76 tune=46 transpose=1 loop_mode=loop_continuous loop_start=58371 loop_end=59527
+<region> sample=ROH 79 G 4.aif key=79 lokey=77 hikey=86 tune=45 transpose=1 loop_mode=loop_continuous loop_start=54626 loop_end=56888
+<region> sample=ROH 89 F 5.aif key=89 lokey=87 hikey=93 tune=48 transpose=1 loop_mode=loop_continuous loop_start=43516 loop_end=43791
+<region> sample=ROH 94 A#5.aif key=94 lokey=94 hikey=94 tune=47 transpose=1 loop_mode=loop_continuous loop_start=34540 loop_end=37860
+<region> sample=ROH 94 A#5.aif key=94 lokey=95 hikey=127 tune=47 transpose=1 loop_mode=loop_continuous loop_start=34540 loop_end=37860
+
+<group> lovel=121 hivel=127        // MARK2 ULTRA
+<region> sample=ROH 94 A#5.aif key=94 lokey=90 hikey=127 tune=47 transpose=1 loop_mode=loop_continuous loop_start=34540 loop_end=37860
+<region> sample=ROH 94 A#5.aif key=94 lokey=89 hikey=89 tune=47 transpose=1 loop_mode=loop_continuous loop_start=34540 loop_end=37860
+<region> sample=ROH 79 G 4.aif key=79 lokey=78 hikey=88 tune=45 transpose=1 loop_mode=loop_continuous loop_start=54626 loop_end=56888
+<region> sample=ROH 75 D#4.aif key=75 lokey=75 hikey=77 tune=46 transpose=1 loop_mode=loop_continuous loop_start=58371 loop_end=59527
+<region> sample=ROH 68 G#3.aif key=68 lokey=71 hikey=74 tune=47 transpose=1 loop_mode=loop_continuous loop_start=93026 loop_end=94875
+<region> sample=ROH 67 G 3.aif key=67 lokey=67 hikey=70 tune=50 transpose=1 loop_mode=loop_continuous loop_start=79648 loop_end=80629
+<region> sample=ROH 64 E 3.aif key=64 lokey=64 hikey=66 tune=47 transpose=1 loop_mode=loop_continuous loop_start=101382 loop_end=103712
+<region> sample=ROH 61 C#3.aif key=61 lokey=61 hikey=63 tune=46 transpose=1 loop_mode=loop_continuous loop_start=90009 loop_end=92777
+<region> sample=ROH 58 A#2.aif key=58 lokey=58 hikey=60 tune=48 transpose=1 loop_mode=loop_continuous loop_start=103506 loop_end=105155
+<region> sample=ROH 55 G 2.aif key=55 lokey=55 hikey=57 tune=-50 transpose=2 loop_mode=loop_continuous loop_start=123289 loop_end=124269
+<region> sample=ROH 52 E 2.aif key=52 lokey=51 hikey=54 tune=46 transpose=1 loop_mode=loop_continuous loop_start=126780 loop_end=129109
+<region> sample=ROH 49 C#2.aif key=49 lokey=50 hikey=50 tune=48 transpose=1 loop_mode=loop_continuous loop_start=123872 loop_end=125258
+<region> sample=ROH 46 A#1.aif key=46 lokey=45 hikey=49 tune=49 transpose=1 loop_mode=loop_continuous loop_start=135415 loop_end=137064
+<region> sample=ROH 43 G 1.aif key=43 lokey=42 hikey=44 tune=45 transpose=1 loop_mode=loop_continuous loop_start=124497 loop_end=126454
+<region> sample=ROH 40 E 1.aif key=40 lokey=40 hikey=41 tune=46 transpose=1 loop_mode=loop_continuous loop_start=161555 loop_end=163884
+<region> sample=ROU 37 C#1.aif key=37 lokey=38 hikey=39 tune=-47 transpose=2 loop_mode=loop_continuous loop_start=149888 loop_end=152667
+<region> sample=ROU 34 A#0.aif key=34 lokey=34 hikey=37 tune=48 transpose=1 loop_mode=loop_continuous loop_start=137740 loop_end=139388
+<region> sample=ROU 31 G 0.aif key=31 lokey=31 hikey=33 tune=-30 transpose=2 loop_mode=loop_continuous loop_start=157701 loop_end=159685
+<region> sample=ROU 28 E 0.aif key=28 lokey=21 hikey=30 tune=40 transpose=1 loop_mode=loop_continuous loop_start=166681 loop_end=171321

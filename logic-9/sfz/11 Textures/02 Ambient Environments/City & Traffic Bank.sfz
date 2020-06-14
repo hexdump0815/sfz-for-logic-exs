@@ -1,0 +1,13 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - City & Traffic Bank.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/02 Ambient Environments/City & Traffic Bank\
+
+<group>
+<region> sample=1_LessPassingCars.aif key=43 lokey=36 hikey=47 loop_mode=no_loop
+<region> sample=2_people in roma key=55 lokey=48 hikey=59 loop_mode=loop_continuous loop_start=0 loop_end=445913
+<region> sample=3_schoolyard.aif key=67 lokey=60 hikey=71 loop_mode=loop_continuous loop_start=0 loop_end=510108
+<region> sample=4_Highway.aif key=79 lokey=72 hikey=83 offset=16369 loop_mode=loop_continuous loop_start=40370 loop_end=1114986
+<region> sample=5_town ambient key=91 lokey=84 hikey=95 end=777066 loop_mode=loop_continuous loop_start=0 loop_end=777066
+<region> sample=6_NewYorkAmbience.aif key=103 lokey=96 hikey=107 loop_mode=loop_continuous loop_start=123 loop_end=1175888

@@ -1,0 +1,11 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Square Short.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Square Short\
+
+<group>        // Group #1
+<region> sample=SquareS60.WAV key=60 lokey=58 hikey=127 loop_mode=loop_continuous loop_start=36583 loop_end=36919
+<region> sample=SquareS54.WAV key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=21256 loop_end=21732
+<region> sample=SquareS48.WAV key=48 lokey=47 hikey=51 loop_mode=loop_continuous loop_start=15667 loop_end=16342
+<region> sample=SquareS42.WAV key=42 lokey=0 hikey=46 loop_mode=loop_continuous loop_start=21722 loop_end=22675

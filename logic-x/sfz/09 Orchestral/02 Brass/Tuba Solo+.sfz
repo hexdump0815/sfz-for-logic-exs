@@ -1,0 +1,73 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tuba Solo+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Tuba Solo/Tuba-L_nA_sus_mf\
+
+<group>        // Legato:Mezzo Forte
+<region> sample=KTU-L_nA_sus_mf_A#2.wav key=46 lokey=45 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=105797 loop_end=241254
+<region> sample=KTU-L_nA_sus_mf_G#2.wav key=44 lokey=43 hikey=44 volume=-3 loop_mode=loop_continuous loop_start=104521 loop_end=174566
+<region> sample=KTU-L_nA_sus_mf_F#2.wav key=42 lokey=41 hikey=42 volume=-3 loop_mode=loop_continuous loop_start=146500 loop_end=157910
+<region> sample=KTU-L_nA_sus_mf_E2.wav key=40 lokey=39 hikey=40 volume=-3 loop_mode=loop_continuous loop_start=49861 loop_end=200225
+<region> sample=KTU-L_nA_sus_mf_D2.wav key=38 lokey=37 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=99840 loop_end=213983
+<region> sample=KTU-L_nA_sus_mf_C2.wav key=36 lokey=35 hikey=36 volume=-3 loop_mode=loop_continuous loop_start=70457 loop_end=185017
+<region> sample=KTU-L_nA_sus_mf_A#1.wav key=34 lokey=33 hikey=34 volume=-3 loop_mode=loop_continuous loop_start=191100 loop_end=223602
+<region> sample=KTU-L_nA_sus_mf_G#1.wav key=32 lokey=31 hikey=32 loop_mode=loop_continuous loop_start=121288 loop_end=262251
+<region> sample=KTU-L_nA_sus_mf_F#1.wav key=30 lokey=29 hikey=30 volume=-3 loop_mode=loop_continuous loop_start=60850 loop_end=160958
+<region> sample=KTU-L_nA_sus_mf_E1.wav key=28 lokey=27 hikey=28 volume=-3 loop_mode=loop_continuous loop_start=100578 loop_end=130514
+<region> sample=KTU-L_nA_sus_mf_D1.wav key=26 lokey=25 hikey=26 volume=-3 loop_mode=loop_continuous loop_start=86828 loop_end=110848
+<region> sample=KTU-L_nA_sus_mf_C1.wav key=24 lokey=24 hikey=24 volume=-3 loop_mode=loop_continuous loop_start=116971 loop_end=150705
+<region> sample=KTU-L_nA_sus_mf_B0.wav key=23 lokey=23 hikey=23 loop_mode=loop_continuous loop_start=58901 loop_end=116066
+<region> sample=KTU-L_nA_sus_mf_A#0.wav key=22 lokey=21 hikey=22 volume=-3 loop_mode=loop_continuous loop_start=124451 loop_end=165236
+<region> sample=KTU-L_nA_sus_mf_A#3.wav key=58 lokey=58 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=182850 loop_end=247946
+<region> sample=KTU-L_nA_sus_mf_A3.wav key=57 lokey=57 hikey=57 volume=-3 loop_mode=loop_continuous loop_start=153228 loop_end=229247
+<region> sample=KTU-L_nA_sus_mf_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=91012 loop_end=191487
+<region> sample=KTU-L_nA_sus_mf_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=208256 loop_end=262316
+<region> sample=KTU-L_nA_sus_mf_E3.wav key=52 lokey=51 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=158741 loop_end=255062
+<region> sample=KTU-L_nA_sus_mf_D3.wav key=50 lokey=49 hikey=50 volume=-3 loop_mode=loop_continuous loop_start=199651 loop_end=258548
+<region> sample=KTU-L_nA_sus_mf_C3.wav key=48 lokey=47 hikey=48 volume=-3 loop_mode=loop_continuous loop_start=187754 loop_end=254078
+
+<group> lovel=89 hivel=127        // Staccato:Fortissimo
+<region> sample=KTU_stac_ff1_E1.wav key=28 lokey=27 hikey=28 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_D1.wav key=26 lokey=25 hikey=26 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_A#3.wav key=58 lokey=58 hikey=108 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_A3.wav key=57 lokey=57 hikey=57 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_G#3.wav key=56 lokey=55 hikey=56 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_F#3.wav key=54 lokey=53 hikey=54 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_E3.wav key=52 lokey=51 hikey=52 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_D3.wav key=50 lokey=49 hikey=50 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_C3.wav key=48 lokey=47 hikey=48 tune=-5 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_A#2.wav key=46 lokey=45 hikey=46 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_G#2.wav key=44 lokey=43 hikey=44 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_F#2.wav key=42 lokey=41 hikey=42 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_E2.wav key=40 lokey=39 hikey=40 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_D2.wav key=38 lokey=37 hikey=38 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_C2.wav key=36 lokey=35 hikey=36 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_A#1.wav key=34 lokey=33 hikey=34 tune=-20 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_G#1.wav key=32 lokey=31 hikey=32 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_F#1.wav key=30 lokey=29 hikey=30 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_C1.wav key=24 lokey=24 hikey=24 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_B0.wav key=23 lokey=23 hikey=23 loop_mode=no_loop
+<region> sample=KTU_stac_ff_A#0.wav key=22 lokey=21 hikey=22 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-4        // Staccato:Mezzo Forte
+<region> sample=KTU_stac_mf1_A#2.wav key=46 lokey=46 hikey=47 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_G#2.wav key=44 lokey=44 hikey=45 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_F#2.wav key=42 lokey=42 hikey=43 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_E2.wav key=40 lokey=40 hikey=41 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_D2.wav key=38 lokey=38 hikey=39 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_C2.wav key=36 lokey=36 hikey=37 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_A#1.wav key=34 lokey=34 hikey=35 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_G#1.wav key=32 lokey=32 hikey=33 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_F#1.wav key=30 lokey=30 hikey=31 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_F1.wav key=29 lokey=27 hikey=29 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_D1.wav key=26 lokey=25 hikey=26 volume=2 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_C1.wav key=24 lokey=24 hikey=24 volume=2 loop_mode=no_loop
+<region> sample=KTU_stac_ff1_B0.wav key=23 lokey=23 hikey=23 volume=2 loop_mode=no_loop
+<region> sample=KTU_stac_ff_A#0.wav key=22 lokey=21 hikey=22 volume=2 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_A#3.wav key=58 lokey=58 hikey=108 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_G#3.wav key=56 lokey=56 hikey=57 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_F#3.wav key=54 lokey=54 hikey=55 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_E3.wav key=52 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_D3.wav key=50 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=KTU_stac_mf1_C3.wav key=48 lokey=48 hikey=49 tune=10 loop_mode=no_loop

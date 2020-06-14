@@ -1,0 +1,66 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - English Horn Solo+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/English Horn Solo/English Horn-L_mV_sus_mf\
+
+<group>        // Legato
+<region> sample=EH2-L_mV_sus_mf_A#4.wav key=70 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=106092 loop_end=287499
+<region> sample=EH2-L_mV_sus_mf_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=210977 loop_end=310653
+<region> sample=EH2-L_mV_sus_mp_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=110858 loop_end=347021
+<region> sample=EH2-L_mV_sus_mf_C4.wav key=60 lokey=59 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=224556 loop_end=319488
+<region> sample=EH2-L_mV_sus_mf_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=100546 loop_end=245198
+<region> sample=EH2-L_mV_sus_mf_F#5.wav key=78 lokey=77 hikey=78 loop_mode=loop_continuous loop_start=113338 loop_end=278282
+<region> sample=EH2-L_mV_sus_mf_E5.wav key=76 lokey=75 hikey=76 loop_mode=loop_continuous loop_start=198261 loop_end=308412
+<region> sample=EH2-L_mV_sus_mf_D5.wav key=74 lokey=73 hikey=74 volume=-1 loop_mode=loop_continuous loop_start=73281 loop_end=304669
+<region> sample=EH2-L_mV_sus_mf_C5.wav key=72 lokey=71 hikey=72 volume=-1 loop_mode=loop_continuous loop_start=75348 loop_end=348368
+<region> sample=EH2-L_mV_sus_mf_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=158137 loop_end=334675
+<region> sample=EH2-L_mV_sus_mp_E4.wav key=64 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=225683 loop_end=354620
+<region> sample=EH2-L_mV_sus_mf_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=149807 loop_end=325122
+<region> sample=EH2-L_mV_sus_mf_F#3.wav key=54 lokey=54 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=135022 loop_end=358169
+<region> sample=EH2-L_mV_sus_mf_E3.wav key=52 lokey=21 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=130469 loop_end=342632
+<region> sample=EH2-L_mV_sus_mf_C6.wav key=84 lokey=84 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=150273 loop_end=306380
+<region> sample=EH2-L_mV_sus_mf_A#5.wav key=82 lokey=81 hikey=82 volume=-3 loop_mode=loop_continuous loop_start=118342 loop_end=279743
+<region> sample=EH2-L_mV_sus_mf_G#5.wav key=80 lokey=79 hikey=80 loop_mode=loop_continuous loop_start=149195 loop_end=231588
+<region> sample=EH2-L_mV_sus_mf_F3.wav key=53 lokey=53 hikey=53 volume=-3 loop_mode=loop_continuous loop_start=226280 loop_end=337795
+<region> sample=EH2-L_mV_sus_mf_B5.wav key=83 lokey=83 hikey=83 volume=-3 loop_mode=loop_continuous loop_start=119303 loop_end=268375
+
+<group> lovel=89 hivel=127        // Staccato:Forte
+<region> sample=EH2_stac_f1_C6.wav key=84 lokey=84 hikey=108 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_f1_A#5.wav key=82 lokey=82 hikey=83 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_f1_G#5.wav key=80 lokey=80 hikey=81 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_f1_F#5.wav key=78 lokey=78 hikey=79 volume=-6 loop_mode=no_loop
+<region> sample=EH2_stac_f1_E5.wav key=76 lokey=76 hikey=77 loop_mode=no_loop
+<region> sample=EH2_stac_f1_D5.wav key=74 lokey=74 hikey=75 volume=-4 loop_mode=no_loop
+<region> sample=EH2_stac_f1_C5.wav key=72 lokey=72 hikey=73 loop_mode=no_loop
+<region> sample=EH2_stac_f1_A#4.wav key=70 lokey=70 hikey=71 volume=-3 loop_mode=no_loop
+<region> sample=EH2_stac_f1_G#4.wav key=68 lokey=68 hikey=69 volume=2 loop_mode=no_loop
+<region> sample=EH2_stac_f1_F#4.wav key=66 lokey=66 hikey=67 volume=-3 loop_mode=no_loop
+<region> sample=EH2_stac_f1_E4.wav key=64 lokey=64 hikey=65 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_f1_D4.wav key=62 lokey=62 hikey=63 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_f1_C4.wav key=60 lokey=60 hikey=61 volume=-4 loop_mode=no_loop
+<region> sample=EH2_stac_f1_A#3.wav key=58 lokey=58 hikey=59 loop_mode=no_loop
+<region> sample=EH2_stac_f1_G#3.wav key=56 lokey=56 hikey=57 volume=-3 loop_mode=no_loop
+<region> sample=EH2_stac_f1_F#3.wav key=54 lokey=54 hikey=55 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_f1_E3.wav key=52 lokey=21 hikey=53 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-2        // Staccato:Mezzo Forte
+<region> sample=EH2_stac_mf1_D5.wav key=74 lokey=73 hikey=74 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_C5.wav key=72 lokey=71 hikey=72 volume=2 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_A#4.wav key=70 lokey=69 hikey=70 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_G#4.wav key=68 lokey=67 hikey=68 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_F#4.wav key=66 lokey=65 hikey=66 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_D4.wav key=62 lokey=61 hikey=62 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_C4.wav key=60 lokey=59 hikey=60 volume=-2 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_A#3.wav key=58 lokey=57 hikey=58 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_G#3.wav key=56 lokey=55 hikey=56 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_F#3.wav key=54 lokey=54 hikey=54 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_E3.wav key=52 lokey=21 hikey=52 volume=2 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_C6.wav key=84 lokey=84 hikey=108 volume=-1 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_A#5.wav key=82 lokey=81 hikey=82 volume=-3 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_G#5.wav key=80 lokey=79 hikey=80 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_F#5.wav key=78 lokey=77 hikey=78 volume=-3 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_E5.wav key=76 lokey=75 hikey=76 volume=-3 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_F3.wav key=53 lokey=53 hikey=53 loop_mode=no_loop
+<region> sample=EH2_stac_mf1_B5.wav key=83 lokey=83 hikey=83 loop_mode=no_loop

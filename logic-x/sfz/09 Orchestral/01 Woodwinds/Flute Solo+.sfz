@@ -1,0 +1,75 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Flute Solo+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Flute Solo/Flute_LV_na_sus_mf\
+
+<group>        // Legato
+<region> sample=FL1-L_LV_na_sus_mf_E6.wav key=88 lokey=87 hikey=88 loop_mode=loop_continuous loop_start=172985 loop_end=267588
+<region> sample=FL1-L_LV_na_sus_mf_C5.wav key=72 lokey=71 hikey=72 loop_mode=loop_continuous loop_start=163750 loop_end=241412
+<region> sample=FL1-L_LV_na_sus_mf_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=115522 loop_end=263509
+<region> sample=FL1-L_LV_na_sus_mf_C4.wav key=60 lokey=21 hikey=60 loop_mode=loop_continuous loop_start=96026 loop_end=264578
+<region> sample=FL1-L_LV_na_sus_mf_D7.wav key=98 lokey=98 hikey=108 loop_mode=loop_continuous loop_start=95600 loop_end=196817
+<region> sample=FL1-L_LV_na_sus_mf_C#7.wav key=97 lokey=97 hikey=97 loop_mode=loop_continuous loop_start=163599 loop_end=283497
+<region> sample=FL1-L_LV_na_sus_mf_C7.wav key=96 lokey=95 hikey=96 loop_mode=loop_continuous loop_start=38443 loop_end=269396
+<region> sample=FL1-L_LV_na_sus_mf_A#6.wav key=94 lokey=93 hikey=94 volume=3 loop_mode=loop_continuous loop_start=15038 loop_end=270092
+<region> sample=FL1-L_LV_na_sus_mf_G#6.wav key=92 lokey=91 hikey=92 loop_mode=loop_continuous loop_start=221328 loop_end=311744
+<region> sample=FL1-L_LV_na_sus_mf_F#6.wav key=90 lokey=89 hikey=90 volume=5 loop_mode=loop_continuous loop_start=195678 loop_end=288995
+<region> sample=FL1-L_LV_na_sus_mf_D6.wav key=86 lokey=85 hikey=86 loop_mode=loop_continuous loop_start=210702 loop_end=256561
+<region> sample=FL1-L_LV_na_sus_mf_C6.wav key=84 lokey=83 hikey=84 loop_mode=loop_continuous loop_start=110799 loop_end=203534
+<region> sample=FL1-L_LV_na_sus_mf_A#5.wav key=82 lokey=81 hikey=82 volume=-2 loop_mode=loop_continuous loop_start=157731 loop_end=222448
+<region> sample=FL1-L_LV_na_sus_mf_G#5.wav key=80 lokey=79 hikey=80 volume=3 loop_mode=loop_continuous loop_start=152489 loop_end=287639
+<region> sample=FL1-L_LV_na_sus_mf_F#5.wav key=78 lokey=77 hikey=78 volume=2 loop_mode=loop_continuous loop_start=43568 loop_end=213857
+<region> sample=FL1-L_LV_na_sus_mf_E5.wav key=76 lokey=75 hikey=76 volume=-2 loop_mode=loop_continuous loop_start=136122 loop_end=257728
+<region> sample=FL1-L_LV_na_sus_mf_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=loop_continuous loop_start=141588 loop_end=254856
+<region> sample=FL1-L_LV_na_sus_mf_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=212099 loop_end=288017
+<region> sample=FL1-L_LV_na_sus_mf_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=151108 loop_end=258059
+<region> sample=FL1-L_LV_na_sus_mf_F#4.wav key=66 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=108734 loop_end=216664
+<region> sample=FL1-L_LV_na_sus_mf_D4.wav key=62 lokey=62 hikey=62 volume=-2 loop_mode=loop_continuous loop_start=165431 loop_end=255885
+<region> sample=FL1-L_LV_na_sus_mf_C#4.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=200787 loop_end=260197
+
+<group> lovel=89 hivel=127 volume=-4        // Staccato:Forte
+<region> sample=FL1_stac_f1_D7.wav key=98 lokey=98 hikey=108 loop_mode=no_loop
+<region> sample=FL1_stac_f1_C#7.wav key=97 lokey=97 hikey=97 loop_mode=no_loop
+<region> sample=FL1_stac_f1_C7.wav key=96 lokey=95 hikey=96 loop_mode=no_loop
+<region> sample=FL1_stac_f1_A#6.wav key=94 lokey=93 hikey=94 loop_mode=no_loop
+<region> sample=FL1_stac_f1_G#6.wav key=92 lokey=91 hikey=92 volume=3 loop_mode=no_loop
+<region> sample=FL1_stac_f1_F#6.wav key=90 lokey=89 hikey=90 loop_mode=no_loop
+<region> sample=FL1_stac_f1_E6.wav key=88 lokey=87 hikey=88 loop_mode=no_loop
+<region> sample=FL1_stac_f1_D6.wav key=86 lokey=85 hikey=86 volume=-4 loop_mode=no_loop
+<region> sample=FL1_stac_f1_C6.wav key=84 lokey=83 hikey=84 loop_mode=no_loop
+<region> sample=FL1_stac_f1_A#5.wav key=82 lokey=81 hikey=82 volume=-2 loop_mode=no_loop
+<region> sample=FL1_stac_f1_G#5.wav key=80 lokey=79 hikey=80 loop_mode=no_loop
+<region> sample=FL1_stac_f1_F#5.wav key=78 lokey=77 hikey=78 loop_mode=no_loop
+<region> sample=FL1_stac_f1_E5.wav key=76 lokey=75 hikey=76 loop_mode=no_loop
+<region> sample=FL1_stac_f1_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=no_loop
+<region> sample=FL1_stac_f1_C5.wav key=72 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=FL1_stac_f1_A#4.wav key=70 lokey=69 hikey=70 loop_mode=no_loop
+<region> sample=FL1_stac_f1_G#4.wav key=68 lokey=67 hikey=68 loop_mode=no_loop
+<region> sample=FL1_stac_f1_F#4.wav key=66 lokey=65 hikey=66 loop_mode=no_loop
+<region> sample=FL1_stac_f1_E4.wav key=64 lokey=63 hikey=64 volume=-4 loop_mode=no_loop
+<region> sample=FL1_stac_f1_D4.wav key=62 lokey=62 hikey=62 volume=-3 loop_mode=no_loop
+<region> sample=FL1_stac_f1_C#4.wav key=61 lokey=61 hikey=61 volume=-3 loop_mode=no_loop
+<region> sample=FL1_stac_f1_C4.wav key=60 lokey=21 hikey=60 volume=-6 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-5        // Staccato:Mezzo Piano
+<region> sample=FL1_stac_mp1_D7.wav key=98 lokey=98 hikey=108 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_C7.wav key=96 lokey=96 hikey=97 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_A#6.wav key=94 lokey=94 hikey=95 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_G#6.wav key=92 lokey=92 hikey=93 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_F#6.wav key=90 lokey=90 hikey=91 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_E6.wav key=88 lokey=88 hikey=89 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_D6.wav key=86 lokey=86 hikey=87 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_C6.wav key=84 lokey=84 hikey=85 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_A#5.wav key=82 lokey=82 hikey=83 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_G#5.wav key=80 lokey=80 hikey=81 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_F#5.wav key=78 lokey=78 hikey=79 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_E5.wav key=76 lokey=76 hikey=77 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_D5.wav key=74 lokey=74 hikey=75 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_C5.wav key=72 lokey=72 hikey=73 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_A#4.wav key=70 lokey=70 hikey=71 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_G#4.wav key=68 lokey=68 hikey=69 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=FL1_stac_mp1_C4.wav key=60 lokey=21 hikey=61 loop_mode=no_loop

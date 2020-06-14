@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cellos Tremolo.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Cellos/Cellos-L_tremolo_mf\
+
+<group>        // VC-L_tremolo_mf
+<region> sample=VC-L_tremolo_mf_B4.wav key=71 lokey=72 hikey=108 loop_mode=loop_continuous loop_start=91149 loop_end=212128
+<region> sample=VC-L_tremolo_mf_B4.wav key=71 lokey=70 hikey=70 loop_mode=loop_continuous loop_start=91149 loop_end=212128
+<region> sample=VC-L_tremolo_mf_A4.wav key=69 lokey=68 hikey=68 loop_mode=loop_continuous loop_start=126698 loop_end=191921
+<region> sample=VC-L_tremolo_mf_G4.wav key=67 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=44468 loop_end=184280
+<region> sample=VC-L_tremolo_mf_F4.wav key=65 lokey=64 hikey=64 loop_mode=loop_continuous loop_start=41368 loop_end=197907
+<region> sample=VC-L_tremolo_mf_D#4.wav key=63 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=94521 loop_end=203825
+<region> sample=VC-L_tremolo_mf_C#4.wav key=61 lokey=60 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=7671 loop_end=113535
+<region> sample=VC-L_tremolo_mf_B3.wav key=59 lokey=58 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=120617 loop_end=201460
+<region> sample=VC-L_tremolo_mf_A3.wav key=57 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=79751 loop_end=164294
+<region> sample=VC-L_tremolo_mf_G3.wav key=55 lokey=54 hikey=54 loop_mode=loop_continuous loop_start=131022 loop_end=204404
+<region> sample=VC-L_tremolo_mf_F3.wav key=53 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=131049 loop_end=207275
+<region> sample=VC-L_tremolo_mf_D#3.wav key=51 lokey=50 hikey=50 loop_mode=loop_continuous loop_start=112426 loop_end=184227
+<region> sample=VC-L_tremolo_mf_C#3.wav key=49 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=81557 loop_end=197088
+<region> sample=VC-L_tremolo_mf_B2.wav key=47 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=91896 loop_end=165095
+<region> sample=VC-L_tremolo_mf_A2.wav key=45 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=110082 loop_end=178330
+<region> sample=VC-L_tremolo_mf_G2.wav key=43 lokey=42 hikey=42 loop_mode=loop_continuous loop_start=50098 loop_end=146681
+<region> sample=VC-L_tremolo_mf_F2.wav key=41 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=26748 loop_end=170815
+<region> sample=VC-L_tremolo_mf_D#2.wav key=39 lokey=38 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=26880 loop_end=180790
+<region> sample=VC-L_tremolo_mf_C#2.wav key=37 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=60831 loop_end=160321
+<region> sample=VC-L_tremolo_mf_C#2.wav key=37 lokey=21 hikey=36 loop_mode=loop_continuous loop_start=60831 loop_end=160321
+<region> sample=VC-L_tremolo_mf_D#2.wav key=39 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=26880 loop_end=180790
+<region> sample=VC-L_tremolo_mf_F2.wav key=41 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=26748 loop_end=170815
+<region> sample=VC-L_tremolo_mf_G2.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=50098 loop_end=146681
+<region> sample=VC-L_tremolo_mf_A2.wav key=45 lokey=45 hikey=45 loop_mode=loop_continuous loop_start=110082 loop_end=178330
+<region> sample=VC-L_tremolo_mf_B2.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=91896 loop_end=165095
+<region> sample=VC-L_tremolo_mf_C#3.wav key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=81557 loop_end=197088
+<region> sample=VC-L_tremolo_mf_D#3.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=112426 loop_end=184227
+<region> sample=VC-L_tremolo_mf_F3.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=131049 loop_end=207275
+<region> sample=VC-L_tremolo_mf_G3.wav key=55 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=131022 loop_end=204404
+<region> sample=VC-L_tremolo_mf_A3.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=79751 loop_end=164294
+<region> sample=VC-L_tremolo_mf_B3.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=120617 loop_end=201460
+<region> sample=VC-L_tremolo_mf_C#4.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=7671 loop_end=113535
+<region> sample=VC-L_tremolo_mf_D#4.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=94521 loop_end=203825
+<region> sample=VC-L_tremolo_mf_F4.wav key=65 lokey=65 hikey=65 loop_mode=loop_continuous loop_start=41368 loop_end=197907
+<region> sample=VC-L_tremolo_mf_G4.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=44468 loop_end=184280
+<region> sample=VC-L_tremolo_mf_A4.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=126698 loop_end=191921
+<region> sample=VC-L_tremolo_mf_B4.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=91149 loop_end=212128

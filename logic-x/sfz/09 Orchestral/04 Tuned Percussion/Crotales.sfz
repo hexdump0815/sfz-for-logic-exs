@@ -1,0 +1,37 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Crotales.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Crotales/Crotales-Me_p\
+
+<group>        // CHRO_Me_p
+<region> sample=CHRO-Me_p_F7.wav key=77 lokey=77 hikey=77 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_E6.wav key=64 lokey=64 hikey=64 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_F6.wav key=65 lokey=65 hikey=65 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_A6.wav key=69 lokey=69 hikey=69 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_D7.wav key=74 lokey=74 hikey=74 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_C6.wav key=60 lokey=21 hikey=60 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_E8.wav key=88 lokey=88 hikey=88 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_F8.wav key=89 lokey=89 hikey=108 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_C#6.wav key=61 lokey=61 hikey=61 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_D6.wav key=62 lokey=62 hikey=62 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_D#6.wav key=63 lokey=63 hikey=63 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_G6.wav key=67 lokey=67 hikey=67 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_A#6.wav key=70 lokey=70 hikey=70 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_G#6.wav key=68 lokey=68 hikey=68 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_F#6.wav key=66 lokey=66 hikey=66 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_A7.wav key=81 lokey=81 hikey=81 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_B7.wav key=83 lokey=83 hikey=83 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_C8.wav key=84 lokey=84 hikey=84 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_A#7.wav key=82 lokey=82 hikey=82 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_G#7.wav key=80 lokey=80 hikey=80 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_G7.wav key=79 lokey=79 hikey=79 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_F#7.wav key=78 lokey=78 hikey=78 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_E7.wav key=76 lokey=76 hikey=76 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_D#7.wav key=75 lokey=75 hikey=75 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_C#7.wav key=73 lokey=73 hikey=73 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_C7.wav key=72 lokey=72 hikey=72 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_B6.wav key=71 lokey=71 hikey=71 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_C#8.wav key=85 lokey=85 hikey=85 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_D8.wav key=86 lokey=86 hikey=86 volume=-4 loop_mode=no_loop
+<region> sample=CHRO-Me_p_D#8.wav key=87 lokey=87 hikey=87 volume=-4 loop_mode=no_loop

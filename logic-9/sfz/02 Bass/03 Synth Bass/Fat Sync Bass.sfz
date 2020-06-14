@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Fat Sync Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Fat Sync Bass\
+
+<group>        // Group #1
+<region> sample=SyncS5 96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=33790 loop_end=135685
+<region> sample=SyncS5 90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=39419 loop_end=139270
+<region> sample=SyncS5 84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=39937 loop_end=140547
+<region> sample=SyncS5 78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=39431 loop_end=137988
+<region> sample=SyncS5 72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=39165 loop_end=139781
+<region> sample=SyncS5 66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=38921 loop_end=141551
+<region> sample=SyncS5 60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=38921 loop_end=139530
+<region> sample=SyncS5 54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=40222 loop_end=143651
+<region> sample=SyncS5 48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=39702 loop_end=140813
+<region> sample=SyncS5 42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=39293 loop_end=150679
+<region> sample=SyncS5 36.wav key=36 lokey=34 hikey=39 loop_mode=loop_continuous loop_start=37916 loop_end=146190
+<region> sample=SyncS5 30.wav key=30 lokey=0 hikey=33 loop_mode=loop_continuous loop_start=39620 loop_end=147498

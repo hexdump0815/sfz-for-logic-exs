@@ -1,0 +1,71 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Basses Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Basses/Basses-L_legato_f\
+
+<group> lovel=111 hivel=127        // KB-L_legato_f
+<region> sample=KB-L_legato_f_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=50045 loop_end=269464
+<region> sample=KB-L_legato_f_C3.wav key=48 lokey=47 hikey=48 volume=-4 loop_mode=loop_continuous loop_start=51016 loop_end=244357
+<region> sample=KB-L_legato_f_E3.wav key=52 lokey=51 hikey=52 volume=-4 loop_mode=loop_continuous loop_start=29961 loop_end=260671
+<region> sample=KB-L_legato_f_D3.wav key=50 lokey=49 hikey=50 volume=-4 end=380969 loop_mode=loop_continuous loop_start=78390 loop_end=285355
+<region> sample=KB-L_legato_f_F#3.wav key=54 lokey=53 hikey=54 volume=-2 loop_mode=loop_continuous loop_start=101092 loop_end=271858
+<region> sample=KB-L_legato_f_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=77584 loop_end=304718
+<region> sample=KB-L_legato_f_C4.wav key=60 lokey=59 hikey=108 loop_mode=loop_continuous loop_start=152455 loop_end=262822
+<region> sample=KB-L_legato_f_A#2.wav key=46 lokey=45 hikey=46 loop_mode=loop_continuous loop_start=56755 loop_end=311330
+<region> sample=KB-L_legato_f_G#2.wav key=44 lokey=43 hikey=44 loop_mode=loop_continuous loop_start=35776 loop_end=214568
+<region> sample=KB-L_legato_f_F#2.wav key=42 lokey=41 hikey=42 loop_mode=loop_continuous loop_start=49903 loop_end=298541
+<region> sample=KB-L_legato_f_E2.wav key=40 lokey=39 hikey=40 loop_mode=loop_continuous loop_start=31901 loop_end=300785
+<region> sample=KB-L_legato_f_D2.wav key=38 lokey=37 hikey=38 loop_mode=loop_continuous loop_start=72527 loop_end=275998
+<region> sample=KB-L_legato_f_C2.wav key=36 lokey=35 hikey=36 loop_mode=loop_continuous loop_start=63143 loop_end=315236
+<region> sample=KB-L_legato_f_A#1.wav key=34 lokey=33 hikey=34 loop_mode=loop_continuous loop_start=108453 loop_end=321908
+<region> sample=KB-L_legato_f_G#1.wav key=32 lokey=31 hikey=32 loop_mode=loop_continuous loop_start=74848 loop_end=284455
+<region> sample=KB-L_legato_f_F#1.wav key=30 lokey=29 hikey=30 loop_mode=loop_continuous loop_start=59774 loop_end=316400
+<region> sample=KB-L_legato_f_E1.wav key=28 lokey=27 hikey=28 loop_mode=loop_continuous loop_start=46458 loop_end=292094
+<region> sample=KB-L_legato_f_D1.wav key=26 lokey=25 hikey=26 loop_mode=loop_continuous loop_start=80212 loop_end=292944
+<region> sample=KB-L_legato_f_B0.wav key=23 lokey=21 hikey=23 loop_mode=loop_continuous loop_start=54817 loop_end=350568
+<region> sample=KB-L_legato_f_C1.wav key=24 lokey=24 hikey=24 loop_mode=loop_continuous loop_start=89174 loop_end=392396
+
+<group> lovel=71 hivel=110 volume=2        // KB-L_legato_mf
+<region> sample=KB-L_legato_mf_C3.wav key=48 lokey=47 hikey=48 loop_mode=loop_continuous loop_start=70571 loop_end=280187
+<region> sample=KB-L_legato_mf_A#2.wav key=46 lokey=45 hikey=46 loop_mode=loop_continuous loop_start=48074 loop_end=286639
+<region> sample=KB-L_legato_mf_G#2.wav key=44 lokey=43 hikey=44 loop_mode=loop_continuous loop_start=49381 loop_end=314378
+<region> sample=KB-L_legato_mf_D3.wav key=50 lokey=49 hikey=50 loop_mode=loop_continuous loop_start=52254 loop_end=346095
+<region> sample=KB-L_legato_mf_F#2.wav key=42 lokey=41 hikey=42 loop_mode=loop_continuous loop_start=58414 loop_end=308932
+<region> sample=KB-L_legato_mf_E2.wav key=40 lokey=39 hikey=40 volume=-3 loop_mode=loop_continuous loop_start=133597 loop_end=346730
+<region> sample=KB-L_legato_mf_D2.wav key=38 lokey=37 hikey=38 loop_mode=loop_continuous loop_start=43930 loop_end=341172
+<region> sample=KB-L_legato_mf_E3.wav key=52 lokey=51 hikey=52 loop_mode=loop_continuous loop_start=81098 loop_end=359424
+<region> sample=KB-L_legato_mf_C4.wav key=60 lokey=59 hikey=108 loop_mode=loop_continuous loop_start=71464 loop_end=378384
+<region> sample=KB-L_legato_mf_A#3.wav key=58 lokey=57 hikey=58 loop_mode=loop_continuous loop_start=47655 loop_end=359402
+<region> sample=KB-L_legato_mf_G#3.wav key=56 lokey=55 hikey=56 loop_mode=loop_continuous loop_start=115013 loop_end=320689
+<region> sample=KB-L_legato_mf_F#3.wav key=54 lokey=53 hikey=54 loop_mode=loop_continuous loop_start=103550 loop_end=370359
+<region> sample=KB-L_legato_mf_C2.wav key=36 lokey=35 hikey=36 loop_mode=loop_continuous loop_start=44280 loop_end=370687
+<region> sample=KB-L_legato_mf_A#1.wav key=34 lokey=33 hikey=34 loop_mode=loop_continuous loop_start=56345 loop_end=353230
+<region> sample=KB-L_legato_mf_G#1.wav key=32 lokey=31 hikey=32 loop_mode=loop_continuous loop_start=71323 loop_end=275789
+<region> sample=KB-L_legato_mf_F#1.wav key=30 lokey=29 hikey=30 loop_mode=loop_continuous loop_start=72869 loop_end=341913
+<region> sample=KB-L_legato_mf_E1.wav key=28 lokey=27 hikey=28 loop_mode=loop_continuous loop_start=72648 loop_end=283040
+<region> sample=KB-L_legato_mf_D1.wav key=26 lokey=25 hikey=26 loop_mode=loop_continuous loop_start=61848 loop_end=319223
+<region> sample=KB-L_legato_mf_C1.wav key=24 lokey=24 hikey=24 loop_mode=loop_continuous loop_start=65844 loop_end=253819
+<region> sample=KB-L_legato_mf_B0.wav key=23 lokey=21 hikey=23 loop_mode=loop_continuous loop_start=72096 loop_end=328996
+
+<group> lovel=0 hivel=70 volume=2        // KB-L_legato_p
+<region> sample=KB-L_legato_p_B0.wav key=23 lokey=21 hikey=23 loop_mode=loop_continuous loop_start=89329 loop_end=334332
+<region> sample=KB-L_legato_p_E1.wav key=28 lokey=27 hikey=28 volume=-3 loop_mode=loop_continuous loop_start=87538 loop_end=387348
+<region> sample=KB-L_legato_p_D1.wav key=26 lokey=25 hikey=26 volume=-3 loop_mode=loop_continuous loop_start=60697 loop_end=303116
+<region> sample=KB-L_legato_p_C4.wav key=60 lokey=59 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=89671 loop_end=270834
+<region> sample=KB-L_legato_p_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=153186 loop_end=286117
+<region> sample=KB-L_legato_p_G#3.wav key=56 lokey=55 hikey=56 volume=-6 loop_mode=loop_continuous loop_start=29318 loop_end=289588
+<region> sample=KB-L_legato_p_F#3.wav key=54 lokey=53 hikey=54 volume=-6 loop_mode=loop_continuous loop_start=69990 loop_end=354378
+<region> sample=KB-L_legato_p_E3.wav key=52 lokey=51 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=71843 loop_end=324579
+<region> sample=KB-L_legato_p_D3.wav key=50 lokey=49 hikey=50 volume=-8 loop_mode=loop_continuous loop_start=46018 loop_end=305041
+<region> sample=KB-L_legato_p_C3.wav key=48 lokey=47 hikey=48 volume=-3 loop_mode=loop_continuous loop_start=53600 loop_end=296471
+<region> sample=KB-L_legato_p_A#2.wav key=46 lokey=45 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=143842 loop_end=345613
+<region> sample=KB-L_legato_p_G#2.wav key=44 lokey=43 hikey=44 volume=-3 loop_mode=loop_continuous loop_start=45299 loop_end=204843
+<region> sample=KB-L_legato_p_F#2.wav key=42 lokey=41 hikey=42 volume=-3 loop_mode=loop_continuous loop_start=60611 loop_end=329594
+<region> sample=KB-L_legato_p_E2.wav key=40 lokey=39 hikey=40 volume=-3 loop_mode=loop_continuous loop_start=69036 loop_end=348458
+<region> sample=KB-L_legato_p_D2.wav key=38 lokey=37 hikey=38 volume=-4 loop_mode=loop_continuous loop_start=112542 loop_end=262435
+<region> sample=KB-L_legato_p_C2.wav key=36 lokey=35 hikey=36 volume=-3 loop_mode=loop_continuous loop_start=41457 loop_end=350228
+<region> sample=KB-L_legato_p_A#1.wav key=34 lokey=33 hikey=34 volume=-3 loop_mode=loop_continuous loop_start=60200 loop_end=371391
+<region> sample=KB-L_legato_p_G#1.wav key=32 lokey=31 hikey=32 volume=-3 loop_mode=loop_continuous loop_start=99871 loop_end=356632
+<region> sample=KB-L_legato_p_F#1.wav key=30 lokey=29 hikey=30 volume=-3 loop_mode=loop_continuous loop_start=58475 loop_end=399823
+<region> sample=KB-L_legato_p_C1.wav key=24 lokey=24 hikey=24 volume=-3 loop_mode=loop_continuous loop_start=158832 loop_end=346133

@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Noise Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Noise Bass\
+
+<group>        // Group #1
+<region> sample=NoiseBass96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=19190 loop_end=63138
+<region> sample=NoiseBass90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=13670 loop_end=56715
+<region> sample=NoiseBass84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=27854 loop_end=68381
+<region> sample=NoiseBass78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=18623 loop_end=58669
+<region> sample=NoiseBass72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=27309 loop_end=75337
+<region> sample=NoiseBass66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=30671 loop_end=98823
+<region> sample=NoiseBass60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=40768 loop_end=121665
+<region> sample=NoiseBass54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=37572 loop_end=102709
+<region> sample=NoiseBass48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=55481 loop_end=123549
+<region> sample=NoiseBass42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=62986 loop_end=113396
+<region> sample=NoiseBass36.wav key=36 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=48293 loop_end=123026

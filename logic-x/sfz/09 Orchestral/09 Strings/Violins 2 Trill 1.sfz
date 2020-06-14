@@ -1,0 +1,45 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Violins 2 Trill 1.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Violins 2/Violins 2-L_trills-ht\
+
+<group>        // VI2-L_trills-ht
+<region> sample=VI2-L_trills-ht_C7.wav key=96 lokey=96 hikey=108 loop_mode=loop_continuous loop_start=77247 loop_end=216154
+<region> sample=VI2-L_trills-ht_A#6.wav key=94 lokey=94 hikey=94 loop_mode=loop_continuous loop_start=101808 loop_end=212138
+<region> sample=VI2-L_trills-ht_G#6.wav key=92 lokey=92 hikey=92 loop_mode=loop_continuous loop_start=90755 loop_end=189844
+<region> sample=VI2-L_trills-ht_F#6.wav key=90 lokey=90 hikey=90 loop_mode=loop_continuous loop_start=161192 loop_end=228076
+<region> sample=VI2-L_trills-ht_E6.wav key=88 lokey=87 hikey=88 loop_mode=loop_continuous loop_start=40457 loop_end=225221
+<region> sample=VI2-L_trills-ht_D6.wav key=86 lokey=86 hikey=86 loop_mode=loop_continuous loop_start=77078 loop_end=214888
+<region> sample=VI2-L_trills-ht_C6.wav key=84 lokey=84 hikey=84 loop_mode=loop_continuous loop_start=180820 loop_end=239729
+<region> sample=VI2-L_trills-ht_A#5.wav key=82 lokey=82 hikey=82 loop_mode=loop_continuous loop_start=146033 loop_end=229777
+<region> sample=VI2-L_trills-ht_G#5.wav key=80 lokey=80 hikey=80 loop_mode=loop_continuous loop_start=60494 loop_end=227259
+<region> sample=VI2-L_trills-ht_F#5.wav key=78 lokey=78 hikey=78 loop_mode=loop_continuous loop_start=79778 loop_end=240989
+<region> sample=VI2-L_trills-ht_E5.wav key=76 lokey=76 hikey=76 loop_mode=loop_continuous loop_start=79402 loop_end=217181
+<region> sample=VI2-L_trills-ht_D5.wav key=74 lokey=73 hikey=74 loop_mode=loop_continuous loop_start=160845 loop_end=244567
+<region> sample=VI2-L_trills-ht_C5.wav key=72 lokey=72 hikey=72 loop_mode=loop_continuous loop_start=136683 loop_end=240155
+<region> sample=VI2-L_trills-ht_A#4.wav key=70 lokey=70 hikey=70 loop_mode=loop_continuous loop_start=141151 loop_end=238142
+<region> sample=VI2-L_trills-ht_G#4.wav key=68 lokey=68 hikey=68 loop_mode=loop_continuous loop_start=118785 loop_end=225535
+<region> sample=VI2-L_trills-ht_F#4.wav key=66 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=93301 loop_end=181045
+<region> sample=VI2-L_trills-ht_E4.wav key=64 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=104251 loop_end=219331
+<region> sample=VI2-L_trills-ht_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=129685 loop_end=224070
+<region> sample=VI2-L_trills-ht_C4.wav key=60 lokey=60 hikey=60 loop_mode=loop_continuous loop_start=131341 loop_end=223351
+<region> sample=VI2-L_trills-ht_A#3.wav key=58 lokey=58 hikey=58 loop_mode=loop_continuous loop_start=117650 loop_end=216535
+<region> sample=VI2-L_trills-ht_G#3.wav key=56 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=56796 loop_end=178866
+<region> sample=VI2-L_trills-ht_G#3.wav key=56 lokey=21 hikey=55 loop_mode=loop_continuous loop_start=56796 loop_end=178866
+<region> sample=VI2-L_trills-ht_C4.wav key=60 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=131341 loop_end=223351
+<region> sample=VI2-L_trills-ht_A#3.wav key=58 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=117650 loop_end=216535
+<region> sample=VI2-L_trills-ht_C5.wav key=72 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=136683 loop_end=240155
+<region> sample=VI2-L_trills-ht_G#4.wav key=68 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=118785 loop_end=225535
+<region> sample=VI2-L_trills-ht_F#5.wav key=78 lokey=77 hikey=77 loop_mode=loop_continuous loop_start=79778 loop_end=240989
+<region> sample=VI2-L_trills-ht_G#5.wav key=80 lokey=79 hikey=79 loop_mode=loop_continuous loop_start=60494 loop_end=227259
+<region> sample=VI2-L_trills-ht_C6.wav key=84 lokey=83 hikey=83 loop_mode=loop_continuous loop_start=180820 loop_end=239729
+<region> sample=VI2-L_trills-ht_G#6.wav key=92 lokey=91 hikey=91 loop_mode=loop_continuous loop_start=90755 loop_end=189844
+<region> sample=VI2-L_trills-ht_A#6.wav key=94 lokey=93 hikey=93 loop_mode=loop_continuous loop_start=101808 loop_end=212138
+<region> sample=VI2-L_trills-ht_C7.wav key=96 lokey=95 hikey=95 loop_mode=loop_continuous loop_start=77247 loop_end=216154
+<region> sample=VI2-L_trills-ht_F#6.wav key=90 lokey=89 hikey=89 loop_mode=loop_continuous loop_start=161192 loop_end=228076
+<region> sample=VI2-L_trills-ht_A#4.wav key=70 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=141151 loop_end=238142
+<region> sample=VI2-L_trills-ht_F#4.wav key=66 lokey=65 hikey=65 loop_mode=loop_continuous loop_start=93301 loop_end=181045
+<region> sample=VI2-L_trills-ht_A#5.wav key=82 lokey=81 hikey=81 loop_mode=loop_continuous loop_start=146033 loop_end=229777
+<region> sample=VI2-L_trills-ht_E5.wav key=76 lokey=75 hikey=75 loop_mode=loop_continuous loop_start=79402 loop_end=217181
+<region> sample=VI2-L_trills-ht_D6.wav key=86 lokey=85 hikey=85 loop_mode=loop_continuous loop_start=77078 loop_end=214888

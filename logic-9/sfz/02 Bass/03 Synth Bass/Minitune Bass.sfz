@@ -1,0 +1,28 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Minitune Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Minitune Bass\
+
+<group> volume=2        // Group #1
+<region> sample=Mintun36.aif key=36 lokey=0 hikey=37 loop_mode=loop_continuous loop_start=59974 loop_end=231492
+<region> sample=Mintun39.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=65794 loop_end=223406
+<region> sample=Mintun42.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=55296 loop_end=214528
+<region> sample=Mintun45.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=43008 loop_end=181248
+<region> sample=Mintun48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=60928 loop_end=207361
+<region> sample=Mintun51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=34220 loop_end=105217
+<region> sample=Mintun54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=34397 loop_end=213505
+<region> sample=Mintun57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=11612 loop_end=212827
+<region> sample=Mintun60.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=45851 loop_end=215041
+<region> sample=Mintun63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=116804 loop_end=258796
+<region> sample=Mintun66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=44820 loop_end=296264
+<region> sample=Mintun69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=40170 loop_end=276712
+<region> sample=Mintun72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=39524 loop_end=280812
+<region> sample=Mintun75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=42432 loop_end=280828
+<region> sample=Mintun78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=8094 loop_end=148743
+<region> sample=Mintun81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=20480 loop_end=189052
+<region> sample=Mintun84.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=19833 loop_end=271592
+<region> sample=Mintun87.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=24064 loop_end=226893
+<region> sample=Mintun90.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=16524 loop_end=109295
+<region> sample=Mintun93.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=39936 loop_end=183357
+<region> sample=Mintun96.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=43008 loop_end=284213

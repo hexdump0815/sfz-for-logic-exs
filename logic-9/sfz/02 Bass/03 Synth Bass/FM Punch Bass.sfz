@@ -1,0 +1,12 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - FM Punch Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/FM Punch Bass\
+
+<group>        // Group #1
+<region> sample=Punchbass60.wav key=60 lokey=58 hikey=127 volume=-2 loop_mode=no_loop
+<region> sample=Punchbass54.wav key=54 lokey=52 hikey=57 volume=-1 loop_mode=no_loop
+<region> sample=Punchbass48.wav key=48 lokey=46 hikey=51 loop_mode=no_loop
+<region> sample=Punchbass42.wav key=42 lokey=36 hikey=45 loop_mode=no_loop
+<region> sample=Punchbass36.wav key=36 lokey=0 hikey=35 offset=19 loop_mode=no_loop

@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Supergrain 8.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/05 Synthesizers/05 Motion Sequences/Pompeji_Supergrain\
+
+<group>        // Group #1
+<region> sample=SuGrB07.aif key=67 lokey=0 hikey=127 volume=3 loop_mode=loop_continuous loop_start=74752 loop_end=348160

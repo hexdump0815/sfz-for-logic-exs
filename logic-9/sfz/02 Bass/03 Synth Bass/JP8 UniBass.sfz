@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - JP8 UniBass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/JP8 OffBass\
+
+<group>        // Group #1
+<region> sample=JP8Saw96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=51200 loop_end=160277
+<region> sample=JP8Saw90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=56318 loop_end=137218
+<region> sample=JP8Saw84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=46840 loop_end=129026
+<region> sample=JP8Saw78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=64751 loop_end=138248
+<region> sample=JP8Saw72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=51963 loop_end=119303
+<region> sample=JP8Saw66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=56549 loop_end=145668
+<region> sample=JP8Saw60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=56836 loop_end=179221
+<region> sample=JP8Saw54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=79295 loop_end=192417
+<region> sample=JP8Saw48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=64003 loop_end=175574
+<region> sample=JP8Saw42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=950 loop_end=116053
+<region> sample=JP8Saw36.wav key=36 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=862 loop_end=145850

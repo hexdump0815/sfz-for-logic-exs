@@ -1,0 +1,24 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Mini A dark Porta.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Mini A basic\
+
+<group>        // Group #1
+<region> sample=MiniA42.aif key=42 lokey=41 hikey=43 volume=4 tune=-6 loop_mode=loop_continuous loop_start=86290 loop_end=87238
+<region> sample=MiniA39.aif key=39 lokey=38 hikey=40 volume=5 tune=-6 loop_mode=loop_continuous loop_start=84917 loop_end=86045
+<region> sample=MiniA48.aif key=48 lokey=47 hikey=49 volume=1 tune=-6 loop_mode=loop_continuous loop_start=86861 loop_end=87532
+<region> sample=MiniA51.aif key=51 lokey=50 hikey=52 volume=1 tune=-5 loop_mode=loop_continuous loop_start=87043 loop_end=87608
+<region> sample=MiniA36.aif key=36 lokey=0 hikey=37 volume=6 tune=-7 loop_mode=loop_continuous loop_start=84561 loop_end=85904
+<region> sample=MiniA54.aif key=54 lokey=53 hikey=55 volume=1 tune=-4 loop_mode=loop_continuous loop_start=87247 loop_end=88196
+<region> sample=MiniA57.aif key=57 lokey=56 hikey=58 volume=1 tune=-5 loop_mode=loop_continuous loop_start=86924 loop_end=87722
+<region> sample=MiniA45.aif key=45 lokey=44 hikey=46 volume=2 tune=-6 loop_mode=loop_continuous loop_start=86520 loop_end=87317
+<region> sample=MiniA60.aif key=60 lokey=59 hikey=61 tune=-5 loop_mode=loop_continuous loop_start=86985 loop_end=87656
+<region> sample=MiniA63.aif key=63 lokey=62 hikey=64 volume=1 tune=-5 loop_mode=loop_continuous loop_start=87463 loop_end=88028
+<region> sample=MiniA66.aif key=66 lokey=65 hikey=67 tune=-3 loop_mode=loop_continuous loop_start=87471 loop_end=87947
+<region> sample=MiniA69.aif key=69 lokey=68 hikey=70 tune=-2 loop_mode=loop_continuous loop_start=87554 loop_end=87955
+<region> sample=MiniA75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=87444 loop_end=88012
+<region> sample=MiniA78.aif key=78 lokey=77 hikey=79 volume=-1 tune=1 loop_mode=loop_continuous loop_start=86385 loop_end=87338
+<region> sample=MiniA72.aif key=72 lokey=71 hikey=73 volume=-1 tune=-1 loop_mode=loop_continuous loop_start=87096 loop_end=87769
+<region> sample=MiniA81.aif key=81 lokey=80 hikey=82 tune=2 loop_mode=loop_continuous loop_start=86704 loop_end=87809
+<region> sample=MiniA84.aif key=84 lokey=83 hikey=127 tune=4 loop_mode=loop_continuous loop_start=85748 loop_end=87101

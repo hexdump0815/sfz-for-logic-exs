@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Mini Square legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Mini Square Attack + Stop\
+
+<group>        // Group #1
+<region> sample=MiniSquare30.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=42922 loop_end=43875
+<region> sample=MiniSquare27.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=41652 loop_end=42786
+<region> sample=MiniSquare24.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=41781 loop_end=43130
+<region> sample=MiniSquare36.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=42809 loop_end=43483
+<region> sample=MiniSquare33.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=42089 loop_end=42891
+<region> sample=MiniSquare39.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=43649 loop_end=44216
+<region> sample=MiniSquare42.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=44162 loop_end=44639
+<region> sample=MiniSquare45.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=43895 loop_end=44296
+<region> sample=MiniSquare51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=42996 loop_end=44697
+<region> sample=MiniSquare48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=43005 loop_end=43679
+<region> sample=MiniSquare54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=42660 loop_end=43852
+<region> sample=MiniSquare57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=43046 loop_end=44449
+<region> sample=MiniSquare60.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=43436 loop_end=44616
+<region> sample=MiniSquare63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=43465 loop_end=44032
+<region> sample=MiniSquare66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=44005 loop_end=44601
+<region> sample=MiniSquare69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=44212 loop_end=45114
+<region> sample=MiniSquare75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=42730 loop_end=44360
+<region> sample=MiniSquare72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=44079 loop_end=44669
+<region> sample=MiniSquare78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=44139 loop_end=44437
+<region> sample=MiniSquare84.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=43447 loop_end=44037
+<region> sample=MiniSquare81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=43059 loop_end=43961
+<region> sample=MiniSquare87.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=44008 loop_end=44823
+<region> sample=MiniSquare90.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=44794 loop_end=44943
+<region> sample=MiniSquare93.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=43568 loop_end=44019
+<region> sample=MiniSquare96.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=44191 loop_end=44486

@@ -1,0 +1,69 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Gospel Voice Effects+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Gospel Choir Voice Effects\
+
+<group> volume=1        // Oh Yeah
+<region> sample=Gospel OhYeah n63.aif key=63 lokey=62 hikey=64 volume=2 loop_mode=loop_continuous loop_start=131427 loop_end=274338
+<region> sample=Gospel OhYeah n45.aif key=45 lokey=0 hikey=46 loop_mode=loop_continuous loop_start=144373 loop_end=319210
+<region> sample=Gospel OhYeah n48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=106452 loop_end=253221
+<region> sample=Gospel OhYeah n75.aif key=75 lokey=74 hikey=76 volume=1 loop_mode=loop_continuous loop_start=81249 loop_end=175263
+<region> sample=Gospel OhYeah n72.aif key=72 lokey=71 hikey=73 volume=1 loop_mode=loop_continuous loop_start=105069 loop_end=208106
+<region> sample=Gospel OhYeah n66.aif key=66 lokey=65 hikey=67 volume=2 end=228937 loop_mode=loop_continuous loop_start=123770 loop_end=227124
+<region> sample=Gospel OhYeah n60.aif key=60 lokey=59 hikey=61 volume=1 loop_mode=loop_continuous loop_start=127798 loop_end=224247
+<region> sample=Gospel OhYeah n54.aif key=54 lokey=53 hikey=55 volume=1 loop_mode=loop_continuous loop_start=125719 loop_end=313736
+<region> sample=Gospel OhYeah n57.aif key=57 lokey=56 hikey=58 volume=1 loop_mode=loop_continuous loop_start=88788 loop_end=206698
+<region> sample=Gospel OhYeah n51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=119953 loop_end=239906
+<region> sample=Gospel OhYeah n69.aif key=69 lokey=68 hikey=70 volume=2 loop_mode=loop_continuous loop_start=98250 loop_end=220745
+<region> sample=Gospel OhYeah n78.aif key=78 lokey=77 hikey=79 volume=1 loop_mode=loop_continuous loop_start=91116 loop_end=162267
+<region> sample=Gospel OhYeah n81.aif key=81 lokey=80 hikey=82 volume=2 loop_mode=loop_continuous loop_start=77396 loop_end=162611
+<region> sample=Gospel OhYeah n84.aif key=84 lokey=83 hikey=127 volume=3 loop_mode=loop_continuous loop_start=55897 loop_end=156356
+
+<group>        // Yeah (Long)
+<region> sample=Gospel Yeah ln n63.aif key=63 lokey=62 hikey=64 volume=2 loop_mode=loop_continuous loop_start=76559 loop_end=184095
+<region> sample=Gospel Yeah ln n45.aif key=45 lokey=0 hikey=46 volume=1 loop_mode=loop_continuous loop_start=149494 loop_end=289889
+<region> sample=Gospel Yeah ln n75.aif key=75 lokey=74 hikey=76 volume=3 loop_mode=loop_continuous loop_start=76306 loop_end=131826
+<region> sample=Gospel Yeah ln n72.aif key=72 lokey=71 hikey=73 volume=3 loop_mode=loop_continuous loop_start=85714 loop_end=189867
+<region> sample=Gospel Yeah ln n66.aif key=66 lokey=65 hikey=67 volume=2 loop_mode=loop_continuous loop_start=108937 loop_end=204637
+<region> sample=Gospel Yeah ln n60.aif key=60 lokey=59 hikey=61 volume=2 loop_mode=loop_continuous loop_start=120050 loop_end=219716
+<region> sample=Gospel Yeah ln n54.aif key=54 lokey=53 hikey=55 volume=1 loop_mode=loop_continuous loop_start=108351 loop_end=218765
+<region> sample=Gospel Yeah ln n57.aif key=57 lokey=56 hikey=58 volume=1 loop_mode=loop_continuous loop_start=75924 loop_end=173020
+<region> sample=Gospel Yeah ln n48.aif key=48 lokey=47 hikey=49 volume=1 end=275250 loop_mode=loop_continuous loop_start=125931 loop_end=270889
+<region> sample=Gospel Yeah ln n51.aif key=51 lokey=50 hikey=52 end=220868 loop_mode=loop_continuous loop_start=117013 loop_end=216778
+<region> sample=Gospel Yeah ln n69.aif key=69 lokey=68 hikey=70 volume=4 loop_mode=loop_continuous loop_start=70448 loop_end=174096
+<region> sample=Gospel Yeah ln n78.aif key=78 lokey=77 hikey=79 volume=4 loop_mode=loop_continuous loop_start=77750 loop_end=132732
+<region> sample=Gospel Yeah ln n81.aif key=81 lokey=80 hikey=82 volume=6 loop_mode=loop_continuous loop_start=62917 loop_end=149455
+<region> sample=Gospel Yeah ln n84.aif key=84 lokey=83 hikey=127 volume=2 loop_mode=loop_continuous loop_start=65669 loop_end=166909
+
+<group>        // Yeah (Short)
+<region> sample=Gospel Yeah n63.aif key=63 lokey=62 hikey=64 volume=1 loop_mode=no_loop
+<region> sample=Gospel Yeah n45.aif key=45 lokey=0 hikey=46 loop_mode=no_loop
+<region> sample=Gospel Yeah n75.aif key=75 lokey=74 hikey=76 loop_mode=no_loop
+<region> sample=Gospel Yeah n72.aif key=72 lokey=71 hikey=73 volume=1 loop_mode=no_loop
+<region> sample=Gospel Yeah n66.aif key=66 lokey=65 hikey=67 loop_mode=no_loop
+<region> sample=Gospel Yeah n60.aif key=60 lokey=59 hikey=61 loop_mode=no_loop
+<region> sample=Gospel Yeah n54.aif key=54 lokey=53 hikey=55 loop_mode=no_loop
+<region> sample=Gospel Yeah n57.aif key=57 lokey=56 hikey=58 volume=2 loop_mode=no_loop
+<region> sample=Gospel Yeah n48.aif key=48 lokey=47 hikey=49 volume=-1 loop_mode=no_loop
+<region> sample=Gospel Yeah n51.aif key=51 lokey=50 hikey=52 volume=-2 loop_mode=no_loop
+<region> sample=Gospel Yeah n69.aif key=69 lokey=68 hikey=70 volume=1 loop_mode=no_loop
+<region> sample=Gospel Yeah n78.aif key=78 lokey=77 hikey=79 loop_mode=no_loop
+<region> sample=Gospel Yeah n81.aif key=81 lokey=80 hikey=82 volume=2 loop_mode=no_loop
+<region> sample=Gospel Yeah n84.aif key=84 lokey=83 hikey=127 volume=3 loop_mode=no_loop
+
+<group>        // Hey
+<region> sample=Gospel Hey n63.aif key=63 lokey=62 hikey=64 loop_mode=no_loop
+<region> sample=Gospel Hey n45.aif key=45 lokey=0 hikey=46 loop_mode=no_loop
+<region> sample=Gospel Hey n75.aif key=75 lokey=74 hikey=76 loop_mode=no_loop
+<region> sample=Gospel Hey n72.aif key=72 lokey=71 hikey=73 loop_mode=no_loop
+<region> sample=Gospel Hey n66.aif key=66 lokey=65 hikey=67 loop_mode=no_loop
+<region> sample=Gospel Hey n60.aif key=60 lokey=59 hikey=61 loop_mode=no_loop
+<region> sample=Gospel Hey n54.aif key=54 lokey=53 hikey=55 loop_mode=no_loop
+<region> sample=Gospel Hey n57.aif key=57 lokey=56 hikey=58 loop_mode=no_loop
+<region> sample=Gospel Hey n48.aif key=48 lokey=47 hikey=49 loop_mode=no_loop
+<region> sample=Gospel Hey n51.aif key=51 lokey=50 hikey=52 loop_mode=no_loop
+<region> sample=Gospel Hey n69.aif key=69 lokey=68 hikey=70 loop_mode=no_loop
+<region> sample=Gospel Hey n78.aif key=78 lokey=77 hikey=79 loop_mode=no_loop
+<region> sample=Gospel Hey n81.aif key=81 lokey=80 hikey=82 volume=3 loop_mode=no_loop
+<region> sample=Gospel Hey n84.aif key=84 lokey=83 hikey=127 volume=2 loop_mode=no_loop

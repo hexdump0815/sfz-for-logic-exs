@@ -1,0 +1,52 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Violins 1 Pizzicato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Violins 1/Violins 1_pizz_f\
+
+<group> lovel=111 hivel=127        // VI1_pizz_f
+<region> sample=VI1_pizz_f_C7.wav key=96 lokey=96 hikey=108 volume=1 loop_mode=no_loop
+<region> sample=VI1_pizz_f_A#6.wav key=94 lokey=94 hikey=95 loop_mode=no_loop
+<region> sample=VI1_pizz_f_G#6.wav key=92 lokey=92 hikey=93 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_f_F#6.wav key=90 lokey=90 hikey=91 volume=-3 loop_mode=no_loop
+<region> sample=VI1_pizz_f_E6.wav key=88 lokey=88 hikey=89 volume=-4 loop_mode=no_loop
+<region> sample=VI1_pizz_f_D6.wav key=86 lokey=86 hikey=87 volume=-2 loop_mode=no_loop
+<region> sample=VI1_pizz_f_C6.wav key=84 lokey=84 hikey=85 loop_mode=no_loop
+<region> sample=VI1_pizz_f_A#5.wav key=82 lokey=82 hikey=83 loop_mode=no_loop
+<region> sample=VI1_pizz_f_G#5.wav key=80 lokey=80 hikey=81 volume=-2 loop_mode=no_loop
+<region> sample=VI1_pizz_f_F#5.wav key=78 lokey=78 hikey=79 volume=-2 loop_mode=no_loop
+<region> sample=VI1_pizz_f_E5.wav key=76 lokey=76 hikey=77 loop_mode=no_loop
+<region> sample=VI1_pizz_f_D5.wav key=74 lokey=74 hikey=75 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_f_C5.wav key=72 lokey=72 hikey=73 loop_mode=no_loop
+<region> sample=VI1_pizz_f_A#4.wav key=70 lokey=70 hikey=71 volume=2 loop_mode=no_loop
+<region> sample=VI1_pizz_f_G#4.wav key=68 lokey=68 hikey=69 volume=1 loop_mode=no_loop
+<region> sample=VI1_pizz_f_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=VI1_pizz_f_E4.wav key=64 lokey=64 hikey=65 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_f_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=VI1_pizz_f_C4.wav key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=VI1_pizz_f_A#3.wav key=58 lokey=58 hikey=59 loop_mode=no_loop
+<region> sample=VI1_pizz_f_G#3.wav key=56 lokey=21 hikey=57 loop_mode=no_loop
+
+<group> lovel=0 hivel=110        // VI1_pizz_p
+<region> sample=VI1_pizz_p_C7.wav key=96 lokey=96 hikey=108 loop_mode=no_loop
+<region> sample=VI1_pizz_p_A#6.wav key=94 lokey=94 hikey=95 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_p_G#6.wav key=92 lokey=92 hikey=93 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_p_F#6.wav key=90 lokey=90 hikey=91 loop_mode=no_loop
+<region> sample=VI1_pizz_p_E6.wav key=88 lokey=88 hikey=89 loop_mode=no_loop
+<region> sample=VI1_pizz_p_D6.wav key=86 lokey=86 hikey=87 loop_mode=no_loop
+<region> sample=VI1_pizz_p_C6.wav key=84 lokey=84 hikey=85 loop_mode=no_loop
+<region> sample=VI1_pizz_p_A#5.wav key=82 lokey=82 hikey=83 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_p_G#5.wav key=80 lokey=80 hikey=81 volume=-3 loop_mode=no_loop
+<region> sample=VI1_pizz_p_F#5.wav key=78 lokey=78 hikey=79 loop_mode=no_loop
+<region> sample=VI1_pizz_p_E5.wav key=76 lokey=76 hikey=77 loop_mode=no_loop
+<region> sample=VI1_pizz_p_D5.wav key=74 lokey=74 hikey=75 loop_mode=no_loop
+<region> sample=VI1_pizz_p_C5.wav key=72 lokey=72 hikey=73 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_p_A#4.wav key=70 lokey=70 hikey=71 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_p_G#4.wav key=68 lokey=68 hikey=69 volume=-1 loop_mode=no_loop
+<region> sample=VI1_pizz_p_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=VI1_pizz_p_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=VI1_pizz_p_D4.wav key=62 lokey=62 hikey=63 volume=3 loop_mode=no_loop
+<region> sample=VI1_pizz_p_C4.wav key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=VI1_pizz_p_A#3.wav key=58 lokey=58 hikey=59 volume=-2 loop_mode=no_loop
+<region> sample=VI1_pizz_p_G#3.wav key=56 lokey=56 hikey=57 volume=-2 loop_mode=no_loop
+<region> sample=VI1_pizz_p_G3.wav key=55 lokey=21 hikey=55 volume=-2 loop_mode=no_loop

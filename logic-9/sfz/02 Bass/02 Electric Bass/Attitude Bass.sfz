@@ -1,0 +1,441 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Attitude Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Attitude Bass\
+
+<group> lovel=108 hivel=123 volume=3 locc1=0 hicc1=41        // f atk dn1
+<region> sample=APicA f atk d1x  1 c#.aif key=37 lokey=28 hikey=38 end=15873 loop_mode=no_loop
+<region> sample=APicA f atk d1x  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk d1x  3 g.aif key=67 lokey=66 hikey=68 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk d1x  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk d1x  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk d1x  1 e.aif key=40 lokey=39 hikey=41 end=9500 loop_mode=no_loop
+<region> sample=APicA f atk d1x  1 g.aif key=43 lokey=42 hikey=44 end=11467 loop_mode=no_loop
+<region> sample=APicA f atk d1x  1a#.aif key=46 lokey=45 hikey=47 end=10926 loop_mode=no_loop
+<region> sample=APicA f atk d1x  2 c#.aif key=49 lokey=48 hikey=50 end=11411 loop_mode=no_loop
+<region> sample=APicA f atk d1x  2 e.aif key=52 lokey=51 hikey=53 end=11444 loop_mode=no_loop
+<region> sample=APicA f atk d1x  2 g.aif key=55 lokey=54 hikey=56 end=11453 loop_mode=no_loop
+<region> sample=APicA f atk d1x  2a#.aif key=58 lokey=57 hikey=59 end=11454 loop_mode=no_loop
+<region> sample=APicA f atk d1x  3 c#.aif key=61 lokey=60 hikey=62 end=11449 loop_mode=no_loop
+
+<group> lovel=108 hivel=123 volume=3 locc1=42 hicc1=127        // f atk slu
+<region> sample=APicA f atk slu  1 c#.aif key=37 lokey=28 hikey=38 end=15873 loop_mode=no_loop
+<region> sample=APicA f atk slu  1 e.aif key=40 lokey=39 hikey=41 end=9500 loop_mode=no_loop
+<region> sample=APicA f atk slu  1 g.aif key=43 lokey=42 hikey=44 end=11467 loop_mode=no_loop
+<region> sample=APicA f atk slu  1a#.aif key=46 lokey=45 hikey=47 end=10926 loop_mode=no_loop
+<region> sample=APicA f atk slu  2 c#.aif key=49 lokey=48 hikey=50 end=11411 loop_mode=no_loop
+<region> sample=APicA f atk slu  2 e.aif key=52 lokey=51 hikey=53 end=11444 loop_mode=no_loop
+<region> sample=APicA f atk slu  2 g.aif key=55 lokey=54 hikey=56 end=11453 loop_mode=no_loop
+<region> sample=APicA f atk slu  2a#.aif key=58 lokey=57 hikey=59 end=11454 loop_mode=no_loop
+<region> sample=APicA f atk slu  3 c#.aif key=61 lokey=60 hikey=62 end=11449 loop_mode=no_loop
+<region> sample=APicA f atk slu  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk slu  3 g.aif key=67 lokey=66 hikey=68 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk slu  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk slu  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+
+<group> lovel=108 hivel=123 volume=3 locc1=0 hicc1=41        // f atk up1
+<region> sample=APicA f atk u1x  1 c#.aif key=37 lokey=28 hikey=38 end=15873 loop_mode=no_loop
+<region> sample=APicA f atk u1x  1 e.aif key=40 lokey=39 hikey=41 end=9500 loop_mode=no_loop
+<region> sample=APicA f atk u1x  1 g.aif key=43 lokey=42 hikey=44 end=11467 loop_mode=no_loop
+<region> sample=APicA f atk u1x  1a#.aif key=46 lokey=45 hikey=47 end=10926 loop_mode=no_loop
+<region> sample=APicA f atk u1x  2 c#.aif key=49 lokey=48 hikey=50 end=11411 loop_mode=no_loop
+<region> sample=APicA f atk u1x  2 e.aif key=52 lokey=51 hikey=53 end=11444 loop_mode=no_loop
+<region> sample=APicA f atk u1x  2 g.aif key=55 lokey=54 hikey=56 end=11453 loop_mode=no_loop
+<region> sample=APicA f atk u1x  2a#.aif key=58 lokey=57 hikey=59 end=11454 loop_mode=no_loop
+<region> sample=APicA f atk u1x  3 c#.aif key=61 lokey=60 hikey=62 end=11449 loop_mode=no_loop
+<region> sample=APicA f atk u1x  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk u1x  3 g.aif key=67 lokey=66 hikey=68 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk u1x  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA f atk u1x  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+
+<group> lovel=108 hivel=123 volume=3        // f sus dn
+<region> sample=APicA f sus dn  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=591372 loop_end=600306
+<region> sample=APicA f sus dn  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=452875 loop_end=461471
+<region> sample=APicA f sus dn  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=242870 loop_end=253665
+<region> sample=APicA f sus dn  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=287673 loop_end=296744
+<region> sample=APicA f sus dn  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=193741 loop_end=203301
+<region> sample=APicA f sus dn  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=488890 loop_end=501691
+<region> sample=APicA f sus dn  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=361765 loop_end=377960
+<region> sample=APicA f sus dn  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=133334 loop_end=142782
+<region> sample=APicA f sus dn  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=414947 loop_end=423826
+<region> sample=APicA f sus dn  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=363409 loop_end=372238
+<region> sample=APicA f sus dn  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=367836 loop_end=376848
+<region> sample=APicA f sus dn  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=216565 loop_end=225273
+<region> sample=APicA f sus dn  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=156442 loop_end=165819
+
+<group> lovel=108 hivel=123 volume=3        // f sus up
+<region> sample=APicA f sus up  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=560445 loop_end=570663
+<region> sample=APicA f sus up  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=522020 loop_end=531171
+<region> sample=APicA f sus up  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=263335 loop_end=272341
+<region> sample=APicA f sus up  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=267199 loop_end=275505
+<region> sample=APicA f sus up  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=405498 loop_end=414432
+<region> sample=APicA f sus up  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=453613 loop_end=462154
+<region> sample=APicA f sus up  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=365255 loop_end=373801
+<region> sample=APicA f sus up  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=138900 loop_end=147615
+<region> sample=APicA f sus up  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=431268 loop_end=440149
+<region> sample=APicA f sus up  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=357031 loop_end=365853
+<region> sample=APicA f sus up  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=333894 loop_end=342671
+<region> sample=APicA f sus up  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=151586 loop_end=160303
+<region> sample=APicA f sus up  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=146486 loop_end=155230
+
+<group> lovel=124 hivel=127 volume=2 locc1=0 hicc1=41        // ff atk dn1
+<region> sample=APicA ff atk d1x  1 c#.aif key=37 lokey=28 hikey=38 end=9357 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  1 e.aif key=40 lokey=39 hikey=41 end=9326 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  1 g.aif key=43 lokey=42 hikey=44 end=11189 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  1a#.aif key=46 lokey=45 hikey=47 end=11541 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  2 c#.aif key=49 lokey=48 hikey=50 end=11561 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  3 g.aif key=67 lokey=66 hikey=68 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk d1x  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+
+<group> lovel=124 hivel=127 volume=2 locc1=42 hicc1=127        // ff atk slu
+<region> sample=APicA ff atk slu  1 c#.aif key=37 lokey=28 hikey=38 end=9357 loop_mode=no_loop
+<region> sample=APicA ff atk slu  1 e.aif key=40 lokey=39 hikey=41 end=9326 loop_mode=no_loop
+<region> sample=APicA ff atk slu  1 g.aif key=43 lokey=42 hikey=44 end=11189 loop_mode=no_loop
+<region> sample=APicA ff atk slu  1a#.aif key=46 lokey=45 hikey=47 end=11541 loop_mode=no_loop
+<region> sample=APicA ff atk slu  2 c#.aif key=49 lokey=48 hikey=50 end=11561 loop_mode=no_loop
+<region> sample=APicA ff atk slu  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk slu  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk slu  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk slu  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk slu  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk slu  3 g.aif key=67 lokey=66 hikey=68 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk slu  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk slu  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+
+<group> lovel=124 hivel=127 volume=2 locc1=0 hicc1=41        // ff atk up1
+<region> sample=APicA ff atk u1x  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  3 g.aif key=67 lokey=66 hikey=68 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  1 c#.aif key=37 lokey=28 hikey=38 end=9357 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  1 e.aif key=40 lokey=39 hikey=41 end=9326 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  1 g.aif key=43 lokey=42 hikey=44 end=11189 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  1a#.aif key=46 lokey=45 hikey=47 end=11541 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  2 c#.aif key=49 lokey=48 hikey=50 end=11561 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA ff atk u1x  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+
+<group> lovel=124 hivel=127 volume=2        // ff sus dn
+<region> sample=APicA ff sus dn  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=537606 loop_end=546533
+<region> sample=APicA ff sus dn  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=460722 loop_end=469336
+<region> sample=APicA ff sus dn  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=185512 loop_end=194509
+<region> sample=APicA ff sus dn  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=322677 loop_end=331000
+<region> sample=APicA ff sus dn  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=378027 loop_end=386952
+<region> sample=APicA ff sus dn  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=404006 loop_end=412564
+<region> sample=APicA ff sus dn  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=392565 loop_end=401570
+<region> sample=APicA ff sus dn  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=145136 loop_end=154236
+<region> sample=APicA ff sus dn  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=520245 loop_end=529160
+<region> sample=APicA ff sus dn  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=371999 loop_end=380848
+<region> sample=APicA ff sus dn  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=370352 loop_end=379135
+<region> sample=APicA ff sus dn  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=251090 loop_end=259793
+<region> sample=APicA ff sus dn  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=220363 loop_end=229260
+
+<group> lovel=124 hivel=127 volume=2        // ff sus up
+<region> sample=APicA ff sus up  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=351737 loop_end=405426
+<region> sample=APicA ff sus up  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=379931 loop_end=390701
+<region> sample=APicA ff sus up  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=173986 loop_end=182992
+<region> sample=APicA ff sus up  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=344278 loop_end=352604
+<region> sample=APicA ff sus up  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=390873 loop_end=400435
+<region> sample=APicA ff sus up  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=431860 loop_end=441489
+<region> sample=APicA ff sus up  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=423839 loop_end=432860
+<region> sample=APicA ff sus up  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=122030 loop_end=130750
+<region> sample=APicA ff sus up  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=434166 loop_end=443053
+<region> sample=APicA ff sus up  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=261024 loop_end=269883
+<region> sample=APicA ff sus up  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=322207 loop_end=331006
+<region> sample=APicA ff sus up  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=121516 loop_end=130411
+<region> sample=APicA ff sus up  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=205816 loop_end=214704
+
+<group> lovel=108 hivel=123 volume=6        // FX f
+<region> sample=APicA FX slide ln dn f.aif key=36 lokey=24 hikey=24 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX slide ln updn f.aif key=37 lokey=25 hikey=25 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX sltrm ln dn f.aif key=60 lokey=26 hikey=26 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX sltrm ln updn f.aif key=60 lokey=27 hikey=27 pitch_keytrack=0 loop_mode=no_loop
+
+<group> volume=6        // FX ff
+<region> sample=APicA FX slide ln dn p.aif key=24 lokey=24 hikey=24 lovel=0 hivel=79 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX slide ln updn p.aif key=25 lokey=25 hikey=25 lovel=0 hivel=79 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX sltrm ln dn ff.aif key=60 lokey=26 hikey=26 lovel=0 hivel=107 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX sltrm ln updn ff.aif key=60 lokey=27 hikey=27 lovel=0 hivel=107 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=124 hivel=127 volume=6        // FX ff
+<region> sample=APicA FX slide ln dn ff.aif key=36 lokey=24 hikey=24 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX slide ln updn ff.aif key=60 lokey=25 hikey=25 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX sltrm ln dn p.aif key=60 lokey=26 hikey=26 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX sltrm ln updn p.aif key=60 lokey=27 hikey=27 pitch_keytrack=0 loop_mode=no_loop
+
+<group> volume=6        // FX lower vel
+<region> sample=APicA FX slide ln dn mf.aif key=24 lokey=24 hikey=24 lovel=80 hivel=107 pitch_keytrack=0 loop_mode=no_loop
+<region> sample=APicA FX slide ln updn mf.aif key=60 lokey=25 hikey=25 lovel=80 hivel=107 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=108 hivel=123 volume=9        // harm f dn
+<region> sample=APicA Hrm f dn  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=108 hivel=123 volume=9        // harm f up
+<region> sample=APicA Hrm f up  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=124 hivel=127 volume=8        // harm ff dn
+<region> sample=APicA Hrm ff dn  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=124 hivel=127 volume=8        // harm ff up
+<region> sample=APicA Hrm ff up  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=9        // harm mf dn
+<region> sample=APicA Hrm mf dn  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=9        // harm mf up
+<region> sample=APicA Hrm mf up  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=9        // harm p dn
+<region> sample=APicA Hrm p dn  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=9        // harm p up
+<region> sample=APicA Hrm p up  4 g.aif key=79 lokey=81 hikey=127 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=4 locc1=0 hicc1=41        // mf atk dn1
+<region> sample=APicA mf atk d1x  1 c#.aif key=37 lokey=28 hikey=38 end=11015 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  1 e.aif key=40 lokey=39 hikey=41 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  1 g.aif key=43 lokey=42 hikey=44 end=11484 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  1a#.aif key=46 lokey=45 hikey=47 end=11846 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  2 c#.aif key=49 lokey=48 hikey=50 end=11629 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  3 g.aif key=67 lokey=66 hikey=68 end=11007 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk d1x  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=7 locc1=42 hicc1=127        // mf atk slu
+<region> sample=APicA mf atk slu  1 c#.aif key=37 lokey=28 hikey=38 end=11015 loop_mode=no_loop
+<region> sample=APicA mf atk slu  1 e.aif key=40 lokey=39 hikey=41 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk slu  1 g.aif key=43 lokey=42 hikey=44 end=11484 loop_mode=no_loop
+<region> sample=APicA mf atk slu  1a#.aif key=46 lokey=45 hikey=47 end=11846 loop_mode=no_loop
+<region> sample=APicA mf atk slu  2 c#.aif key=49 lokey=48 hikey=50 end=11629 loop_mode=no_loop
+<region> sample=APicA mf atk slu  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk slu  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk slu  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk slu  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk slu  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk slu  3 g.aif key=67 lokey=66 hikey=68 end=11007 loop_mode=no_loop
+<region> sample=APicA mf atk slu  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk slu  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=7 locc1=0 hicc1=41        // mf atk up1
+<region> sample=APicA mf atk u1x  1 c#.aif key=37 lokey=28 hikey=38 end=11015 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  1 e.aif key=40 lokey=39 hikey=41 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  1 g.aif key=43 lokey=42 hikey=44 end=11484 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  1a#.aif key=46 lokey=45 hikey=47 end=11846 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  2 c#.aif key=49 lokey=48 hikey=50 end=11629 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  3 e.aif key=64 lokey=63 hikey=65 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  3 g.aif key=67 lokey=66 hikey=68 end=11007 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  3a#.aif key=70 lokey=69 hikey=71 end=11025 loop_mode=no_loop
+<region> sample=APicA mf atk u1x  4 c#.aif key=73 lokey=72 hikey=80 end=11025 loop_mode=no_loop
+
+<group> lovel=80 hivel=107 volume=7        // mf sus dn
+<region> sample=APicA mf sus dn  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=352042 loop_end=360954
+<region> sample=APicA mf sus dn  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=350880 loop_end=360524
+<region> sample=APicA mf sus dn  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=147617 loop_end=156657
+<region> sample=APicA mf sus dn  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=244151 loop_end=253232
+<region> sample=APicA mf sus dn  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=263407 loop_end=272345
+<region> sample=APicA mf sus dn  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=318354 loop_end=326891
+<region> sample=APicA mf sus dn  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=277668 loop_end=286659
+<region> sample=APicA mf sus dn  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=109185 loop_end=117880
+<region> sample=APicA mf sus dn  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=281097 loop_end=289657
+<region> sample=APicA mf sus dn  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=256788 loop_end=265611
+<region> sample=APicA mf sus dn  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=269255 loop_end=278037
+<region> sample=APicA mf sus dn  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=229761 loop_end=238657
+<region> sample=APicA mf sus dn  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=312706 loop_end=321611
+
+<group> lovel=80 hivel=107 volume=7        // mf sus up
+<region> sample=APicA mf sus up  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=476682 loop_end=485594
+<region> sample=APicA mf sus up  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=333023 loop_end=345907
+<region> sample=APicA mf sus up  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=108517 loop_end=117553
+<region> sample=APicA mf sus up  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=197351 loop_end=206421
+<region> sample=APicA mf sus up  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=293195 loop_end=302114
+<region> sample=APicA mf sus up  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=331875 loop_end=340967
+<region> sample=APicA mf sus up  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=238504 loop_end=247487
+<region> sample=APicA mf sus up  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=117588 loop_end=126297
+<region> sample=APicA mf sus up  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=256299 loop_end=265173
+<region> sample=APicA mf sus up  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=270353 loop_end=279172
+<region> sample=APicA mf sus up  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=284682 loop_end=293495
+<region> sample=APicA mf sus up  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=180867 loop_end=190698
+<region> sample=APicA mf sus up  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=135524 loop_end=144268
+
+<group> lovel=0 hivel=29 volume=4        // mute dn1
+<region> sample=APicA mute d1x  1 c#.aif key=37 lokey=28 hikey=38 end=25724 loop_mode=no_loop
+<region> sample=APicA mute d1x  1 e.aif key=40 lokey=39 hikey=41 end=23867 loop_mode=no_loop
+<region> sample=APicA mute d1x  1 g.aif key=43 lokey=42 hikey=44 end=14785 loop_mode=no_loop
+<region> sample=APicA mute d1x  1a#.aif key=46 lokey=45 hikey=47 end=12416 loop_mode=no_loop
+<region> sample=APicA mute d1x  2 c#.aif key=49 lokey=48 hikey=50 end=10373 loop_mode=no_loop
+<region> sample=APicA mute d1x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=APicA mute d1x  2 g.aif key=55 lokey=54 hikey=56 end=14253 loop_mode=no_loop
+<region> sample=APicA mute d1x  2a#.aif key=58 lokey=57 hikey=59 end=17343 loop_mode=no_loop
+<region> sample=APicA mute d1x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=APicA mute d1x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=APicA mute d1x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=APicA mute d1x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=APicA mute d1x  4 c#.aif key=73 lokey=72 hikey=127 pitch_keytrack=0 end=7115 loop_mode=no_loop
+
+<group> lovel=0 hivel=29 volume=4        // mute dn2
+<region> sample=APicA mute d2x  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=no_loop
+<region> sample=APicA mute d2x  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=APicA mute d2x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=APicA mute d2x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=APicA mute d2x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=APicA mute d2x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=APicA mute d2x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=APicA mute d2x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=APicA mute d2x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=APicA mute d2x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=APicA mute d2x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=APicA mute d2x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=APicA mute d2x  4 c#.aif key=73 lokey=72 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=29 volume=4        // mute up1
+<region> sample=APicA mute u1x  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=no_loop
+<region> sample=APicA mute u1x  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=APicA mute u1x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=APicA mute u1x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=APicA mute u1x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=APicA mute u1x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=APicA mute u1x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=APicA mute u1x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=APicA mute u1x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=APicA mute u1x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=APicA mute u1x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=APicA mute u1x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=APicA mute u1x  4 c#.aif key=73 lokey=72 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=0 hivel=29 volume=4        // mute up2
+<region> sample=APicA mute u2x  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=no_loop
+<region> sample=APicA mute u2x  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=APicA mute u2x  1 g.aif key=43 lokey=42 hikey=44 loop_mode=no_loop
+<region> sample=APicA mute u2x  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=APicA mute u2x  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=APicA mute u2x  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=APicA mute u2x  2 g.aif key=55 lokey=54 hikey=56 loop_mode=no_loop
+<region> sample=APicA mute u2x  2a#.aif key=58 lokey=57 hikey=59 loop_mode=no_loop
+<region> sample=APicA mute u2x  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=no_loop
+<region> sample=APicA mute u2x  3 e.aif key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=APicA mute u2x  3 g.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=APicA mute u2x  3a#.aif key=70 lokey=69 hikey=71 loop_mode=no_loop
+<region> sample=APicA mute u2x  4 c#.aif key=73 lokey=72 hikey=127 pitch_keytrack=0 loop_mode=no_loop
+
+<group> lovel=58 hivel=62 volume=10 trigger=release        // NOff Noise1
+<region> sample=APicA NoffNoise x1  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  1 e.aif key=40 lokey=39 hikey=41 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  1 g.aif key=43 lokey=42 hikey=44 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  1a#.aif key=46 lokey=45 hikey=47 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  2 e.aif key=52 lokey=51 hikey=53 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  2 g.aif key=55 lokey=54 hikey=56 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  2a#.aif key=58 lokey=57 hikey=59 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  3 e.aif key=64 lokey=63 hikey=65 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  3 g.aif key=67 lokey=66 hikey=68 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  3a#.aif key=70 lokey=69 hikey=71 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x1  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=one_shot volume=8
+
+<group> lovel=98 hivel=102 volume=10 trigger=release        // NOff Noise2
+<region> sample=APicA NoffNoise x2  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  1 e.aif key=40 lokey=39 hikey=41 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  1 g.aif key=43 lokey=42 hikey=44 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  1a#.aif key=46 lokey=45 hikey=47 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  2 e.aif key=52 lokey=51 hikey=53 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  2 g.aif key=55 lokey=54 hikey=56 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  2a# .aif key=58 lokey=57 hikey=59 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  3 e.aif key=64 lokey=63 hikey=65 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  3 g.aif key=67 lokey=66 hikey=68 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  3a#.aif key=70 lokey=69 hikey=71 loop_mode=one_shot volume=8
+<region> sample=APicA NoffNoise x2  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=one_shot volume=8
+
+<group> lovel=30 hivel=79 volume=6 locc1=0 hicc1=41        // p atk dn1
+<region> sample=APicA p atk d1x  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=no_loop
+<region> sample=APicA p atk d1x  1 e.aif key=40 lokey=39 hikey=41 end=10837 loop_mode=no_loop
+<region> sample=APicA p atk d1x  1 g.aif key=43 lokey=42 hikey=44 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk d1x  1a#.aif key=46 lokey=45 hikey=47 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk d1x  2 c#.aif key=49 lokey=48 hikey=50 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk d1x  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk d1x  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk d1x  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk d1x  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk d1x  3 e.aif key=64 lokey=63 hikey=65 end=10754 loop_mode=no_loop
+<region> sample=APicA p atk d1x  3 g.aif key=67 lokey=66 hikey=68 end=10991 loop_mode=no_loop
+<region> sample=APicA p atk d1x  3a#.aif key=70 lokey=69 hikey=71 end=10869 loop_mode=no_loop
+<region> sample=APicA p atk d1x  4 c#.aif key=73 lokey=72 hikey=80 end=10990 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=6 locc1=0 hicc1=41        // p atk dn2
+<region> sample=APicA p atk u1x  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=no_loop
+<region> sample=APicA p atk u1x  1 e.aif key=40 lokey=39 hikey=41 end=10837 loop_mode=no_loop
+<region> sample=APicA p atk u1x  1 g.aif key=43 lokey=42 hikey=44 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk u1x  1a#.aif key=46 lokey=45 hikey=47 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk u1x  2 c#.aif key=49 lokey=48 hikey=50 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk u1x  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk u1x  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk u1x  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk u1x  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk u1x  3 e.aif key=64 lokey=63 hikey=65 end=10754 loop_mode=no_loop
+<region> sample=APicA p atk u1x  3 g.aif key=67 lokey=66 hikey=68 end=10991 loop_mode=no_loop
+<region> sample=APicA p atk u1x  3a#.aif key=70 lokey=69 hikey=71 end=10869 loop_mode=no_loop
+<region> sample=APicA p atk u1x  4 c#.aif key=73 lokey=72 hikey=80 end=10990 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=6 locc1=42 hicc1=127        // p atk slu
+<region> sample=APicA p atk slu  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=no_loop
+<region> sample=APicA p atk slu  1 e.aif key=40 lokey=39 hikey=41 end=10837 loop_mode=no_loop
+<region> sample=APicA p atk slu  1 g.aif key=43 lokey=42 hikey=44 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk slu  1a#.aif key=46 lokey=45 hikey=47 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk slu  2 c#.aif key=49 lokey=48 hikey=50 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk slu  2 e.aif key=52 lokey=51 hikey=53 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk slu  2 g.aif key=55 lokey=54 hikey=56 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk slu  2a#.aif key=58 lokey=57 hikey=59 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk slu  3 c#.aif key=61 lokey=60 hikey=62 end=11025 loop_mode=no_loop
+<region> sample=APicA p atk slu  3 e.aif key=64 lokey=63 hikey=65 end=10754 loop_mode=no_loop
+<region> sample=APicA p atk slu  3 g.aif key=67 lokey=66 hikey=68 end=10991 loop_mode=no_loop
+<region> sample=APicA p atk slu  3a#.aif key=70 lokey=69 hikey=71 end=10869 loop_mode=no_loop
+<region> sample=APicA p atk slu  4 c#.aif key=73 lokey=72 hikey=80 end=10990 loop_mode=no_loop
+
+<group> lovel=30 hivel=79 volume=6        // p sus dn
+<region> sample=APicA p sus dn  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=396486 loop_end=405451
+<region> sample=APicA p sus dn  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=335903 loop_end=344495
+<region> sample=APicA p sus dn  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=146855 loop_end=155002
+<region> sample=APicA p sus dn  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=110757 loop_end=119838
+<region> sample=APicA p sus dn  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=188014 loop_end=196934
+<region> sample=APicA p sus dn  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=283060 loop_end=292128
+<region> sample=APicA p sus dn  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=223317 loop_end=231870
+<region> sample=APicA p sus dn  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=106395 loop_end=115112
+<region> sample=APicA p sus dn  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=265708 loop_end=274580
+<region> sample=APicA p sus dn  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=212962 loop_end=221795
+<region> sample=APicA p sus dn  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=237186 loop_end=245949
+<region> sample=APicA p sus dn  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=251982 loop_end=260846
+<region> sample=APicA p sus dn  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=188957 loop_end=197703
+
+<group> lovel=30 hivel=79 volume=6        // p sus up
+<region> sample=APicA p sus up  1 c#.aif key=37 lokey=28 hikey=38 loop_mode=loop_continuous loop_start=451201 loop_end=460158
+<region> sample=APicA p sus up  1 e.aif key=40 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=341365 loop_end=350482
+<region> sample=APicA p sus up  1 g.aif key=43 lokey=42 hikey=44 loop_mode=loop_continuous loop_start=97023 loop_end=106081
+<region> sample=APicA p sus up  1a#.aif key=46 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=220329 loop_end=229398
+<region> sample=APicA p sus up  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=loop_continuous loop_start=216338 loop_end=225273
+<region> sample=APicA p sus up  2 e.aif key=52 lokey=51 hikey=53 loop_mode=loop_continuous loop_start=293493 loop_end=302565
+<region> sample=APicA p sus up  2 g.aif key=55 lokey=54 hikey=56 loop_mode=loop_continuous loop_start=233895 loop_end=242889
+<region> sample=APicA p sus up  2a#.aif key=58 lokey=57 hikey=59 loop_mode=loop_continuous loop_start=105514 loop_end=114600
+<region> sample=APicA p sus up  3 c#.aif key=61 lokey=60 hikey=62 loop_mode=loop_continuous loop_start=262798 loop_end=271667
+<region> sample=APicA p sus up  3 e.aif key=64 lokey=63 hikey=65 loop_mode=loop_continuous loop_start=223488 loop_end=232313
+<region> sample=APicA p sus up  3 g.aif key=67 lokey=66 hikey=68 loop_mode=loop_continuous loop_start=254721 loop_end=263691
+<region> sample=APicA p sus up  3a#.aif key=70 lokey=69 hikey=71 loop_mode=loop_continuous loop_start=133034 loop_end=141903
+<region> sample=APicA p sus up  4 c#.aif key=73 lokey=72 hikey=80 loop_mode=loop_continuous loop_start=195133 loop_end=203877

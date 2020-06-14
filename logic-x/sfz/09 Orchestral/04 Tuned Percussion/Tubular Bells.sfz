@@ -1,0 +1,21 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tubular Bells.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Tubular Bells/Tubular Bells_led_mf\
+
+<group>        // RGL_led_mf
+<region> sample=RGL_led_mf_C4.wav key=60 lokey=60 hikey=61 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=RGL_led_mf_D4.wav key=62 lokey=62 hikey=63 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_G#4.wav key=68 lokey=68 hikey=69 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_F#4.wav key=66 lokey=66 hikey=67 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_A#4.wav key=70 lokey=70 hikey=71 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_C5.wav key=72 lokey=72 hikey=73 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_D5.wav key=74 lokey=74 hikey=75 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_F5.wav key=77 lokey=77 hikey=108 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_E5.wav key=76 lokey=76 hikey=76 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_A#3.wav key=58 lokey=58 hikey=59 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_G#3.wav key=56 lokey=56 hikey=57 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_F#3.wav key=54 lokey=54 hikey=55 volume=-2 loop_mode=no_loop
+<region> sample=RGL_led_mf_F3.wav key=53 lokey=21 hikey=53 volume=-2 loop_mode=no_loop

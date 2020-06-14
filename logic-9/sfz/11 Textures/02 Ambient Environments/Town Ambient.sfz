@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Town Ambient.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/02 Ambient Environments/City & Traffic Bank\
+
+<group>
+<region> sample=5_town ambient key=60 lokey=36 hikey=107 end=777066 loop_mode=loop_continuous loop_start=0 loop_end=777066

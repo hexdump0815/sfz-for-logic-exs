@@ -1,0 +1,61 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PWM Velo Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/PWM  Soft Bass\
+
+<group> lovel=100 hivel=127        // Group #1
+<region> sample=MegaHard96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=21566 loop_end=21819
+<region> sample=MegaHard90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=29483 loop_end=30676
+<region> sample=MegaHard84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=50119 loop_end=90029
+<region> sample=MegaHard78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=51980 loop_end=90127
+<region> sample=MegaHard72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=56585 loop_end=97288
+<region> sample=MegaHard66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=43204 loop_end=81443
+<region> sample=MegaHard60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=55195 loop_end=106893
+<region> sample=MegaHard54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=62967 loop_end=108195
+<region> sample=MegaHard48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=79297 loop_end=125748
+<region> sample=MegaHard42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=50340 loop_end=98989
+<region> sample=MegaHard36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=78323 loop_end=126891
+<region> sample=MegaHard33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=73351 loop_end=118270
+
+<group> lovel=71 hivel=99        // Group #2
+<region> sample=MegaMed96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=16172 loop_end=16467
+<region> sample=MegaMed90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=24195 loop_end=24732
+<region> sample=MegaMed84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=35539 loop_end=73946
+<region> sample=MegaMed78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=44838 loop_end=89899
+<region> sample=MegaMed72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=68852 loop_end=112761
+<region> sample=MegaMed66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=57449 loop_end=102428
+<region> sample=MegaMed60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=47176 loop_end=93215
+<region> sample=MegaMed54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=61926 loop_end=107720
+<region> sample=MegaMed48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=77135 loop_end=123685
+<region> sample=MegaMed42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=51266 loop_end=96118
+<region> sample=MegaMed36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=91959 loop_end=136495
+<region> sample=MegaMed33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=89310 loop_end=137473
+
+<group> lovel=51 hivel=70        // Group #3
+<region> sample=MegaSoft96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=13830 loop_end=14251
+<region> sample=MegaSoft90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=22542 loop_end=22839
+<region> sample=MegaSoft84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=48592 loop_end=94984
+<region> sample=MegaSoft78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=48316 loop_end=95129
+<region> sample=MegaSoft72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=44902 loop_end=94403
+<region> sample=MegaSoft66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=54533 loop_end=101992
+<region> sample=MegaSoft60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=66451 loop_end=112388
+<region> sample=MegaSoft54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=75321 loop_end=117765
+<region> sample=MegaSoft48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=66773 loop_end=115709
+<region> sample=MegaSoft42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=57240 loop_end=106851
+<region> sample=MegaSoft36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=71876 loop_end=117756
+<region> sample=MegaSoft33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=69115 loop_end=115650
+
+<group> lovel=1 hivel=50        // Group #4
+<region> sample=MegaDark96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=10664 loop_end=10875
+<region> sample=MegaDark90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=16532 loop_end=17307
+<region> sample=MegaDark84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=64333 loop_end=65343
+<region> sample=MegaDark78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=42868 loop_end=89184
+<region> sample=MegaDark72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=44852 loop_end=93102
+<region> sample=MegaDark66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=43796 loop_end=91889
+<region> sample=MegaDark60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=58814 loop_end=107043
+<region> sample=MegaDark54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=66219 loop_end=111313
+<region> sample=MegaDark48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=61910 loop_end=110476
+<region> sample=MegaDark42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=78040 loop_end=128588
+<region> sample=MegaDark36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=64374 loop_end=119656
+<region> sample=MegaDark33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=65601 loop_end=112136

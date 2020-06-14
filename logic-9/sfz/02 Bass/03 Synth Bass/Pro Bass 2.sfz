@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Pro Bass 2.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Pro Bass 2\
+
+<group>
+<region> sample=ProBass2 036.wav key=36 lokey=0 hikey=127 tune=7 loop_mode=loop_continuous loop_start=11292 loop_end=12647

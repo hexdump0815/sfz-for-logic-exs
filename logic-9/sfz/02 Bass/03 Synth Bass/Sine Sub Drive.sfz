@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sine Sub Drive.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Sine Sub Bass\
+
+<group>        // Group #1
+<region> sample=SineSub72 .wav key=72 lokey=71 hikey=127 loop_mode=loop_continuous loop_start=44077 loop_end=44414
+<region> sample=SineSub69 .wav key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=44380 loop_end=44781
+<region> sample=SineSub66 .wav key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=44379 loop_end=44617
+<region> sample=SineSub63 .wav key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=42523 loop_end=43090
+<region> sample=SineSub60 .wav key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=43941 loop_end=44278
+<region> sample=SineSub57 .wav key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=53709 loop_end=54110
+<region> sample=SineSub54 .wav key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=42901 loop_end=43377
+<region> sample=SineSub51 .wav key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=38993 loop_end=39559
+<region> sample=SineSub48 .wav key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=43489 loop_end=44163
+<region> sample=SineSub45 .wav key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=43029 loop_end=43831
+<region> sample=SineSub42 .wav key=42 lokey=32 hikey=43 loop_mode=loop_continuous loop_start=52711 loop_end=53664
+<region> sample=SineSub39 .wav key=39 lokey=0 hikey=31 loop_mode=loop_continuous loop_start=23817 loop_end=24951

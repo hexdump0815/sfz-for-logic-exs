@@ -1,0 +1,21 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - French Horns Crescendo.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/French Horns/French Horns_cre2_2s_mf-f\
+
+<group>        // HO-4_cre2_2s_mf-f
+<region> sample=HO-4_cre2_2s_mf-f_D5.wav key=74 lokey=74 hikey=108 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_C5.wav key=72 lokey=72 hikey=73 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_G#4.wav key=68 lokey=68 hikey=69 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_A#4.wav key=70 lokey=70 hikey=71 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_A#3.wav key=58 lokey=58 hikey=59 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_C4.wav key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_G#3.wav key=56 lokey=56 hikey=57 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_F#3.wav key=54 lokey=54 hikey=55 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_E3.wav key=52 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_C3.wav key=48 lokey=21 hikey=49 loop_mode=no_loop
+<region> sample=HO-4_cre2_2s_mf-f_D3.wav key=50 lokey=50 hikey=51 loop_mode=no_loop

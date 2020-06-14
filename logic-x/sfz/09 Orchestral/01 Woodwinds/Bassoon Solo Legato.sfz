@@ -1,0 +1,30 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Bassoon Solo Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Bassoon Solo/Bassoon-L_LV_na_sus_mf\
+
+<group> pan=-23 volume=1        // FA-L_LV_na_sus_mf
+<region> sample=FA-L_LV_na_sus_mf_C4.wav key=60 lokey=59 hikey=60 volume=-1 loop_mode=loop_continuous loop_start=206785 loop_end=324148
+<region> sample=FA-L_LV_na_sus_mf_D5.wav key=74 lokey=74 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=92829 loop_end=191176
+<region> sample=FA-L_LV_na_sus_mf_G#2.wav key=44 lokey=43 hikey=44 volume=-4 loop_mode=loop_continuous loop_start=180262 loop_end=306958
+<region> sample=FA-L_LV_na_sus_mf_F#2.wav key=42 lokey=41 hikey=42 volume=-4 loop_mode=loop_continuous loop_start=80576 loop_end=208340
+<region> sample=FA-L_LV_na_sus_mf_C2.wav key=36 lokey=36 hikey=36 volume=-4 pan=-23 loop_mode=loop_continuous loop_start=181590 loop_end=267869
+<region> sample=FA-L_LV_na_sus_mf_B1.wav key=35 lokey=35 hikey=35 volume=-3 pan=-23 loop_mode=loop_continuous loop_start=93064 loop_end=201533
+<region> sample=FA-L_LV_na_sus_mf_A#1.wav key=34 lokey=21 hikey=34 loop_mode=loop_continuous loop_start=124969 loop_end=260255
+<region> sample=FA-L_LV_na_sus_mf_C#5.wav key=73 lokey=73 hikey=73 volume=-3 loop_mode=loop_continuous loop_start=216030 loop_end=315295
+<region> sample=FA-L_LV_na_sus_mf_C5.wav key=72 lokey=71 hikey=72 volume=-3 loop_mode=loop_continuous loop_start=184098 loop_end=310028
+<region> sample=FA-L_LV_na_sus_mf_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=209489 loop_end=315418
+<region> sample=FA-L_LV_na_sus_mf_G#4.wav key=68 lokey=67 hikey=68 volume=-5 loop_mode=loop_continuous loop_start=96181 loop_end=206392
+<region> sample=FA-L_LV_na_sus_mf_F#4.wav key=66 lokey=65 hikey=66 volume=-2 loop_mode=loop_continuous loop_start=195471 loop_end=284953
+<region> sample=FA-L_LV_na_sus_mf_E4.wav key=64 lokey=63 hikey=64 volume=-1 loop_mode=loop_continuous loop_start=121779 loop_end=285440
+<region> sample=FA-L_LV_na_sus_mf_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=165734 loop_end=314803
+<region> sample=FA-L_LV_na_sus_mf_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=195199 loop_end=240808
+<region> sample=FA-L_LV_na_sus_mf_G#3.wav key=56 lokey=55 hikey=56 volume=-9 loop_mode=loop_continuous loop_start=245275 loop_end=316442
+<region> sample=FA-L_LV_na_sus_mf_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=205339 loop_end=308092
+<region> sample=FA-L_LV_na_sus_mf_E3.wav key=52 lokey=51 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=213432 loop_end=321390
+<region> sample=FA-L_LV_na_sus_mf_D3.wav key=50 lokey=49 hikey=50 volume=-4 loop_mode=loop_continuous loop_start=192739 loop_end=307458
+<region> sample=FA-L_LV_na_sus_mf_C3.wav key=48 lokey=47 hikey=48 volume=-5 loop_mode=loop_continuous loop_start=170978 loop_end=267059
+<region> sample=FA-L_LV_na_sus_mf_A#2.wav key=46 lokey=45 hikey=46 volume=-5 loop_mode=loop_continuous loop_start=148315 loop_end=301190
+<region> sample=FA-L_LV_na_sus_mf_E2.wav key=40 lokey=39 hikey=40 volume=-3 loop_mode=loop_continuous loop_start=105521 loop_end=309914
+<region> sample=FA-L_LV_na_sus_mf_D2.wav key=38 lokey=37 hikey=38 volume=-5 loop_mode=loop_continuous loop_start=166485 loop_end=313645

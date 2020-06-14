@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sweep Effects.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/SweepFX1\
+
+<group>
+<region> sample=SweepFX7.aif key=103 lokey=96 hikey=107 end=172031 loop_mode=no_loop
+<region> sample=SweepFX6.aif key=91 lokey=84 hikey=95 loop_mode=no_loop
+<region> sample=SweepFX1.aif key=31 lokey=24 hikey=35 loop_mode=no_loop
+<region> sample=SweepFX2.aif key=43 lokey=36 hikey=47 loop_mode=no_loop
+<region> sample=SweepFX3.aif key=55 lokey=48 hikey=59 loop_mode=no_loop
+<region> sample=SweepFX4.aif key=67 lokey=60 hikey=71 end=91008 loop_mode=no_loop
+<region> sample=SweepFX5.aif key=79 lokey=72 hikey=83 end=196077 loop_mode=no_loop
+<region> sample=SweepFX8.aif key=115 lokey=108 hikey=119 loop_mode=no_loop

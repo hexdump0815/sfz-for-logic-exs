@@ -1,0 +1,10 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Deep Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Deep Bass\
+
+<group>        // Group #1
+<region> sample=PWMsub42A.wav key=42 lokey=40 hikey=127 loop_mode=loop_continuous loop_start=18828 loop_end=62720
+<region> sample=PWMsub36A.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=17720 loop_end=68015
+<region> sample=PWMsub32A.wav key=32 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=21592 loop_end=64137

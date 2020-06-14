@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - The Alm.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/02 Ambient Environments/Environments Bank\
+
+<group>
+<region> sample=6_The Alm.aif key=60 lokey=36 hikey=107 volume=-8 loop_mode=loop_continuous loop_start=76613 loop_end=505302

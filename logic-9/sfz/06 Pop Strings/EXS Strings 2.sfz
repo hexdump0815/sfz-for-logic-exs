@@ -1,0 +1,59 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - EXS Strings 2.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/EXS Strings 2\
+
+<group> pan=100        // Strings left
+<region> sample=STRNG90F#5-right.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=60309 loop_end=182678
+<region> sample=STRNG69A3-right.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=66771 loop_end=175213
+<region> sample=STRNG75D#4-right.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=69301 loop_end=175658
+<region> sample=STRNG87D#5-right.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=64578 loop_end=171617
+<region> sample=STRNG72C4-right.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=69865 loop_end=173518
+<region> sample=STRNG63D#3-right.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=68819 loop_end=174081
+<region> sample=STRNG78F#4-right.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=65012 loop_end=174882
+<region> sample=STRNG81A4-right.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=63725 loop_end=175642
+<region> sample=STRNG66F#3-right.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=69359 loop_end=173050
+<region> sample=STRNG51D#2-right.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=66307 loop_end=170583
+<region> sample=STRNG24C0-right.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=90826 loop_end=258136
+<region> sample=STRNG27D#1-right.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=96478 loop_end=250754
+<region> sample=STRNG30F#1-right.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=86916 loop_end=249162
+<region> sample=STRNG33A1-right.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=93774 loop_end=258392
+<region> sample=STRNG36C1-right.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=108047 loop_end=259552
+<region> sample=STRNG39D#1-right.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=108426 loop_end=232719
+<region> sample=STRNG42F#1-right.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=91320 loop_end=199170
+<region> sample=STRNG45A1-right.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=83924 loop_end=209906
+<region> sample=STRNG48C2-right.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=83097 loop_end=187698
+<region> sample=STRNG54F#2-right.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=66188 loop_end=173386
+<region> sample=STRNG57A2-right.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=65804 loop_end=173678
+<region> sample=STRNG60C3-right.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=62424 loop_end=176718
+<region> sample=STRNG93A5-right.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=66419 loop_end=176986
+<region> sample=STRNG96C6-right.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=67554 loop_end=167608
+<region> sample=STRNG84C5-right.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=64226 loop_end=178625
+
+<group> pan=-100        // Strings right
+<region> sample=STRNG90F#5-left.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=60196 loop_end=170677
+<region> sample=STRNG69A3-left.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=48832 loop_end=159277
+<region> sample=STRNG75D#4-left.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=66187 loop_end=176034
+<region> sample=STRNG87D#5-left.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=66028 loop_end=173217
+<region> sample=STRNG72C4-left.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=68468 loop_end=176112
+<region> sample=STRNG63D#3-left.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=75715 loop_end=196160
+<region> sample=STRNG78F#4-left.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=65301 loop_end=177158
+<region> sample=STRNG81A4-left.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=74826 loop_end=176206
+<region> sample=STRNG66F#3-left.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=64714 loop_end=174189
+<region> sample=STRNG51D#2-left.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=79708 loop_end=176346
+<region> sample=STRNG24C0-left.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=80336 loop_end=254076
+<region> sample=STRNG27D#1-left.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=104606 loop_end=242940
+<region> sample=STRNG30F#1-left.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=89980 loop_end=242422
+<region> sample=STRNG33A1-left.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=101342 loop_end=246522
+<region> sample=STRNG36C1-left.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=93038 loop_end=244123
+<region> sample=STRNG39D#1-left.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=104959 loop_end=208108
+<region> sample=STRNG42F#1-left.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=81274 loop_end=203934
+<region> sample=STRNG45A1-left.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=86548 loop_end=207480
+<region> sample=STRNG48C2-left.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=64480 loop_end=180830
+<region> sample=STRNG54F#2-left.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=65866 loop_end=174610
+<region> sample=STRNG57A2-left.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=67754 loop_end=174880
+<region> sample=STRNG60C3-left.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=66614 loop_end=184791
+<region> sample=STRNG93A5-left.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=64871 loop_end=160611
+<region> sample=STRNG96C6-left.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=66335 loop_end=180158
+<region> sample=STRNG84C5-left.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=66594 loop_end=176394

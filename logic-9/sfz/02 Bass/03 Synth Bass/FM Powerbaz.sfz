@@ -1,0 +1,17 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - FM Powerbaz.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/05 Synthesizers/01 Synth Leads/FM Powerpoly\
+
+<group>        // Group #1
+<region> sample=FM Powerbaz90.wav key=90 lokey=88 hikey=127 loop_mode=loop_continuous loop_start=53760 loop_end=152577
+<region> sample=FM Powerbaz84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=50944 loop_end=152577
+<region> sample=FM Powerbaz78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=51968 loop_end=153602
+<region> sample=FM Powerbaz72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=51712 loop_end=157186
+<region> sample=FM Powerbaz66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=59904 loop_end=156163
+<region> sample=FM Powerbaz60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=55296 loop_end=159746
+<region> sample=FM Powerbaz54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=48384 loop_end=160258
+<region> sample=FM Powerbaz48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=54784 loop_end=157698
+<region> sample=FM Powerbaz42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=52992 loop_end=160258
+<region> sample=FM Powerbaz36.wav key=36 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=58624 loop_end=162306

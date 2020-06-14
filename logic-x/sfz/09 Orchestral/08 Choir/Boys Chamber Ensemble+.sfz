@@ -1,0 +1,46 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Boys Chamber Ensemble+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Boys Choir\
+
+<group> volume=3        // Aa
+<region> sample=BB-BoyChoir Ah n055.aif key=55 lokey=0 hikey=58 end=329633 loop_mode=loop_continuous loop_start=154808 loop_end=326581
+<region> sample=BB-BoyChoir Ah n072.aif key=72 lokey=71 hikey=73 volume=-2 loop_mode=loop_continuous loop_start=121437 loop_end=299009
+<region> sample=BB-BoyChoir Ah n069.aif key=69 lokey=68 hikey=70 volume=1 loop_mode=loop_continuous loop_start=145686 loop_end=331910
+<region> sample=BB-BoyChoir Ah n060.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=146642 loop_end=300672
+<region> sample=BB-BoyChoir Ah n066.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=256071 loop_end=464427
+<region> sample=BB-BoyChoir Ah n063.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=105705 loop_end=232695
+<region> sample=BB-BoyChoir Ah n078.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=36484 loop_end=100229
+<region> sample=BB-BoyChoir Ah n081.aif key=81 lokey=80 hikey=127 end=277973 loop_mode=loop_continuous loop_start=116875 loop_end=274815
+<region> sample=BB-BoyChoir Ah n075.aif key=75 lokey=74 hikey=76 end=301869 loop_mode=loop_continuous loop_start=125501 loop_end=297675
+
+<group> volume=3        // Oo
+<region> sample=BB-BoyChoir Oh n057.aif key=57 lokey=0 hikey=58 loop_mode=loop_continuous loop_start=175921 loop_end=409495
+<region> sample=BB-BoyChoir Oh n072.aif key=72 lokey=71 hikey=73 end=291403 loop_mode=loop_continuous loop_start=125208 loop_end=289696
+<region> sample=BB-BoyChoir Oh n069.aif key=69 lokey=68 hikey=70 end=222036 loop_mode=loop_continuous loop_start=101918 loop_end=219591
+<region> sample=BB-BoyChoir Oh n060.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=95392 loop_end=206649
+<region> sample=BB-BoyChoir Oh n066.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=148322 loop_end=310831
+<region> sample=BB-BoyChoir Oh n063.aif key=63 lokey=62 hikey=64 end=341527 loop_mode=loop_continuous loop_start=141421 loop_end=337679
+<region> sample=BB-BoyChoir Oh n078.aif key=78 lokey=77 hikey=79 end=229968 loop_mode=loop_continuous loop_start=99686 loop_end=227995
+<region> sample=BB-BoyChoir Oh n080.aif key=80 lokey=80 hikey=127 end=212696 loop_mode=loop_continuous loop_start=97376 loop_end=211210
+<region> sample=BB-BoyChoir Oh n075.aif key=75 lokey=74 hikey=76 end=302018 loop_mode=loop_continuous loop_start=136880 loop_end=299426
+
+<group> volume=3        // Uu
+<region> sample=BB-BoyChoir Uh n057.aif key=57 lokey=0 hikey=58 volume=1 end=289891 loop_mode=loop_continuous loop_start=111626 loop_end=287300
+<region> sample=BB-BoyChoir Uh n072.aif key=72 lokey=71 hikey=73 end=474209 loop_mode=loop_continuous loop_start=177404 loop_end=467445
+<region> sample=BB-BoyChoir Uh n069.aif key=69 lokey=68 hikey=70 end=497432 loop_mode=loop_continuous loop_start=197314 loop_end=490619
+<region> sample=BB-BoyChoir Uh n060.aif key=60 lokey=59 hikey=61 end=325882 loop_mode=loop_continuous loop_start=125116 loop_end=320202
+<region> sample=BB-BoyChoir Uh n066.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=175882 loop_end=422118
+<region> sample=BB-BoyChoir Uh n063.aif key=63 lokey=62 hikey=64 volume=-1 end=485591 loop_mode=loop_continuous loop_start=185878 loop_end=476445
+<region> sample=BB-BoyChoir Uh n078.aif key=78 lokey=77 hikey=127 loop_mode=loop_continuous loop_start=178943 loop_end=370853
+<region> sample=BB-BoyChoir Uh n075.aif key=75 lokey=74 hikey=76 end=371057 loop_mode=loop_continuous loop_start=140995 loop_end=366131
+
+<group> volume=3        // Mm
+<region> sample=BB-BoyChoir Mh n072.aif key=72 lokey=71 hikey=76 loop_mode=loop_continuous loop_start=297010 loop_end=572210
+<region> sample=BB-BoyChoir Mh n057.aif key=57 lokey=0 hikey=58 volume=1 end=351177 loop_mode=loop_continuous loop_start=150842 loop_end=345967
+<region> sample=BB-BoyChoir Mh n069.aif key=69 lokey=68 hikey=70 end=250797 loop_mode=loop_continuous loop_start=126381 loop_end=248179
+<region> sample=BB-BoyChoir Mh n060.aif key=60 lokey=59 hikey=61 end=222397 loop_mode=loop_continuous loop_start=91424 loop_end=219418
+<region> sample=BB-BoyChoir Mh n066.aif key=66 lokey=65 hikey=67 end=547434 loop_mode=loop_continuous loop_start=223203 loop_end=539122
+<region> sample=BB-BoyChoir Mh n063.aif key=63 lokey=62 hikey=64 volume=-1 loop_mode=loop_continuous loop_start=243755 loop_end=545242
+<region> sample=BB-BoyChoir Mh n078.aif key=78 lokey=77 hikey=127 loop_mode=loop_continuous loop_start=81009 loop_end=181103

@@ -1,0 +1,37 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cello (Pizzicato).exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/Cello (Pizzicato)\
+
+<group> lovel=110 hivel=127        // Cello pizz f
+<region> sample=Vcl pizz f  3 c.aif key=48 lokey=47 hikey=49 loop_mode=no_loop
+<region> sample=Vcl pizz f  3a.aif key=57 lokey=56 hikey=58 volume=-5 loop_mode=no_loop
+<region> sample=Vcl pizz f  3 f#.aif key=54 lokey=53 hikey=55 loop_mode=no_loop
+<region> sample=Vcl pizz f  4 c.aif key=60 lokey=59 hikey=61 volume=-7 loop_mode=no_loop
+<region> sample=Vcl pizz f  4 d#.aif key=63 lokey=62 hikey=64 volume=-6 loop_mode=no_loop
+<region> sample=Vcl pizz f  4 f#.aif key=66 lokey=65 hikey=67 volume=-8 loop_mode=no_loop
+<region> sample=Vcl pizz f  4a.aif key=69 lokey=68 hikey=70 volume=-7 loop_mode=no_loop
+<region> sample=Vcl pizz f  5 c.aif key=72 lokey=71 hikey=127 volume=-6 loop_mode=no_loop
+<region> sample=Vcl pizz f  2a.aif key=45 lokey=44 hikey=46 volume=-1 loop_mode=no_loop
+<region> sample=Vcl pizz f  2 d#.aif key=39 lokey=39 hikey=40 loop_mode=no_loop
+<region> sample=Vcl pizz f  2 f#.aif key=42 lokey=41 hikey=43 loop_mode=no_loop
+<region> sample=Vcl pizz f  2 c.aif key=36 lokey=0 hikey=36 loop_mode=no_loop
+<region> sample=Vcl pizz f  2 c#.aif key=37 lokey=37 hikey=38 loop_mode=no_loop
+<region> sample=Vcl pizz f  3 d#.aif key=51 lokey=50 hikey=52 loop_mode=no_loop
+
+<group> lovel=0 hivel=109        // Cello pizz p
+<region> sample=Vcl pizz p  3 c.aif key=48 lokey=47 hikey=49 volume=-4 loop_mode=no_loop
+<region> sample=Vcl pizz p  3 d#.aif key=51 lokey=50 hikey=52 volume=-3 loop_mode=no_loop
+<region> sample=Vcl pizz p  3 f#.aif key=54 lokey=53 hikey=55 volume=-1 loop_mode=no_loop
+<region> sample=Vcl pizz p  3a.aif key=57 lokey=56 hikey=58 volume=-6 loop_mode=no_loop
+<region> sample=Vcl pizz p  4 c.aif key=60 lokey=59 hikey=61 volume=-6 loop_mode=no_loop
+<region> sample=Vcl pizz p  5 c.aif key=72 lokey=71 hikey=127 volume=-3 loop_mode=no_loop
+<region> sample=Vcl pizz p  4a.aif key=69 lokey=68 hikey=70 volume=-6 loop_mode=no_loop
+<region> sample=Vcl pizz p  4 f#.aif key=66 lokey=65 hikey=67 volume=-5 loop_mode=no_loop
+<region> sample=Vcl pizz p  4 d#.aif key=63 lokey=62 hikey=64 volume=-6 loop_mode=no_loop
+<region> sample=Vcl pizz p  2a.aif key=45 lokey=44 hikey=46 volume=-7 loop_mode=no_loop
+<region> sample=Vcl pizz p  2 c.aif key=36 lokey=0 hikey=36 volume=-9 loop_mode=no_loop
+<region> sample=Vcl pizz p  2 d#.aif key=39 lokey=39 hikey=40 volume=-5 loop_mode=no_loop
+<region> sample=Vcl pizz p  2 f#.aif key=42 lokey=41 hikey=43 volume=-3 loop_mode=no_loop
+<region> sample=Vcl pizz p  2 c#.aif key=37 lokey=37 hikey=38 volume=-8 loop_mode=no_loop

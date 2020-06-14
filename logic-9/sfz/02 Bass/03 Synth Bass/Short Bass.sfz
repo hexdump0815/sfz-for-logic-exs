@@ -1,0 +1,9 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Short Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Short Bass\
+
+<group>        // Group #1
+<region> sample=Short48.WAV key=48 lokey=43 hikey=127 tune=7 loop_mode=loop_continuous loop_start=10728 loop_end=11405
+<region> sample=Short36.WAV key=36 lokey=0 hikey=42 tune=3 loop_mode=loop_continuous loop_start=26989 loop_end=28338

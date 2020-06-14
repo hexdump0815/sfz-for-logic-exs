@@ -1,0 +1,709 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Yamaha Grand Piano.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/01 Acoustic Pianos/Yamaha Grand Piano\
+
+<group> lovel=118 hivel=127 volume=2 locc64=0 hicc64=63        // 7 ff
+<region> sample=090_F#5KM56_H.wav key=90 lokey=90 hikey=90 loop_mode=loop_continuous loop_start=206870 loop_end=250661
+<region> sample=102_F#6KM56_H.wav key=102 lokey=102 hikey=102 loop_mode=loop_continuous loop_start=130320 loop_end=150816
+<region> sample=089_F5KM56_H.wav key=89 lokey=89 hikey=89 loop_mode=loop_continuous loop_start=214524 loop_end=247801
+<region> sample=100_E6KM56_H.wav key=100 lokey=100 hikey=100 loop_mode=loop_continuous loop_start=168964 loop_end=201189
+<region> sample=088_E5KM56_H.wav key=88 lokey=88 hikey=88 loop_mode=loop_continuous loop_start=153584 loop_end=200918
+<region> sample=087_D#5KM56_H.wav key=87 lokey=87 hikey=87 loop_mode=loop_continuous loop_start=238118 loop_end=270690
+<region> sample=099_D#6KM56_H.wav key=99 lokey=99 hikey=99 loop_mode=loop_continuous loop_start=116820 loop_end=143194
+<region> sample=097_C#6KM56_H.wav key=97 lokey=97 hikey=97 loop_mode=loop_continuous loop_start=148982 loop_end=202773
+<region> sample=085_C#5KM56_H.wav key=85 lokey=85 hikey=85 loop_mode=loop_continuous loop_start=163323 loop_end=249885
+<region> sample=098_D6KM56_H.wav key=98 lokey=98 hikey=98 loop_mode=loop_continuous loop_start=135594 loop_end=180064
+<region> sample=086_D5KM56_H.wav key=86 lokey=86 hikey=86 loop_mode=loop_continuous loop_start=190237 loop_end=214565
+<region> sample=096_C6KM56_H.wav key=96 lokey=96 hikey=96 loop_mode=loop_continuous loop_start=157335 loop_end=179096
+<region> sample=084_C5KM56_H.wav key=84 lokey=84 hikey=84 loop_mode=loop_continuous loop_start=213325 loop_end=311168
+<region> sample=069_A3KM56_H.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=255033 loop_end=330262
+<region> sample=081_A4KM56_H.wav key=81 lokey=81 hikey=81 offset=35 end=271441 loop_mode=loop_continuous loop_start=199588 loop_end=270873
+<region> sample=068_G#3KM56_H.wav key=68 lokey=68 hikey=68 end=361313 loop_mode=loop_continuous loop_start=272872 loop_end=360433
+<region> sample=070_A#3KM56_H.wav key=70 lokey=70 hikey=70 end=296412 loop_mode=loop_continuous loop_start=249598 loop_end=296399
+<region> sample=073_C#4KM56_H.wav key=73 lokey=73 hikey=73 loop_mode=loop_continuous loop_start=243988 loop_end=299421
+<region> sample=072_C4KM56_H.wav key=72 lokey=72 hikey=72 end=375437 loop_mode=loop_continuous loop_start=255208 loop_end=373889
+<region> sample=071_B3KM56_H.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=284319 loop_end=348559
+<region> sample=083_B4KM56_H.wav key=83 lokey=83 hikey=83 loop_mode=loop_continuous loop_start=184418 loop_end=265383
+<region> sample=080_G#4KM56_H.wav key=80 lokey=80 hikey=80 loop_mode=loop_continuous loop_start=240304 loop_end=292193
+<region> sample=067_G3KM56_H.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=248182 loop_end=299089
+<region> sample=079_G4KM56_H.wav key=79 lokey=79 hikey=79 loop_mode=loop_continuous loop_start=218622 loop_end=298801
+<region> sample=066_F#3KM56_H.wav key=66 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=365007 loop_end=459361
+<region> sample=065_F3KM56_H.wav key=65 lokey=65 hikey=65 end=439961 loop_mode=loop_continuous loop_start=338176 loop_end=439889
+<region> sample=064_E3KM56_H.wav key=64 lokey=64 hikey=64 end=372237 loop_mode=loop_continuous loop_start=299896 loop_end=372217
+<region> sample=076_E4KM56_H.wav key=76 lokey=76 hikey=76 loop_mode=loop_continuous loop_start=193420 loop_end=240758
+<region> sample=075_D#4KM56_H.wav key=75 lokey=75 hikey=75 loop_mode=loop_continuous loop_start=249442 loop_end=312359
+<region> sample=063_D#3KM56_H.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=321770 loop_end=381262
+<region> sample=077_F4KM56_H.wav key=77 lokey=77 hikey=77 end=367223 loop_mode=loop_continuous loop_start=275758 loop_end=366779
+<region> sample=078_F#4KM56_H.wav key=78 lokey=78 hikey=78 loop_mode=loop_continuous loop_start=252519 loop_end=306123
+<region> sample=054_F#2KM56_H.wav key=54 lokey=54 hikey=54 end=503709 loop_mode=loop_continuous loop_start=423793 loop_end=502703
+<region> sample=062_D3KM56_H.wav key=62 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=323932 loop_end=391733
+<region> sample=061_C#3KM56_H.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=327174 loop_end=393845
+<region> sample=074_D4KM56_H.wav key=74 lokey=74 hikey=74 loop_mode=loop_continuous loop_start=247495 loop_end=334474
+<region> sample=059_B2KM56_H.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=260712 loop_end=396820
+<region> sample=060_C3KM56_H.wav key=60 lokey=60 hikey=60 loop_mode=loop_continuous loop_start=338191 loop_end=467090
+<region> sample=058_A#2KM56_H.wav key=58 lokey=58 hikey=58 end=444808 loop_mode=loop_continuous loop_start=323088 loop_end=444689
+<region> sample=057_A2KM56_H.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=328928 loop_end=395517
+<region> sample=056_G#2KM56_H.wav key=56 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=260288 loop_end=348674
+<region> sample=052_E2KM56_H.wav key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=358728 loop_end=430997
+<region> sample=051_D#2KM56_H.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=336323 loop_end=417092
+<region> sample=050_D2KM56_H.wav key=50 lokey=50 hikey=50 end=403146 loop_mode=loop_continuous loop_start=320295 loop_end=403046
+<region> sample=049_C#2KM56_H.wav key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=360953 loop_end=444499
+<region> sample=048_C2KM56_H.wav key=48 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=400855 loop_end=486896
+<region> sample=047_B1KM56_H.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=475460 loop_end=560589
+<region> sample=045_A1KM56_H.wav key=45 lokey=45 hikey=45 end=495519 loop_mode=loop_continuous loop_start=412846 loop_end=495391
+<region> sample=046_A#1KM56_H.wav key=46 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=331807 loop_end=423935
+<region> sample=056_G#2KM56_H.wav key=56 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=259480 loop_end=348457
+<region> sample=044_G#1KM56_H.wav key=44 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=344589 loop_end=481174
+<region> sample=043_G1KM56_H.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=376614 loop_end=526919
+<region> sample=042_F#1KM56_H.wav key=42 lokey=42 hikey=42 end=595722 loop_mode=loop_continuous loop_start=454688 loop_end=595659
+<region> sample=041_F1KM56_H.wav key=41 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=493188 loop_end=602689
+<region> sample=040_E1KM56_H.wav key=40 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=451980 loop_end=531496
+<region> sample=039_D#1KM56_H.wav key=39 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=421344 loop_end=503581
+<region> sample=037_C#1KM56_H.wav key=37 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=423384 loop_end=500085
+<region> sample=036_C1KM56_H.wav key=36 lokey=36 hikey=36 loop_mode=loop_continuous loop_start=437492 loop_end=511524
+<region> sample=038_D1KM56_H.wav key=38 lokey=38 hikey=38 loop_mode=loop_continuous loop_start=340257 loop_end=416942
+<region> sample=035_B0KM56_H.wav key=35 lokey=35 hikey=35 end=393365 loop_mode=loop_continuous loop_start=291128 loop_end=393276
+<region> sample=034_A#0KM56_H.wav key=34 lokey=34 hikey=34 loop_mode=loop_continuous loop_start=388139 loop_end=476429
+<region> sample=033_A0KM56_H.wav key=33 lokey=33 hikey=33 loop_mode=loop_continuous loop_start=436741 loop_end=525950
+<region> sample=032_G#0KM56_H.wav key=32 lokey=32 hikey=32 loop_mode=loop_continuous loop_start=407388 loop_end=525211
+<region> sample=031_G0KM56_H.wav key=31 lokey=31 hikey=31 loop_mode=loop_continuous loop_start=376499 loop_end=500201
+<region> sample=030_F#0KM56_H.wav key=30 lokey=30 hikey=30 loop_mode=loop_continuous loop_start=423302 loop_end=552294
+<region> sample=028_E0KM56_H.wav key=28 lokey=28 hikey=28 loop_mode=loop_continuous loop_start=398488 loop_end=517569
+<region> sample=029_F0KM56_H.wav key=29 lokey=29 hikey=29 loop_mode=loop_continuous loop_start=401058 loop_end=527796
+<region> sample=027_D#0KM56_H.wav key=27 lokey=27 hikey=27 loop_mode=loop_continuous loop_start=354207 loop_end=525200
+<region> sample=025_C#0KM56_H.wav key=25 lokey=25 hikey=25 loop_mode=loop_continuous loop_start=322000 loop_end=478101
+<region> sample=026_D0KM56_H.wav key=26 lokey=26 hikey=26 loop_mode=loop_continuous loop_start=418386 loop_end=576518
+<region> sample=024_C0KM56_H.wav key=24 lokey=24 hikey=24 tune=-25 loop_mode=loop_continuous loop_start=314226 loop_end=485002
+<region> sample=053_F2KM56_H.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=329605 loop_end=400231
+<region> sample=108_C7KM56_H.wav key=108 lokey=108 hikey=127 loop_mode=loop_continuous loop_start=96116 loop_end=124170
+<region> sample=095_B5KM56_H.wav key=95 lokey=95 hikey=95 loop_mode=loop_continuous loop_start=124805 loop_end=199689
+<region> sample=107_B6KM56_H.wav key=107 lokey=107 hikey=107 loop_mode=loop_continuous loop_start=122478 loop_end=136485
+<region> sample=094_A#5KM56_H.wav key=94 lokey=94 hikey=94 loop_mode=loop_continuous loop_start=76416 loop_end=117411
+<region> sample=093_A5KM56_H.wav key=93 lokey=93 hikey=93 loop_mode=loop_continuous loop_start=135850 loop_end=199083
+<region> sample=092_G#5KM56_H.wav key=92 lokey=92 hikey=92 loop_mode=loop_continuous loop_start=117141 loop_end=188826
+<region> sample=091_G5KM56_H.wav key=91 lokey=91 hikey=91 loop_mode=loop_continuous loop_start=145377 loop_end=213499
+<region> sample=082_A#4KM56_H.wav key=82 lokey=82 hikey=82 loop_mode=loop_continuous loop_start=198000 loop_end=274501
+<region> sample=021_A-1KM56_H.wav key=21 lokey=0 hikey=23 loop_mode=loop_continuous loop_start=393597 loop_end=558127
+<region> sample=101_F6KM56_H.wav key=101 lokey=101 hikey=101 loop_mode=loop_continuous loop_start=133509 loop_end=155179
+<region> sample=103_G6KM56_H.wav key=103 lokey=103 hikey=103 loop_mode=loop_continuous loop_start=158400 loop_end=188541
+<region> sample=104_G#6KM56_H.wav key=104 lokey=104 hikey=104 loop_mode=loop_continuous loop_start=165335 loop_end=191781
+<region> sample=105_A6KM56_H.wav key=105 lokey=105 hikey=105 loop_mode=loop_continuous loop_start=121790 loop_end=147505
+<region> sample=106_A#6KM56_H.wav key=106 lokey=106 hikey=106 loop_mode=loop_continuous loop_start=110558 loop_end=133654
+
+<group> lovel=118 hivel=127 volume=2 locc64=64 hicc64=127        // 8 ff sus
+<region> sample=090_ped_h.wav key=90 lokey=90 hikey=90 tune=14 loop_mode=loop_continuous loop_start=197904 loop_end=294625
+<region> sample=102_ped_h.wav key=102 lokey=102 hikey=102 tune=14 loop_mode=no_loop
+<region> sample=089_ped_h.wav key=89 lokey=89 hikey=89 tune=14 loop_mode=loop_continuous loop_start=292040 loop_end=400811
+<region> sample=100_ped_h.wav key=100 lokey=100 hikey=100 tune=14 loop_mode=no_loop
+<region> sample=088_ped_h.wav key=88 lokey=88 hikey=88 tune=14 loop_mode=loop_continuous loop_start=178800 loop_end=273416
+<region> sample=087_ped_h.wav key=87 lokey=87 hikey=87 tune=14 loop_mode=loop_continuous loop_start=186744 loop_end=279001
+<region> sample=099_ped_h.wav key=99 lokey=99 hikey=99 tune=14 loop_mode=no_loop
+<region> sample=097_ped_h.wav key=97 lokey=97 hikey=97 tune=14 loop_mode=no_loop
+<region> sample=085_ped_h.wav key=85 lokey=85 hikey=85 tune=14 loop_mode=loop_continuous loop_start=170605 loop_end=292786
+<region> sample=098_ped_h.wav key=98 lokey=98 hikey=98 tune=14 loop_mode=no_loop
+<region> sample=086_ped_h.wav key=86 lokey=86 hikey=86 tune=14 loop_mode=loop_continuous loop_start=198170 loop_end=283101
+<region> sample=096_ped_h.wav key=96 lokey=96 hikey=96 tune=14 loop_mode=no_loop
+<region> sample=084_ped_h.wav key=84 lokey=84 hikey=84 tune=14 loop_mode=loop_continuous loop_start=192955 loop_end=301726
+<region> sample=069_ped_h.wav key=69 lokey=69 hikey=69 tune=14 loop_mode=loop_continuous loop_start=236522 loop_end=403923
+<region> sample=081_ped_h.wav key=81 lokey=81 hikey=81 tune=14 offset=18 end=344934 loop_mode=loop_continuous loop_start=270520 loop_end=344917
+<region> sample=068_ped_h.wav key=68 lokey=68 hikey=68 tune=14 end=379171 loop_mode=loop_continuous loop_start=225701 loop_end=376192
+<region> sample=070_ped_h.wav key=70 lokey=70 hikey=70 tune=14 loop_mode=loop_continuous loop_start=291295 loop_end=452961
+<region> sample=073_ped_h.wav key=73 lokey=73 hikey=73 tune=14 loop_mode=loop_continuous loop_start=195679 loop_end=299812
+<region> sample=072_ped_h.wav key=72 lokey=72 hikey=72 tune=14 loop_mode=loop_continuous loop_start=231695 loop_end=400066
+<region> sample=071_ped_h.wav key=71 lokey=71 hikey=71 tune=14 loop_mode=loop_continuous loop_start=222456 loop_end=398785
+<region> sample=083_ped_h.wav key=83 lokey=83 hikey=83 tune=14 loop_mode=loop_continuous loop_start=211580 loop_end=292041
+<region> sample=080_ped_h.wav key=80 lokey=80 hikey=80 tune=14 loop_mode=loop_continuous loop_start=194445 loop_end=260751
+<region> sample=067_ped_h.wav key=67 lokey=67 hikey=67 tune=14 loop_mode=loop_continuous loop_start=226176 loop_end=354889
+<region> sample=079_ped_h.wav key=79 lokey=79 hikey=79 tune=14 loop_mode=loop_continuous loop_start=192696 loop_end=349681
+<region> sample=066_ped_h.wav key=66 lokey=66 hikey=66 tune=14 loop_mode=loop_continuous loop_start=202368 loop_end=369025
+<region> sample=065_ped_h.wav key=65 lokey=65 hikey=65 tune=14 loop_mode=loop_continuous loop_start=256680 loop_end=435241
+<region> sample=064_ped_h.wav key=64 lokey=64 hikey=64 tune=14 end=426850 loop_mode=loop_continuous loop_start=277850 loop_end=424616
+<region> sample=076_ped_h.wav key=76 lokey=76 hikey=76 tune=14 loop_mode=loop_continuous loop_start=257681 loop_end=379879
+<region> sample=075_ped_h.wav key=75 lokey=75 hikey=75 tune=14 loop_mode=loop_continuous loop_start=245037 loop_end=333693
+<region> sample=063_ped_h.wav key=63 lokey=63 hikey=63 tune=14 loop_mode=loop_continuous loop_start=306380 loop_end=461877
+<region> sample=077_ped_h.wav key=77 lokey=77 hikey=77 tune=14 loop_mode=loop_continuous loop_start=227225 loop_end=315881
+<region> sample=078_ped_h.wav key=78 lokey=78 hikey=78 tune=14 loop_mode=loop_continuous loop_start=220208 loop_end=335529
+<region> sample=054_ped_h.wav key=54 lokey=54 hikey=54 tune=14 end=446220 loop_mode=loop_continuous loop_start=309139 loop_end=444730
+<region> sample=062_ped_h.wav key=62 lokey=62 hikey=62 tune=14 loop_mode=loop_continuous loop_start=311410 loop_end=499896
+<region> sample=061_ped_h.wav key=61 lokey=61 hikey=61 tune=14 loop_mode=loop_continuous loop_start=364172 loop_end=508509
+<region> sample=074_ped_h.wav key=74 lokey=74 hikey=74 tune=14 loop_mode=loop_continuous loop_start=262985 loop_end=376971
+<region> sample=059_ped_h.wav key=59 lokey=59 hikey=59 tune=14 loop_mode=loop_continuous loop_start=233930 loop_end=340466
+<region> sample=060_ped_h.wav key=60 lokey=60 hikey=60 tune=14 loop_mode=loop_continuous loop_start=373027 loop_end=546269
+<region> sample=058_ped_h.wav key=58 lokey=58 hikey=58 tune=14 end=362584 loop_mode=loop_continuous loop_start=238169 loop_end=361095
+<region> sample=057_ped_h.wav key=57 lokey=57 hikey=57 tune=14 loop_mode=loop_continuous loop_start=342952 loop_end=438185
+<region> sample=056_ped_h.wav key=56 lokey=56 hikey=56 tune=14 loop_mode=loop_continuous loop_start=271119 loop_end=397297
+<region> sample=052_ped_h.wav key=52 lokey=52 hikey=52 tune=14 loop_mode=loop_continuous loop_start=341210 loop_end=460411
+<region> sample=051_ped_h.wav key=51 lokey=51 hikey=51 tune=14 loop_mode=loop_continuous loop_start=307272 loop_end=553537
+<region> sample=050_ped_h.wav key=50 lokey=50 hikey=50 tune=14 loop_mode=loop_continuous loop_start=350895 loop_end=496916
+<region> sample=049_ped_h.wav key=49 lokey=49 hikey=49 tune=14 loop_mode=loop_continuous loop_start=297255 loop_end=479781
+<region> sample=048_ped_h.wav key=48 lokey=48 hikey=48 tune=14 loop_mode=loop_continuous loop_start=320350 loop_end=449236
+<region> sample=047_ped_h.wav key=47 lokey=47 hikey=47 tune=14 loop_mode=loop_continuous loop_start=349680 loop_end=503689
+<region> sample=045_ped_h.wav key=45 lokey=45 hikey=45 tune=14 end=504300 loop_mode=loop_continuous loop_start=324009 loop_end=502810
+<region> sample=046_ped_h.wav key=46 lokey=46 hikey=46 tune=14 loop_mode=loop_continuous loop_start=271284 loop_end=470841
+<region> sample=055_ped_h.wav key=55 lokey=55 hikey=55 tune=14 loop_mode=loop_continuous loop_start=293822 loop_end=421791
+<region> sample=044_ped_h.wav key=44 lokey=44 hikey=44 tune=14 loop_mode=loop_continuous loop_start=271180 loop_end=443276
+<region> sample=043_ped_h.wav key=43 lokey=43 hikey=43 tune=14 loop_mode=loop_continuous loop_start=312155 loop_end=485741
+<region> sample=042_ped_h.wav key=42 lokey=42 hikey=42 tune=14 end=510928 loop_mode=loop_continuous loop_start=317972 loop_end=509438
+<region> sample=041_ped_h.wav key=41 lokey=41 hikey=41 tune=14 loop_mode=loop_continuous loop_start=271260 loop_end=470841
+<region> sample=040_ped_h.wav key=40 lokey=40 hikey=40 tune=14 loop_mode=loop_continuous loop_start=326310 loop_end=491701
+<region> sample=039_ped_h.wav key=39 lokey=39 hikey=39 tune=14 loop_mode=loop_continuous loop_start=384420 loop_end=558006
+<region> sample=037_ped_h.wav key=37 lokey=37 hikey=37 tune=14 loop_mode=loop_continuous loop_start=368030 loop_end=561731
+<region> sample=036_ped_h.wav key=36 lokey=36 hikey=36 tune=14 loop_mode=loop_continuous loop_start=271350 loop_end=444766
+<region> sample=038_ped_h.wav key=38 lokey=38 hikey=38 tune=14 loop_mode=loop_continuous loop_start=315880 loop_end=513306
+<region> sample=035_ped_h.wav key=35 lokey=35 hikey=35 tune=14 end=515692 loop_mode=loop_continuous loop_start=305601 loop_end=514202
+<region> sample=034_ped_h.wav key=34 lokey=34 hikey=34 tune=14 loop_mode=loop_continuous loop_start=329290 loop_end=498406
+<region> sample=033_ped_h.wav key=33 lokey=33 hikey=33 tune=14 loop_mode=loop_continuous loop_start=319605 loop_end=503621
+<region> sample=032_ped_h.wav key=32 lokey=32 hikey=32 tune=14 loop_mode=loop_continuous loop_start=381440 loop_end=539381
+<region> sample=031_ped_h.wav key=31 lokey=31 hikey=31 tune=14 loop_mode=loop_continuous loop_start=309175 loop_end=470096
+<region> sample=030_ped_h.wav key=30 lokey=30 hikey=30 tune=14 loop_mode=loop_continuous loop_start=333573 loop_end=464518
+<region> sample=028_ped_h.wav key=28 lokey=28 hikey=28 tune=14 loop_mode=loop_continuous loop_start=288395 loop_end=464706
+<region> sample=029_ped_h.wav key=29 lokey=29 hikey=29 tune=14 loop_mode=loop_continuous loop_start=338684 loop_end=503551
+<region> sample=027_ped_h.wav key=27 lokey=27 hikey=27 tune=14 loop_mode=loop_continuous loop_start=344190 loop_end=500641
+<region> sample=025_ped_h.wav key=25 lokey=25 hikey=25 tune=14 loop_mode=loop_continuous loop_start=359835 loop_end=513306
+<region> sample=026_ped_h.wav key=26 lokey=26 hikey=26 tune=14 loop_mode=loop_continuous loop_start=341210 loop_end=493191
+<region> sample=024_ped_h.wav key=24 lokey=24 hikey=24 tune=-11 loop_mode=loop_continuous loop_start=298000 loop_end=462646
+<region> sample=053_ped_h.wav key=53 lokey=53 hikey=53 tune=14 loop_mode=loop_continuous loop_start=303197 loop_end=476038
+<region> sample=108_ped_h.wav key=108 lokey=108 hikey=127 tune=14 loop_mode=loop_continuous loop_start=151235 loop_end=195279
+<region> sample=095_ped_h.wav key=95 lokey=95 hikey=95 tune=14 loop_mode=no_loop
+<region> sample=107_ped_h.wav key=107 lokey=107 hikey=107 tune=14 loop_mode=no_loop
+<region> sample=094_ped_h.wav key=94 lokey=94 hikey=94 tune=14 loop_mode=no_loop
+<region> sample=093_ped_h.wav key=93 lokey=93 hikey=93 tune=14 loop_mode=no_loop
+<region> sample=092_ped_h.wav key=92 lokey=92 hikey=92 tune=14 loop_mode=no_loop
+<region> sample=091_ped_h.wav key=91 lokey=91 hikey=91 tune=14 loop_mode=no_loop
+<region> sample=082_ped_h.wav key=82 lokey=82 hikey=82 tune=14 loop_mode=loop_continuous loop_start=230950 loop_end=336741
+<region> sample=021_ped_h.wav key=21 lokey=0 hikey=23 tune=14 loop_mode=loop_continuous loop_start=384942 loop_end=552049
+<region> sample=101_ped_h.wav key=101 lokey=101 hikey=101 tune=14 loop_mode=no_loop
+<region> sample=103_ped_h.wav key=103 lokey=103 hikey=103 tune=14 loop_mode=no_loop
+<region> sample=104_ped_h.wav key=104 lokey=104 hikey=104 tune=10 loop_mode=no_loop
+<region> sample=105_ped_h.wav key=105 lokey=105 hikey=105 tune=14 loop_mode=no_loop
+<region> sample=106_ped_h.wav key=106 lokey=106 hikey=106 tune=14 loop_mode=no_loop
+
+<group> lovel=100 hivel=117 locc64=0 hicc64=63        // 5 f
+<region> sample=096_C6KM56_H.wav key=96 lokey=96 hikey=96 loop_mode=loop_continuous loop_start=157335 loop_end=179096
+<region> sample=083_B4KM56_H.wav key=83 lokey=83 hikey=83 loop_mode=loop_continuous loop_start=184418 loop_end=265383
+<region> sample=072_C4KM56_H.wav key=72 lokey=72 hikey=72 end=375437 loop_mode=loop_continuous loop_start=255420 loop_end=374101
+<region> sample=077_F4KM56_H.wav key=77 lokey=77 hikey=77 end=367223 loop_mode=loop_continuous loop_start=276266 loop_end=367223
+<region> sample=065_F3KM56_H.wav key=65 lokey=65 hikey=65 end=439961 loop_mode=loop_continuous loop_start=338400 loop_end=439961
+<region> sample=076_E4KM56_H.wav key=76 lokey=76 hikey=76 loop_mode=loop_continuous loop_start=193420 loop_end=240758
+<region> sample=064_E3KM56_H.wav key=64 lokey=64 hikey=64 end=372237 loop_mode=loop_continuous loop_start=300580 loop_end=372237
+<region> sample=063_D#3KM56_H.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=322770 loop_end=381345
+<region> sample=051_D#2KM56_H.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=336323 loop_end=417092
+<region> sample=030_F#0KM56_H.wav key=30 lokey=30 hikey=30 loop_mode=loop_continuous loop_start=424144 loop_end=552503
+<region> sample=061_C#3KM56_H.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=328040 loop_end=393935
+<region> sample=069_A3KM56_H.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=256149 loop_end=331378
+<region> sample=056_G#2KM56_H.wav key=56 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=260288 loop_end=348674
+<region> sample=068_G#3KM56_H.wav key=68 lokey=68 hikey=68 end=361313 loop_mode=loop_continuous loop_start=273184 loop_end=360745
+<region> sample=055_G2KM56_H.wav key=55 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=361271 loop_end=431859
+<region> sample=066_F#3KM56_H.wav key=66 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=365007 loop_end=459361
+<region> sample=054_F#2KM56_H.wav key=54 lokey=54 hikey=54 end=503709 loop_mode=loop_continuous loop_start=423913 loop_end=502823
+<region> sample=091_G5KM56_H.wav key=91 lokey=91 hikey=91 loop_mode=loop_continuous loop_start=145377 loop_end=213499
+<region> sample=059_B2KM56_H.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=260712 loop_end=396820
+<region> sample=070_A#3KM56_H.wav key=70 lokey=70 hikey=70 end=296412 loop_mode=loop_continuous loop_start=249912 loop_end=296412
+<region> sample=052_E2KM56_H.wav key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=358728 loop_end=430997
+<region> sample=050_D2KM56_H.wav key=50 lokey=50 hikey=50 end=403146 loop_mode=loop_continuous loop_start=320799 loop_end=403146
+<region> sample=048_C2KM56_H.wav key=48 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=400855 loop_end=486896
+<region> sample=043_G1KM56_H.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=376614 loop_end=526919
+<region> sample=053_F2KM56_H.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=330525 loop_end=400319
+<region> sample=036_C1KM56_H.wav key=36 lokey=36 hikey=36 loop_mode=loop_continuous loop_start=437780 loop_end=511798
+<region> sample=024_C0KM56_H.wav key=24 lokey=24 hikey=24 tune=-25 loop_mode=loop_continuous loop_start=314226 loop_end=485002
+<region> sample=037_C#1KM56_H.wav key=37 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=423384 loop_end=500085
+<region> sample=038_D1KM56_H.wav key=38 lokey=38 hikey=38 loop_mode=loop_continuous loop_start=340257 loop_end=416942
+<region> sample=039_D#1KM56_H.wav key=39 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=421344 loop_end=503581
+<region> sample=040_E1KM56_H.wav key=40 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=451980 loop_end=531496
+<region> sample=041_F1KM56_H.wav key=41 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=493188 loop_end=602689
+<region> sample=042_F#1KM56_H.wav key=42 lokey=42 hikey=42 end=595722 loop_mode=loop_continuous loop_start=455676 loop_end=595722
+<region> sample=044_G#1KM56_H.wav key=44 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=345545 loop_end=481380
+<region> sample=045_A1KM56_H.wav key=45 lokey=45 hikey=45 end=495519 loop_mode=loop_continuous loop_start=413658 loop_end=495519
+<region> sample=046_A#1KM56_H.wav key=46 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=331807 loop_end=423935
+<region> sample=025_C#0KM56_H.wav key=25 lokey=25 hikey=25 loop_mode=loop_continuous loop_start=322000 loop_end=478101
+<region> sample=047_B1KM56_H.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=475460 loop_end=560589
+<region> sample=049_C#2KM56_H.wav key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=360953 loop_end=444499
+<region> sample=026_D0KM56_H.wav key=26 lokey=26 hikey=26 loop_mode=loop_continuous loop_start=418386 loop_end=576518
+<region> sample=057_A2KM56_H.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=329360 loop_end=395712
+<region> sample=058_A#2KM56_H.wav key=58 lokey=58 hikey=58 end=444808 loop_mode=loop_continuous loop_start=324064 loop_end=444808
+<region> sample=060_C3KM56_H.wav key=60 lokey=60 hikey=60 loop_mode=loop_continuous loop_start=338191 loop_end=467090
+<region> sample=021_A-1KM56_H.wav key=21 lokey=0 hikey=23 loop_mode=loop_continuous loop_start=393597 loop_end=558127
+<region> sample=062_D3KM56_H.wav key=62 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=323932 loop_end=391733
+<region> sample=027_D#0KM56_H.wav key=27 lokey=27 hikey=27 loop_mode=loop_continuous loop_start=354207 loop_end=525200
+<region> sample=067_G3KM56_H.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=248182 loop_end=299089
+<region> sample=071_B3KM56_H.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=284319 loop_end=348559
+<region> sample=073_C#4KM56_H.wav key=73 lokey=73 hikey=73 loop_mode=loop_continuous loop_start=244114 loop_end=299547
+<region> sample=074_D4KM56_H.wav key=74 lokey=74 hikey=74 loop_mode=loop_continuous loop_start=247638 loop_end=334522
+<region> sample=075_D#4KM56_H.wav key=75 lokey=75 hikey=75 loop_mode=loop_continuous loop_start=249748 loop_end=312665
+<region> sample=028_E0KM56_H.wav key=28 lokey=28 hikey=28 loop_mode=loop_continuous loop_start=398488 loop_end=517569
+<region> sample=078_F#4KM56_H.wav key=78 lokey=78 hikey=78 loop_mode=loop_continuous loop_start=252953 loop_end=306162
+<region> sample=079_G4KM56_H.wav key=79 lokey=79 hikey=79 loop_mode=loop_continuous loop_start=218622 loop_end=298801
+<region> sample=080_G#4KM56_H.wav key=80 lokey=80 hikey=80 loop_mode=loop_continuous loop_start=240304 loop_end=292193
+<region> sample=081_A4KM56_H.wav key=81 lokey=81 hikey=81 end=271441 loop_mode=loop_continuous loop_start=199652 loop_end=270937
+<region> sample=082_A#4KM56_H.wav key=82 lokey=82 hikey=82 loop_mode=loop_continuous loop_start=198000 loop_end=274501
+<region> sample=084_C5KM56_H.wav key=84 lokey=84 hikey=84 loop_mode=loop_continuous loop_start=213325 loop_end=311168
+<region> sample=085_C#5KM56_H.wav key=85 lokey=85 hikey=85 loop_mode=loop_continuous loop_start=163323 loop_end=249885
+<region> sample=086_D5KM56_H.wav key=86 lokey=86 hikey=86 loop_mode=loop_continuous loop_start=190237 loop_end=214565
+<region> sample=029_F0KM56_H.wav key=29 lokey=29 hikey=29 loop_mode=loop_continuous loop_start=401058 loop_end=527796
+<region> sample=087_D#5KM56_H.wav key=87 lokey=87 hikey=87 loop_mode=loop_continuous loop_start=238118 loop_end=270690
+<region> sample=088_E5KM56_H.wav key=88 lokey=88 hikey=88 loop_mode=loop_continuous loop_start=153584 loop_end=200918
+<region> sample=089_F5KM56_H.wav key=89 lokey=89 hikey=89 loop_mode=loop_continuous loop_start=214524 loop_end=247801
+<region> sample=090_F#5KM56_H.wav key=90 lokey=90 hikey=90 loop_mode=loop_continuous loop_start=206870 loop_end=250661
+<region> sample=092_G#5KM56_H.wav key=92 lokey=92 hikey=92 loop_mode=loop_continuous loop_start=117141 loop_end=188826
+<region> sample=093_A5KM56_H.wav key=93 lokey=93 hikey=93 loop_mode=loop_continuous loop_start=135850 loop_end=199083
+<region> sample=094_A#5KM56_H.wav key=94 lokey=94 hikey=94 loop_mode=loop_continuous loop_start=76416 loop_end=117411
+<region> sample=095_B5KM56_H.wav key=95 lokey=95 hikey=95 loop_mode=loop_continuous loop_start=124805 loop_end=199689
+<region> sample=097_C#6KM56_H.wav key=97 lokey=97 hikey=97 loop_mode=loop_continuous loop_start=148982 loop_end=202773
+<region> sample=098_D6KM56_H.wav key=98 lokey=98 hikey=98 loop_mode=loop_continuous loop_start=135594 loop_end=180064
+<region> sample=099_D#6KM56_H.wav key=99 lokey=99 hikey=99 loop_mode=loop_continuous loop_start=116820 loop_end=143194
+<region> sample=100_E6KM56_H.wav key=100 lokey=100 hikey=100 loop_mode=loop_continuous loop_start=168964 loop_end=201189
+<region> sample=101_F6KM56_H.wav key=101 lokey=101 hikey=101 loop_mode=loop_continuous loop_start=133509 loop_end=155179
+<region> sample=102_F#6KM56_H.wav key=102 lokey=102 hikey=102 loop_mode=loop_continuous loop_start=130320 loop_end=150816
+<region> sample=103_G6KM56_H.wav key=103 lokey=103 hikey=103 loop_mode=loop_continuous loop_start=158400 loop_end=188541
+<region> sample=104_G#6KM56_H.wav key=104 lokey=104 hikey=104 loop_mode=loop_continuous loop_start=165335 loop_end=191781
+<region> sample=105_A6KM56_H.wav key=105 lokey=105 hikey=105 loop_mode=loop_continuous loop_start=121790 loop_end=147505
+<region> sample=106_A#6KM56_H.wav key=106 lokey=106 hikey=106 loop_mode=loop_continuous loop_start=110558 loop_end=133654
+<region> sample=031_G0KM56_H.wav key=31 lokey=31 hikey=31 loop_mode=loop_continuous loop_start=376499 loop_end=500201
+<region> sample=107_B6KM56_H.wav key=107 lokey=107 hikey=107 loop_mode=loop_continuous loop_start=122478 loop_end=136485
+<region> sample=108_C7KM56_H.wav key=108 lokey=108 hikey=127 loop_mode=loop_continuous loop_start=96116 loop_end=124170
+<region> sample=032_G#0KM56_H.wav key=32 lokey=32 hikey=32 loop_mode=loop_continuous loop_start=407388 loop_end=525211
+<region> sample=033_A0KM56_H.wav key=33 lokey=33 hikey=33 loop_mode=loop_continuous loop_start=436741 loop_end=525950
+<region> sample=034_A#0KM56_H.wav key=34 lokey=34 hikey=34 loop_mode=loop_continuous loop_start=388139 loop_end=476429
+<region> sample=035_B0KM56_H.wav key=35 lokey=35 hikey=35 end=393365 loop_mode=loop_continuous loop_start=291720 loop_end=393365
+
+<group> lovel=100 hivel=117 locc64=64 hicc64=127        // 6 f sus
+<region> sample=096_ped_h.wav key=96 lokey=96 hikey=96 tune=14 loop_mode=no_loop
+<region> sample=083_ped_h.wav key=83 lokey=83 hikey=83 tune=14 loop_mode=loop_continuous loop_start=211580 loop_end=292041
+<region> sample=072_ped_h.wav key=72 lokey=72 hikey=72 tune=14 loop_mode=loop_continuous loop_start=231695 loop_end=400066
+<region> sample=077_ped_h.wav key=77 lokey=77 hikey=77 tune=14 loop_mode=loop_continuous loop_start=227225 loop_end=315881
+<region> sample=065_ped_h.wav key=65 lokey=65 hikey=65 tune=14 loop_mode=loop_continuous loop_start=256680 loop_end=435241
+<region> sample=076_ped_h.wav key=76 lokey=76 hikey=76 tune=14 loop_mode=loop_continuous loop_start=257681 loop_end=379879
+<region> sample=064_ped_h.wav key=64 lokey=64 hikey=64 tune=14 end=426850 loop_mode=loop_continuous loop_start=277885 loop_end=424651
+<region> sample=063_ped_h.wav key=63 lokey=63 hikey=63 tune=14 loop_mode=loop_continuous loop_start=306528 loop_end=462025
+<region> sample=051_ped_h.wav key=51 lokey=51 hikey=51 tune=14 loop_mode=loop_continuous loop_start=307272 loop_end=553537
+<region> sample=030_ped_h.wav key=30 lokey=30 hikey=30 tune=14 loop_mode=loop_continuous loop_start=334056 loop_end=465001
+<region> sample=061_ped_h.wav key=61 lokey=61 hikey=61 tune=14 loop_mode=loop_continuous loop_start=364560 loop_end=508528
+<region> sample=069_ped_h.wav key=69 lokey=69 hikey=69 tune=14 loop_mode=loop_continuous loop_start=236592 loop_end=403993
+<region> sample=056_ped_h.wav key=56 lokey=56 hikey=56 tune=14 loop_mode=loop_continuous loop_start=271119 loop_end=397297
+<region> sample=068_ped_h.wav key=68 lokey=68 hikey=68 tune=14 end=379171 loop_mode=loop_continuous loop_start=225735 loop_end=376226
+<region> sample=055_ped_h.wav key=55 lokey=55 hikey=55 tune=14 loop_mode=loop_continuous loop_start=293880 loop_end=421849
+<region> sample=066_ped_h.wav key=66 lokey=66 hikey=66 tune=14 loop_mode=loop_continuous loop_start=202368 loop_end=369025
+<region> sample=054_ped_h.wav key=54 lokey=54 hikey=54 tune=14 end=446220 loop_mode=loop_continuous loop_start=309175 loop_end=444766
+<region> sample=091_ped_h.wav key=91 lokey=91 hikey=91 tune=14 loop_mode=no_loop
+<region> sample=059_ped_h.wav key=59 lokey=59 hikey=59 tune=14 loop_mode=loop_continuous loop_start=233930 loop_end=340466
+<region> sample=070_ped_h.wav key=70 lokey=70 hikey=70 tune=14 loop_mode=loop_continuous loop_start=291295 loop_end=452961
+<region> sample=052_ped_h.wav key=52 lokey=52 hikey=52 tune=14 loop_mode=loop_continuous loop_start=341210 loop_end=460411
+<region> sample=050_ped_h.wav key=50 lokey=50 hikey=50 tune=14 loop_mode=loop_continuous loop_start=350895 loop_end=496916
+<region> sample=048_ped_h.wav key=48 lokey=48 hikey=48 tune=14 loop_mode=loop_continuous loop_start=320350 loop_end=449236
+<region> sample=043_ped_h.wav key=43 lokey=43 hikey=43 tune=14 loop_mode=loop_continuous loop_start=312155 loop_end=485741
+<region> sample=053_ped_h.wav key=53 lokey=53 hikey=53 tune=14 loop_mode=loop_continuous loop_start=303215 loop_end=476056
+<region> sample=035_ped_h.wav key=35 lokey=35 hikey=35 tune=14 end=515692 loop_mode=loop_continuous loop_start=306195 loop_end=514796
+<region> sample=036_ped_h.wav key=36 lokey=36 hikey=36 tune=14 loop_mode=loop_continuous loop_start=271350 loop_end=444766
+<region> sample=037_ped_h.wav key=37 lokey=37 hikey=37 tune=14 loop_mode=loop_continuous loop_start=368030 loop_end=561731
+<region> sample=038_ped_h.wav key=38 lokey=38 hikey=38 tune=14 loop_mode=loop_continuous loop_start=315880 loop_end=513306
+<region> sample=039_ped_h.wav key=39 lokey=39 hikey=39 tune=14 loop_mode=loop_continuous loop_start=384420 loop_end=558006
+<region> sample=040_ped_h.wav key=40 lokey=40 hikey=40 tune=14 loop_mode=loop_continuous loop_start=326310 loop_end=491701
+<region> sample=024_ped_h.wav key=24 lokey=24 hikey=24 tune=-11 loop_mode=loop_continuous loop_start=298000 loop_end=462646
+<region> sample=041_ped_h.wav key=41 lokey=41 hikey=41 tune=14 loop_mode=loop_continuous loop_start=271260 loop_end=470841
+<region> sample=042_ped_h.wav key=42 lokey=42 hikey=42 tune=14 end=510928 loop_mode=loop_continuous loop_start=318860 loop_end=510326
+<region> sample=044_ped_h.wav key=44 lokey=44 hikey=44 tune=14 loop_mode=loop_continuous loop_start=271180 loop_end=443276
+<region> sample=045_ped_h.wav key=45 lokey=45 hikey=45 tune=14 end=504300 loop_mode=loop_continuous loop_start=324075 loop_end=502876
+<region> sample=046_ped_h.wav key=46 lokey=46 hikey=46 tune=14 loop_mode=loop_continuous loop_start=271284 loop_end=470841
+<region> sample=047_ped_h.wav key=47 lokey=47 hikey=47 tune=14 loop_mode=loop_continuous loop_start=349680 loop_end=503689
+<region> sample=049_ped_h.wav key=49 lokey=49 hikey=49 tune=14 loop_mode=loop_continuous loop_start=297255 loop_end=479781
+<region> sample=025_ped_h.wav key=25 lokey=25 hikey=25 tune=14 loop_mode=loop_continuous loop_start=359835 loop_end=513306
+<region> sample=057_ped_h.wav key=57 lokey=57 hikey=57 tune=14 loop_mode=loop_continuous loop_start=342984 loop_end=438217
+<region> sample=058_ped_h.wav key=58 lokey=58 hikey=58 tune=14 end=362584 loop_mode=loop_continuous loop_start=239145 loop_end=362071
+<region> sample=060_ped_h.wav key=60 lokey=60 hikey=60 tune=14 loop_mode=loop_continuous loop_start=373027 loop_end=546269
+<region> sample=026_ped_h.wav key=26 lokey=26 hikey=26 tune=14 loop_mode=loop_continuous loop_start=341210 loop_end=493191
+<region> sample=062_ped_h.wav key=62 lokey=62 hikey=62 tune=14 loop_mode=loop_continuous loop_start=311410 loop_end=499896
+<region> sample=067_ped_h.wav key=67 lokey=67 hikey=67 tune=14 loop_mode=loop_continuous loop_start=226176 loop_end=354889
+<region> sample=027_ped_h.wav key=27 lokey=27 hikey=27 tune=14 loop_mode=loop_continuous loop_start=344190 loop_end=500641
+<region> sample=071_ped_h.wav key=71 lokey=71 hikey=71 tune=14 loop_mode=loop_continuous loop_start=222456 loop_end=398785
+<region> sample=073_ped_h.wav key=73 lokey=73 hikey=73 tune=14 loop_mode=loop_continuous loop_start=195700 loop_end=299833
+<region> sample=074_ped_h.wav key=74 lokey=74 hikey=74 tune=14 loop_mode=loop_continuous loop_start=262985 loop_end=376971
+<region> sample=075_ped_h.wav key=75 lokey=75 hikey=75 tune=14 loop_mode=loop_continuous loop_start=245105 loop_end=333761
+<region> sample=078_ped_h.wav key=78 lokey=78 hikey=78 tune=14 loop_mode=loop_continuous loop_start=220224 loop_end=335539
+<region> sample=079_ped_h.wav key=79 lokey=79 hikey=79 tune=14 loop_mode=loop_continuous loop_start=192696 loop_end=349681
+<region> sample=080_ped_h.wav key=80 lokey=80 hikey=80 tune=14 loop_mode=loop_continuous loop_start=194445 loop_end=260751
+<region> sample=028_ped_h.wav key=28 lokey=28 hikey=28 tune=14 loop_mode=loop_continuous loop_start=288395 loop_end=464706
+<region> sample=081_ped_h.wav key=81 lokey=81 hikey=81 tune=14 end=344934 loop_mode=loop_continuous loop_start=270539 loop_end=344934
+<region> sample=082_ped_h.wav key=82 lokey=82 hikey=82 tune=14 loop_mode=loop_continuous loop_start=230950 loop_end=336741
+<region> sample=084_ped_h.wav key=84 lokey=84 hikey=84 tune=14 loop_mode=loop_continuous loop_start=192955 loop_end=301726
+<region> sample=085_ped_h.wav key=85 lokey=85 hikey=85 tune=14 loop_mode=loop_continuous loop_start=170605 loop_end=292786
+<region> sample=086_ped_h.wav key=86 lokey=86 hikey=86 tune=14 loop_mode=loop_continuous loop_start=198170 loop_end=283101
+<region> sample=087_ped_h.wav key=87 lokey=87 hikey=87 tune=14 loop_mode=loop_continuous loop_start=186744 loop_end=279001
+<region> sample=088_ped_h.wav key=88 lokey=88 hikey=88 tune=14 loop_mode=loop_continuous loop_start=178800 loop_end=273416
+<region> sample=089_ped_h.wav key=89 lokey=89 hikey=89 tune=14 loop_mode=loop_continuous loop_start=292040 loop_end=400811
+<region> sample=090_ped_h.wav key=90 lokey=90 hikey=90 tune=14 loop_mode=loop_continuous loop_start=197904 loop_end=294625
+<region> sample=029_ped_h.wav key=29 lokey=29 hikey=29 tune=14 loop_mode=loop_continuous loop_start=338684 loop_end=503551
+<region> sample=092_ped_h.wav key=92 lokey=92 hikey=92 tune=14 loop_mode=no_loop
+<region> sample=093_ped_h.wav key=93 lokey=93 hikey=93 tune=14 loop_mode=no_loop
+<region> sample=094_ped_h.wav key=94 lokey=94 hikey=94 tune=14 loop_mode=no_loop
+<region> sample=095_ped_h.wav key=95 lokey=95 hikey=95 tune=14 loop_mode=no_loop
+<region> sample=097_ped_h.wav key=97 lokey=97 hikey=97 tune=14 loop_mode=no_loop
+<region> sample=098_ped_h.wav key=98 lokey=98 hikey=98 tune=14 loop_mode=no_loop
+<region> sample=099_ped_h.wav key=99 lokey=99 hikey=99 tune=14 loop_mode=no_loop
+<region> sample=100_ped_h.wav key=100 lokey=100 hikey=100 tune=14 loop_mode=no_loop
+<region> sample=101_ped_h.wav key=101 lokey=101 hikey=101 tune=14 loop_mode=no_loop
+<region> sample=102_ped_h.wav key=102 lokey=102 hikey=102 tune=14 loop_mode=no_loop
+<region> sample=103_ped_h.wav key=103 lokey=103 hikey=103 tune=14 loop_mode=no_loop
+<region> sample=104_ped_h.wav key=104 lokey=104 hikey=104 tune=10 loop_mode=no_loop
+<region> sample=105_ped_h.wav key=105 lokey=105 hikey=105 tune=14 loop_mode=no_loop
+<region> sample=106_ped_h.wav key=106 lokey=106 hikey=106 tune=14 loop_mode=no_loop
+<region> sample=107_ped_h.wav key=107 lokey=107 hikey=107 tune=14 loop_mode=no_loop
+<region> sample=108_ped_h.wav key=108 lokey=108 hikey=127 tune=14 loop_mode=loop_continuous loop_start=151235 loop_end=195279
+<region> sample=021_ped_h.wav key=21 lokey=0 hikey=23 tune=14 loop_mode=loop_continuous loop_start=384942 loop_end=552049
+<region> sample=031_ped_h.wav key=31 lokey=31 hikey=31 tune=14 loop_mode=loop_continuous loop_start=309175 loop_end=470096
+<region> sample=032_ped_h.wav key=32 lokey=32 hikey=32 tune=14 loop_mode=loop_continuous loop_start=381440 loop_end=539381
+<region> sample=033_ped_h.wav key=33 lokey=33 hikey=33 tune=14 loop_mode=loop_continuous loop_start=319605 loop_end=503621
+<region> sample=034_ped_h.wav key=34 lokey=34 hikey=34 tune=14 loop_mode=loop_continuous loop_start=329290 loop_end=498406
+
+<group> lovel=65 hivel=99 volume=-1 locc64=0 hicc64=63        // 3 mf
+<region> sample=071_B3KM56_M.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=229917 loop_end=292381
+<region> sample=065_F3KM56_M.wav key=65 lokey=65 hikey=65 loop_mode=loop_continuous loop_start=323777 loop_end=395465
+<region> sample=063_D#3KM56_M.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=266912 loop_end=319154
+<region> sample=075_D#4KM56_M.wav key=75 lokey=75 hikey=75 loop_mode=loop_continuous loop_start=271360 loop_end=341321
+<region> sample=073_C#4KM56_M.wav key=73 lokey=73 hikey=73 loop_mode=loop_continuous loop_start=236232 loop_end=294985
+<region> sample=066_F#3KM56_M.wav key=66 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=347150 loop_end=400151
+<region> sample=047_B1KM56_M.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=332545 loop_end=405188
+<region> sample=057_A2KM56_M.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=296813 loop_end=365551
+<region> sample=069_A3KM56_M.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=220752 loop_end=290617
+<region> sample=056_G#2KM56_M.wav key=56 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=255859 loop_end=342800
+<region> sample=055_G2KM56_M.wav key=55 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=316397 loop_end=395454
+<region> sample=054_F#2KM56_M.wav key=54 lokey=54 hikey=54 loop_mode=loop_continuous loop_start=317332 loop_end=401724
+<region> sample=085_C#5KM56_M.wav key=85 lokey=85 hikey=85 loop_mode=loop_continuous loop_start=147026 loop_end=231461
+<region> sample=050_D2KM56_M.wav key=50 lokey=50 hikey=50 loop_mode=loop_continuous loop_start=304128 loop_end=379567
+<region> sample=048_C2KM56_M.wav key=48 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=459816 loop_end=503190
+<region> sample=053_F2KM56_M.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=332552 loop_end=398492
+<region> sample=035_B0KM56_M.wav key=35 lokey=35 hikey=35 loop_mode=loop_continuous loop_start=323737 loop_end=453025
+<region> sample=024_C0KM56_M.wav key=24 lokey=24 hikey=24 tune=-25 end=337485 loop_mode=loop_continuous loop_start=228066 loop_end=337339
+<region> sample=036_C1KM56_M.wav key=36 lokey=36 hikey=36 loop_mode=loop_continuous loop_start=403390 loop_end=549679
+<region> sample=037_C#1KM56_M.wav key=37 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=315392 loop_end=397321
+<region> sample=038_D1KM56_M.wav key=38 lokey=38 hikey=38 loop_mode=loop_continuous loop_start=382704 loop_end=465529
+<region> sample=039_D#1KM56_M.wav key=39 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=420486 loop_end=499423
+<region> sample=040_E1KM56_M.wav key=40 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=411787 loop_end=504172
+<region> sample=041_F1KM56_M.wav key=41 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=308936 loop_end=422817
+<region> sample=042_F#1KM56_M.wav key=42 lokey=42 hikey=42 loop_mode=loop_continuous loop_start=429372 loop_end=572288
+<region> sample=043_G1KM56_M.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=358317 loop_end=430443
+<region> sample=044_G#1KM56_M.wav key=44 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=355266 loop_end=448667
+<region> sample=045_A1KM56_M.wav key=45 lokey=45 hikey=45 loop_mode=loop_continuous loop_start=306266 loop_end=393291
+<region> sample=025_C#0KM56_M.wav key=25 lokey=25 hikey=25 loop_mode=loop_continuous loop_start=294306 loop_end=433858
+<region> sample=046_A#1KM56_M.wav key=46 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=301639 loop_end=398390
+<region> sample=021_A-1KM56_M.wav key=21 lokey=0 hikey=23 loop_mode=loop_continuous loop_start=390096 loop_end=520993
+<region> sample=049_C#2KM56_M.wav key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=332262 loop_end=408443
+<region> sample=051_D#2KM56_M.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=365396 loop_end=425020
+<region> sample=052_E2KM56_M.wav key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=294413 loop_end=350452
+<region> sample=026_D0KM56_M.wav key=26 lokey=26 hikey=26 loop_mode=loop_continuous loop_start=340734 loop_end=482653
+<region> sample=058_A#2KM56_M.wav key=58 lokey=58 hikey=58 loop_mode=loop_continuous loop_start=239440 loop_end=390977
+<region> sample=059_B2KM56_M.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=246478 loop_end=341709
+<region> sample=060_C3KM56_M.wav key=60 lokey=60 hikey=60 loop_mode=loop_continuous loop_start=336335 loop_end=441295
+<region> sample=061_C#3KM56_M.wav key=61 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=354816 loop_end=412759
+<region> sample=062_D3KM56_M.wav key=62 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=358711 loop_end=426475
+<region> sample=064_E3KM56_M.wav key=64 lokey=64 hikey=64 loop_mode=loop_continuous loop_start=315703 loop_end=399382
+<region> sample=027_D#0KM56_M.wav key=27 lokey=27 hikey=27 loop_mode=loop_continuous loop_start=333792 loop_end=462442
+<region> sample=067_G3KM56_M.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=271488 loop_end=334081
+<region> sample=068_G#3KM56_M.wav key=68 lokey=68 hikey=68 loop_mode=loop_continuous loop_start=279273 loop_end=349378
+<region> sample=070_A#3KM56_M.wav key=70 lokey=70 hikey=70 loop_mode=loop_continuous loop_start=172322 loop_end=223297
+<region> sample=072_C4KM56_M.wav key=72 lokey=72 hikey=72 loop_mode=loop_continuous loop_start=218943 loop_end=299080
+<region> sample=074_D4KM56_M.wav key=74 lokey=74 hikey=74 loop_mode=loop_continuous loop_start=301840 loop_end=360592
+<region> sample=028_E0KM56_M.wav key=28 lokey=28 hikey=28 loop_mode=loop_continuous loop_start=320544 loop_end=461101
+<region> sample=076_E4KM56_M.wav key=76 lokey=76 hikey=76 loop_mode=loop_continuous loop_start=247234 loop_end=334101
+<region> sample=077_F4KM56_M.wav key=77 lokey=77 hikey=77 loop_mode=loop_continuous loop_start=225171 loop_end=299467
+<region> sample=078_F#4KM56_M.wav key=78 lokey=78 hikey=78 loop_mode=loop_continuous loop_start=187616 loop_end=250977
+<region> sample=079_G4KM56_M.wav key=79 lokey=79 hikey=79 loop_mode=loop_continuous loop_start=228448 loop_end=297833
+<region> sample=080_G#4KM56_M.wav key=80 lokey=80 hikey=80 loop_mode=loop_continuous loop_start=180180 loop_end=219571
+<region> sample=081_A4KM56_M.wav key=81 lokey=81 hikey=81 loop_mode=loop_continuous loop_start=200566 loop_end=264725
+<region> sample=082_A#4KM56_M.wav key=82 lokey=82 hikey=82 loop_mode=loop_continuous loop_start=223716 loop_end=280264
+<region> sample=083_B4KM56_M.wav key=83 lokey=83 hikey=83 loop_mode=loop_continuous loop_start=206647 loop_end=298285
+<region> sample=084_C5KM56_M.wav key=84 lokey=84 hikey=84 loop_mode=loop_continuous loop_start=252192 loop_end=296923
+<region> sample=029_F0KM56_M.wav key=29 lokey=29 hikey=29 loop_mode=loop_continuous loop_start=376678 loop_end=490451
+<region> sample=086_D5KM56_M.wav key=86 lokey=86 hikey=86 loop_mode=loop_continuous loop_start=129864 loop_end=234264
+<region> sample=087_D#5KM56_M.wav key=87 lokey=87 hikey=87 loop_mode=loop_continuous loop_start=208104 loop_end=248473
+<region> sample=088_E5KM56_M.wav key=88 lokey=88 hikey=88 loop_mode=loop_continuous loop_start=201608 loop_end=235945
+<region> sample=089_F5KM56_M.wav key=89 lokey=89 hikey=89 loop_mode=loop_continuous loop_start=133552 loop_end=193937
+<region> sample=090_F#5KM56_M.wav key=90 lokey=90 hikey=90 loop_mode=loop_continuous loop_start=142845 loop_end=227590
+<region> sample=091_G5KM56_M.wav key=91 lokey=91 hikey=91 loop_mode=loop_continuous loop_start=209760 loop_end=251437
+<region> sample=092_G#5KM56_M.wav key=92 lokey=92 hikey=92 loop_mode=loop_continuous loop_start=210192 loop_end=258513
+<region> sample=093_A5KM56_M.wav key=93 lokey=93 hikey=93 loop_mode=loop_continuous loop_start=144504 loop_end=182305
+<region> sample=094_A#5KM56_M.wav key=94 lokey=94 hikey=94 loop_mode=loop_continuous loop_start=127738 loop_end=161552
+<region> sample=095_B5KM56_M.wav key=95 lokey=95 hikey=95 loop_mode=loop_continuous loop_start=134268 loop_end=202609
+<region> sample=030_F#0KM56_M.wav key=30 lokey=30 hikey=30 loop_mode=loop_continuous loop_start=352872 loop_end=478779
+<region> sample=096_C6KM56_M.wav key=96 lokey=96 hikey=96 loop_mode=loop_continuous loop_start=184265 loop_end=215201
+<region> sample=097_C#6KM56_M.wav key=97 lokey=97 hikey=97 loop_mode=loop_continuous loop_start=127704 loop_end=150349
+<region> sample=098_D6KM56_M.wav key=98 lokey=98 hikey=98 loop_mode=loop_continuous loop_start=128821 loop_end=180685
+<region> sample=099_D#6KM56_M.wav key=99 lokey=99 hikey=99 loop_mode=loop_continuous loop_start=118026 loop_end=153340
+<region> sample=100_E6KM56_M.wav key=100 lokey=100 hikey=100 loop_mode=loop_continuous loop_start=167754 loop_end=187246
+<region> sample=101_F6KM56_M.wav key=101 lokey=101 hikey=101 loop_mode=loop_continuous loop_start=131088 loop_end=155876
+<region> sample=102_F#6KM56_M.wav key=102 lokey=102 hikey=102 loop_mode=loop_continuous loop_start=125118 loop_end=159517
+<region> sample=103_G6KM56_M.wav key=103 lokey=103 hikey=103 loop_mode=loop_continuous loop_start=131726 loop_end=157335
+<region> sample=104_G#6KM56_M.wav key=104 lokey=104 hikey=104 loop_mode=loop_continuous loop_start=122192 loop_end=167701
+<region> sample=105_A6KM56_M.wav key=105 lokey=105 hikey=105 loop_mode=loop_continuous loop_start=116647 loop_end=144629
+<region> sample=031_G0KM56_M.wav key=31 lokey=31 hikey=31 loop_mode=loop_continuous loop_start=419906 loop_end=541755
+<region> sample=106_A#6KM56_M.wav key=106 lokey=106 hikey=106 loop_mode=loop_continuous loop_start=99760 loop_end=123396
+<region> sample=107_B6KM56_M.wav key=107 lokey=107 hikey=107 loop_mode=loop_continuous loop_start=110273 loop_end=150613
+<region> sample=108_C7KM56_M.wav key=108 lokey=108 hikey=127 loop_mode=loop_continuous loop_start=70176 loop_end=94945
+<region> sample=032_G#0KM56_M.wav key=32 lokey=32 hikey=32 loop_mode=loop_continuous loop_start=405628 loop_end=517117
+<region> sample=033_A0KM56_M.wav key=33 lokey=33 hikey=33 loop_mode=loop_continuous loop_start=401800 loop_end=501013
+<region> sample=034_A#0KM56_M.wav key=34 lokey=34 hikey=34 loop_mode=loop_continuous loop_start=386646 loop_end=470676
+
+<group> lovel=65 hivel=99 volume=-1 locc64=64 hicc64=127        // 4 mf sus
+<region> sample=071_ped_mf.wav key=71 lokey=71 hikey=71 tune=14 loop_mode=loop_continuous loop_start=192139 loop_end=359464
+<region> sample=065_ped_mf.wav key=65 lokey=65 hikey=65 tune=14 loop_mode=loop_continuous loop_start=257886 loop_end=440959
+<region> sample=063_ped_mf.wav key=63 lokey=63 hikey=63 tune=14 loop_mode=loop_continuous loop_start=289572 loop_end=489229
+<region> sample=075_ped_mf.wav key=75 lokey=75 hikey=75 tune=14 loop_mode=loop_continuous loop_start=172034 loop_end=247093
+<region> sample=073_ped_mf.wav key=73 lokey=73 hikey=73 tune=14 loop_mode=loop_continuous loop_start=204023 loop_end=304870
+<region> sample=066_ped_mf.wav key=66 lokey=66 hikey=66 tune=14 loop_mode=loop_continuous loop_start=213816 loop_end=364621
+<region> sample=047_ped_mf.wav key=47 lokey=47 hikey=47 tune=14 loop_mode=loop_continuous loop_start=282891 loop_end=467941
+<region> sample=057_ped_mf.wav key=57 lokey=57 hikey=57 tune=14 loop_mode=loop_continuous loop_start=255240 loop_end=430364
+<region> sample=069_ped_mf.wav key=69 lokey=69 hikey=69 tune=14 loop_mode=loop_continuous loop_start=217356 loop_end=362497
+<region> sample=056_ped_mf.wav key=56 lokey=56 hikey=56 tune=14 loop_mode=loop_continuous loop_start=274383 loop_end=402004
+<region> sample=055_ped_mf.wav key=55 lokey=55 hikey=55 tune=10 loop_mode=loop_continuous loop_start=290690 loop_end=389951
+<region> sample=054_ped_mf.wav key=54 lokey=54 hikey=54 tune=14 loop_mode=loop_continuous loop_start=305856 loop_end=501265
+<region> sample=085_ped_mf.wav key=85 lokey=85 hikey=85 tune=14 loop_mode=loop_continuous loop_start=175584 loop_end=262669
+<region> sample=050_ped_mf.wav key=50 lokey=50 hikey=50 tune=14 loop_mode=loop_continuous loop_start=284309 loop_end=478576
+<region> sample=048_ped_mf.wav key=48 lokey=48 hikey=48 tune=14 loop_mode=loop_continuous loop_start=257958 loop_end=407101
+<region> sample=053_ped_mf.wav key=53 lokey=53 hikey=53 tune=14 loop_mode=loop_continuous loop_start=324264 loop_end=479317
+<region> sample=035_ped_mf.wav key=35 lokey=35 hikey=35 tune=14 loop_mode=loop_continuous loop_start=273674 loop_end=465814
+<region> sample=036_ped_mf.wav key=36 lokey=36 hikey=36 tune=14 loop_mode=loop_continuous loop_start=302316 loop_end=488521
+<region> sample=037_ped_mf.wav key=37 lokey=37 hikey=37 tune=14 loop_mode=loop_continuous loop_start=326388 loop_end=497725
+<region> sample=038_ped_mf.wav key=38 lokey=38 hikey=38 tune=14 loop_mode=loop_continuous loop_start=346212 loop_end=531709
+<region> sample=039_ped_mf.wav key=39 lokey=39 hikey=39 tune=14 loop_mode=loop_continuous loop_start=342895 loop_end=497729
+<region> sample=024_ped_mf.wav key=24 lokey=24 hikey=24 tune=-11 loop_mode=loop_continuous loop_start=297360 loop_end=490645
+<region> sample=040_ped_mf.wav key=40 lokey=40 hikey=40 tune=14 loop_mode=loop_continuous loop_start=327804 loop_end=506929
+<region> sample=041_ped_mf.wav key=41 lokey=41 hikey=41 tune=14 loop_mode=loop_continuous loop_start=276828 loop_end=472945
+<region> sample=042_ped_mf.wav key=42 lokey=42 hikey=42 tune=14 loop_mode=loop_continuous loop_start=289981 loop_end=462978
+<region> sample=043_ped_mf.wav key=43 lokey=43 hikey=43 tune=14 loop_mode=loop_continuous loop_start=272580 loop_end=431173
+<region> sample=044_ped_mf.wav key=44 lokey=44 hikey=44 tune=14 loop_mode=loop_continuous loop_start=270456 loop_end=442501
+<region> sample=045_ped_mf.wav key=45 lokey=45 hikey=45 tune=14 loop_mode=loop_continuous loop_start=294528 loop_end=485689
+<region> sample=046_ped_mf.wav key=46 lokey=46 hikey=46 tune=14 loop_mode=loop_continuous loop_start=245676 loop_end=431881
+<region> sample=049_ped_mf.wav key=49 lokey=49 hikey=49 tune=14 loop_mode=loop_continuous loop_start=291696 loop_end=480733
+<region> sample=025_ped_mf.wav key=25 lokey=25 hikey=25 tune=14 loop_mode=loop_continuous loop_start=327096 loop_end=503389
+<region> sample=051_ped_mf.wav key=51 lokey=51 hikey=51 tune=14 loop_mode=loop_continuous loop_start=278952 loop_end=500557
+<region> sample=052_ped_mf.wav key=52 lokey=52 hikey=52 tune=14 loop_mode=loop_continuous loop_start=338424 loop_end=455953
+<region> sample=058_ped_mf.wav key=58 lokey=58 hikey=58 tune=14 loop_mode=loop_continuous loop_start=241060 loop_end=356628
+<region> sample=059_ped_mf.wav key=59 lokey=59 hikey=59 tune=14 loop_mode=loop_continuous loop_start=206028 loop_end=345505
+<region> sample=026_ped_mf.wav key=26 lokey=26 hikey=26 tune=10 loop_mode=loop_continuous loop_start=335592 loop_end=500557
+<region> sample=060_ped_mf.wav key=60 lokey=60 hikey=60 tune=14 loop_mode=loop_continuous loop_start=352404 loop_end=475144
+<region> sample=061_ped_mf.wav key=61 lokey=61 hikey=61 tune=14 loop_mode=loop_continuous loop_start=342672 loop_end=492061
+<region> sample=062_ped_mf.wav key=62 lokey=62 hikey=62 tune=14 loop_mode=loop_continuous loop_start=310104 loop_end=449581
+<region> sample=064_ped_mf.wav key=64 lokey=64 hikey=64 tune=14 loop_mode=loop_continuous loop_start=290280 loop_end=409225
+<region> sample=067_ped_mf.wav key=67 lokey=67 hikey=67 tune=14 loop_mode=loop_continuous loop_start=232224 loop_end=397897
+<region> sample=068_ped_mf.wav key=68 lokey=68 hikey=68 tune=14 loop_mode=loop_continuous loop_start=216648 loop_end=373825
+<region> sample=027_ped_mf.wav key=27 lokey=27 hikey=27 tune=14 loop_mode=loop_continuous loop_start=375240 loop_end=532417
+<region> sample=070_ped_mf.wav key=70 lokey=70 hikey=70 tune=14 loop_mode=loop_continuous loop_start=230425 loop_end=377898
+<region> sample=072_ped_mf.wav key=72 lokey=72 hikey=72 tune=14 loop_mode=loop_continuous loop_start=230100 loop_end=405685
+<region> sample=074_ped_mf.wav key=74 lokey=74 hikey=74 tune=14 loop_mode=loop_continuous loop_start=191868 loop_end=287449
+<region> sample=076_ped_mf.wav key=76 lokey=76 hikey=76 tune=14 loop_mode=loop_continuous loop_start=273996 loop_end=404977
+<region> sample=077_ped_mf.wav key=77 lokey=77 hikey=77 tune=14 loop_mode=loop_continuous loop_start=225852 loop_end=315769
+<region> sample=078_ped_mf.wav key=78 lokey=78 hikey=78 tune=14 loop_mode=loop_continuous loop_start=198240 loop_end=299485
+<region> sample=079_ped_mf.wav key=79 lokey=79 hikey=79 tune=14 loop_mode=loop_continuous loop_start=218064 loop_end=306565
+<region> sample=028_ped_mf.wav key=28 lokey=28 hikey=28 tune=14 loop_mode=loop_continuous loop_start=336775 loop_end=470068
+<region> sample=080_ped_mf.wav key=80 lokey=80 hikey=80 tune=14 loop_mode=loop_continuous loop_start=227976 loop_end=301609
+<region> sample=081_ped_mf.wav key=81 lokey=81 hikey=81 tune=10 loop_mode=loop_continuous loop_start=208377 loop_end=286741
+<region> sample=082_ped_mf.wav key=82 lokey=82 hikey=82 tune=14 loop_mode=loop_continuous loop_start=221604 loop_end=306565
+<region> sample=083_ped_mf.wav key=83 lokey=83 hikey=83 tune=14 loop_mode=loop_continuous loop_start=192576 loop_end=282493
+<region> sample=084_ped_mf.wav key=84 lokey=84 hikey=84 tune=14 loop_mode=loop_continuous loop_start=242750 loop_end=325587
+<region> sample=086_ped_mf.wav key=86 lokey=86 hikey=86 tune=14 loop_mode=loop_continuous loop_start=181248 loop_end=303025
+<region> sample=087_ped_mf.wav key=87 lokey=87 hikey=87 tune=14 loop_mode=loop_continuous loop_start=189744 loop_end=271165
+<region> sample=088_ped_mf.wav key=88 lokey=88 hikey=88 tune=14 loop_mode=loop_continuous loop_start=174876 loop_end=258421
+<region> sample=089_ped_mf.wav key=89 lokey=89 hikey=89 tune=14 loop_mode=loop_continuous loop_start=169212 loop_end=237181
+<region> sample=029_ped_mf.wav key=29 lokey=29 hikey=29 tune=14 loop_mode=loop_continuous loop_start=316476 loop_end=453829
+<region> sample=090_ped_mf.wav key=90 lokey=90 hikey=90 tune=14 loop_mode=loop_continuous loop_start=165610 loop_end=296591
+<region> sample=091_ped_mf.wav key=91 lokey=91 hikey=91 tune=14 loop_mode=no_loop
+<region> sample=092_ped_mf.wav key=92 lokey=92 hikey=92 tune=14 loop_mode=no_loop
+<region> sample=093_ped_mf.wav key=93 lokey=93 hikey=93 tune=14 loop_mode=no_loop
+<region> sample=094_ped_mf.wav key=94 lokey=94 hikey=94 tune=14 loop_mode=no_loop
+<region> sample=095_ped_mf.wav key=95 lokey=95 hikey=95 tune=14 loop_mode=no_loop
+<region> sample=096_ped_mf.wav key=96 lokey=96 hikey=96 tune=14 loop_mode=no_loop
+<region> sample=097_ped_mf.wav key=97 lokey=97 hikey=97 tune=14 loop_mode=no_loop
+<region> sample=021_ped_mf.wav key=21 lokey=0 hikey=23 tune=14 loop_mode=loop_continuous loop_start=361788 loop_end=535249
+<region> sample=098_ped_mf.wav key=98 lokey=98 hikey=98 tune=14 loop_mode=no_loop
+<region> sample=099_ped_mf.wav key=99 lokey=99 hikey=99 tune=14 loop_mode=no_loop
+<region> sample=030_ped_mf.wav key=30 lokey=30 hikey=30 tune=14 loop_mode=loop_continuous loop_start=286032 loop_end=434005
+<region> sample=100_ped_mf.wav key=100 lokey=100 hikey=100 tune=14 loop_mode=no_loop
+<region> sample=101_ped_mf.wav key=101 lokey=101 hikey=101 tune=14 loop_mode=no_loop
+<region> sample=102_ped_mf.wav key=102 lokey=102 hikey=102 tune=14 loop_mode=no_loop
+<region> sample=103_ped_mf.wav key=103 lokey=103 hikey=103 tune=14 loop_mode=no_loop
+<region> sample=104_ped_mf.wav key=104 lokey=104 hikey=104 tune=14 loop_mode=no_loop
+<region> sample=105_ped_mf.wav key=105 lokey=105 hikey=105 tune=14 loop_mode=no_loop
+<region> sample=106_ped_mf.wav key=106 lokey=106 hikey=106 tune=14 loop_mode=no_loop
+<region> sample=107_ped_mf.wav key=107 lokey=107 hikey=107 tune=14 loop_mode=no_loop
+<region> sample=108_ped_mf.wav key=108 lokey=108 hikey=127 tune=14 loop_mode=no_loop
+<region> sample=031_ped_mf.wav key=31 lokey=31 hikey=31 tune=14 loop_mode=loop_continuous loop_start=298489 loop_end=486375
+<region> sample=032_ped_mf.wav key=32 lokey=32 hikey=32 tune=14 loop_mode=loop_continuous loop_start=375948 loop_end=539497
+<region> sample=033_ped_mf.wav key=33 lokey=33 hikey=33 tune=14 loop_mode=loop_continuous loop_start=326388 loop_end=494185
+<region> sample=034_ped_mf.wav key=34 lokey=34 hikey=34 tune=14 loop_mode=loop_continuous loop_start=286740 loop_end=462325
+
+<group> lovel=0 hivel=64 volume=-2 locc64=0 hicc64=63        // 1 piano
+<region> sample=054_F#2KM56_S.wav key=54 lokey=54 hikey=54 loop_mode=loop_continuous loop_start=247830 loop_end=321484
+<region> sample=066_F#3KM56_S.wav key=66 lokey=66 hikey=66 loop_mode=loop_continuous loop_start=210012 loop_end=259205
+<region> sample=051_D#2KM56_S.wav key=51 lokey=50 hikey=50 loop_mode=loop_continuous loop_start=298816 loop_end=345507
+<region> sample=053_F2KM56_S.wav key=53 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=279288 loop_end=332749
+<region> sample=021_A-1KM56_M.wav key=21 lokey=0 hikey=23 loop_mode=loop_continuous loop_start=390014 loop_end=520911
+<region> sample=036_C1KM56_S.wav key=36 lokey=36 hikey=36 loop_mode=loop_continuous loop_start=255133 loop_end=350513
+<region> sample=037_C#1KM56_S.wav key=37 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=235004 loop_end=298068
+<region> sample=038_D1KM56_S.wav key=38 lokey=38 hikey=38 loop_mode=loop_continuous loop_start=263333 loop_end=398003
+<region> sample=040_E1KM56_S.wav key=40 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=239607 loop_end=317686
+<region> sample=040_E1KM56_S.wav key=40 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=239607 loop_end=317686
+<region> sample=042_ped_s.wav key=42 lokey=41 hikey=41 tune=14 loop_mode=loop_continuous loop_start=264186 loop_end=459651
+<region> sample=042_F#1KM56_S.wav key=42 lokey=42 hikey=42 loop_mode=loop_continuous loop_start=319753 loop_end=401969
+<region> sample=043_G1KM56_S.wav key=43 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=210121 loop_end=336106
+<region> sample=044_G#1KM56_S.wav key=44 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=244918 loop_end=316624
+<region> sample=025_C#0KM56_M.wav key=25 lokey=25 hikey=25 loop_mode=loop_continuous loop_start=294306 loop_end=433858
+<region> sample=045_A1KM56_S.wav key=45 lokey=45 hikey=45 loop_mode=loop_continuous loop_start=213816 loop_end=333409
+<region> sample=046_A#1KM56_S.wav key=46 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=331396 loop_end=447143
+<region> sample=047_B1KM56_S.wav key=47 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=285200 loop_end=330801
+<region> sample=048_C2KM56_S.wav key=48 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=261533 loop_end=348744
+<region> sample=049_C#2KM56_S.wav key=49 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=272460 loop_end=360241
+<region> sample=051_D#2KM56_S.wav key=51 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=298816 loop_end=345507
+<region> sample=052_E2KM56_S.wav key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=281489 loop_end=339175
+<region> sample=026_D0KM56_S.wav key=26 lokey=26 hikey=26 loop_mode=loop_continuous loop_start=228356 loop_end=375677
+<region> sample=056_G#2KM56_S.wav key=56 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=231752 loop_end=299721
+<region> sample=056_G#2KM56_S.wav key=56 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=231752 loop_end=299721
+<region> sample=057_A2KM56_S.wav key=57 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=225670 loop_end=295862
+<region> sample=058_A#2KM56_S.wav key=58 lokey=58 hikey=58 loop_mode=loop_continuous loop_start=211198 loop_end=321387
+<region> sample=059_B2KM56_S.wav key=59 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=197283 loop_end=299063
+<region> sample=060_C3KM56_S.wav key=60 lokey=60 hikey=60 loop_mode=loop_continuous loop_start=194503 loop_end=282113
+<region> sample=062_D3KM56_S.wav key=62 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=253080 loop_end=308951
+<region> sample=063_D#3KM56_S.wav key=63 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=261990 loop_end=332281
+<region> sample=063_D#3KM56_S.wav key=63 lokey=63 hikey=63 loop_mode=loop_continuous loop_start=261990 loop_end=332281
+<region> sample=064_E3KM56_S.wav key=64 lokey=64 hikey=64 loop_mode=loop_continuous loop_start=236457 loop_end=326134
+<region> sample=027_D#0KM56_S.wav key=27 lokey=27 hikey=27 loop_mode=loop_continuous loop_start=300940 loop_end=395799
+<region> sample=065_F3KM56_S.wav key=65 lokey=65 hikey=65 loop_mode=loop_continuous loop_start=213836 loop_end=284737
+<region> sample=067_G3KM56_S.wav key=67 lokey=67 hikey=67 loop_mode=loop_continuous loop_start=213744 loop_end=264991
+<region> sample=068_G#3KM56_S.wav key=68 lokey=68 hikey=68 loop_mode=loop_continuous loop_start=243845 loop_end=300357
+<region> sample=069_A3KM56_S.wav key=69 lokey=69 hikey=69 loop_mode=loop_continuous loop_start=222272 loop_end=273057
+<region> sample=070_A#3KM56_S.wav key=70 lokey=70 hikey=70 loop_mode=loop_continuous loop_start=224260 loop_end=273474
+<region> sample=071_B3KM56_S.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=201666 loop_end=269011
+<region> sample=072_C4KM56_S.wav key=72 lokey=72 hikey=72 loop_mode=loop_continuous loop_start=239594 loop_end=294133
+<region> sample=073_C#4KM56_S.wav key=73 lokey=73 hikey=73 loop_mode=loop_continuous loop_start=197308 loop_end=249097
+<region> sample=074_D4KM56_S.wav key=74 lokey=74 hikey=74 loop_mode=loop_continuous loop_start=231504 loop_end=283193
+<region> sample=028_E0KM56_S.wav key=28 lokey=28 hikey=28 loop_mode=loop_continuous loop_start=247527 loop_end=404343
+<region> sample=075_D#4KM56_S.wav key=75 lokey=75 hikey=75 loop_mode=loop_continuous loop_start=129130 loop_end=189508
+<region> sample=076_E4KM56_S.wav key=76 lokey=76 hikey=76 loop_mode=loop_continuous loop_start=226695 loop_end=281317
+<region> sample=077_F4KM56_S.wav key=77 lokey=77 hikey=77 loop_mode=loop_continuous loop_start=236286 loop_end=276338
+<region> sample=078_F#4KM56_S.wav key=78 lokey=78 hikey=78 loop_mode=loop_continuous loop_start=168878 loop_end=244421
+<region> sample=079_G4KM56_S.wav key=79 lokey=79 hikey=79 loop_mode=loop_continuous loop_start=261708 loop_end=315363
+<region> sample=080_G#4KM56_S.wav key=80 lokey=80 hikey=80 loop_mode=loop_continuous loop_start=189744 loop_end=255943
+<region> sample=082_A#4KM56_S.wav key=82 lokey=81 hikey=81 loop_mode=loop_continuous loop_start=182180 loop_end=268536
+<region> sample=082_A#4KM56_S.wav key=82 lokey=82 hikey=82 loop_mode=loop_continuous loop_start=182180 loop_end=268536
+<region> sample=083_B4KM56_S.wav key=83 lokey=83 hikey=83 loop_mode=loop_continuous loop_start=166110 loop_end=267133
+<region> sample=084_C5KM56_S.wav key=84 lokey=84 hikey=84 loop_mode=loop_continuous loop_start=146278 loop_end=173093
+<region> sample=029_F0KM56_S.wav key=29 lokey=29 hikey=29 loop_mode=loop_continuous loop_start=270089 loop_end=405862
+<region> sample=085_C#5KM56_S.wav key=85 lokey=85 hikey=85 loop_mode=loop_continuous loop_start=107346 loop_end=192436
+<region> sample=086_D5KM56_S.wav key=86 lokey=86 hikey=86 loop_mode=loop_continuous loop_start=106080 loop_end=177061
+<region> sample=087_D#5KM56_S.wav key=87 lokey=87 hikey=87 loop_mode=loop_continuous loop_start=164241 loop_end=208495
+<region> sample=088_E5KM56_S.wav key=88 lokey=88 hikey=88 loop_mode=loop_continuous loop_start=130593 loop_end=176778
+<region> sample=089_F5KM56_S.wav key=89 lokey=89 hikey=89 loop_mode=loop_continuous loop_start=155742 loop_end=200062
+<region> sample=090_F#5KM56_S.wav key=90 lokey=90 hikey=90 loop_mode=loop_continuous loop_start=123840 loop_end=176215
+<region> sample=091_G5KM56_S.wav key=91 lokey=91 hikey=91 loop_mode=loop_continuous loop_start=162069 loop_end=213124
+<region> sample=092_G#5KM56_S.wav key=92 lokey=92 hikey=92 loop_mode=loop_continuous loop_start=118940 loop_end=166204
+<region> sample=093_A5KM56_S.wav key=93 lokey=93 hikey=93 loop_mode=loop_continuous loop_start=114960 loop_end=141841
+<region> sample=094_A#5KM56_S.wav key=94 lokey=94 hikey=94 loop_mode=loop_continuous loop_start=134794 loop_end=217875
+<region> sample=030_F#0KM56_S.wav key=30 lokey=30 hikey=30 loop_mode=loop_continuous loop_start=295310 loop_end=381603
+<region> sample=095_B5KM56_S.wav key=95 lokey=95 hikey=95 loop_mode=loop_continuous loop_start=127508 loop_end=206825
+<region> sample=096_C6KM56_S.wav key=96 lokey=96 hikey=96 loop_mode=loop_continuous loop_start=110836 loop_end=147019
+<region> sample=097_C#6KM56_S.wav key=97 lokey=97 hikey=97 loop_mode=loop_continuous loop_start=104618 loop_end=142767
+<region> sample=098_D6KM56_S.wav key=98 lokey=98 hikey=98 loop_mode=loop_continuous loop_start=137773 loop_end=173539
+<region> sample=099_D#6KM56_S.wav key=99 lokey=99 hikey=99 loop_mode=loop_continuous loop_start=95232 loop_end=114305
+<region> sample=100_E6KM56_S.wav key=100 lokey=100 hikey=100 loop_mode=loop_continuous loop_start=154048 loop_end=171811
+<region> sample=101_F6KM56_S.wav key=101 lokey=101 hikey=101 loop_mode=loop_continuous loop_start=117026 loop_end=148695
+<region> sample=102_F#6KM56_S.wav key=102 lokey=102 hikey=102 loop_mode=loop_continuous loop_start=110322 loop_end=145801
+<region> sample=103_G6KM56_S.wav key=103 lokey=103 hikey=103 loop_mode=loop_continuous loop_start=114492 loop_end=145513
+<region> sample=104_G#6KM56_S.wav key=104 lokey=104 hikey=104 loop_mode=loop_continuous loop_start=97970 loop_end=124743
+<region> sample=031_G0KM56_S.wav key=31 lokey=31 hikey=31 loop_mode=loop_continuous loop_start=299344 loop_end=422014
+<region> sample=105_A6KM56_S.wav key=105 lokey=105 hikey=105 loop_mode=loop_continuous loop_start=85488 loop_end=104677
+<region> sample=106_A#6KM56_S.wav key=106 lokey=106 hikey=106 loop_mode=loop_continuous loop_start=90626 loop_end=121137
+<region> sample=107_B6KM56_S.wav key=107 lokey=107 hikey=107 loop_mode=loop_continuous loop_start=109529 loop_end=135402
+<region> sample=108_C7KM56_S.wav key=108 lokey=108 hikey=127 loop_mode=loop_continuous loop_start=100035 loop_end=120961
+<region> sample=032_G#0KM56_S.wav key=32 lokey=32 hikey=32 loop_mode=loop_continuous loop_start=296114 loop_end=426892
+<region> sample=033_A0KM56_S.wav key=33 lokey=33 hikey=33 loop_mode=loop_continuous loop_start=274656 loop_end=420051
+<region> sample=034_A#0KM56_S.wav key=34 lokey=34 hikey=34 loop_mode=loop_continuous loop_start=328693 loop_end=402362
+<region> sample=024_C0KM56_M.wav key=24 lokey=24 hikey=24 tune=-25 end=337485 loop_mode=loop_continuous loop_start=228906 loop_end=337485
+<region> sample=035_B0KM56_S.wav key=35 lokey=35 hikey=35 loop_mode=loop_continuous loop_start=199016 loop_end=296849
+
+<group> lovel=0 hivel=64 volume=-2 locc64=64 hicc64=127        // 2 piano sus
+<region> sample=054_ped_s.wav key=54 lokey=54 hikey=54 tune=14 loop_mode=loop_continuous loop_start=290073 loop_end=415845
+<region> sample=066_ped_s.wav key=66 lokey=66 hikey=66 tune=14 loop_mode=loop_continuous loop_start=231913 loop_end=388219
+<region> sample=050_ped_s.wav key=50 lokey=50 hikey=50 tune=14 loop_mode=loop_continuous loop_start=310002 loop_end=497878
+<region> sample=053_ped_s.wav key=53 lokey=53 hikey=53 tune=14 loop_mode=loop_continuous loop_start=330785 loop_end=472551
+<region> sample=035_ped_mf.wav key=35 lokey=35 hikey=35 tune=14 loop_mode=loop_continuous loop_start=273674 loop_end=465814
+<region> sample=036_ped_mf.wav key=36 lokey=36 hikey=36 tune=14 loop_mode=loop_continuous loop_start=302316 loop_end=488521
+<region> sample=037_ped_mf.wav key=37 lokey=37 hikey=37 tune=14 loop_mode=loop_continuous loop_start=326388 loop_end=497725
+<region> sample=039_ped_s.wav key=39 lokey=38 hikey=38 tune=14 loop_mode=loop_continuous loop_start=301705 loop_end=489999
+<region> sample=024_ped_mf.wav key=24 lokey=24 hikey=24 tune=-11 loop_mode=loop_continuous loop_start=297360 loop_end=490645
+<region> sample=039_ped_s.wav key=39 lokey=39 hikey=39 tune=14 loop_mode=loop_continuous loop_start=301705 loop_end=489999
+<region> sample=040_ped_s.wav key=40 lokey=40 hikey=40 tune=14 loop_mode=loop_continuous loop_start=315518 loop_end=503085
+<region> sample=041_F1KM56_S.wav key=41 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=199072 loop_end=292697
+<region> sample=042_ped_s.wav key=42 lokey=42 hikey=42 tune=14 loop_mode=loop_continuous loop_start=264186 loop_end=459651
+<region> sample=043_ped_s.wav key=43 lokey=43 hikey=43 tune=14 loop_mode=loop_continuous loop_start=264615 loop_end=421081
+<region> sample=044_ped_s.wav key=44 lokey=44 hikey=44 tune=14 loop_mode=loop_continuous loop_start=264720 loop_end=443471
+<region> sample=045_ped_s.wav key=45 lokey=45 hikey=45 tune=14 loop_mode=loop_continuous loop_start=264594 loop_end=464641
+<region> sample=046_ped_s.wav key=46 lokey=46 hikey=46 tune=14 loop_mode=loop_continuous loop_start=240637 loop_end=437655
+<region> sample=047_ped_s.wav key=47 lokey=47 hikey=47 tune=14 loop_mode=loop_continuous loop_start=264351 loop_end=427615
+<region> sample=048_ped_s.wav key=48 lokey=48 hikey=48 tune=14 loop_mode=loop_continuous loop_start=243936 loop_end=417826
+<region> sample=025_ped_mf.wav key=25 lokey=25 hikey=25 tune=14 loop_mode=loop_continuous loop_start=327096 loop_end=503389
+<region> sample=049_ped_s.wav key=49 lokey=49 hikey=49 tune=14 loop_mode=loop_continuous loop_start=291852 loop_end=457381
+<region> sample=051_ped_s.wav key=51 lokey=51 hikey=51 tune=14 loop_mode=loop_continuous loop_start=215622 loop_end=338317
+<region> sample=052_ped_s.wav key=52 lokey=52 hikey=52 tune=14 loop_mode=loop_continuous loop_start=214465 loop_end=319881
+<region> sample=055_ped_s.wav key=55 lokey=55 hikey=55 tune=14 loop_mode=loop_continuous loop_start=275880 loop_end=430519
+<region> sample=056_ped_s.wav key=56 lokey=56 hikey=56 tune=14 loop_mode=loop_continuous loop_start=264501 loop_end=397849
+<region> sample=057_ped_s.wav key=57 lokey=57 hikey=57 tune=14 loop_mode=loop_continuous loop_start=241758 loop_end=382603
+<region> sample=058_ped_s.wav key=58 lokey=58 hikey=58 tune=14 loop_mode=loop_continuous loop_start=238854 loop_end=345577
+<region> sample=026_ped_s.wav key=26 lokey=26 hikey=26 tune=14 loop_mode=loop_continuous loop_start=326446 loop_end=490726
+<region> sample=059_ped_s.wav key=59 lokey=59 hikey=59 tune=14 loop_mode=loop_continuous loop_start=223608 loop_end=349207
+<region> sample=060_ped_s.wav key=60 lokey=60 hikey=60 tune=14 loop_mode=loop_continuous loop_start=289933 loop_end=436598
+<region> sample=061_ped_s.wav key=61 lokey=61 hikey=61 tune=14 loop_mode=loop_continuous loop_start=294435 loop_end=445652
+<region> sample=063_ped_s.wav key=63 lokey=62 hikey=62 tune=14 loop_mode=loop_continuous loop_start=292254 loop_end=418026
+<region> sample=063_ped_s.wav key=63 lokey=63 hikey=63 tune=14 loop_mode=loop_continuous loop_start=292254 loop_end=418026
+<region> sample=064_ped_s.wav key=64 lokey=64 hikey=64 tune=14 loop_mode=loop_continuous loop_start=278441 loop_end=420934
+<region> sample=065_ped_s.wav key=65 lokey=65 hikey=65 tune=14 loop_mode=loop_continuous loop_start=264819 loop_end=418753
+<region> sample=067_ped_s.wav key=67 lokey=67 hikey=67 tune=14 loop_mode=loop_continuous loop_start=226824 loop_end=356958
+<region> sample=068_ped_s.wav key=68 lokey=68 hikey=68 tune=14 loop_mode=loop_continuous loop_start=222656 loop_end=373185
+<region> sample=027_ped_s.wav key=27 lokey=27 hikey=27 tune=14 loop_mode=loop_continuous loop_start=344124 loop_end=497311
+<region> sample=069_ped_s.wav key=69 lokey=69 hikey=69 tune=14 loop_mode=loop_continuous loop_start=204732 loop_end=379699
+<region> sample=070_ped_s.wav key=70 lokey=70 hikey=70 tune=14 loop_mode=loop_continuous loop_start=191664 loop_end=363001
+<region> sample=071_ped_s.wav key=71 lokey=71 hikey=71 tune=14 loop_mode=loop_continuous loop_start=208362 loop_end=400753
+<region> sample=072_ped_s.wav key=72 lokey=72 hikey=72 tune=14 loop_mode=loop_continuous loop_start=253374 loop_end=406561
+<region> sample=073_ped_s.wav key=73 lokey=73 hikey=73 tune=14 loop_mode=loop_continuous loop_start=201372 loop_end=304464
+<region> sample=074_ped_s.wav key=74 lokey=74 hikey=74 tune=14 loop_mode=loop_continuous loop_start=215192 loop_end=295116
+<region> sample=075_ped_s.wav key=75 lokey=75 hikey=75 tune=14 loop_mode=loop_continuous loop_start=212208 loop_end=304041
+<region> sample=076_ped_s.wav key=76 lokey=76 hikey=76 tune=14 loop_mode=loop_continuous loop_start=282803 loop_end=402032
+<region> sample=077_ped_s.wav key=77 lokey=77 hikey=77 tune=14 loop_mode=loop_continuous loop_start=202106 loop_end=309703
+<region> sample=078_ped_s.wav key=78 lokey=78 hikey=78 tune=14 loop_mode=loop_continuous loop_start=182952 loop_end=304195
+<region> sample=028_ped_s.wav key=28 lokey=28 hikey=28 tune=14 loop_mode=loop_continuous loop_start=307098 loop_end=448669
+<region> sample=079_ped_s.wav key=79 lokey=79 hikey=79 tune=14 loop_mode=loop_continuous loop_start=162624 loop_end=249745
+<region> sample=080_ped_s.wav key=80 lokey=80 hikey=80 tune=14 loop_mode=loop_continuous loop_start=226512 loop_end=284593
+<region> sample=081_ped_s.wav key=81 lokey=81 hikey=81 tune=14 loop_mode=loop_continuous loop_start=185856 loop_end=278059
+<region> sample=082_ped_s.wav key=82 lokey=82 hikey=82 tune=14 loop_mode=loop_continuous loop_start=171336 loop_end=278059
+<region> sample=083_ped_s.wav key=83 lokey=83 hikey=83 tune=14 loop_mode=loop_continuous loop_start=221430 loop_end=296935
+<region> sample=084_ped_s.wav key=84 lokey=84 hikey=84 tune=14 loop_mode=loop_continuous loop_start=185130 loop_end=257005
+<region> sample=021_ped_mf.wav key=21 lokey=0 hikey=23 tune=14 loop_mode=loop_continuous loop_start=361788 loop_end=535249
+<region> sample=085_ped_s.wav key=85 lokey=85 hikey=85 tune=14 loop_mode=loop_continuous loop_start=184359 loop_end=270028
+<region> sample=086_ped_s.wav key=86 lokey=86 hikey=86 tune=14 loop_mode=loop_continuous loop_start=175840 loop_end=271805
+<region> sample=087_ped_s.wav key=87 lokey=87 hikey=87 tune=14 loop_mode=loop_continuous loop_start=201730 loop_end=270701
+<region> sample=088_ped_s.wav key=88 lokey=88 hikey=88 tune=14 loop_mode=loop_continuous loop_start=187954 loop_end=270719
+<region> sample=029_ped_s.wav key=29 lokey=29 hikey=29 tune=14 loop_mode=loop_continuous loop_start=281688 loop_end=430519
+<region> sample=089_ped_mf.wav key=89 lokey=89 hikey=89 tune=14 loop_mode=loop_continuous loop_start=169212 loop_end=237181
+<region> sample=090_ped_mf.wav key=90 lokey=90 hikey=90 tune=14 loop_mode=loop_continuous loop_start=165610 loop_end=296591
+<region> sample=091_ped_mf.wav key=91 lokey=91 hikey=91 tune=14 loop_mode=no_loop
+<region> sample=092_ped_mf.wav key=92 lokey=92 hikey=92 tune=14 loop_mode=no_loop
+<region> sample=093_ped_mf.wav key=93 lokey=93 hikey=93 tune=14 loop_mode=no_loop
+<region> sample=094_ped_mf.wav key=94 lokey=94 hikey=94 tune=14 loop_mode=no_loop
+<region> sample=095_ped_mf.wav key=95 lokey=95 hikey=95 tune=14 loop_mode=no_loop
+<region> sample=096_ped_mf.wav key=96 lokey=96 hikey=96 tune=14 loop_mode=no_loop
+<region> sample=097_ped_mf.wav key=97 lokey=97 hikey=97 tune=14 loop_mode=no_loop
+<region> sample=098_ped_mf.wav key=98 lokey=98 hikey=98 tune=14 loop_mode=no_loop
+<region> sample=030_ped_s.wav key=30 lokey=30 hikey=30 tune=14 loop_mode=loop_continuous loop_start=286770 loop_end=411643
+<region> sample=099_ped_mf.wav key=99 lokey=99 hikey=99 tune=14 loop_mode=no_loop
+<region> sample=100_ped_mf.wav key=100 lokey=100 hikey=100 tune=14 loop_mode=no_loop
+<region> sample=101_ped_mf.wav key=101 lokey=101 hikey=101 tune=14 loop_mode=no_loop
+<region> sample=102_ped_mf.wav key=102 lokey=102 hikey=102 tune=14 loop_mode=no_loop
+<region> sample=103_ped_mf.wav key=103 lokey=103 hikey=103 tune=14 loop_mode=no_loop
+<region> sample=104_ped_mf.wav key=104 lokey=104 hikey=104 tune=14 loop_mode=no_loop
+<region> sample=105_ped_mf.wav key=105 lokey=105 hikey=105 tune=14 loop_mode=no_loop
+<region> sample=106_ped_mf.wav key=106 lokey=106 hikey=106 tune=14 loop_mode=loop_continuous loop_start=0 loop_end=209330
+<region> sample=107_ped_mf.wav key=107 lokey=107 hikey=107 tune=14 loop_mode=no_loop
+<region> sample=108_ped_mf.wav key=108 lokey=108 hikey=127 tune=14 loop_mode=no_loop
+<region> sample=031_ped_s.wav key=31 lokey=31 hikey=31 tune=14 loop_mode=loop_continuous loop_start=318714 loop_end=492229
+<region> sample=032_ped_s.wav key=32 lokey=32 hikey=32 tune=14 loop_mode=loop_continuous loop_start=368082 loop_end=530707
+<region> sample=033_ped_mf.wav key=33 lokey=33 hikey=33 tune=14 loop_mode=loop_continuous loop_start=326388 loop_end=494185
+<region> sample=034_ped_mf.wav key=34 lokey=34 hikey=34 tune=14 loop_mode=loop_continuous loop_start=286740 loop_end=462325

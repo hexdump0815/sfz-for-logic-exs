@@ -1,0 +1,89 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Basses Staccato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Basses/Basses_stac_downbow_f\
+
+<group> volume=-4        // KB_stac_downbow
+<region> sample=KB_stac_downbow_f_A#3.wav key=58 lokey=57 hikey=58 lovel=111 hivel=127 volume=-9 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_A#3.wav key=58 lokey=57 hikey=58 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_G#3.wav key=56 lokey=55 hikey=56 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_G#3.wav key=56 lokey=55 hikey=56 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_F#3.wav key=54 lokey=53 hikey=54 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_F#3.wav key=54 lokey=53 hikey=54 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_E3.wav key=52 lokey=51 hikey=52 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_E3.wav key=52 lokey=51 hikey=52 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_D3.wav key=50 lokey=49 hikey=50 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_C3.wav key=48 lokey=47 hikey=48 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_C3.wav key=48 lokey=47 hikey=48 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_A#2.wav key=46 lokey=45 hikey=46 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_A#2.wav key=46 lokey=45 hikey=46 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_G#2.wav key=44 lokey=43 hikey=44 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_F#2.wav key=42 lokey=41 hikey=42 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_F#2.wav key=42 lokey=41 hikey=42 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_F#1.wav key=30 lokey=29 hikey=30 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_F#1.wav key=30 lokey=29 hikey=30 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_C4.wav key=60 lokey=59 hikey=108 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_D3.wav key=50 lokey=49 hikey=50 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_G#2.wav key=44 lokey=43 hikey=44 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_E2.wav key=40 lokey=39 hikey=40 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_C4.wav key=60 lokey=59 hikey=108 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_D2.wav key=38 lokey=37 hikey=38 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_G#1.wav key=32 lokey=31 hikey=32 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_A#1.wav key=34 lokey=33 hikey=34 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_C2.wav key=36 lokey=35 hikey=36 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_E1.wav key=28 lokey=27 hikey=28 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_D1.wav key=26 lokey=25 hikey=26 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_C1.wav key=24 lokey=24 hikey=24 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_mf_B0.wav key=23 lokey=21 hikey=23 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_E2.wav key=40 lokey=39 hikey=40 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_D2.wav key=38 lokey=37 hikey=38 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_C2.wav key=36 lokey=35 hikey=36 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_A#1.wav key=34 lokey=33 hikey=34 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_G#1.wav key=32 lokey=31 hikey=32 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_E1.wav key=28 lokey=27 hikey=28 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_D1.wav key=26 lokey=25 hikey=26 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_B0.wav key=23 lokey=21 hikey=23 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_downbow_f_C1.wav key=24 lokey=24 hikey=24 lovel=111 hivel=127 loop_mode=no_loop
+
+<group> volume=-4        // KB_stac_upbow
+<region> sample=KB_stac_upbow_f_A#3.wav key=58 lokey=57 hikey=58 lovel=111 hivel=127 volume=-9 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_G#3.wav key=56 lokey=55 hikey=56 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_F#3.wav key=54 lokey=53 hikey=54 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_E3.wav key=52 lokey=51 hikey=52 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_E3.wav key=52 lokey=51 hikey=52 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_D3.wav key=50 lokey=49 hikey=50 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_D3.wav key=50 lokey=49 hikey=50 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_C3.wav key=48 lokey=47 hikey=48 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_C3.wav key=48 lokey=47 hikey=48 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_A#2.wav key=46 lokey=45 hikey=46 lovel=111 hivel=127 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_A#2.wav key=46 lokey=45 hikey=46 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_G#2.wav key=44 lokey=43 hikey=44 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_G#2.wav key=44 lokey=43 hikey=44 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_F#2.wav key=42 lokey=41 hikey=42 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_F#2.wav key=42 lokey=41 hikey=42 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_F#1.wav key=30 lokey=29 hikey=30 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_F#1.wav key=30 lokey=29 hikey=30 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_A#3.wav key=58 lokey=57 hikey=58 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_G#3.wav key=56 lokey=55 hikey=56 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_C4.wav key=60 lokey=59 hikey=108 lovel=111 hivel=127 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_C4.wav key=60 lokey=59 hikey=108 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_F#3.wav key=54 lokey=53 hikey=54 lovel=0 hivel=110 volume=-6 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_D2.wav key=38 lokey=37 hikey=38 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_E2.wav key=40 lokey=39 hikey=40 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_B0.wav key=23 lokey=21 hikey=23 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_C2.wav key=36 lokey=35 hikey=36 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_A#1.wav key=34 lokey=33 hikey=34 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_G#1.wav key=32 lokey=31 hikey=32 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_C1.wav key=24 lokey=24 hikey=24 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_D1.wav key=26 lokey=25 hikey=26 lovel=0 hivel=110 loop_mode=no_loop
+<region> sample=KB_stac_upbow_mf_E1.wav key=28 lokey=27 hikey=28 lovel=0 hivel=110 volume=-3 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_E2.wav key=40 lokey=39 hikey=40 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_D2.wav key=38 lokey=37 hikey=38 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_C2.wav key=36 lokey=35 hikey=36 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_A#1.wav key=34 lokey=33 hikey=34 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_G#1.wav key=32 lokey=31 hikey=32 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_E1.wav key=28 lokey=27 hikey=28 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_D1.wav key=26 lokey=25 hikey=26 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_B0.wav key=23 lokey=21 hikey=23 lovel=111 hivel=127 loop_mode=no_loop
+<region> sample=KB_stac_upbow_f_C1.wav key=24 lokey=24 hikey=24 lovel=111 hivel=127 loop_mode=no_loop

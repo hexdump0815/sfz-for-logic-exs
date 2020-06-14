@@ -1,0 +1,41 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Trombones Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Trombones/Trombones_nA_sus_ff\
+
+<group> lovel=89 hivel=127        // PO-3L_nA_sus_ff
+<region> sample=PO-3L_nA_sus_ff_G#3.wav key=56 lokey=56 hikey=57 volume=-2 loop_mode=loop_continuous loop_start=92702 loop_end=305127
+<region> sample=PO-3L_nA_sus_ff_C3.wav key=48 lokey=48 hikey=49 volume=-2 loop_mode=loop_continuous loop_start=105840 loop_end=364924
+<region> sample=PO-3L_nA_sus_ff_F#3.wav key=54 lokey=54 hikey=55 volume=-2 loop_mode=loop_continuous loop_start=77616 loop_end=364686
+<region> sample=PO-3L_nA_sus_ff_E3.wav key=52 lokey=52 hikey=53 volume=-2 loop_mode=loop_continuous loop_start=79985 loop_end=148230
+<region> sample=PO-3L_nA_sus_ff_D3.wav key=50 lokey=50 hikey=51 volume=-2 loop_mode=loop_continuous loop_start=91728 loop_end=364924
+<region> sample=PO-3L_nA_sus_ff_A#3.wav key=58 lokey=58 hikey=59 volume=-2 loop_mode=loop_continuous loop_start=120422 loop_end=364924
+<region> sample=PO-3L_nA_sus_ff_C4.wav key=60 lokey=60 hikey=61 volume=-2 loop_mode=loop_continuous loop_start=49224 loop_end=138666
+<region> sample=PO-3L_nA_sus_ff_D4.wav key=62 lokey=62 hikey=63 volume=-2 loop_mode=loop_continuous loop_start=129830 loop_end=364924
+<region> sample=PO-3L_nA_sus_ff_E4.wav key=64 lokey=64 hikey=65 volume=-2 loop_mode=loop_continuous loop_start=101136 loop_end=364924
+<region> sample=PO-3L_nA_sus_ff_A#2.wav key=46 lokey=46 hikey=47 volume=-2 loop_mode=loop_continuous loop_start=98784 loop_end=364924
+<region> sample=PO-3L_nA_sus_ff_F#2.wav key=42 lokey=42 hikey=43 volume=-2 loop_mode=loop_continuous loop_start=89376 loop_end=347625
+<region> sample=PO-3L_nA_sus_ff_F2.wav key=41 lokey=41 hikey=41 volume=-2 loop_mode=loop_continuous loop_start=125126 loop_end=364417
+<region> sample=PO-3L_nA_sus_ff_E2.wav key=40 lokey=21 hikey=40 volume=-2 loop_mode=loop_continuous loop_start=98313 loop_end=364924
+<region> sample=PO-3L_nA_sus_ff_F#4.wav key=66 lokey=66 hikey=66 volume=-2 loop_mode=loop_continuous loop_start=98313 loop_end=342332
+<region> sample=PO-3L_nA_sus_ff_G4.wav key=67 lokey=67 hikey=108 volume=-2 loop_mode=loop_continuous loop_start=104899 loop_end=359743
+<region> sample=PO-3L_nA_sus_ff_G#2.wav key=44 lokey=44 hikey=45 volume=-2 loop_mode=loop_continuous loop_start=88482 loop_end=199941
+
+<group> lovel=0 hivel=88        // PO-3L_nA_sus_mf
+<region> sample=PO-3L_nA_sus_mf_F#2.wav key=42 lokey=42 hikey=43 volume=-5 loop_mode=loop_continuous loop_start=49862 loop_end=323635
+<region> sample=PO-3L_nA_sus_mf_E2.wav key=40 lokey=21 hikey=40 volume=-5 loop_mode=loop_continuous loop_start=59270 loop_end=334070
+<region> sample=PO-3L_nA_sus_mf_G#2.wav key=44 lokey=44 hikey=45 volume=-5 loop_mode=loop_continuous loop_start=109132 loop_end=341510
+<region> sample=PO-3L_nA_sus_mf_A#2.wav key=46 lokey=46 hikey=47 volume=-5 loop_mode=loop_continuous loop_start=96902 loop_end=354682
+<region> sample=PO-3L_nA_sus_mf_C3.wav key=48 lokey=48 hikey=49 volume=-5 loop_mode=loop_continuous loop_start=66796 loop_end=357505
+<region> sample=PO-3L_nA_sus_mf_D3.wav key=50 lokey=50 hikey=51 volume=-5 loop_mode=loop_continuous loop_start=89376 loop_end=355622
+<region> sample=PO-3L_nA_sus_mf_E3.wav key=52 lokey=52 hikey=53 volume=-5 loop_mode=loop_continuous loop_start=61152 loop_end=345274
+<region> sample=PO-3L_nA_sus_mf_F#3.wav key=54 lokey=54 hikey=55 volume=-5 loop_mode=loop_continuous loop_start=84672 loop_end=353741
+<region> sample=PO-3L_nA_sus_mf_G#3.wav key=56 lokey=56 hikey=57 volume=-5 loop_mode=loop_continuous loop_start=112896 loop_end=349978
+<region> sample=PO-3L_nA_sus_mf_A#3.wav key=58 lokey=58 hikey=59 volume=-5 loop_mode=loop_continuous loop_start=67737 loop_end=338057
+<region> sample=PO-3L_nA_sus_mf_C4.wav key=60 lokey=60 hikey=61 volume=-5 loop_mode=loop_continuous loop_start=74323 loop_end=326458
+<region> sample=PO-3L_nA_sus_mf_F2.wav key=41 lokey=41 hikey=41 volume=-5 loop_mode=loop_continuous loop_start=66796 loop_end=356563
+<region> sample=PO-3L_nA_sus_mf_D4.wav key=62 lokey=62 hikey=63 volume=-5 loop_mode=loop_continuous loop_start=121363 loop_end=327399
+<region> sample=PO-3L_nA_sus_mf_E4.wav key=64 lokey=64 hikey=65 volume=-5 loop_mode=loop_continuous loop_start=62092 loop_end=350919
+<region> sample=PO-3L_nA_sus_mf_F#4.wav key=66 lokey=66 hikey=66 volume=-5 loop_mode=loop_continuous loop_start=68678 loop_end=319872
+<region> sample=PO-3L_nA_sus_mf_G4.wav key=67 lokey=67 hikey=108 volume=-5 loop_mode=loop_continuous loop_start=172166 loop_end=357505

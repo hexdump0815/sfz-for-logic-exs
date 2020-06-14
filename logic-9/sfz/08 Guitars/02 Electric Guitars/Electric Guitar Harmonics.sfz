@@ -1,0 +1,37 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Electric Guitar Harmonics.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/07 Guitars/01 Electric Guitars/Electric Guitar Harmonics\
+
+<group> lovel=0 hivel=55        // Group #1
+<region> sample=YT-CLEAN-HA_E2X01.aif key=52 lokey=48 hikey=54 volume=-14 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_E4X01.aif key=76 lokey=74 hikey=79 volume=-14 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_B3X01.aif key=71 lokey=69 hikey=73 volume=-14 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_G3X01.aif key=67 lokey=65 hikey=68 volume=-18 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_A2X01.aif key=57 lokey=55 hikey=59 volume=-14 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_D3X01.aif key=62 lokey=60 hikey=64 volume=-14 loop_mode=no_loop
+
+<group> lovel=56 hivel=85        // Group #2
+<region> sample=YT-CLEAN-HA_E2X02.aif key=52 lokey=48 hikey=54 volume=-10 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_E4X02.aif key=76 lokey=74 hikey=79 volume=-10 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_B3X02.aif key=71 lokey=69 hikey=73 volume=-11 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_G3X02.aif key=67 lokey=65 hikey=68 volume=-7 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_A2X02.aif key=57 lokey=55 hikey=59 volume=-8 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_D3X02.aif key=62 lokey=60 hikey=64 volume=-5 loop_mode=no_loop
+
+<group> lovel=86 hivel=110        // Group #3
+<region> sample=YT-CLEAN-HA_E2X03.aif key=52 lokey=48 hikey=54 volume=-4 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_E4X03.aif key=76 lokey=74 hikey=79 volume=-3 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_B3X03.aif key=71 lokey=69 hikey=73 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_G3X03.aif key=67 lokey=65 hikey=68 volume=-1 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_A2X03.aif key=57 lokey=55 hikey=59 volume=-3 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_D3X03.aif key=62 lokey=60 hikey=64 volume=-5 loop_mode=no_loop
+
+<group> lovel=111 hivel=127        // Group #4
+<region> sample=YT-CLEAN-HA_E2X04.aif key=52 lokey=48 hikey=54 volume=-3 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_E4X04.aif key=76 lokey=74 hikey=79 volume=-1 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_B3X04.aif key=71 lokey=69 hikey=73 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_G3X04.aif key=67 lokey=65 hikey=68 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_A2X04.aif key=57 lokey=55 hikey=59 volume=-4 loop_mode=no_loop
+<region> sample=YT-CLEAN-HA_D3X04.aif key=62 lokey=60 hikey=64 volume=-3 loop_mode=no_loop

@@ -1,0 +1,42 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Flutes + 2 Octaves.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Church Organ/Organ Ged 8,4,2\
+
+<group>        // Gedackt 8+4+2
+<region> sample=Organ Ged 8,4,2  2 c.aif key=36 lokey=0 hikey=37 loop_mode=loop_continuous loop_start=169043 loop_end=256431
+<region> sample=Organ Ged 8,4,2  6 d#.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=79090 loop_end=149871
+<region> sample=Organ Ged 8,4,2  6 c.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=148901 loop_end=230563
+<region> sample=Organ Ged 8,4,2  6 f#.aif key=90 lokey=89 hikey=127 loop_mode=loop_continuous loop_start=121217 loop_end=280189
+<region> sample=Organ Ged 8,4,2  5 d#.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=114392 loop_end=223060
+<region> sample=Organ Ged 8,4,2  3 f#.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=96477 loop_end=220710
+<region> sample=Organ Ged 8,4,2  3 d#.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=215127 loop_end=541218
+<region> sample=Organ Ged 8,4,2  3 c.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=156251 loop_end=304466
+<region> sample=Organ Ged 8,4,2  3a.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=213405 loop_end=307264
+<region> sample=Organ Ged 8,4,2  4 c.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=57775 loop_end=121968
+<region> sample=Organ Ged 8,4,2  5 c.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=125210 loop_end=230630
+<region> sample=Organ Ged 8,4,2  4 f#.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=173827 loop_end=307091
+<region> sample=Organ Ged 8,4,2  4 d#.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=138730 loop_end=254668
+<region> sample=Organ Ged 8,4,2  4a.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=183807 loop_end=288731
+<region> sample=Organ Ged 8,4,2  2 d#.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=178624 loop_end=233624
+<region> sample=Organ Ged 8,4,2  2 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=179251 loop_end=330248
+<region> sample=Organ Ged 8,4,2  2a.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=211474 loop_end=373166
+<region> sample=Organ Ged 8,4,2  5a.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=155594 loop_end=227617
+<region> sample=Organ Ged 8,4,2  5 f#.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=202044 loop_end=332284
+
+<group> volume=-11 locc63=126 hicc63=126        // Pedal 16+8
+<region> sample=Organ Ped 16,8  1 c.aif key=36 lokey=0 hikey=37 loop_mode=loop_continuous loop_start=211283 loop_end=595233
+<region> sample=Organ Ped 16,8  2 d#.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=100043 loop_end=442262
+<region> sample=Organ Ped 16,8  2 c.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=110170 loop_end=178249
+<region> sample=Organ Ped 16,8  1 d#.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=77031 loop_end=403030
+<region> sample=Organ Ped 16,8  1 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=133007 loop_end=301022
+<region> sample=Organ Ped 16,8  1a.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=66291 loop_end=263949
+
+<group> volume=-9 locc63=127 hicc63=127        // Pedal 16+8+8
+<region> sample=Organ Ped 16,8,8  1 c.aif key=36 lokey=0 hikey=37 volume=3 loop_mode=loop_continuous loop_start=219944 loop_end=457852
+<region> sample=Organ Ped 16,8,8  2 d#.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=333616 loop_end=564117
+<region> sample=Organ Ped 16,8,8  2 c.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=200346 loop_end=523799
+<region> sample=Organ Ped 16,8,8  1 d#.aif key=39 lokey=38 hikey=40 volume=2 loop_mode=loop_continuous loop_start=148817 loop_end=477154
+<region> sample=Organ Ped 16,8,8  1 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=216888 loop_end=370455
+<region> sample=Organ Ped 16,8,8  1a.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=392407 loop_end=613123

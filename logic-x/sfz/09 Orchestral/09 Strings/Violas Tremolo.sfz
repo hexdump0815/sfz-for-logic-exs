@@ -1,0 +1,27 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Violas Tremolo.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Violas/Violas-L_tremolo_mf\
+
+<group>        // VA-L_tremolo_mf
+<region> sample=VA-L_tremolo_mf_E4.wav key=64 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=33161 loop_end=211579
+<region> sample=VA-L_tremolo_mf_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=62196 loop_end=203453
+<region> sample=VA-L_tremolo_mf_C4.wav key=60 lokey=59 hikey=60 loop_mode=loop_continuous loop_start=38491 loop_end=212381
+<region> sample=VA-L_tremolo_mf_A#3.wav key=58 lokey=57 hikey=58 loop_mode=loop_continuous loop_start=23968 loop_end=202693
+<region> sample=VA-L_tremolo_mf_C6.wav key=84 lokey=83 hikey=108 loop_mode=loop_continuous loop_start=33807 loop_end=160067
+<region> sample=VA-L_tremolo_mf_A#5.wav key=82 lokey=81 hikey=82 loop_mode=loop_continuous loop_start=13523 loop_end=204349
+<region> sample=VA-L_tremolo_mf_G#5.wav key=80 lokey=79 hikey=80 loop_mode=loop_continuous loop_start=71462 loop_end=217264
+<region> sample=VA-L_tremolo_mf_F#5.wav key=78 lokey=77 hikey=78 loop_mode=loop_continuous loop_start=54522 loop_end=178140
+<region> sample=VA-L_tremolo_mf_E5.wav key=76 lokey=75 hikey=76 loop_mode=loop_continuous loop_start=95682 loop_end=213382
+<region> sample=VA-L_tremolo_mf_D5.wav key=74 lokey=73 hikey=74 loop_mode=loop_continuous loop_start=39985 loop_end=169686
+<region> sample=VA-L_tremolo_mf_C5.wav key=72 lokey=71 hikey=72 loop_mode=loop_continuous loop_start=76060 loop_end=214863
+<region> sample=VA-L_tremolo_mf_A#4.wav key=70 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=39801 loop_end=211432
+<region> sample=VA-L_tremolo_mf_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=14304 loop_end=199589
+<region> sample=VA-L_tremolo_mf_F#4.wav key=66 lokey=65 hikey=66 volume=2 loop_mode=loop_continuous loop_start=29557 loop_end=203222
+<region> sample=VA-L_tremolo_mf_G#3.wav key=56 lokey=55 hikey=56 loop_mode=loop_continuous loop_start=79837 loop_end=203304
+<region> sample=VA-L_tremolo_mf_F#3.wav key=54 lokey=53 hikey=54 volume=4 loop_mode=loop_continuous loop_start=25633 loop_end=172026
+<region> sample=VA-L_tremolo_mf_E3.wav key=52 lokey=51 hikey=52 loop_mode=loop_continuous loop_start=34496 loop_end=190562
+<region> sample=VA-L_tremolo_mf_D3.wav key=50 lokey=50 hikey=50 loop_mode=loop_continuous loop_start=26974 loop_end=173408
+<region> sample=VA-L_tremolo_mf_D3.wav key=50 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=26974 loop_end=173408
+<region> sample=VA-L_tremolo_mf_C3.wav key=48 lokey=21 hikey=48 loop_mode=loop_continuous loop_start=66538 loop_end=206334

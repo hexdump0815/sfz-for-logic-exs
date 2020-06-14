@@ -1,0 +1,44 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Basses Trill 1.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Basses/Basses-L_trills-ht\
+
+<group>        // KB-L_trills-ht
+<region> sample=KB-L_trills-ht_A#3.wav key=58 lokey=57 hikey=57 loop_mode=loop_continuous loop_start=92274 loop_end=288046
+<region> sample=KB-L_trills-ht_C3.wav key=48 lokey=47 hikey=47 loop_mode=loop_continuous loop_start=89413 loop_end=264169
+<region> sample=KB-L_trills-ht_A#2.wav key=46 lokey=45 hikey=45 loop_mode=loop_continuous loop_start=85103 loop_end=258509
+<region> sample=KB-L_trills-ht_G#2.wav key=44 lokey=43 hikey=43 loop_mode=loop_continuous loop_start=111306 loop_end=273317
+<region> sample=KB-L_trills-ht_D3.wav key=50 lokey=49 hikey=49 loop_mode=loop_continuous loop_start=100836 loop_end=278647
+<region> sample=KB-L_trills-ht_F#2.wav key=42 lokey=41 hikey=41 loop_mode=loop_continuous loop_start=65006 loop_end=245730
+<region> sample=KB-L_trills-ht_E2.wav key=40 lokey=39 hikey=39 loop_mode=loop_continuous loop_start=98890 loop_end=273358
+<region> sample=KB-L_trills-ht_D2.wav key=38 lokey=37 hikey=37 loop_mode=loop_continuous loop_start=64390 loop_end=218454
+<region> sample=KB-L_trills-ht_E3.wav key=52 lokey=52 hikey=52 loop_mode=loop_continuous loop_start=127829 loop_end=257779
+<region> sample=KB-L_trills-ht_D3.wav key=50 lokey=50 hikey=50 loop_mode=loop_continuous loop_start=100836 loop_end=278647
+<region> sample=KB-L_trills-ht_C3.wav key=48 lokey=48 hikey=48 loop_mode=loop_continuous loop_start=89413 loop_end=264169
+<region> sample=KB-L_trills-ht_F#3.wav key=54 lokey=53 hikey=53 loop_mode=loop_continuous loop_start=80177 loop_end=252489
+<region> sample=KB-L_trills-ht_G#3.wav key=56 lokey=55 hikey=55 loop_mode=loop_continuous loop_start=116381 loop_end=255707
+<region> sample=KB-L_trills-ht_C4.wav key=60 lokey=59 hikey=59 loop_mode=loop_continuous loop_start=97374 loop_end=295174
+<region> sample=KB-L_trills-ht_C4.wav key=60 lokey=60 hikey=108 loop_mode=loop_continuous loop_start=97374 loop_end=295174
+<region> sample=KB-L_trills-ht_G#3.wav key=56 lokey=56 hikey=56 loop_mode=loop_continuous loop_start=116381 loop_end=255707
+<region> sample=KB-L_trills-ht_A#3.wav key=58 lokey=58 hikey=58 loop_mode=loop_continuous loop_start=92274 loop_end=288046
+<region> sample=KB-L_trills-ht_E3.wav key=52 lokey=51 hikey=51 loop_mode=loop_continuous loop_start=127829 loop_end=257779
+<region> sample=KB-L_trills-ht_C2.wav key=36 lokey=35 hikey=35 loop_mode=loop_continuous loop_start=72091 loop_end=277263
+<region> sample=KB-L_trills-ht_A#1.wav key=34 lokey=33 hikey=33 loop_mode=loop_continuous loop_start=103809 loop_end=298046
+<region> sample=KB-L_trills-ht_G#1.wav key=32 lokey=31 hikey=31 loop_mode=loop_continuous loop_start=85260 loop_end=258822
+<region> sample=KB-L_trills-ht_F#1.wav key=30 lokey=29 hikey=30 loop_mode=loop_continuous loop_start=105574 loop_end=274205
+<region> sample=KB-L_trills-ht_E1.wav key=28 lokey=27 hikey=27 loop_mode=loop_continuous loop_start=75110 loop_end=319519
+<region> sample=KB-L_trills-ht_D1.wav key=26 lokey=25 hikey=25 loop_mode=loop_continuous loop_start=64220 loop_end=302618
+<region> sample=KB-L_trills-ht_C1.wav key=24 lokey=24 hikey=24 loop_mode=loop_continuous loop_start=71411 loop_end=302919
+<region> sample=KB-L_trills-ht_C1.wav key=24 lokey=21 hikey=23 loop_mode=loop_continuous loop_start=71411 loop_end=302919
+<region> sample=KB-L_trills-ht_E1.wav key=28 lokey=28 hikey=28 loop_mode=loop_continuous loop_start=75110 loop_end=319519
+<region> sample=KB-L_trills-ht_D1.wav key=26 lokey=26 hikey=26 loop_mode=loop_continuous loop_start=64220 loop_end=302618
+<region> sample=KB-L_trills-ht_F#3.wav key=54 lokey=54 hikey=54 loop_mode=loop_continuous loop_start=80177 loop_end=252489
+<region> sample=KB-L_trills-ht_A#2.wav key=46 lokey=46 hikey=46 loop_mode=loop_continuous loop_start=85103 loop_end=258509
+<region> sample=KB-L_trills-ht_G#2.wav key=44 lokey=44 hikey=44 loop_mode=loop_continuous loop_start=111306 loop_end=273317
+<region> sample=KB-L_trills-ht_F#2.wav key=42 lokey=42 hikey=42 loop_mode=loop_continuous loop_start=65006 loop_end=245730
+<region> sample=KB-L_trills-ht_E2.wav key=40 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=98890 loop_end=273358
+<region> sample=KB-L_trills-ht_D2.wav key=38 lokey=38 hikey=38 loop_mode=loop_continuous loop_start=64390 loop_end=218454
+<region> sample=KB-L_trills-ht_C2.wav key=36 lokey=36 hikey=36 loop_mode=loop_continuous loop_start=72091 loop_end=277263
+<region> sample=KB-L_trills-ht_A#1.wav key=34 lokey=34 hikey=34 loop_mode=loop_continuous loop_start=103809 loop_end=298046
+<region> sample=KB-L_trills-ht_G#1.wav key=32 lokey=32 hikey=32 loop_mode=loop_continuous loop_start=85260 loop_end=258822

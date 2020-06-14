@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tiny Rowing Boat.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/Tiny Rowing Boat\
+
+<group>
+<region> sample=6_tiny rowing boat.aif key=60 lokey=36 hikey=107 loop_mode=loop_continuous loop_start=0 loop_end=646544

@@ -1,0 +1,28 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Nordbass C.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Nordbass C\
+
+<group> volume=3        // Group #1
+<region> sample=NordC_48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=87648 loop_end=217460
+<region> sample=NordC_45.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=88395 loop_end=221165
+<region> sample=NordC_51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=94720 loop_end=247297
+<region> sample=NordC_66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=87040 loop_end=218112
+<region> sample=NordC_63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=89088 loop_end=221184
+<region> sample=NordC_60.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=89088 loop_end=221185
+<region> sample=NordC_84.aif key=84 lokey=83 hikey=127 loop_mode=loop_continuous loop_start=89088 loop_end=221184
+<region> sample=NordC_24.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=87999 loop_end=221543
+<region> sample=NordC_30.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=88068 loop_end=220528
+<region> sample=NordC_36.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=89088 loop_end=221185
+<region> sample=NordC_33.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=88110 loop_end=220275
+<region> sample=NordC_42.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=87604 loop_end=217800
+<region> sample=NordC_54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=88218 loop_end=222066
+<region> sample=NordC_57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=87696 loop_end=221184
+<region> sample=NordC_27.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=87605 loop_end=219960
+<region> sample=NordC_39.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=88077 loop_end=221842
+<region> sample=NordC_69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=116973 loop_end=227703
+<region> sample=NordC_72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=107543 loop_end=219345
+<region> sample=NordC_75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=89181 loop_end=220568
+<region> sample=NordC_78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=88064 loop_end=224257
+<region> sample=NordC_81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=94140 loop_end=213881

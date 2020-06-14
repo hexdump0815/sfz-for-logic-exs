@@ -1,0 +1,53 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cello (Arco).exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/Cello (Arco)\
+
+<group> volume=3 locc1=0 hicc1=10        // Cello mf ln
+<region> sample=Vcl mf ln 4 c.aif key=60 lokey=59 hikey=61 volume=-7 tune=-2 loop_mode=loop_continuous loop_start=14211 loop_end=293436
+<region> sample=Vcl mf ln 5 d#.aif key=75 lokey=74 hikey=127 volume=-7 loop_mode=loop_continuous loop_start=43125 loop_end=317212
+<region> sample=Vcl mf ln 3 d#.aif key=51 lokey=50 hikey=52 volume=-6 loop_mode=loop_continuous loop_start=43131 loop_end=331061
+<region> sample=Vcl mf ln 3 f#.aif key=54 lokey=53 hikey=55 volume=-5 loop_mode=loop_continuous loop_start=35181 loop_end=321002
+<region> sample=Vcl mf ln 4 d#.aif key=63 lokey=62 hikey=64 volume=-5 loop_mode=loop_continuous loop_start=22697 loop_end=292980
+<region> sample=Vcl mf ln 3a.aif key=57 lokey=56 hikey=58 volume=-7 loop_mode=loop_continuous loop_start=38739 loop_end=334098
+<region> sample=Vcl mf ln 4 f#.aif key=66 lokey=65 hikey=67 volume=-8 tune=1 loop_mode=loop_continuous loop_start=21865 loop_end=342342
+<region> sample=Vcl mf ln 4a.aif key=69 lokey=68 hikey=70 volume=-5 loop_mode=loop_continuous loop_start=9856 loop_end=283867
+<region> sample=Vcl mf ln 5 c.aif key=72 lokey=71 hikey=73 volume=-6 loop_mode=loop_continuous loop_start=65823 loop_end=397464
+<region> sample=Vcl mf ln 2 f#.aif key=42 lokey=41 hikey=43 volume=-2 loop_mode=loop_continuous loop_start=14223 loop_end=311868
+<region> sample=Vcl mf ln 2 d#.aif key=39 lokey=38 hikey=40 volume=-2 loop_mode=loop_continuous loop_start=8004 loop_end=332588
+<region> sample=Vcl mf ln 3 c.aif key=48 lokey=47 hikey=49 volume=-3 loop_mode=loop_continuous loop_start=9126 loop_end=287496
+<region> sample=Vcl mf ln 2a.aif key=45 lokey=44 hikey=46 volume=-5 loop_mode=loop_continuous loop_start=7403 loop_end=333512
+<region> sample=Vcl mf ln 2 c#.aif key=37 lokey=0 hikey=37 volume=-4 loop_mode=loop_continuous loop_start=24191 loop_end=420115
+
+<group> locc1=117 hicc1=127        // Cello mf ln mrc
+<region> sample=Vcl mf mrc ln  4 c.aif key=60 lokey=59 hikey=61 volume=-2 loop_mode=loop_continuous loop_start=17756 loop_end=296982
+<region> sample=Vcl mf mrc ln  5 d#.aif key=75 lokey=74 hikey=127 volume=-1 loop_mode=loop_continuous loop_start=18733 loop_end=292820
+<region> sample=Vcl mf mrc ln  3 d#.aif key=51 lokey=50 hikey=52 volume=-1 loop_mode=loop_continuous loop_start=25923 loop_end=313853
+<region> sample=Vcl mf mrc ln  3 f#.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=19603 loop_end=305425
+<region> sample=Vcl mf mrc ln  4 d#.aif key=63 lokey=62 hikey=64 volume=-1 loop_mode=loop_continuous loop_start=28131 loop_end=298413
+<region> sample=Vcl mf mrc ln  3a.aif key=57 lokey=56 hikey=58 volume=-4 loop_mode=loop_continuous loop_start=25125 loop_end=320484
+<region> sample=Vcl mf mrc ln  4 f#.aif key=66 lokey=65 hikey=67 volume=-1 loop_mode=loop_continuous loop_start=24125 loop_end=344602
+<region> sample=Vcl mf mrc ln  4a.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=16993 loop_end=291004
+<region> sample=Vcl mf mrc ln  5 c.aif key=72 lokey=71 hikey=73 volume=-3 loop_mode=loop_continuous loop_start=20542 loop_end=352184
+<region> sample=Vcl mf mrc ln  2 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=21748 loop_end=319393
+<region> sample=Vcl mf mrc ln  2 d#.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=22414 loop_end=346999
+<region> sample=Vcl mf mrc ln  3 c.aif key=48 lokey=47 hikey=49 volume=-1 loop_mode=loop_continuous loop_start=27739 loop_end=306110
+<region> sample=Vcl mf mrc ln  2a.aif key=45 lokey=44 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=27795 loop_end=353904
+<region> sample=Vcl mf mrc ln  2 c#.aif key=37 lokey=0 hikey=37 loop_mode=loop_continuous loop_start=26144 loop_end=422068
+
+<group> locc1=11 hicc1=116        // Cello mf ln sneakin
+<region> sample=Vcl mf sneakin  4 c.aif key=60 lokey=59 hikey=61 volume=-6 loop_mode=loop_continuous loop_start=46859 loop_end=326084
+<region> sample=Vcl mf sneakin  5 d#.aif key=75 lokey=74 hikey=127 volume=-6 loop_mode=loop_continuous loop_start=54906 loop_end=328992
+<region> sample=Vcl mf sneakin  3 d#.aif key=51 lokey=50 hikey=52 volume=-4 loop_mode=loop_continuous loop_start=69822 loop_end=357752
+<region> sample=Vcl mf sneakin  3 f#.aif key=54 lokey=53 hikey=55 volume=-2 loop_mode=loop_continuous loop_start=80868 loop_end=366689
+<region> sample=Vcl mf sneakin  4 d#.aif key=63 lokey=62 hikey=64 volume=-5 loop_mode=loop_continuous loop_start=57668 loop_end=327951
+<region> sample=Vcl mf sneakin  3a.aif key=57 lokey=56 hikey=58 volume=-5 loop_mode=loop_continuous loop_start=76240 loop_end=371599
+<region> sample=Vcl mf sneakin  4 f#.aif key=66 lokey=65 hikey=67 volume=-8 loop_mode=loop_continuous loop_start=70083 loop_end=390561
+<region> sample=Vcl mf sneakin  4a.aif key=69 lokey=68 hikey=70 volume=-4 loop_mode=loop_continuous loop_start=62127 loop_end=336139
+<region> sample=Vcl mf sneakin  5 c.aif key=72 lokey=71 hikey=73 volume=-5 loop_mode=loop_continuous loop_start=74136 loop_end=405777
+<region> sample=Vcl mf sneakin  2 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=98733 loop_end=396378
+<region> sample=Vcl mf sneakin  2 d#.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=53347 loop_end=377931
+<region> sample=Vcl mf sneakin  3 c.aif key=48 lokey=47 hikey=49 volume=-3 loop_mode=loop_continuous loop_start=56550 loop_end=334920
+<region> sample=Vcl mf sneakin  2a.aif key=45 lokey=44 hikey=46 volume=-5 loop_mode=loop_continuous loop_start=77135 loop_end=403243
+<region> sample=Vcl mf sneakin  2 c#.aif key=37 lokey=0 hikey=37 volume=-3 loop_mode=loop_continuous loop_start=72547 loop_end=468470

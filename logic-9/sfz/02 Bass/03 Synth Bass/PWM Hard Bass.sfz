@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PWM Hard Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/PWM Hard Bass\
+
+<group>        // Group #1
+<region> sample=MegaHard96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=21566 loop_end=21819
+<region> sample=MegaHard90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=29483 loop_end=30676
+<region> sample=MegaHard84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=50119 loop_end=90029
+<region> sample=MegaHard78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=51980 loop_end=90127
+<region> sample=MegaHard72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=56585 loop_end=97288
+<region> sample=MegaHard66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=43204 loop_end=81443
+<region> sample=MegaHard60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=55195 loop_end=106893
+<region> sample=MegaHard54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=62967 loop_end=108195
+<region> sample=MegaHard48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=79297 loop_end=125748
+<region> sample=MegaHard42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=50340 loop_end=98989
+<region> sample=MegaHard36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=78323 loop_end=126891
+<region> sample=MegaHard33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=73351 loop_end=118270

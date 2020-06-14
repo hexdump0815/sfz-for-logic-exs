@@ -1,0 +1,12 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - SFX Kit.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/05 Synthesizers/08 Synth Waveforms/Digital Waveforms/SFX Kit INIT\
+
+<group>        // Group #1
+<region> sample=vintage fx 03.wav key=91 lokey=84 hikey=127 loop_mode=loop_continuous loop_start=0 loop_end=190366
+<region> sample=vintage fx 02.wav key=79 lokey=72 hikey=83 loop_mode=loop_continuous loop_start=0 loop_end=254583
+<region> sample=vintage fx 01.wav key=67 lokey=60 hikey=71 loop_mode=loop_continuous loop_start=67073 loop_end=228369
+<region> sample=sy fm nature.wav key=55 lokey=48 hikey=59 loop_mode=loop_continuous loop_start=64512 loop_end=259584
+<region> sample=sy alias fx.wav key=43 lokey=0 hikey=47 loop_mode=no_loop

@@ -1,0 +1,27 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sawtwo TB.exs    by EXS2SFZ 1.1.7
+
+//
+// Attention!! The original files uses the unsupported sfz parameter loop_tune - your sfz-samples might be out of tune! //
+//
+
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Sawtwo Bass\
+
+<group>        // Group #1
+<region> sample=Sawtwo96.wav key=96 lokey=94 hikey=127 tune=-3 loop_mode=loop_continuous loop_start=37203 loop_end=37371
+// (unsupported) loop_tune=-3
+
+<region> sample=Sawtwo90.wav key=90 lokey=88 hikey=93 tune=-3 loop_mode=loop_continuous loop_start=45464 loop_end=45582
+// (unsupported) loop_tune=-10
+
+<region> sample=Sawtwo84.wav key=84 lokey=82 hikey=87 tune=-2 loop_mode=loop_continuous loop_start=53517 loop_end=53685
+<region> sample=Sawtwo78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=72842 loop_end=73080
+<region> sample=Sawtwo72.wav key=72 lokey=70 hikey=75 tune=-3 loop_mode=loop_continuous loop_start=72226 loop_end=72562
+<region> sample=Sawtwo66.wav key=66 lokey=64 hikey=69 tune=4 loop_mode=loop_continuous loop_start=93858 loop_end=94336
+<region> sample=Sawtwo60.wav key=60 lokey=58 hikey=63 tune=1 loop_mode=loop_continuous loop_start=115110 loop_end=115785
+<region> sample=Sawtwo54.wav key=54 lokey=52 hikey=57 tune=1 loop_mode=loop_continuous loop_start=106921 loop_end=107874
+<region> sample=Sawtwo48.wav key=48 lokey=46 hikey=51 tune=3 loop_mode=loop_continuous loop_start=100746 loop_end=102095
+<region> sample=Sawtwo42.wav key=42 lokey=40 hikey=45 tune=5 loop_mode=loop_continuous loop_start=91181 loop_end=93093
+<region> sample=Sawtwo36.wav key=36 lokey=0 hikey=39 tune=3 loop_mode=loop_continuous loop_start=120705 loop_end=123404

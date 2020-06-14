@@ -1,0 +1,32 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Mini Saw Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Mini Saw Bass\
+
+<group>        // Group #1
+<region> sample=Mini1Osc60.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=45500 loop_end=45837
+<region> sample=Mini1Osc48.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=42350 loop_end=43361
+<region> sample=Mini1Osc54.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=43870 loop_end=44585
+<region> sample=Mini1Osc51.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=42693 loop_end=43827
+<region> sample=Mini1Osc57.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=44508 loop_end=44909
+<region> sample=Mini1Osc45.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=43553 loop_end=43954
+<region> sample=Mini1Osc42.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=44711 loop_end=45188
+<region> sample=Mini1Osc33.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=43014 loop_end=43816
+<region> sample=Mini1Osc63.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=42932 loop_end=43499
+<region> sample=Mini1Osc36.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=42227 loop_end=42902
+<region> sample=Mini1Osc78.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=44114 loop_end=44412
+<region> sample=Mini1Osc81.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=43703 loop_end=44154
+<region> sample=Mini1Osc84.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=45169 loop_end=45464
+<region> sample=Mini1Osc96.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=44153 loop_end=44448
+<region> sample=Mini1Osc93.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=44651 loop_end=45528
+<region> sample=Mini1Osc90.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=44409 loop_end=44707
+<region> sample=Mini1Osc87.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=44609 loop_end=45424
+<region> sample=Mini1Osc75.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=44841 loop_end=45408
+<region> sample=Mini1Osc72.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=44859 loop_end=45196
+<region> sample=Mini1Osc69.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=44636 loop_end=45037
+<region> sample=Mini1Osc66.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=44519 loop_end=45115
+<region> sample=Mini1Osc39.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=43159 loop_end=43726
+<region> sample=Mini1Osc30.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=41152 loop_end=42106
+<region> sample=Mini1Osc27.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=41786 loop_end=42920
+<region> sample=Mini1Osc24.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=40543 loop_end=41891

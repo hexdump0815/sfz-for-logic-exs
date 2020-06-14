@@ -1,0 +1,21 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - EXS Strings 1.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/EXS Strings 1\
+
+<group>        // Stereo Strings 1
+<region> sample=SRST84.1.aif key=84 lokey=83 hikey=127 loop_mode=loop_continuous loop_start=77280 loop_end=178712
+<region> sample=SRST81.1.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=95550 loop_end=180952
+<region> sample=SRST78.1.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=66105 loop_end=158993
+<region> sample=SRST75.1.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=71198 loop_end=153041
+<region> sample=SRST72.1.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=59532 loop_end=156455
+<region> sample=SRST69.1.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=51642 loop_end=142274
+<region> sample=SRST66.1.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=52264 loop_end=126714
+<region> sample=SRST63.1.aif key=63 lokey=62 hikey=64 tune=7 loop_mode=loop_continuous loop_start=56908 loop_end=145742
+<region> sample=SRST60.1.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=52268 loop_end=147140
+<region> sample=SRST57.1.aif key=57 lokey=56 hikey=58 tune=5 loop_mode=loop_continuous loop_start=64430 loop_end=150465
+<region> sample=SRST54.1.aif key=54 lokey=53 hikey=55 tune=3 loop_mode=loop_continuous loop_start=85790 loop_end=200676
+<region> sample=SRST51.1.aif key=51 lokey=50 hikey=52 tune=9 loop_mode=loop_continuous loop_start=97580 loop_end=185982
+<region> sample=SRST48.1.aif key=48 lokey=47 hikey=49 tune=5 loop_mode=loop_continuous loop_start=59368 loop_end=155802
+<region> sample=SRST45.1.aif key=45 lokey=24 hikey=46 tune=5 loop_mode=loop_continuous loop_start=93588 loop_end=192776

@@ -1,0 +1,17 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Bass 1.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Church Organ/Organ Ped 16,8\
+
+<group> volume=-6        // Pedal 16+8
+<region> sample=Organ Ped 16,8  1 c.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=211283 loop_end=595233
+<region> sample=Organ Ped 16,8  1 d#.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=77031 loop_end=403030
+<region> sample=Organ Ped 16,8  1 f#.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=133007 loop_end=301022
+<region> sample=Organ Ped 16,8  1a.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=66291 loop_end=263949
+<region> sample=Organ Ped 16,8  2 c.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=110170 loop_end=178249
+<region> sample=Organ Ped 16,8  2 d#.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=100043 loop_end=442262
+<region> sample=Organ Ped 16,8  2 f#.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=239106 loop_end=413302
+<region> sample=Organ Ped 16,8  2a.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=124211 loop_end=393176
+<region> sample=Organ Ped 16,8  3 c.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=116554 loop_end=242552
+<region> sample=Organ Ped 16,8  3 d#.aif key=51 lokey=50 hikey=127 loop_mode=loop_continuous loop_start=126371 loop_end=403766

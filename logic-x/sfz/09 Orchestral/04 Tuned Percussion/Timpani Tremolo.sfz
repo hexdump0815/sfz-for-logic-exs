@@ -1,0 +1,41 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Timpani Tremolo.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Timpani/Timp-L_HA_trem_f\
+
+<group> lovel=109 hivel=127        // Tmp-L_HA_trem_f
+<region> sample=Tmp-L_HA_trem_f_B2.wav key=47 lokey=47 hikey=48 loop_mode=loop_continuous loop_start=47739 loop_end=207664
+<region> sample=Tmp-L_HA_trem_f_F2.wav key=41 lokey=41 hikey=42 loop_mode=loop_continuous loop_start=32650 loop_end=178579
+<region> sample=Tmp-L_HA_trem_f_A3.wav key=57 lokey=57 hikey=108 loop_mode=loop_continuous loop_start=14109 loop_end=183370
+<region> sample=Tmp-L_HA_trem_f_D#3.wav key=51 lokey=51 hikey=52 loop_mode=loop_continuous loop_start=37253 loop_end=212830
+<region> sample=Tmp-L_HA_trem_f_F3.wav key=53 lokey=53 hikey=54 loop_mode=loop_continuous loop_start=40139 loop_end=254257
+<region> sample=Tmp-L_HA_trem_f_G3.wav key=55 lokey=55 hikey=56 loop_mode=loop_continuous loop_start=33281 loop_end=223040
+<region> sample=Tmp-L_HA_trem_f_D#2.wav key=39 lokey=21 hikey=40 loop_mode=loop_continuous loop_start=18785 loop_end=190547
+<region> sample=Tmp-L_HA_trem_f_C#3.wav key=49 lokey=49 hikey=50 loop_mode=loop_continuous loop_start=48281 loop_end=184610
+<region> sample=Tmp-L_HA_trem_f_A2.wav key=45 lokey=45 hikey=46 loop_mode=loop_continuous loop_start=23700 loop_end=199991
+<region> sample=Tmp-L_HA_trem_f_G2.wav key=43 lokey=43 hikey=44 loop_mode=loop_continuous loop_start=32599 loop_end=208487
+
+<group> lovel=56 hivel=108        // Tmp-L_HA_trem_mf
+<region> sample=Tmp-L_HA_trem_mf_C#3.wav key=49 lokey=49 hikey=50 loop_mode=loop_continuous loop_start=31584 loop_end=194632
+<region> sample=Tmp-L_HA_trem_mf_B2.wav key=47 lokey=47 hikey=48 loop_mode=loop_continuous loop_start=22086 loop_end=226098
+<region> sample=Tmp-L_HA_trem_mf_A3.wav key=57 lokey=57 hikey=108 loop_mode=loop_continuous loop_start=64573 loop_end=247701
+<region> sample=Tmp-L_HA_trem_mf_G3.wav key=55 lokey=55 hikey=56 loop_mode=loop_continuous loop_start=17771 loop_end=262211
+<region> sample=Tmp-L_HA_trem_mf_D#3.wav key=51 lokey=51 hikey=52 loop_mode=loop_continuous loop_start=59184 loop_end=275196
+<region> sample=Tmp-L_HA_trem_mf_F3.wav key=53 lokey=53 hikey=54 loop_mode=loop_continuous loop_start=30265 loop_end=264052
+<region> sample=Tmp-L_HA_trem_mf_G2.wav key=43 lokey=43 hikey=44 loop_mode=loop_continuous loop_start=16941 loop_end=171732
+<region> sample=Tmp-L_HA_trem_mf_F2.wav key=41 lokey=41 hikey=42 loop_mode=loop_continuous loop_start=81229 loop_end=274311
+<region> sample=Tmp-L_HA_trem_mf_D#2.wav key=39 lokey=21 hikey=40 loop_mode=loop_continuous loop_start=21080 loop_end=209620
+<region> sample=Tmp-L_HA_trem_mf_A2.wav key=45 lokey=45 hikey=46 loop_mode=loop_continuous loop_start=50712 loop_end=187158
+
+<group> lovel=0 hivel=55        // Tmp-L_HA_trem_p
+<region> sample=Tmp-L_HA_trem_p_G3.wav key=55 lokey=55 hikey=56 loop_mode=loop_continuous loop_start=42683 loop_end=217747
+<region> sample=Tmp-L_HA_trem_p_D#3.wav key=51 lokey=51 hikey=52 loop_mode=loop_continuous loop_start=49107 loop_end=286263
+<region> sample=Tmp-L_HA_trem_p_B2.wav key=47 lokey=47 hikey=48 loop_mode=loop_continuous loop_start=41026 loop_end=207697
+<region> sample=Tmp-L_HA_trem_p_A3.wav key=57 lokey=57 hikey=108 loop_mode=loop_continuous loop_start=23711 loop_end=184438
+<region> sample=Tmp-L_HA_trem_p_D#2.wav key=39 lokey=21 hikey=40 loop_mode=loop_continuous loop_start=46759 loop_end=273458
+<region> sample=Tmp-L_HA_trem_p_A2.wav key=45 lokey=45 hikey=46 loop_mode=loop_continuous loop_start=23724 loop_end=205108
+<region> sample=Tmp-L_HA_trem_p_C#3.wav key=49 lokey=49 hikey=50 loop_mode=loop_continuous loop_start=31510 loop_end=210240
+<region> sample=Tmp-L_HA_trem_p_F2.wav key=41 lokey=41 hikey=42 loop_mode=loop_continuous loop_start=50659 loop_end=288047
+<region> sample=Tmp-L_HA_trem_p_F3.wav key=53 lokey=53 hikey=54 loop_mode=loop_continuous loop_start=139234 loop_end=349469
+<region> sample=Tmp-L_HA_trem_p_G2.wav key=43 lokey=43 hikey=44 loop_mode=loop_continuous loop_start=35836 loop_end=220494

@@ -1,0 +1,38 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Double Bass (Arco).exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/Double Bass (Arco)\
+
+<group> locc1=117 hicc1=127        // Contrabass mf mrc
+<region> sample=Cbs mf mrc ln  2 e.aif key=48 lokey=51 hikey=127 volume=-1 loop_mode=loop_continuous loop_start=22816 loop_end=269887
+<region> sample=Cbs mf mrc ln  2 c#.aif key=45 lokey=48 hikey=50 volume=-5 loop_mode=loop_continuous loop_start=16661 loop_end=227821
+<region> sample=Cbs mf mrc ln  1a#.aif key=42 lokey=45 hikey=47 loop_mode=loop_continuous loop_start=24931 loop_end=302754
+<region> sample=Cbs mf mrc ln  1 g.aif key=39 lokey=42 hikey=44 volume=-2 tune=6 loop_mode=loop_continuous loop_start=28249 loop_end=320431
+<region> sample=Cbs mf mrc ln  1 e.aif key=36 lokey=39 hikey=41 loop_mode=loop_continuous loop_start=27582 loop_end=272267
+<region> sample=Cbs mf mrc ln  1 c#.aif key=33 lokey=36 hikey=38 loop_mode=loop_continuous loop_start=80789 loop_end=389239
+<region> sample=Cbs mf mrc ln  0a#.aif key=30 lokey=33 hikey=35 loop_mode=loop_continuous loop_start=181018 loop_end=505512
+<region> sample=Cbs mf mrc ln  0 g.aif key=27 lokey=30 hikey=32 volume=-1 loop_mode=loop_continuous loop_start=37930 loop_end=309211
+<region> sample=Cbs mf mrc ln  0 e.aif key=24 lokey=0 hikey=29 volume=-2 loop_mode=loop_continuous loop_start=21984 loop_end=315222
+
+<group> locc1=11 hicc1=116        // Contrabass mf sneakin
+<region> sample=Cbs mf sneakin ln  2 e.aif key=48 lokey=51 hikey=127 volume=-11 loop_mode=loop_continuous loop_start=36027 loop_end=283098
+<region> sample=Cbs mf sneakin ln  2 c#.aif key=45 lokey=48 hikey=50 volume=-13 loop_mode=loop_continuous loop_start=141296 loop_end=352456
+<region> sample=Cbs mf sneakin ln  1a#.aif key=42 lokey=45 hikey=47 volume=-4 loop_mode=loop_continuous loop_start=51717 loop_end=329540
+<region> sample=Cbs mf sneakin ln  1 g.aif key=39 lokey=42 hikey=44 volume=-9 loop_mode=loop_continuous loop_start=34976 loop_end=327158
+<region> sample=Cbs mf sneakin ln  1 e.aif key=36 lokey=39 hikey=41 volume=-7 loop_mode=loop_continuous loop_start=43548 loop_end=288233
+<region> sample=Cbs mf sneakin ln  1 c#.aif key=33 lokey=36 hikey=38 volume=-6 loop_mode=loop_continuous loop_start=111091 loop_end=419541
+<region> sample=Cbs mf sneakin ln  0a#.aif key=30 lokey=33 hikey=35 volume=-8 loop_mode=loop_continuous loop_start=194934 loop_end=519428
+<region> sample=Cbs mf sneakin ln  0 g.aif key=27 lokey=30 hikey=32 volume=-9 loop_mode=loop_continuous loop_start=62665 loop_end=333946
+<region> sample=Cbs mf sneakin ln  0 e.aif key=24 lokey=0 hikey=29 volume=-6 loop_mode=loop_continuous loop_start=87832 loop_end=381069
+
+<group> locc1=0 hicc1=10        // Contrabass mf ln
+<region> sample=Cbs mf ln 2 e.aif key=48 lokey=51 hikey=127 volume=-11 loop_mode=loop_continuous loop_start=53850 loop_end=300921
+<region> sample=Cbs mf ln 2 c#.aif key=45 lokey=48 hikey=50 volume=-15 loop_mode=loop_continuous loop_start=21035 loop_end=232195
+<region> sample=Cbs mf ln 1a#.aif key=42 lokey=45 hikey=47 volume=-4 tune=-3 end=297959 loop_mode=loop_continuous loop_start=20135 loop_end=297959
+<region> sample=Cbs mf ln 1 g.aif key=39 lokey=42 hikey=44 volume=-9 loop_mode=loop_continuous loop_start=35763 loop_end=327945
+<region> sample=Cbs mf ln 1 e.aif key=36 lokey=39 hikey=41 volume=-4 loop_mode=loop_continuous loop_start=15699 loop_end=260385
+<region> sample=Cbs mf ln 1 c#.aif key=33 lokey=36 hikey=38 volume=-4 loop_mode=loop_continuous loop_start=26539 loop_end=334990
+<region> sample=Cbs mf ln 0a#.aif key=30 lokey=33 hikey=35 volume=-5 loop_mode=loop_continuous loop_start=25126 loop_end=349620
+<region> sample=Cbs mf ln 0 g.aif key=27 lokey=30 hikey=32 volume=-9 loop_mode=loop_continuous loop_start=37378 loop_end=308658
+<region> sample=Cbs mf ln 0 e.aif key=24 lokey=0 hikey=29 volume=-4 loop_mode=loop_continuous loop_start=32552 loop_end=325790

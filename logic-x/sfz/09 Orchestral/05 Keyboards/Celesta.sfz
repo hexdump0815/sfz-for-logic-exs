@@ -1,0 +1,42 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Celesta.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Celesta/Celesta_ES_mf\
+
+<group>        // CE_ES_mf
+<region> sample=CE_ES_mf_C3.wav key=36 lokey=21 hikey=36 volume=-7 loop_mode=no_loop
+<region> sample=CE_ES_mf_C#3.wav key=37 lokey=37 hikey=37 volume=-6 loop_mode=no_loop
+<region> sample=CE_ES_mf_D3.wav key=38 lokey=38 hikey=39 volume=-6 loop_mode=no_loop
+<region> sample=CE_ES_mf_E3.wav key=40 lokey=40 hikey=41 volume=-6 loop_mode=no_loop
+<region> sample=CE_ES_mf_F#3.wav key=42 lokey=42 hikey=43 volume=-5 loop_mode=no_loop
+<region> sample=CE_ES_mf_G#3.wav key=44 lokey=44 hikey=45 volume=-5 loop_mode=no_loop
+<region> sample=CE_ES_mf_A#3.wav key=46 lokey=46 hikey=47 volume=-4 loop_mode=no_loop
+<region> sample=CE_ES_mf_C4.wav key=48 lokey=48 hikey=49 volume=-4 loop_mode=no_loop
+<region> sample=CE_ES_mf_D4.wav key=50 lokey=50 hikey=51 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_E4.wav key=52 lokey=52 hikey=53 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_F#4.wav key=54 lokey=54 hikey=55 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_G#4.wav key=56 lokey=56 hikey=57 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_A#4.wav key=58 lokey=58 hikey=59 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_C5.wav key=60 lokey=60 hikey=61 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_D5.wav key=62 lokey=62 hikey=63 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_E5.wav key=64 lokey=64 hikey=65 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_F#5.wav key=66 lokey=66 hikey=67 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_G#5.wav key=68 lokey=68 hikey=69 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_A#5.wav key=70 lokey=70 hikey=71 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_C6.wav key=72 lokey=72 hikey=73 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_D6.wav key=74 lokey=74 hikey=75 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_E6.wav key=76 lokey=76 hikey=77 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_F#6.wav key=78 lokey=78 hikey=79 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_G#6.wav key=80 lokey=80 hikey=81 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_A#6.wav key=82 lokey=82 hikey=83 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_C7.wav key=84 lokey=84 hikey=85 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_D7.wav key=86 lokey=86 hikey=87 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_E7.wav key=88 lokey=88 hikey=89 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_F#7.wav key=90 lokey=90 hikey=91 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_G#7.wav key=92 lokey=92 hikey=93 volume=-3 loop_mode=no_loop
+<region> sample=CE_ES_mf_A#7.wav key=94 lokey=94 hikey=95 volume=-4 loop_mode=no_loop
+<region> sample=CE_ES_mf_C8.wav key=96 lokey=96 hikey=97 volume=-4 loop_mode=no_loop
+<region> sample=CE_ES_mf_D8.wav key=98 lokey=98 hikey=99 volume=-5 loop_mode=no_loop
+<region> sample=CE_ES_mf_E8.wav key=100 lokey=100 hikey=100 volume=-5 loop_mode=no_loop
+<region> sample=CE_ES_mf_F8.wav key=101 lokey=101 hikey=108 volume=-6 loop_mode=no_loop

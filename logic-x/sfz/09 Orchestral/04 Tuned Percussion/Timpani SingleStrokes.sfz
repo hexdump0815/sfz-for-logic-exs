@@ -1,0 +1,53 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Timpani SingleStrokes.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Timpani/Timp_HA_ES_f1\
+
+<group> lovel=109 hivel=127        // Tmp_HA_ES_ff
+<region> sample=Tmp_HA_ES_ff1_G3.wav key=55 lokey=54 hikey=55 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_A3.wav key=57 lokey=56 hikey=108 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_D#2.wav key=39 lokey=21 hikey=39 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_F2.wav key=41 lokey=40 hikey=41 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_A2.wav key=45 lokey=44 hikey=45 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_D#3.wav key=51 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_F3.wav key=53 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_C#3.wav key=49 lokey=48 hikey=49 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_B2.wav key=47 lokey=46 hikey=47 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_ff1_G2.wav key=43 lokey=42 hikey=43 loop_mode=no_loop
+
+<group> lovel=89 hivel=108        // Tmp_HA_ES_f
+<region> sample=Tmp_HA_ES_f1_A3.wav key=57 lokey=56 hikey=108 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_G3.wav key=55 lokey=54 hikey=55 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_F3.wav key=53 lokey=52 hikey=53 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_C#3.wav key=49 lokey=48 hikey=49 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_F2.wav key=41 lokey=40 hikey=41 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_D#2.wav key=39 lokey=21 hikey=39 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_G2.wav key=43 lokey=42 hikey=43 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_A2.wav key=45 lokey=44 hikey=45 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_B2.wav key=47 lokey=46 hikey=47 volume=-4 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_f1_D#3.wav key=51 lokey=50 hikey=51 volume=-4 loop_mode=no_loop
+
+<group> lovel=56 hivel=88        // Tmp_HA_ES_mf
+<region> sample=Tmp_HA_ES_mf1_D#3.wav key=51 lokey=50 hikey=51 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_B2.wav key=47 lokey=46 hikey=47 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_A3.wav key=57 lokey=56 hikey=108 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_F3.wav key=53 lokey=52 hikey=53 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_G3.wav key=55 lokey=54 hikey=55 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_G2.wav key=43 lokey=42 hikey=43 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_F2.wav key=41 lokey=40 hikey=41 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_D#2.wav key=39 lokey=21 hikey=39 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_A2.wav key=45 lokey=44 hikey=45 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_mf1_C#3.wav key=49 lokey=48 hikey=49 volume=-8 loop_mode=no_loop
+
+<group> lovel=0 hivel=55        // Tmp_HA_ES_p
+<region> sample=Tmp_HA_ES_p1_G3.wav key=55 lokey=54 hikey=55 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_F3.wav key=53 lokey=52 hikey=53 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_C#3.wav key=49 lokey=48 hikey=49 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_A3.wav key=57 lokey=56 hikey=108 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_D#2.wav key=39 lokey=21 hikey=39 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_F2.wav key=41 lokey=40 hikey=41 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_G2.wav key=43 lokey=42 hikey=43 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_A2.wav key=45 lokey=44 hikey=45 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_B2.wav key=47 lokey=46 hikey=47 volume=-8 loop_mode=no_loop
+<region> sample=Tmp_HA_ES_p1_D#3.wav key=51 lokey=50 hikey=51 volume=-8 loop_mode=no_loop

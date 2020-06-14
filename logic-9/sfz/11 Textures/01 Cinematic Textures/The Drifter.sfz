@@ -1,0 +1,8 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - The Drifter.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/The Drifter\
+
+<group>        // Group #1
+<region> sample=SuGrA01.aif key=67 lokey=0 hikey=127 volume=3 loop_mode=loop_continuous loop_start=32596 loop_end=305134

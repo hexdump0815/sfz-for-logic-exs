@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Dive Effects Bank.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/DiveFX3\
+
+<group>
+<region> sample=DiveFX3.aif key=55 lokey=48 hikey=59 loop_mode=no_loop
+<region> sample=DiveFX2.aif key=43 lokey=36 hikey=47 loop_mode=no_loop
+<region> sample=DiveFX1.aif key=31 lokey=24 hikey=35 loop_mode=no_loop
+<region> sample=DiveFX4.aif key=67 lokey=60 hikey=71 end=66568 loop_mode=no_loop
+<region> sample=DiveFX5.aif key=79 lokey=72 hikey=83 loop_mode=no_loop
+<region> sample=DiveFX6.aif key=60 lokey=84 hikey=95 loop_mode=no_loop
+<region> sample=DiveFX7.aif key=60 lokey=96 hikey=107 loop_mode=no_loop
+<region> sample=DiveFX8.aif key=60 lokey=108 hikey=119 loop_mode=no_loop

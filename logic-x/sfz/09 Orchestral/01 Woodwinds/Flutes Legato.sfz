@@ -1,0 +1,51 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Flutes Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Flute ensemble/Flutes-L_sus_f\
+
+<group> lovel=89 hivel=127 volume=-5        // FL-3-L_sus_f
+<region> sample=FL-3-L_sus_f_C7.wav key=96 lokey=96 hikey=108 volume=5 loop_mode=loop_continuous loop_start=43754 loop_end=298123
+<region> sample=FL-3-L_sus_f_C7.wav key=96 lokey=95 hikey=95 volume=5 loop_mode=loop_continuous loop_start=43754 loop_end=298123
+<region> sample=FL-3-L_sus_f_A#6.wav key=94 lokey=93 hikey=94 loop_mode=loop_continuous loop_start=32341 loop_end=288129
+<region> sample=FL-3-L_sus_f_G#6.wav key=92 lokey=91 hikey=92 loop_mode=loop_continuous loop_start=50088 loop_end=344136
+<region> sample=FL-3-L_sus_f_F#6.wav key=90 lokey=89 hikey=90 loop_mode=loop_continuous loop_start=30237 loop_end=316436
+<region> sample=FL-3-L_sus_f_E6.wav key=88 lokey=87 hikey=88 loop_mode=loop_continuous loop_start=32778 loop_end=351465
+<region> sample=FL-3-L_sus_f_D6.wav key=86 lokey=85 hikey=86 loop_mode=loop_continuous loop_start=49400 loop_end=313099
+<region> sample=FL-3-L_sus_f_C6.wav key=84 lokey=83 hikey=84 loop_mode=loop_continuous loop_start=34535 loop_end=326249
+<region> sample=FL-3-L_sus_f_A#5.wav key=82 lokey=81 hikey=82 loop_mode=loop_continuous loop_start=45914 loop_end=320928
+<region> sample=FL-3-L_sus_f_G#5.wav key=80 lokey=79 hikey=80 loop_mode=loop_continuous loop_start=44692 loop_end=305738
+<region> sample=FL-3-L_sus_f_F#5.wav key=78 lokey=77 hikey=78 loop_mode=loop_continuous loop_start=99351 loop_end=322590
+<region> sample=FL-3-L_sus_f_E5.wav key=76 lokey=75 hikey=76 loop_mode=loop_continuous loop_start=17315 loop_end=354871
+<region> sample=FL-3-L_sus_f_D5.wav key=74 lokey=73 hikey=74 loop_mode=loop_continuous loop_start=40089 loop_end=305844
+<region> sample=FL-3-L_sus_f_C5.wav key=72 lokey=71 hikey=72 loop_mode=loop_continuous loop_start=60720 loop_end=358928
+<region> sample=FL-3-L_sus_f_A#4.wav key=70 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=60266 loop_end=351053
+<region> sample=FL-3-L_sus_f_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=101872 loop_end=362779
+<region> sample=FL-3-L_sus_f_F#4.wav key=66 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=176159 loop_end=348340
+<region> sample=FL-3-L_sus_f_E4.wav key=64 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=66641 loop_end=310052
+<region> sample=FL-3-L_sus_f_D4.wav key=62 lokey=62 hikey=62 loop_mode=loop_continuous loop_start=92258 loop_end=298232
+<region> sample=FL-3-L_sus_f_D4.wav key=62 lokey=61 hikey=61 loop_mode=loop_continuous loop_start=92258 loop_end=298232
+<region> sample=FL-3-L_sus_f_C4.wav key=60 lokey=21 hikey=60 loop_mode=loop_continuous loop_start=33786 loop_end=302772
+
+<group> lovel=0 hivel=88        // FL-3-L_sus_mf
+<region> sample=FL-3-L_sus_mf_C4.wav key=60 lokey=21 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=122110 loop_end=360204
+<region> sample=FL-3-L_sus_mf_F#5.wav key=78 lokey=77 hikey=78 volume=-3 loop_mode=loop_continuous loop_start=126643 loop_end=325461
+<region> sample=FL-3-L_sus_mf_D5.wav key=74 lokey=73 hikey=74 volume=-4 loop_mode=loop_continuous loop_start=184195 loop_end=339277
+<region> sample=FL-3-L_sus_mf_E4.wav key=64 lokey=63 hikey=64 volume=-6 loop_mode=loop_continuous loop_start=123908 loop_end=232687
+<region> sample=FL-3-L_sus_mf_C5.wav key=72 lokey=71 hikey=72 volume=-4 loop_mode=loop_continuous loop_start=58112 loop_end=258099
+<region> sample=FL-3-L_sus_mf_C7.wav key=96 lokey=96 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=59422 loop_end=330559
+<region> sample=FL-3-L_sus_mf_C7.wav key=96 lokey=95 hikey=95 volume=-3 loop_mode=loop_continuous loop_start=59422 loop_end=330559
+<region> sample=FL-3-L_sus_mf_A#6.wav key=94 lokey=93 hikey=94 volume=-3 loop_mode=loop_continuous loop_start=17911 loop_end=334893
+<region> sample=FL-3-L_sus_mf_G#6.wav key=92 lokey=91 hikey=92 volume=-3 loop_mode=loop_continuous loop_start=50351 loop_end=343134
+<region> sample=FL-3-L_sus_mf_F#6.wav key=90 lokey=89 hikey=90 volume=-3 loop_mode=loop_continuous loop_start=32690 loop_end=348429
+<region> sample=FL-3-L_sus_mf_E6.wav key=88 lokey=87 hikey=88 volume=-3 loop_mode=loop_continuous loop_start=18484 loop_end=301907
+<region> sample=FL-3-L_sus_mf_D6.wav key=86 lokey=85 hikey=86 volume=-3 loop_mode=loop_continuous loop_start=86361 loop_end=273008
+<region> sample=FL-3-L_sus_mf_C6.wav key=84 lokey=83 hikey=84 volume=-3 loop_mode=loop_continuous loop_start=30719 loop_end=339122
+<region> sample=FL-3-L_sus_mf_A#5.wav key=82 lokey=81 hikey=82 volume=-3 loop_mode=loop_continuous loop_start=77933 loop_end=381972
+<region> sample=FL-3-L_sus_mf_G#5.wav key=80 lokey=79 hikey=80 volume=-3 loop_mode=loop_continuous loop_start=50863 loop_end=346162
+<region> sample=FL-3-L_sus_mf_E5.wav key=76 lokey=75 hikey=76 volume=-3 loop_mode=loop_continuous loop_start=79775 loop_end=334326
+<region> sample=FL-3-L_sus_mf_A#4.wav key=70 lokey=69 hikey=70 volume=-5 loop_mode=loop_continuous loop_start=98838 loop_end=277757
+<region> sample=FL-3-L_sus_mf_G#4.wav key=68 lokey=67 hikey=68 volume=-5 loop_mode=loop_continuous loop_start=41661 loop_end=292248
+<region> sample=FL-3-L_sus_mf_F#4.wav key=66 lokey=65 hikey=66 volume=-4 loop_mode=loop_continuous loop_start=85343 loop_end=314645
+<region> sample=FL-3-L_sus_mf_D4.wav key=62 lokey=62 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=172317 loop_end=347761
+<region> sample=FL-3-L_sus_mf_D4.wav key=62 lokey=61 hikey=61 volume=-3 loop_mode=loop_continuous loop_start=172317 loop_end=347761

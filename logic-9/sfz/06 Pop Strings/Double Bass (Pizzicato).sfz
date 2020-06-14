@@ -1,0 +1,29 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Double Bass (Pizzicato).exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/Double Bass (Pizzicato)\
+
+<group> lovel=0 hivel=109 volume=9        // ContraBass pizz mf
+<region> sample=Cbs pizz p  1 g.aif key=43 lokey=42 hikey=44 volume=8 loop_mode=no_loop
+<region> sample=Cbs pizz p  1 c#.aif key=37 lokey=36 hikey=38 tune=-6 loop_mode=no_loop
+<region> sample=Cbs pizz p  2 c#.aif key=49 lokey=48 hikey=50 tune=2 loop_mode=no_loop
+<region> sample=Cbs pizz p  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=Cbs pizz p  0a#.aif key=34 lokey=33 hikey=35 loop_mode=no_loop
+<region> sample=Cbs pizz p  1 e.aif key=40 lokey=39 hikey=41 volume=7 loop_mode=no_loop
+<region> sample=Cbs pizz p  2 e.aif key=52 lokey=51 hikey=53 loop_mode=no_loop
+<region> sample=Cbs pizz p  2 g.aif key=55 lokey=54 hikey=127 loop_mode=no_loop
+<region> sample=Cbs pizz p  0 g.aif key=31 lokey=30 hikey=32 loop_mode=no_loop
+<region> sample=Cbs pizz p  0 e.aif key=28 lokey=12 hikey=29 loop_mode=no_loop
+
+<group> lovel=110 hivel=127        // ContraBass pizz f
+<region> sample=Cbs pizz f  2 g.aif key=55 lokey=54 hikey=127 loop_mode=no_loop
+<region> sample=Cbs pizz f  0a#.aif key=34 lokey=33 hikey=35 tune=2 loop_mode=no_loop
+<region> sample=Cbs pizz f  0 g.aif key=31 lokey=30 hikey=32 loop_mode=no_loop
+<region> sample=Cbs pizz f  1a#.aif key=46 lokey=45 hikey=47 loop_mode=no_loop
+<region> sample=Cbs pizz f  2 e.aif key=52 lokey=51 hikey=53 tune=-2 loop_mode=no_loop
+<region> sample=Cbs pizz f  2 c#.aif key=49 lokey=48 hikey=50 loop_mode=no_loop
+<region> sample=Cbs pizz f  1 g.aif key=43 lokey=42 hikey=44 tune=2 loop_mode=no_loop
+<region> sample=Cbs pizz f  1 e.aif key=40 lokey=39 hikey=41 loop_mode=no_loop
+<region> sample=Cbs pizz f  1 c#.aif key=37 lokey=36 hikey=38 tune=2 loop_mode=no_loop
+<region> sample=Cbs pizz f  0 e.aif key=28 lokey=12 hikey=29 tune=-3 loop_mode=no_loop

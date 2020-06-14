@@ -1,0 +1,165 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Subby Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Subby Bass\
+
+<group>
+<region> sample=IL P-Bass fngrnse 02.aif key=18 lokey=18 hikey=18 loop_mode=no_loop
+<region> sample=IL P-Bass fngrnse 08.aif key=17 lokey=17 hikey=17 volume=7 loop_mode=no_loop
+<region> sample=IL P-Bass fngrnse 04.aif key=20 lokey=20 hikey=20 volume=3 loop_mode=no_loop
+<region> sample=IL P-Bass fngrnse 05.aif key=19 lokey=19 hikey=19 loop_mode=no_loop
+
+<group> lovel=91 hivel=123 volume=2 locc1=0 hicc1=64        // Middle
+<region> sample=IL P-Bass mdl D0b.aif key=38 lokey=28 hikey=39 volume=-2 tune=-8 loop_mode=loop_continuous loop_start=197484 loop_end=228573
+<region> sample=IL P-Bass mdl E0c.aif key=40 lokey=40 hikey=41 tune=-3 loop_mode=loop_continuous loop_start=268173 loop_end=299153
+<region> sample=IL P-Bass mdl G0b.aif key=43 lokey=42 hikey=44 tune=-2 loop_mode=loop_continuous loop_start=185651 loop_end=216194
+<region> sample=IL P-Bass mdl A0b.aif key=45 lokey=45 hikey=46 volume=-3 tune=-5 loop_mode=loop_continuous loop_start=188092 loop_end=218561
+<region> sample=IL P-Bass mdl B0b.aif key=47 lokey=47 hikey=47 volume=-2 tune=-4 loop_mode=loop_continuous loop_start=211238 loop_end=242009
+<region> sample=IL P-Bass mdl C1c.aif key=48 lokey=48 hikey=49 volume=-1 tune=-3 loop_mode=loop_continuous loop_start=255500 loop_end=287211
+<region> sample=IL P-Bass mdl D1c.aif key=50 lokey=50 hikey=51 volume=-2 loop_mode=loop_continuous loop_start=226122 loop_end=256795
+<region> sample=IL P-Bass mdl E1b.aif key=52 lokey=52 hikey=52 tune=1 loop_mode=loop_continuous loop_start=206272 loop_end=237389
+<region> sample=IL P-Bass mdl F1b.aif key=53 lokey=53 hikey=54 volume=-1 tune=3 loop_mode=loop_continuous loop_start=201019 loop_end=231841
+<region> sample=IL P-Bass mdl G1f.aif key=55 lokey=55 hikey=56 volume=-1 tune=4 loop_mode=loop_continuous loop_start=238288 loop_end=268506
+<region> sample=IL P-Bass mdl A1b.aif key=57 lokey=57 hikey=57 tune=-1 loop_mode=loop_continuous loop_start=147136 loop_end=178822
+<region> sample=IL P-Bass mdl A#1b.aif key=58 lokey=58 hikey=59 volume=-2 tune=-4 loop_mode=loop_continuous loop_start=264148 loop_end=295909
+<region> sample=IL P-Bass mdl C2b.aif key=60 lokey=60 hikey=61 tune=3 loop_mode=loop_continuous loop_start=88160 loop_end=113485
+<region> sample=IL P-Bass mdl D2b.aif key=62 lokey=62 hikey=63 volume=-3 tune=-1 loop_mode=loop_continuous loop_start=202883 loop_end=234418
+<region> sample=IL P-Bass mdl E2b.aif key=64 lokey=64 hikey=65 volume=-4 tune=-1 loop_mode=loop_continuous loop_start=280171 loop_end=311466
+<region> sample=IL P-Bass mdl G2b.aif key=67 lokey=66 hikey=68 tune=-4 loop_mode=loop_continuous loop_start=156221 loop_end=187187
+<region> sample=IL P-Bass mdl A2b.aif key=69 lokey=69 hikey=70 volume=-3 tune=-8 loop_mode=loop_continuous loop_start=176505 loop_end=208101
+<region> sample=IL P-Bass mdl B2b.aif key=71 lokey=71 hikey=72 tune=-6 loop_mode=loop_continuous loop_start=151221 loop_end=182192
+<region> sample=IL P-Bass mdl C#3b.aif key=73 lokey=73 hikey=74 tune=-8 loop_mode=loop_continuous loop_start=156870 loop_end=188071
+<region> sample=IL P-Bass mdl D#3b.aif key=75 lokey=75 hikey=75 tune=-10 loop_mode=loop_continuous loop_start=137816 loop_end=168967
+
+<group> lovel=0 hivel=90 volume=2 locc1=0 hicc1=64        // Index
+<region> sample=IL P-Bass index D0b.aif key=38 lokey=28 hikey=39 tune=-5 loop_mode=loop_continuous loop_start=173363 loop_end=204526
+<region> sample=IL P-Bass index E0a.aif key=40 lokey=40 hikey=41 tune=2 loop_mode=loop_continuous loop_start=154544 loop_end=184532
+<region> sample=IL P-Bass index G0b.aif key=43 lokey=42 hikey=44 tune=2 loop_mode=loop_continuous loop_start=202244 loop_end=232907
+<region> sample=IL P-Bass index A0a.aif key=45 lokey=45 hikey=46 volume=1 loop_mode=loop_continuous loop_start=156456 loop_end=186986
+<region> sample=IL P-Bass index B0a.aif key=47 lokey=47 hikey=47 tune=-6 loop_mode=loop_continuous loop_start=180323 loop_end=211797
+<region> sample=IL P-Bass index C1a.aif key=48 lokey=48 hikey=49 tune=-2 loop_mode=loop_continuous loop_start=173783 loop_end=204785
+<region> sample=IL P-Bass index D1b.aif key=50 lokey=50 hikey=51 tune=-3 loop_mode=loop_continuous loop_start=185106 loop_end=215725
+<region> sample=IL P-Bass index E1b.aif key=52 lokey=52 hikey=52 volume=1 tune=-1 loop_mode=loop_continuous loop_start=198630 loop_end=229640
+<region> sample=IL P-Bass index F1b.aif key=53 lokey=53 hikey=54 volume=3 tune=2 loop_mode=loop_continuous loop_start=172158 loop_end=203958
+<region> sample=IL P-Bass index G1c.aif key=55 lokey=55 hikey=56 volume=4 tune=4 loop_mode=loop_continuous loop_start=205533 loop_end=236661
+<region> sample=IL P-Bass index A1c.aif key=57 lokey=57 hikey=57 volume=2 tune=4 loop_mode=loop_continuous loop_start=141681 loop_end=172651
+<region> sample=IL P-Bass index A#1a.aif key=58 lokey=58 hikey=59 volume=1 tune=3 loop_mode=loop_continuous loop_start=120547 loop_end=150494
+<region> sample=IL P-Bass index C2c.aif key=60 lokey=60 hikey=61 volume=1 tune=-1 loop_mode=loop_continuous loop_start=150463 loop_end=182130
+<region> sample=IL P-Bass index D2b.aif key=62 lokey=62 hikey=63 volume=-3 tune=3 loop_mode=loop_continuous loop_start=263774 loop_end=295074
+<region> sample=IL P-Bass index E2b.aif key=64 lokey=64 hikey=65 volume=-2 tune=3 loop_mode=loop_continuous loop_start=202586 loop_end=234513
+<region> sample=IL P-Bass index G2a.aif key=67 lokey=66 hikey=68 volume=-2 tune=1 loop_mode=loop_continuous loop_start=195880 loop_end=226721
+<region> sample=IL P-Bass index A#2b.aif key=70 lokey=69 hikey=71 volume=-3 tune=-1 loop_mode=loop_continuous loop_start=166843 loop_end=198068
+<region> sample=IL P-Bass index C3b.aif key=72 lokey=72 hikey=73 volume=-2 tune=-1 loop_mode=loop_continuous loop_start=149872 loop_end=181529
+<region> sample=IL P-Bass index D3b.aif key=74 lokey=74 hikey=75 volume=-2 tune=-4 loop_mode=loop_continuous loop_start=180295 loop_end=211317
+
+<group> lovel=124 hivel=127 volume=3 locc1=0 hicc1=64        // Dives
+<region> sample=IL P-Bass dive F0c.aif key=41 lokey=28 hikey=42 volume=1 tune=5 loop_mode=no_loop
+<region> sample=IL P-Bass dive G0c.aif key=43 lokey=43 hikey=44 volume=2 loop_mode=no_loop
+<region> sample=IL P-Bass dive A0e.aif key=45 lokey=45 hikey=46 volume=1 tune=-10 loop_mode=no_loop
+<region> sample=IL P-Bass dive B0c.aif key=47 lokey=47 hikey=47 tune=-15 loop_mode=no_loop
+<region> sample=IL P-Bass dive C1b.aif key=48 lokey=48 hikey=49 volume=-1 loop_mode=no_loop
+<region> sample=IL P-Bass dive D1c.aif key=50 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=IL P-Bass dive E1a.aif key=52 lokey=52 hikey=52 loop_mode=no_loop
+<region> sample=IL P-Bass dive F1e.aif key=53 lokey=53 hikey=54 volume=2 loop_mode=no_loop
+<region> sample=IL P-Bass dive G1c.aif key=55 lokey=55 hikey=56 volume=1 loop_mode=no_loop
+<region> sample=IL P-Bass dive A1a.aif key=57 lokey=57 hikey=57 volume=-1 loop_mode=no_loop
+<region> sample=IL P-Bass dive A#1b.aif key=58 lokey=58 hikey=59 volume=-1 loop_mode=no_loop
+<region> sample=IL P-Bass dive C2e.aif key=60 lokey=60 hikey=61 volume=-2 loop_mode=no_loop
+<region> sample=IL P-Bass dive D2a.aif key=62 lokey=62 hikey=63 volume=-4 loop_mode=no_loop
+<region> sample=IL P-Bass dive E2a.aif key=64 lokey=64 hikey=65 volume=-1 loop_mode=no_loop
+<region> sample=IL P-Bass dive G2a.aif key=67 lokey=66 hikey=68 loop_mode=no_loop
+<region> sample=IL P-Bass dive A2a.aif key=69 lokey=69 hikey=70 volume=1 tune=-7 loop_mode=no_loop
+<region> sample=IL P-Bass dive B2b.aif key=71 lokey=71 hikey=72 tune=-6 loop_mode=no_loop
+<region> sample=IL P-Bass dive C#3c.aif key=73 lokey=73 hikey=74 loop_mode=no_loop
+<region> sample=IL P-Bass dive D#3a.aif key=75 lokey=75 hikey=75 volume=-2 tune=-10 loop_mode=no_loop
+
+<group> volume=2 locc1=65 hicc1=127        // Mutes
+<region> sample=IL P-Bass mute D0a.aif key=38 lokey=28 hikey=39 tune=-2 loop_mode=no_loop
+<region> sample=IL P-Bass mute E0b.aif key=40 lokey=40 hikey=42 tune=-10 loop_mode=no_loop
+<region> sample=IL P-Bass mute G0a.aif key=43 lokey=43 hikey=44 tune=-10 loop_mode=no_loop
+<region> sample=IL P-Bass mute A0b.aif key=45 lokey=45 hikey=45 volume=-1 tune=-12 loop_mode=no_loop
+<region> sample=IL P-Bass mute B0a.aif key=47 lokey=46 hikey=47 volume=-1 tune=-6 loop_mode=no_loop
+<region> sample=IL P-Bass mute C1b.aif key=48 lokey=48 hikey=49 volume=-1 tune=-7 loop_mode=no_loop
+<region> sample=IL P-Bass mute D1b.aif key=50 lokey=50 hikey=50 volume=-1 tune=-6 loop_mode=no_loop
+<region> sample=IL P-Bass mute E1a.aif key=52 lokey=51 hikey=52 volume=1 loop_mode=no_loop
+<region> sample=IL P-Bass mute F1a.aif key=53 lokey=53 hikey=53 volume=1 tune=-6 loop_mode=no_loop
+<region> sample=IL P-Bass mute G1b.aif key=55 lokey=54 hikey=55 volume=1 tune=3 loop_mode=no_loop
+<region> sample=IL P-Bass mute A1b.aif key=57 lokey=56 hikey=57 loop_mode=no_loop
+<region> sample=IL P-Bass mute A#1c.aif key=58 lokey=58 hikey=59 volume=-2 loop_mode=no_loop
+<region> sample=IL P-Bass mute C2d.aif key=60 lokey=60 hikey=61 volume=-2 loop_mode=no_loop
+<region> sample=IL P-Bass mute D2b.aif key=62 lokey=62 hikey=63 volume=-1 loop_mode=no_loop
+<region> sample=IL P-Bass mute E2c.aif key=64 lokey=64 hikey=65 volume=-3 loop_mode=no_loop
+<region> sample=IL P-Bass mute G2c.aif key=67 lokey=66 hikey=68 volume=-3 loop_mode=no_loop
+<region> sample=IL P-Bass mute A2b.aif key=69 lokey=69 hikey=70 volume=-2 loop_mode=no_loop
+<region> sample=IL P-Bass mute B2a.aif key=71 lokey=71 hikey=72 tune=-4 loop_mode=no_loop
+<region> sample=IL P-Bass mute C#3b.aif key=73 lokey=73 hikey=74 volume=-2 tune=-12 loop_mode=no_loop
+<region> sample=IL P-Bass mute D#3c.aif key=75 lokey=75 hikey=75 volume=-2 tune=-8 loop_mode=no_loop
+
+<group> lovel=0 hivel=64 volume=-1        // Zombies
+<region> sample=IL P-Bass zmbie D0c.aif key=38 lokey=28 hikey=39 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie E0b.aif key=40 lokey=40 hikey=41 tune=-16 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie G0b.aif key=43 lokey=42 hikey=44 volume=-1 tune=-12 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie A0c.aif key=45 lokey=45 hikey=46 volume=-1 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie B0b.aif key=47 lokey=47 hikey=47 volume=-1 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie C1c.aif key=48 lokey=48 hikey=49 tune=-4 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie D1b.aif key=50 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie E1b.aif key=52 lokey=52 hikey=52 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie F1b.aif key=53 lokey=53 hikey=54 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie G1b.aif key=55 lokey=55 hikey=56 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie A1c.aif key=57 lokey=57 hikey=57 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie A#1c.aif key=58 lokey=58 hikey=59 volume=-4 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie C2c.aif key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie D2b.aif key=62 lokey=62 hikey=63 volume=-2 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie E2c.aif key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie G2c.aif key=67 lokey=66 hikey=68 tune=4 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie A2b.aif key=69 lokey=69 hikey=70 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie B2b.aif key=71 lokey=71 hikey=72 volume=-2 tune=-6 loop_mode=no_loop
+<region> sample=IL P-Bass zmbie C#3c.aif key=73 lokey=73 hikey=75 volume=-4 tune=18 loop_mode=no_loop
+
+<group> volume=2        // Bombs
+<region> sample=IL P-Bass bomb 21.aif key=26 lokey=26 hikey=26 volume=6 loop_mode=no_loop
+<region> sample=IL P-Bass bomb 06.aif key=23 lokey=23 hikey=23 loop_mode=no_loop
+<region> sample=IL P-Bass bomb 10.aif key=22 lokey=22 hikey=22 loop_mode=no_loop
+<region> sample=IL P-Bass bomb 31.aif key=25 lokey=25 hikey=25 loop_mode=no_loop
+<region> sample=IL P-Bass bomb 25.aif key=24 lokey=24 hikey=24 loop_mode=no_loop
+<region> sample=IL P-Bass bomb 22.aif key=27 lokey=27 hikey=27 volume=-3 loop_mode=no_loop
+<region> sample=IL P-Bass bomb 03.aif key=21 lokey=21 hikey=21 volume=-3 loop_mode=no_loop
+
+<group> lovel=0 hivel=105 volume=2        // Dead Notes 1
+<region> sample=IL P-Bass dead 03.aif key=13 lokey=13 hikey=13 loop_mode=one_shot
+<region> sample=IL P-Bass dead 04.aif key=12 lokey=0 hikey=12 loop_mode=one_shot pitch_keytrack=0
+<region> sample=IL P-Bass dead 10.aif key=16 lokey=16 hikey=16 loop_mode=one_shot
+<region> sample=IL P-Bass dead 09.aif key=14 lokey=14 hikey=14 loop_mode=one_shot
+<region> sample=IL P-Bass dead 13.aif key=15 lokey=15 hikey=15 loop_mode=one_shot
+
+<group> lovel=106 hivel=127 volume=2        // Dead Notes 2
+<region> sample=IL P-Bass dead 05.aif key=12 lokey=0 hikey=12 loop_mode=one_shot pitch_keytrack=0
+<region> sample=IL P-Bass dead 19.aif key=13 lokey=13 hikey=13 loop_mode=one_shot
+<region> sample=IL P-Bass dead 17.aif key=15 lokey=15 hikey=15 loop_mode=one_shot
+<region> sample=IL P-Bass dead 15.aif key=14 lokey=14 hikey=14 loop_mode=one_shot
+<region> sample=IL P-Bass dead 14.aif key=16 lokey=16 hikey=16 loop_mode=one_shot
+
+<group> volume=-1        // Harmonics Hi
+<region> sample=IL P-Bass hrmnc E1c.aif key=76 lokey=76 hikey=78 loop_mode=loop_continuous loop_start=218432 loop_end=249497
+<region> sample=IL P-Bass hrmnc B2b.aif key=95 lokey=95 hikey=96 volume=6 tune=-5 loop_mode=loop_continuous loop_start=123801 loop_end=152660
+<region> sample=IL P-Bass hrmnc C#3a.aif key=97 lokey=97 hikey=97 volume=2 tune=15 loop_mode=loop_continuous loop_start=155890 loop_end=187183
+<region> sample=IL P-Bass hrmnc D3i.aif key=98 lokey=98 hikey=98 volume=6 tune=24 loop_mode=loop_continuous loop_start=180207 loop_end=210103
+<region> sample=IL P-Bass hrmnc D3f.aif key=98 lokey=100 hikey=100 volume=-4 loop_mode=loop_continuous loop_start=252167 loop_end=283422
+<region> sample=IL P-Bass hrmnc E3b.aif key=100 lokey=101 hikey=101 volume=2 loop_mode=loop_continuous loop_start=162688 loop_end=194234
+<region> sample=IL P-Bass hrmnc D#3a.aif key=102 lokey=99 hikey=99 volume=2 tune=9 loop_mode=loop_continuous loop_start=173694 loop_end=205068
+<region> sample=IL P-Bass hrmnc G3a.aif key=103 lokey=102 hikey=103 volume=5 tune=32 loop_mode=loop_continuous loop_start=125800 loop_end=157080
+<region> sample=IL P-Bass hrmnc G3d.aif key=103 lokey=104 hikey=104 volume=1 tune=2 loop_mode=loop_continuous loop_start=234728 loop_end=265822
+<region> sample=IL P-Bass hrmnc A3e.aif key=105 lokey=105 hikey=106 volume=4 tune=-3 loop_mode=loop_continuous loop_start=151926 loop_end=183066
+<region> sample=IL P-Bass hrmnc B3c.aif key=107 lokey=107 hikey=108 volume=5 tune=16 loop_mode=loop_continuous loop_start=177650 loop_end=209188
+<region> sample=IL P-Bass hrmnc D4c.aif key=110 lokey=109 hikey=111 volume=6 loop_mode=loop_continuous loop_start=121146 loop_end=152247
+<region> sample=IL P-Bass hrmnc E4a.aif key=113 lokey=112 hikey=125 volume=7 tune=30 loop_mode=loop_continuous loop_start=20128 loop_end=42590
+
+<group> volume=2        // Harmonics Lo
+<region> sample=IL P-Bass hrmnc A1b.aif key=81 lokey=79 hikey=82 loop_mode=loop_continuous loop_start=167256 loop_end=197787
+<region> sample=IL P-Bass hrmnc B1b.aif key=83 lokey=83 hikey=84 volume=3 loop_mode=loop_continuous loop_start=220765 loop_end=252160
+<region> sample=IL P-Bass hrmnc D2c.aif key=86 lokey=85 hikey=87 tune=1 loop_mode=loop_continuous loop_start=285277 loop_end=316247
+<region> sample=IL P-Bass hrmnc E2d.aif key=88 lokey=88 hikey=89 loop_mode=loop_continuous loop_start=181213 loop_end=212004
+<region> sample=IL P-Bass hrmnc G2c.aif key=91 lokey=90 hikey=91 volume=-2 tune=4 loop_mode=loop_continuous loop_start=346071 loop_end=377411
+<region> sample=IL P-Bass hrmnc G#2b.aif key=92 lokey=92 hikey=92 volume=3 tune=11 loop_mode=loop_continuous loop_start=178409 loop_end=209404
+<region> sample=IL P-Bass hrmnc A2e.aif key=93 lokey=93 hikey=94 tune=-5 loop_mode=loop_continuous loop_start=210149 loop_end=241622

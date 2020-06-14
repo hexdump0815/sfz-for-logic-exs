@@ -1,0 +1,59 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Church Choir.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=/Library/Application Support/Logic/EXS Factory Samples/Church Choir\
+
+<group> pan=-100        // Choir L
+<region> sample=CHOIR51D#2-left.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=97881 loop_end=246245
+<region> sample=CHOIR69A3-left.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=97501 loop_end=237977
+<region> sample=CHOIR57A2-left.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=101457 loop_end=256242
+<region> sample=CHOIR63D#3-left.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=96025 loop_end=231850
+<region> sample=CHOIR60C3-left.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=97274 loop_end=235946
+<region> sample=CHOIR66F#3-left.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=82687 loop_end=249588
+<region> sample=CHOIR72C4-left.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=96996 loop_end=234180
+<region> sample=CHOIR75D#4-left.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=95870 loop_end=233048
+<region> sample=CHOIR78F#4-left.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=97916 loop_end=226913
+<region> sample=CHOIR81A4-left.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=79468 loop_end=240203
+<region> sample=CHOIR54F#2-left.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=103640 loop_end=233974
+<region> sample=CHOIR42F#1-left.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=103998 loop_end=242552
+<region> sample=CHOIR24C0-left.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=95994 loop_end=232201
+<region> sample=CHOIR27D#1-left.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=130460 loop_end=261378
+<region> sample=CHOIR30F#1-left.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=101968 loop_end=256466
+<region> sample=CHOIR33A1-left.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=100460 loop_end=275998
+<region> sample=CHOIR36C1-left.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=116884 loop_end=250050
+<region> sample=CHOIR39D#1-left.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=109055 loop_end=254510
+<region> sample=CHOIR45A1-left.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=92496 loop_end=252462
+<region> sample=CHOIR48C2-left.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=97054 loop_end=233732
+<region> sample=CHOIR84C5-left.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=107775 loop_end=235339
+<region> sample=CHOIR87D#5-left.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=97890 loop_end=237754
+<region> sample=CHOIR90F#5-left.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=97374 loop_end=235733
+<region> sample=CHOIR93A5-left.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=96887 loop_end=237863
+<region> sample=CHOIR96C6-left.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=97598 loop_end=235962
+
+<group> pan=100        // Choir R
+<region> sample=CHOIR51D#2-right.aif key=51 lokey=50 hikey=52 loop_mode=loop_continuous loop_start=101551 loop_end=253957
+<region> sample=CHOIR69A3-right.aif key=69 lokey=68 hikey=70 loop_mode=loop_continuous loop_start=96535 loop_end=235923
+<region> sample=CHOIR57A2-right.aif key=57 lokey=56 hikey=58 loop_mode=loop_continuous loop_start=116072 loop_end=227110
+<region> sample=CHOIR63D#3-right.aif key=63 lokey=62 hikey=64 loop_mode=loop_continuous loop_start=92032 loop_end=238336
+<region> sample=CHOIR60C3-right.aif key=60 lokey=59 hikey=61 loop_mode=loop_continuous loop_start=98370 loop_end=237412
+<region> sample=CHOIR66F#3-right.aif key=66 lokey=65 hikey=67 loop_mode=loop_continuous loop_start=98786 loop_end=230854
+<region> sample=CHOIR72C4-right.aif key=72 lokey=71 hikey=73 loop_mode=loop_continuous loop_start=99000 loop_end=233554
+<region> sample=CHOIR75D#4-right.aif key=75 lokey=74 hikey=76 loop_mode=loop_continuous loop_start=95895 loop_end=235333
+<region> sample=CHOIR78F#4-right.aif key=78 lokey=77 hikey=79 loop_mode=loop_continuous loop_start=96643 loop_end=234699
+<region> sample=CHOIR81A4-right.aif key=81 lokey=80 hikey=82 loop_mode=loop_continuous loop_start=97374 loop_end=236453
+<region> sample=CHOIR54F#2-right.aif key=54 lokey=53 hikey=55 loop_mode=loop_continuous loop_start=97162 loop_end=251248
+<region> sample=CHOIR42F#1-right.aif key=42 lokey=41 hikey=43 loop_mode=loop_continuous loop_start=96872 loop_end=251038
+<region> sample=CHOIR24C0-right.aif key=24 lokey=0 hikey=25 loop_mode=loop_continuous loop_start=96750 loop_end=232992
+<region> sample=CHOIR27D#1-right.aif key=27 lokey=26 hikey=28 loop_mode=loop_continuous loop_start=104031 loop_end=259752
+<region> sample=CHOIR30F#1-right.aif key=30 lokey=29 hikey=31 loop_mode=loop_continuous loop_start=107417 loop_end=235359
+<region> sample=CHOIR33A1-right.aif key=33 lokey=32 hikey=34 loop_mode=loop_continuous loop_start=107828 loop_end=263574
+<region> sample=CHOIR36C1-right.aif key=36 lokey=35 hikey=37 loop_mode=loop_continuous loop_start=109952 loop_end=252334
+<region> sample=CHOIR39D#1-right.aif key=39 lokey=38 hikey=40 loop_mode=loop_continuous loop_start=98591 loop_end=236003
+<region> sample=CHOIR45A1-right.aif key=45 lokey=44 hikey=46 loop_mode=loop_continuous loop_start=100866 loop_end=250142
+<region> sample=CHOIR48C2-right.aif key=48 lokey=47 hikey=49 loop_mode=loop_continuous loop_start=96868 loop_end=238014
+<region> sample=CHOIR84C5-right.aif key=84 lokey=83 hikey=85 loop_mode=loop_continuous loop_start=96609 loop_end=236043
+<region> sample=CHOIR87D#5-right.aif key=87 lokey=86 hikey=88 loop_mode=loop_continuous loop_start=97881 loop_end=238479
+<region> sample=CHOIR90F#5-right.aif key=90 lokey=89 hikey=91 loop_mode=loop_continuous loop_start=97383 loop_end=236862
+<region> sample=CHOIR93A5-right.aif key=93 lokey=92 hikey=94 loop_mode=loop_continuous loop_start=99008 loop_end=238864
+<region> sample=CHOIR96C6-right.aif key=96 lokey=95 hikey=127 loop_mode=loop_continuous loop_start=96842 loop_end=235585

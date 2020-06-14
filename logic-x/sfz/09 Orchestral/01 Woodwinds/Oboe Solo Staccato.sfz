@@ -1,0 +1,45 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Oboe Solo Staccato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Oboe Solo/Oboe_stac_f1\
+
+<group> lovel=89 hivel=127 volume=-4        // OB2_stac_f
+<region> sample=OB2_stac_f1_E6.wav key=88 lokey=88 hikey=89 loop_mode=no_loop
+<region> sample=OB2_stac_f1_D6.wav key=86 lokey=86 hikey=87 volume=-3 loop_mode=no_loop
+<region> sample=OB2_stac_f1_C6.wav key=84 lokey=84 hikey=85 volume=-3 loop_mode=no_loop
+<region> sample=OB2_stac_f1_F#6.wav key=90 lokey=90 hikey=108 volume=-3 loop_mode=no_loop
+<region> sample=OB2_stac_f1_A#5.wav key=82 lokey=82 hikey=83 loop_mode=no_loop
+<region> sample=OB2_stac_f1_G#5.wav key=80 lokey=80 hikey=81 loop_mode=no_loop
+<region> sample=OB2_stac_f1_F#5.wav key=78 lokey=78 hikey=79 volume=-2 loop_mode=no_loop
+<region> sample=OB2_stac_f1_E5.wav key=76 lokey=76 hikey=77 loop_mode=no_loop
+<region> sample=OB2_stac_f1_D5.wav key=74 lokey=74 hikey=75 loop_mode=no_loop
+<region> sample=OB2_stac_f1_C5.wav key=72 lokey=72 hikey=73 volume=-3 loop_mode=no_loop
+<region> sample=OB2_stac_f1_A#4.wav key=70 lokey=70 hikey=71 loop_mode=no_loop
+<region> sample=OB2_stac_f1_G#4.wav key=68 lokey=68 hikey=69 loop_mode=no_loop
+<region> sample=OB2_stac_f1_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=OB2_stac_f1_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=OB2_stac_f1_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=OB2_stac_f1_C4.wav key=60 lokey=60 hikey=61 volume=2 loop_mode=no_loop
+<region> sample=OB2_stac_f1_A#3.wav key=58 lokey=21 hikey=59 volume=2 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-4        // OB2_stac_mf
+<region> sample=OB2_stac_mf1_F#6.wav key=90 lokey=90 hikey=108 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_F6.wav key=89 lokey=89 hikey=89 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_E6.wav key=88 lokey=87 hikey=88 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_D6.wav key=86 lokey=85 hikey=86 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_C6.wav key=84 lokey=83 hikey=84 volume=-2 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_A#5.wav key=82 lokey=81 hikey=82 volume=2 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_G#5.wav key=80 lokey=79 hikey=80 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_F#5.wav key=78 lokey=77 hikey=78 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_E5.wav key=76 lokey=75 hikey=76 volume=5 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_D5.wav key=74 lokey=73 hikey=74 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_C5.wav key=72 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_A#4.wav key=70 lokey=69 hikey=70 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_G#4.wav key=68 lokey=67 hikey=68 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_F#4.wav key=66 lokey=65 hikey=66 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_E4.wav key=64 lokey=63 hikey=64 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_D4.wav key=62 lokey=61 hikey=62 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_C4.wav key=60 lokey=60 hikey=60 volume=3 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_B3.wav key=59 lokey=59 hikey=59 volume=2 loop_mode=no_loop
+<region> sample=OB2_stac_mf1_A#3.wav key=58 lokey=21 hikey=58 volume=3 loop_mode=no_loop

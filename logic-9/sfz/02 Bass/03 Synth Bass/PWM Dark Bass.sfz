@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PWM Dark Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/PWM Dark Bass\
+
+<group>        // Group #1
+<region> sample=MegaDark96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=10664 loop_end=10875
+<region> sample=MegaDark90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=16532 loop_end=17307
+<region> sample=MegaDark84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=64333 loop_end=65343
+<region> sample=MegaDark78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=42868 loop_end=89184
+<region> sample=MegaDark72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=44852 loop_end=93102
+<region> sample=MegaDark66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=43796 loop_end=91889
+<region> sample=MegaDark60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=58814 loop_end=107043
+<region> sample=MegaDark54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=66219 loop_end=111313
+<region> sample=MegaDark48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=61910 loop_end=110476
+<region> sample=MegaDark42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=78040 loop_end=128588
+<region> sample=MegaDark36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=64374 loop_end=119656
+<region> sample=MegaDark33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=65601 loop_end=112136

@@ -1,0 +1,74 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Violins 2 Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Violins 2/Violins 2-L_legato_f\
+
+<group> lovel=111 hivel=127        // VI2-L_legato_f
+<region> sample=VI2-L_legato_f_B6.wav key=95 lokey=94 hikey=108 loop_mode=loop_continuous loop_start=38803 loop_end=171349
+<region> sample=VI2-L_legato_f_A6.wav key=93 lokey=92 hikey=93 loop_mode=loop_continuous loop_start=41065 loop_end=157029
+<region> sample=VI2-L_legato_f_G6.wav key=91 lokey=90 hikey=91 loop_mode=loop_continuous loop_start=41321 loop_end=169220
+<region> sample=VI2-L_legato_f_F6.wav key=89 lokey=88 hikey=89 loop_mode=loop_continuous loop_start=51711 loop_end=170275
+<region> sample=VI2-L_legato_f_D#6.wav key=87 lokey=86 hikey=87 volume=-2 loop_mode=loop_continuous loop_start=62710 loop_end=109219
+<region> sample=VI2-L_legato_f_C#6.wav key=85 lokey=84 hikey=85 loop_mode=loop_continuous loop_start=46412 loop_end=177887
+<region> sample=VI2-L_legato_f_B5.wav key=83 lokey=82 hikey=83 loop_mode=loop_continuous loop_start=45701 loop_end=196670
+<region> sample=VI2-L_legato_f_A5.wav key=81 lokey=80 hikey=81 loop_mode=loop_continuous loop_start=53470 loop_end=171912
+<region> sample=VI2-L_legato_f_G5.wav key=79 lokey=78 hikey=79 loop_mode=loop_continuous loop_start=32611 loop_end=179126
+<region> sample=VI2-L_legato_f_F5.wav key=77 lokey=76 hikey=77 loop_mode=loop_continuous loop_start=42385 loop_end=97065
+<region> sample=VI2-L_legato_f_D#5.wav key=75 lokey=74 hikey=75 volume=-5 loop_mode=loop_continuous loop_start=100182 loop_end=175695
+<region> sample=VI2-L_legato_f_C#5.wav key=73 lokey=72 hikey=73 loop_mode=loop_continuous loop_start=89575 loop_end=168960
+<region> sample=VI2-L_legato_f_B4.wav key=71 lokey=70 hikey=71 volume=-2 loop_mode=loop_continuous loop_start=74717 loop_end=160634
+<region> sample=VI2-L_legato_f_A4.wav key=69 lokey=68 hikey=69 loop_mode=loop_continuous loop_start=83050 loop_end=159394
+<region> sample=VI2-L_legato_f_G4.wav key=67 lokey=66 hikey=67 loop_mode=loop_continuous loop_start=28605 loop_end=134380
+<region> sample=VI2-L_legato_f_F4.wav key=65 lokey=64 hikey=65 volume=-3 loop_mode=loop_continuous loop_start=97000 loop_end=183399
+<region> sample=VI2-L_legato_f_D#4.wav key=63 lokey=62 hikey=63 loop_mode=loop_continuous loop_start=110706 loop_end=199461
+<region> sample=VI2-L_legato_f_C#4.wav key=61 lokey=60 hikey=61 loop_mode=loop_continuous loop_start=120494 loop_end=204607
+<region> sample=VI2-L_legato_f_B3.wav key=59 lokey=58 hikey=59 loop_mode=loop_continuous loop_start=37440 loop_end=93040
+<region> sample=VI2-L_legato_f_A3.wav key=57 lokey=56 hikey=57 loop_mode=loop_continuous loop_start=44280 loop_end=147295
+<region> sample=VI2-L_legato_f_G3.wav key=55 lokey=21 hikey=55 loop_mode=loop_continuous loop_start=76800 loop_end=157051
+
+<group> lovel=71 hivel=110 volume=2        // VI2-L_legato_mf
+<region> sample=VI2-L_legato_mf_B6.wav key=95 lokey=94 hikey=108 loop_mode=loop_continuous loop_start=96607 loop_end=263210
+<region> sample=VI2-L_legato_mf_A6.wav key=93 lokey=92 hikey=93 volume=-3 loop_mode=loop_continuous loop_start=120399 loop_end=254019
+<region> sample=VI2-L_legato_mf_G6.wav key=91 lokey=90 hikey=91 volume=-3 loop_mode=loop_continuous loop_start=63306 loop_end=301407
+<region> sample=VI2-L_legato_mf_F6.wav key=89 lokey=88 hikey=89 loop_mode=loop_continuous loop_start=47834 loop_end=269546
+<region> sample=VI2-L_legato_mf_D#6.wav key=87 lokey=86 hikey=87 volume=-3 loop_mode=loop_continuous loop_start=48551 loop_end=255593
+<region> sample=VI2-L_legato_mf_C#6.wav key=85 lokey=84 hikey=85 volume=-3 loop_mode=loop_continuous loop_start=69156 loop_end=298612
+<region> sample=VI2-L_legato_mf_B5.wav key=83 lokey=82 hikey=83 volume=-3 loop_mode=loop_continuous loop_start=62570 loop_end=305478
+<region> sample=VI2-L_legato_mf_A5.wav key=81 lokey=80 hikey=81 volume=-3 loop_mode=loop_continuous loop_start=43850 loop_end=283673
+<region> sample=VI2-L_legato_mf_G5.wav key=79 lokey=78 hikey=79 volume=-3 loop_mode=loop_continuous loop_start=110134 loop_end=254966
+<region> sample=VI2-L_legato_mf_F5.wav key=77 lokey=76 hikey=77 volume=-3 loop_mode=loop_continuous loop_start=52445 loop_end=194093
+<region> sample=VI2-L_legato_mf_D#5.wav key=75 lokey=74 hikey=75 volume=-3 loop_mode=loop_continuous loop_start=137432 loop_end=208183
+<region> sample=VI2-L_legato_mf_C#5.wav key=73 lokey=72 hikey=73 volume=-3 loop_mode=loop_continuous loop_start=142913 loop_end=320675
+<region> sample=VI2-L_legato_mf_B4.wav key=71 lokey=70 hikey=71 volume=-3 loop_mode=loop_continuous loop_start=198295 loop_end=311843
+<region> sample=VI2-L_legato_mf_A4.wav key=69 lokey=68 hikey=69 volume=-1 loop_mode=loop_continuous loop_start=216422 loop_end=328415
+<region> sample=VI2-L_legato_mf_G4.wav key=67 lokey=66 hikey=67 volume=-3 loop_mode=loop_continuous loop_start=59893 loop_end=339435
+<region> sample=VI2-L_legato_mf_F4.wav key=65 lokey=64 hikey=65 volume=-3 loop_mode=loop_continuous loop_start=215299 loop_end=350200
+<region> sample=VI2-L_legato_mf_D#4.wav key=63 lokey=62 hikey=63 loop_mode=loop_continuous loop_start=85528 loop_end=296297
+<region> sample=VI2-L_legato_mf_C#4.wav key=61 lokey=60 hikey=61 volume=-1 loop_mode=loop_continuous loop_start=126647 loop_end=337768
+<region> sample=VI2-L_legato_mf_B3.wav key=59 lokey=58 hikey=59 volume=-3 loop_mode=loop_continuous loop_start=83977 loop_end=378755
+<region> sample=VI2-L_legato_mf_A3.wav key=57 lokey=56 hikey=57 volume=-3 loop_mode=loop_continuous loop_start=163217 loop_end=381095
+<region> sample=VI2-L_legato_mf_G3.wav key=55 lokey=21 hikey=55 volume=-3 loop_mode=loop_continuous loop_start=96623 loop_end=428182
+
+<group> lovel=0 hivel=70 volume=2        // VI2-L_legato_p
+<region> sample=VI2-L_legato_p_B3.wav key=59 lokey=58 hikey=59 volume=-4 loop_mode=loop_continuous loop_start=51970 loop_end=410999
+<region> sample=VI2-L_legato_p_B4.wav key=71 lokey=70 hikey=71 volume=-3 loop_mode=loop_continuous loop_start=84843 loop_end=388110
+<region> sample=VI2-L_legato_p_A4.wav key=69 lokey=68 hikey=69 volume=-3 loop_mode=loop_continuous loop_start=37324 loop_end=317794
+<region> sample=VI2-L_legato_p_D#6.wav key=87 lokey=86 hikey=87 volume=-3 loop_mode=loop_continuous loop_start=124828 loop_end=263894
+<region> sample=VI2-L_legato_p_F6.wav key=89 lokey=88 hikey=89 volume=-3 loop_mode=loop_continuous loop_start=57355 loop_end=326872
+<region> sample=VI2-L_legato_p_C#6.wav key=85 lokey=84 hikey=85 volume=-3 loop_mode=loop_continuous loop_start=43733 loop_end=289862
+<region> sample=VI2-L_legato_p_G6.wav key=91 lokey=90 hikey=91 volume=-3 loop_mode=loop_continuous loop_start=53462 loop_end=262170
+<region> sample=VI2-L_legato_p_B5.wav key=83 lokey=82 hikey=83 volume=-3 loop_mode=loop_continuous loop_start=168081 loop_end=324379
+<region> sample=VI2-L_legato_p_A5.wav key=81 lokey=80 hikey=81 volume=-3 loop_mode=loop_continuous loop_start=42374 loop_end=410946
+<region> sample=VI2-L_legato_p_G5.wav key=79 lokey=78 hikey=79 volume=-3 loop_mode=loop_continuous loop_start=84943 loop_end=318632
+<region> sample=VI2-L_legato_p_F5.wav key=77 lokey=76 hikey=77 volume=-3 loop_mode=loop_continuous loop_start=50124 loop_end=263077
+<region> sample=VI2-L_legato_p_D#5.wav key=75 lokey=74 hikey=75 volume=-3 loop_mode=loop_continuous loop_start=96039 loop_end=392077
+<region> sample=VI2-L_legato_p_C#5.wav key=73 lokey=72 hikey=73 volume=-3 loop_mode=loop_continuous loop_start=41453 loop_end=348594
+<region> sample=VI2-L_legato_p_G4.wav key=67 lokey=66 hikey=67 volume=-3 loop_mode=loop_continuous loop_start=72177 loop_end=369003
+<region> sample=VI2-L_legato_p_F4.wav key=65 lokey=64 hikey=65 volume=-3 loop_mode=loop_continuous loop_start=41968 loop_end=297417
+<region> sample=VI2-L_legato_p_D#4.wav key=63 lokey=62 hikey=63 loop_mode=loop_continuous loop_start=111944 loop_end=405331
+<region> sample=VI2-L_legato_p_C#4.wav key=61 lokey=60 hikey=61 loop_mode=loop_continuous loop_start=58313 loop_end=273120
+<region> sample=VI2-L_legato_p_A3.wav key=57 lokey=56 hikey=57 volume=-3 loop_mode=loop_continuous loop_start=46127 loop_end=386221
+<region> sample=VI2-L_legato_p_G3.wav key=55 lokey=21 hikey=55 volume=-3 loop_mode=loop_continuous loop_start=90264 loop_end=292581
+<region> sample=VI2-L_legato_p_B6.wav key=95 lokey=94 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=38638 loop_end=196403
+<region> sample=VI2-L_legato_p_A6.wav key=93 lokey=92 hikey=93 volume=-3 loop_mode=loop_continuous loop_start=34179 loop_end=276822

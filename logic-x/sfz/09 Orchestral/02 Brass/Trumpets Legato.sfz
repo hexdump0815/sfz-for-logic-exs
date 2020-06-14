@@ -1,0 +1,43 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Trumpets Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Trumpets/Trumpets_nA_sus_f\
+
+<group> lovel=89 hivel=127        // Tr-3L_nA_sus_f
+<region> sample=Tr-3L_nA_sus_f_A#5.wav key=82 lokey=81 hikey=82 volume=-3 loop_mode=loop_continuous loop_start=74793 loop_end=350587
+<region> sample=Tr-3L_nA_sus_f_G#5.wav key=80 lokey=79 hikey=80 volume=-3 loop_mode=loop_continuous loop_start=86544 loop_end=164221
+<region> sample=Tr-3L_nA_sus_f_C5.wav key=72 lokey=71 hikey=72 volume=-3 loop_mode=loop_continuous loop_start=123774 loop_end=212856
+<region> sample=Tr-3L_nA_sus_f_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=114294 loop_end=221983
+<region> sample=Tr-3L_nA_sus_f_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=91728 loop_end=296747
+<region> sample=Tr-3L_nA_sus_f_C4.wav key=60 lokey=60 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=62690 loop_end=226452
+<region> sample=Tr-3L_nA_sus_f_A3.wav key=57 lokey=21 hikey=57 volume=-3 loop_mode=loop_continuous loop_start=56918 loop_end=362263
+<region> sample=Tr-3L_nA_sus_f_C6.wav key=84 lokey=84 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=113113 loop_end=194609
+<region> sample=Tr-3L_nA_sus_f_B5.wav key=83 lokey=83 hikey=83 volume=-3 loop_mode=loop_continuous loop_start=93609 loop_end=369249
+<region> sample=Tr-3L_nA_sus_f_F#5.wav key=78 lokey=77 hikey=78 volume=-3 loop_mode=loop_continuous loop_start=49153 loop_end=190722
+<region> sample=Tr-3L_nA_sus_f_E5.wav key=76 lokey=75 hikey=76 volume=-3 loop_mode=loop_continuous loop_start=83953 loop_end=205495
+<region> sample=Tr-3L_nA_sus_f_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=loop_continuous loop_start=102076 loop_end=369263
+<region> sample=Tr-3L_nA_sus_f_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=113416 loop_end=209257
+<region> sample=Tr-3L_nA_sus_f_G#4.wav key=68 lokey=67 hikey=68 volume=-3 loop_mode=loop_continuous loop_start=107721 loop_end=369232
+<region> sample=Tr-3L_nA_sus_f_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=95491 loop_end=313933
+<region> sample=Tr-3L_nA_sus_f_B3.wav key=59 lokey=59 hikey=59 volume=-3 loop_mode=loop_continuous loop_start=84201 loop_end=332394
+<region> sample=Tr-3L_nA_sus_f_A#3.wav key=58 lokey=58 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=104899 loop_end=343203
+
+<group> lovel=0 hivel=88        // Tr-3L_nA_sus_mf
+<region> sample=Tr-3L_nA_sus_mf_C6.wav key=84 lokey=84 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=65389 loop_end=173992
+<region> sample=Tr-3L_nA_sus_mf_B5.wav key=83 lokey=83 hikey=83 volume=-3 loop_mode=loop_continuous loop_start=34167 loop_end=194285
+<region> sample=Tr-3L_nA_sus_mf_A#5.wav key=82 lokey=81 hikey=82 volume=-3 loop_mode=loop_continuous loop_start=48271 loop_end=199389
+<region> sample=Tr-3L_nA_sus_mf_G#5.wav key=80 lokey=79 hikey=80 volume=-3 loop_mode=loop_continuous loop_start=71282 loop_end=184298
+<region> sample=Tr-3L_nA_sus_mf_F#5.wav key=78 lokey=77 hikey=78 volume=-3 loop_mode=loop_continuous loop_start=53278 loop_end=196238
+<region> sample=Tr-3L_nA_sus_mf_E5.wav key=76 lokey=75 hikey=76 volume=-3 loop_mode=loop_continuous loop_start=87024 loop_end=369272
+<region> sample=Tr-3L_nA_sus_mf_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=loop_continuous loop_start=59740 loop_end=369263
+<region> sample=Tr-3L_nA_sus_mf_C5.wav key=72 lokey=71 hikey=72 volume=-3 loop_mode=loop_continuous loop_start=79968 loop_end=369170
+<region> sample=Tr-3L_nA_sus_mf_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=68678 loop_end=369244
+<region> sample=Tr-3L_nA_sus_mf_G#4.wav key=68 lokey=67 hikey=68 volume=-3 loop_mode=loop_continuous loop_start=83224 loop_end=196941
+<region> sample=Tr-3L_nA_sus_mf_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=81078 loop_end=163477
+<region> sample=Tr-3L_nA_sus_mf_E4.wav key=64 lokey=63 hikey=64 volume=-6 loop_mode=loop_continuous loop_start=71971 loop_end=339495
+<region> sample=Tr-3L_nA_sus_mf_D4.wav key=62 lokey=61 hikey=62 volume=-6 loop_mode=loop_continuous loop_start=87024 loop_end=334305
+<region> sample=Tr-3L_nA_sus_mf_C4.wav key=60 lokey=60 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=66326 loop_end=369170
+<region> sample=Tr-3L_nA_sus_mf_B3.wav key=59 lokey=59 hikey=59 volume=-3 loop_mode=loop_continuous loop_start=94486 loop_end=185456
+<region> sample=Tr-3L_nA_sus_mf_A#3.wav key=58 lokey=58 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=70669 loop_end=178968
+<region> sample=Tr-3L_nA_sus_mf_A3.wav key=57 lokey=21 hikey=57 volume=-3 loop_mode=loop_continuous loop_start=64308 loop_end=199457

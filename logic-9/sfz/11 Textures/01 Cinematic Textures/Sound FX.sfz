@@ -1,0 +1,27 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sound FX.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/09 Textures/01 Cinematic Textures/Sound FX\
+
+<group>        // Sound FX
+<region> sample=XXL SFX 1.aif key=72 lokey=84 hikey=127 loop_mode=loop_continuous loop_start=319973 loop_end=431103
+<region> sample=WS VOC25.aif key=72 lokey=72 hikey=83 loop_mode=loop_continuous loop_start=21024 loop_end=99199
+<region> sample=WS VOC24.aif key=60 lokey=60 hikey=71 volume=1 loop_mode=no_loop
+<region> sample=Q BLK BELL.aif key=48 lokey=48 hikey=59 volume=-1 loop_mode=no_loop
+<region> sample=ALIENS 3.aif key=60 lokey=41 hikey=41 loop_mode=one_shot pitch_keytrack=0
+ //        loop_mode=loop_continuous loop_start=87688 loop_end=88469
+<region> sample=BREATHLESS.aif key=60 lokey=42 hikey=42 loop_mode=one_shot pitch_keytrack=0
+<region> sample=J DRK-B S1.aif key=60 lokey=43 hikey=43 loop_mode=one_shot pitch_keytrack=0
+ //        loop_mode=loop_continuous loop_start=50853 loop_end=51645
+<region> sample=J NOISPHO2.aif key=60 lokey=44 hikey=44 loop_mode=one_shot pitch_keytrack=0 volume=-1
+ //        loop_mode=loop_continuous loop_start=219514 loop_end=237046
+<region> sample=V P NOIS1 -L.aif key=60 lokey=45 hikey=46 loop_mode=one_shot pitch_keytrack=0 pan=-100
+ //        loop_mode=loop_continuous loop_start=97940 loop_end=98745
+<region> sample=V P NOIS1 -R.aif key=60 lokey=46 hikey=47 loop_mode=one_shot pitch_keytrack=0 pan=100
+ //        loop_mode=loop_continuous loop_start=97940 loop_end=98745
+<region> sample=A.BRTHFXLP.aif key=60 lokey=40 hikey=40 pitch_keytrack=0 volume=1 loop_mode=loop_continuous loop_start=139968 loop_end=398527
+<region> sample=8DV FX29.aif key=60 lokey=39 hikey=39 pitch_keytrack=0 volume=1 loop_mode=loop_continuous loop_start=10183 loop_end=85823
+<region> sample=8DV FX22.aif key=60 lokey=38 hikey=38 loop_mode=one_shot pitch_keytrack=0
+<region> sample=700 RP9.aif key=60 lokey=37 hikey=37 pitch_keytrack=0 volume=2 loop_mode=loop_continuous loop_start=1139 loop_end=96319
+<region> sample=3100 FX18.aif key=60 lokey=36 hikey=36 pitch_keytrack=0 loop_mode=loop_continuous loop_start=7449 loop_end=63990

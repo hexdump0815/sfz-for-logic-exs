@@ -1,0 +1,105 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - French Horn Solo+.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Horn Solo/French Horn-L_oV_nA_sus_f\
+
+<group> lovel=89 hivel=127        // Legato:Forte
+<region> sample=HO-L_oV_nA_sus_f_D#2.wav key=39 lokey=21 hikey=39 loop_mode=loop_continuous loop_start=84645 loop_end=184331
+<region> sample=HO-L_oV_nA_sus_f_E2.wav key=40 lokey=40 hikey=40 loop_mode=loop_continuous loop_start=68623 loop_end=150827
+<region> sample=HO-L_oV_nA_sus_f_F2.wav key=41 lokey=41 hikey=42 loop_mode=loop_continuous loop_start=67523 loop_end=165369
+<region> sample=HO-L_oV_nA_sus_f_G2.wav key=43 lokey=43 hikey=44 loop_mode=loop_continuous loop_start=59784 loop_end=241758
+<region> sample=HO-L_oV_nA_sus_f_A2.wav key=45 lokey=45 hikey=46 loop_mode=loop_continuous loop_start=135524 loop_end=272417
+<region> sample=HO-L_oV_nA_sus_f_B2.wav key=47 lokey=47 hikey=48 loop_mode=loop_continuous loop_start=62248 loop_end=241309
+<region> sample=HO-L_oV_nA_sus_f_C#3.wav key=49 lokey=49 hikey=50 loop_mode=loop_continuous loop_start=72549 loop_end=263948
+<region> sample=HO-L_oV_nA_sus_f_D#3.wav key=51 lokey=51 hikey=52 loop_mode=loop_continuous loop_start=84178 loop_end=219310
+<region> sample=HO-L_oV_nA_sus_f_F3.wav key=53 lokey=53 hikey=54 loop_mode=loop_continuous loop_start=154605 loop_end=261090
+<region> sample=HO-L_oV_nA_sus_f_G3.wav key=55 lokey=55 hikey=56 loop_mode=loop_continuous loop_start=162560 loop_end=236282
+<region> sample=HO-L_oV_nA_sus_f_A3.wav key=57 lokey=57 hikey=58 loop_mode=loop_continuous loop_start=120019 loop_end=231181
+<region> sample=HO-L_oV_nA_sus_f_B3.wav key=59 lokey=59 hikey=60 loop_mode=loop_continuous loop_start=85581 loop_end=213485
+<region> sample=HO-L_oV_nA_sus_f_C#4.wav key=61 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=154070 loop_end=271914
+<region> sample=HO-L_oV_nA_sus_f_D#4.wav key=63 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=83856 loop_end=217827
+<region> sample=HO-L_oV_nA_sus_f_F4.wav key=65 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=37576 loop_end=237346
+<region> sample=HO-L_oV_nA_sus_f_G4.wav key=67 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=218458 loop_end=256245
+<region> sample=HO-L_oV_nA_sus_f_A4.wav key=69 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=101903 loop_end=251399
+<region> sample=HO-L_oV_nA_sus_f_B4.wav key=71 lokey=71 hikey=71 loop_mode=loop_continuous loop_start=98486 loop_end=268597
+<region> sample=HO-L_oV_nA_sus_f_C5.wav key=72 lokey=72 hikey=72 loop_mode=loop_continuous loop_start=202153 loop_end=288392
+<region> sample=HO-L_oV_nA_sus_f_C#5.wav key=73 lokey=73 hikey=73 loop_mode=loop_continuous loop_start=149312 loop_end=260532
+<region> sample=HO-L_oV_nA_sus_f_D5.wav key=74 lokey=74 hikey=74 loop_mode=loop_continuous loop_start=120997 loop_end=231110
+<region> sample=HO-L_oV_nA_sus_f_D#5.wav key=75 lokey=75 hikey=75 loop_mode=loop_continuous loop_start=133717 loop_end=270744
+<region> sample=HO-L_oV_nA_sus_f_E5.wav key=76 lokey=76 hikey=76 loop_mode=loop_continuous loop_start=175602 loop_end=263793
+<region> sample=HO-L_oV_nA_sus_f_F5.wav key=77 lokey=77 hikey=108 loop_mode=loop_continuous loop_start=107953 loop_end=237109
+
+<group> lovel=0 hivel=88 volume=-3        // Legato:Mezzo Forte
+<region> sample=HO-L_oV_nA_sus_mf_B1.wav key=35 lokey=21 hikey=35 volume=-3 loop_mode=loop_continuous loop_start=126905 loop_end=231298
+<region> sample=HO-L_oV_nA_sus_mf_C2.wav key=36 lokey=36 hikey=36 volume=-3 loop_mode=loop_continuous loop_start=100386 loop_end=245027
+<region> sample=HO-L_oV_nA_sus_mf_D2.wav key=38 lokey=37 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=70531 loop_end=268476
+<region> sample=HO-L_oV_nA_sus_mf_E2.wav key=40 lokey=39 hikey=40 volume=-3 loop_mode=loop_continuous loop_start=136530 loop_end=272298
+<region> sample=HO-L_oV_nA_sus_mf_F#2.wav key=42 lokey=41 hikey=42 volume=-3 loop_mode=loop_continuous loop_start=120218 loop_end=311123
+<region> sample=HO-L_oV_nA_sus_mf_G#2.wav key=44 lokey=43 hikey=44 loop_mode=loop_continuous loop_start=161067 loop_end=224318
+<region> sample=HO-L_oV_nA_sus_mf_A#2.wav key=46 lokey=45 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=128777 loop_end=254878
+<region> sample=HO-L_oV_nA_sus_mf_C3.wav key=48 lokey=47 hikey=48 volume=-3 loop_mode=loop_continuous loop_start=119230 loop_end=246520
+<region> sample=HO-L_oV_nA_sus_mf_D3.wav key=50 lokey=49 hikey=50 volume=-3 loop_mode=loop_continuous loop_start=160065 loop_end=223062
+<region> sample=HO-L_oV_nA_sus_mf_E3.wav key=52 lokey=51 hikey=52 loop_mode=loop_continuous loop_start=124217 loop_end=278580
+<region> sample=HO-L_oV_nA_sus_mf_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=167690 loop_end=232771
+<region> sample=HO-L_oV_nA_sus_mf_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=153060 loop_end=302325
+<region> sample=HO-L_oV_nA_sus_mf_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=172458 loop_end=212985
+<region> sample=HO-L_oV_nA_sus_mf_C4.wav key=60 lokey=59 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=41965 loop_end=266436
+<region> sample=HO-L_oV_nA_sus_mf_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=229034 loop_end=342895
+<region> sample=HO-L_oV_nA_sus_mf_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=88297 loop_end=220780
+<region> sample=HO-L_oV_nA_sus_mf_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=149818 loop_end=241593
+<region> sample=HO-L_oV_nA_sus_mf_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=175741 loop_end=251360
+<region> sample=HO-L_oV_nA_sus_mf_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=186683 loop_end=293434
+<region> sample=HO-L_oV_nA_sus_mf_C5.wav key=72 lokey=71 hikey=72 loop_mode=loop_continuous loop_start=175239 loop_end=253496
+<region> sample=HO-L_oV_nA_sus_f_D5.wav key=74 lokey=73 hikey=74 volume=-3 loop_mode=loop_continuous loop_start=120997 loop_end=231110
+<region> sample=HO-L_oV_nA_sus_f_E5.wav key=76 lokey=75 hikey=76 loop_mode=loop_continuous loop_start=175602 loop_end=263793
+<region> sample=HO-L_oV_nA_sus_f_F5.wav key=77 lokey=77 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=107953 loop_end=237109
+
+<group> lovel=89 hivel=127        // Staccato:Forte
+<region> sample=HO_oV_hA_4-120_f1_B1.wav key=35 lokey=21 hikey=35 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_C2.wav key=36 lokey=36 hikey=36 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_D2.wav key=38 lokey=37 hikey=38 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_E2.wav key=40 lokey=39 hikey=40 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_F#2.wav key=42 lokey=41 hikey=42 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_G#2.wav key=44 lokey=43 hikey=44 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_A#2.wav key=46 lokey=45 hikey=46 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_C3.wav key=48 lokey=47 hikey=48 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_D3.wav key=50 lokey=49 hikey=50 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_E3.wav key=52 lokey=51 hikey=52 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_F#3.wav key=54 lokey=53 hikey=54 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_G#3.wav key=56 lokey=55 hikey=56 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_A#3.wav key=58 lokey=57 hikey=58 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_C4.wav key=60 lokey=59 hikey=60 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_E4.wav key=64 lokey=63 hikey=65 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_A#4.wav key=70 lokey=69 hikey=70 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_C5.wav key=72 lokey=71 hikey=72 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_D5.wav key=74 lokey=73 hikey=74 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_E5.wav key=76 lokey=75 hikey=76 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_F5.wav key=77 lokey=77 hikey=108 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_f1_G#4.wav key=68 lokey=66 hikey=68 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-2        // Staccato:Mezzo Forte
+<region> sample=HO_oV_hA_4-120_mf1_B1.wav key=35 lokey=21 hikey=35 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_C2.wav key=36 lokey=36 hikey=37 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_D2.wav key=38 lokey=38 hikey=39 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_E2.wav key=40 lokey=40 hikey=41 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_F#2.wav key=42 lokey=42 hikey=43 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_G#2.wav key=44 lokey=44 hikey=45 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_A#2.wav key=46 lokey=46 hikey=47 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_C3.wav key=48 lokey=48 hikey=49 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_D3.wav key=50 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_E3.wav key=52 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_F#3.wav key=54 lokey=54 hikey=55 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_G#3.wav key=56 lokey=56 hikey=57 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_A#3.wav key=58 lokey=58 hikey=59 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_C4.wav key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_G#4.wav key=68 lokey=68 hikey=69 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_A#4.wav key=70 lokey=70 hikey=71 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_C5.wav key=72 lokey=72 hikey=73 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_D5.wav key=74 lokey=74 hikey=75 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_E5.wav key=76 lokey=76 hikey=76 loop_mode=no_loop
+<region> sample=HO_oV_hA_4-120_mf1_F5.wav key=77 lokey=77 hikey=108 loop_mode=no_loop

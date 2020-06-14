@@ -1,0 +1,68 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Cellos Legato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Cellos/Cellos-L_legato_f\
+
+<group> lovel=56 hivel=110 volume=2        // VC-L_legato_mf
+<region> sample=VC-L_legato_mf_D3.wav key=50 lokey=49 hikey=50 loop_mode=loop_continuous loop_start=244788 loop_end=474034
+<region> sample=VC-L_legato_mf_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=135449 loop_end=458988
+<region> sample=VC-L_legato_mf_C5.wav key=72 lokey=71 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=44752 loop_end=505786
+<region> sample=VC-L_legato_mf_G#4.wav key=68 lokey=67 hikey=68 volume=-3 loop_mode=loop_continuous loop_start=68261 loop_end=488686
+<region> sample=VC-L_legato_mf_G#2.wav key=44 lokey=43 hikey=44 volume=-3 loop_mode=loop_continuous loop_start=70832 loop_end=507405
+<region> sample=VC-L_legato_mf_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=140571 loop_end=478623
+<region> sample=VC-L_legato_mf_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=65157 loop_end=512607
+<region> sample=VC-L_legato_mf_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=93245 loop_end=526434
+<region> sample=VC-L_legato_mf_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=133817 loop_end=561484
+<region> sample=VC-L_legato_mf_C4.wav key=60 lokey=59 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=143292 loop_end=548754
+<region> sample=VC-L_legato_mf_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=65179 loop_end=508591
+<region> sample=VC-L_legato_mf_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=109572 loop_end=467754
+<region> sample=VC-L_legato_mf_E3.wav key=52 lokey=51 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=194202 loop_end=455404
+<region> sample=VC-L_legato_mf_C3.wav key=48 lokey=47 hikey=48 volume=-3 loop_mode=loop_continuous loop_start=142291 loop_end=488523
+<region> sample=VC-L_legato_mf_A#2.wav key=46 lokey=45 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=187670 loop_end=522738
+<region> sample=VC-L_legato_mf_F#2.wav key=42 lokey=41 hikey=42 volume=-3 loop_mode=loop_continuous loop_start=63170 loop_end=445449
+<region> sample=VC-L_legato_mf_E2.wav key=40 lokey=39 hikey=40 volume=-3 loop_mode=loop_continuous loop_start=150087 loop_end=487803
+<region> sample=VC-L_legato_mf_D2.wav key=38 lokey=37 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=98480 loop_end=443723
+<region> sample=VC-L_legato_mf_C2.wav key=36 lokey=21 hikey=36 volume=-3 loop_mode=loop_continuous loop_start=92619 loop_end=457408
+
+<group> lovel=0 hivel=55 volume=2        // VC-L_legato_p
+<region> sample=VC-L_legato_p_D3.wav key=50 lokey=49 hikey=50 volume=-3 loop_mode=loop_continuous loop_start=161273 loop_end=562149
+<region> sample=VC-L_legato_p_A#4.wav key=70 lokey=69 hikey=70 volume=-3 loop_mode=loop_continuous loop_start=363166 loop_end=480898
+<region> sample=VC-L_legato_p_E4.wav key=64 lokey=63 hikey=64 volume=-3 loop_mode=loop_continuous loop_start=117202 loop_end=533065
+<region> sample=VC-L_legato_p_A#3.wav key=58 lokey=57 hikey=58 volume=-3 loop_mode=loop_continuous loop_start=210573 loop_end=536144
+<region> sample=VC-L_legato_p_C5.wav key=72 lokey=71 hikey=108 volume=-3 loop_mode=loop_continuous loop_start=104084 loop_end=391215
+<region> sample=VC-L_legato_p_E2.wav key=40 lokey=39 hikey=40 volume=-5 loop_mode=loop_continuous loop_start=158158 loop_end=439055
+<region> sample=VC-L_legato_p_G#4.wav key=68 lokey=67 hikey=68 volume=-3 loop_mode=loop_continuous loop_start=345127 loop_end=519650
+<region> sample=VC-L_legato_p_F#4.wav key=66 lokey=65 hikey=66 volume=-3 loop_mode=loop_continuous loop_start=139106 loop_end=446857
+<region> sample=VC-L_legato_p_D4.wav key=62 lokey=61 hikey=62 volume=-3 loop_mode=loop_continuous loop_start=131890 loop_end=529950
+<region> sample=VC-L_legato_p_C4.wav key=60 lokey=59 hikey=60 volume=-3 loop_mode=loop_continuous loop_start=151080 loop_end=525765
+<region> sample=VC-L_legato_p_G#3.wav key=56 lokey=55 hikey=56 volume=-3 loop_mode=loop_continuous loop_start=196192 loop_end=566703
+<region> sample=VC-L_legato_p_F#3.wav key=54 lokey=53 hikey=54 volume=-3 loop_mode=loop_continuous loop_start=105651 loop_end=525268
+<region> sample=VC-L_legato_p_E3.wav key=52 lokey=51 hikey=52 volume=-3 loop_mode=loop_continuous loop_start=205882 loop_end=488514
+<region> sample=VC-L_legato_p_C3.wav key=48 lokey=47 hikey=48 volume=-3 loop_mode=loop_continuous loop_start=172039 loop_end=490588
+<region> sample=VC-L_legato_p_A#2.wav key=46 lokey=45 hikey=46 volume=-3 loop_mode=loop_continuous loop_start=147491 loop_end=550459
+<region> sample=VC-L_legato_p_G#2.wav key=44 lokey=43 hikey=44 volume=-3 loop_mode=loop_continuous loop_start=148620 loop_end=545150
+<region> sample=VC-L_legato_p_F#2.wav key=42 lokey=41 hikey=42 volume=-3 loop_mode=loop_continuous loop_start=173824 loop_end=492154
+<region> sample=VC-L_legato_p_D2.wav key=38 lokey=37 hikey=38 volume=-3 loop_mode=loop_continuous loop_start=101182 loop_end=503012
+<region> sample=VC-L_legato_p_C2.wav key=36 lokey=21 hikey=36 volume=-3 loop_mode=loop_continuous loop_start=110893 loop_end=363149
+
+<group> lovel=111 hivel=127 volume=-3        // VC-L_legato_f
+<region> sample=VC-L_legato_f_G#4.wav key=68 lokey=67 hikey=68 loop_mode=loop_continuous loop_start=27419 loop_end=160510
+<region> sample=VC-L_legato_f_A#3.wav key=58 lokey=57 hikey=58 volume=-2 loop_mode=loop_continuous loop_start=20191 loop_end=193095
+<region> sample=VC-L_legato_f_D2.wav key=38 lokey=37 hikey=38 loop_mode=loop_continuous loop_start=105712 loop_end=224057
+<region> sample=VC-L_legato_f_C5.wav key=72 lokey=71 hikey=108 loop_mode=loop_continuous loop_start=71247 loop_end=159091
+<region> sample=VC-L_legato_f_A#4.wav key=70 lokey=69 hikey=70 loop_mode=loop_continuous loop_start=22885 loop_end=179085
+<region> sample=VC-L_legato_f_F#4.wav key=66 lokey=65 hikey=66 loop_mode=loop_continuous loop_start=60478 loop_end=186301
+<region> sample=VC-L_legato_f_E4.wav key=64 lokey=63 hikey=64 loop_mode=loop_continuous loop_start=52363 loop_end=167895
+<region> sample=VC-L_legato_f_C4.wav key=60 lokey=59 hikey=60 loop_mode=loop_continuous loop_start=40360 loop_end=177850
+<region> sample=VC-L_legato_f_G#3.wav key=56 lokey=55 hikey=56 volume=5 loop_mode=loop_continuous loop_start=72803 loop_end=218529
+<region> sample=VC-L_legato_f_F#3.wav key=54 lokey=53 hikey=54 volume=5 loop_mode=loop_continuous loop_start=78915 loop_end=175965
+<region> sample=VC-L_legato_f_C3.wav key=48 lokey=47 hikey=48 loop_mode=loop_continuous loop_start=62512 loop_end=203298
+<region> sample=VC-L_legato_f_A#2.wav key=46 lokey=45 hikey=46 volume=2 loop_mode=loop_continuous loop_start=98497 loop_end=227838
+<region> sample=VC-L_legato_f_C2.wav key=36 lokey=21 hikey=36 loop_mode=loop_continuous loop_start=55608 loop_end=218399
+<region> sample=VC-L_legato_f_D4.wav key=62 lokey=61 hikey=62 loop_mode=loop_continuous loop_start=34137 loop_end=203710
+<region> sample=VC-L_legato_f_E3.wav key=52 lokey=51 hikey=52 volume=4 loop_mode=loop_continuous loop_start=115960 loop_end=206602
+<region> sample=VC-L_legato_f_D3.wav key=50 lokey=49 hikey=50 volume=2 loop_mode=loop_continuous loop_start=37456 loop_end=234998
+<region> sample=VC-L_legato_f_G#2.wav key=44 lokey=43 hikey=44 volume=2 loop_mode=loop_continuous loop_start=36619 loop_end=234612
+<region> sample=VC-L_legato_f_F#2.wav key=42 lokey=41 hikey=42 volume=2 loop_mode=loop_continuous loop_start=83586 loop_end=223741
+<region> sample=VC-L_legato_f_E2.wav key=40 lokey=39 hikey=40 loop_mode=loop_continuous loop_start=69608 loop_end=238362

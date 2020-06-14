@@ -1,0 +1,12 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Tornado Bass B Filter.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/05 Synthesizers/08 Synth Waveforms/Digital Waveforms/Tornado Bass B INIT\
+
+<group>        // Group #1
+<region> sample=TornadoBassB60.wav key=60 lokey=58 hikey=127 loop_mode=loop_continuous loop_start=36332 loop_end=36669
+<region> sample=TornadoBassB54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=34203 loop_end=34680
+<region> sample=TornadoBassB48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=34189 loop_end=34864
+<region> sample=TornadoBassB42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=30198 loop_end=31152
+<region> sample=TornadoBassB36.wav key=36 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=33224 loop_end=34573

@@ -1,0 +1,19 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - PWM Medium Bass.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/PWM Medium Bass\
+
+<group>        // Group #1
+<region> sample=MegaMed96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=16172 loop_end=16466
+<region> sample=MegaMed90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=24195 loop_end=24731
+<region> sample=MegaMed84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=35539 loop_end=73946
+<region> sample=MegaMed78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=44838 loop_end=89899
+<region> sample=MegaMed72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=68852 loop_end=112761
+<region> sample=MegaMed66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=57449 loop_end=102428
+<region> sample=MegaMed60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=47176 loop_end=93215
+<region> sample=MegaMed54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=61926 loop_end=107720
+<region> sample=MegaMed48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=77135 loop_end=123685
+<region> sample=MegaMed42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=51266 loop_end=96118
+<region> sample=MegaMed36.wav key=36 lokey=35 hikey=39 loop_mode=loop_continuous loop_start=91959 loop_end=136495
+<region> sample=MegaMed33.wav key=33 lokey=0 hikey=34 loop_mode=loop_continuous loop_start=89310 loop_end=137473

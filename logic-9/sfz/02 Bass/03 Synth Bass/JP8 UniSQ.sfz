@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - JP8 UniSQ.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/JP8 UniSQ\
+
+<group>        // Group #1
+<region> sample=JP8 Unison Square 96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=43124 loop_end=88086
+<region> sample=JP8 Unison Square 90.wav key=90 lokey=88 hikey=93 loop_mode=loop_continuous loop_start=39581 loop_end=96619
+<region> sample=JP8 Unison Square 84.wav key=84 lokey=82 hikey=87 loop_mode=loop_continuous loop_start=48353 loop_end=116872
+<region> sample=JP8 Unison Square 78.wav key=78 lokey=76 hikey=81 loop_mode=loop_continuous loop_start=60274 loop_end=113897
+<region> sample=JP8 Unison Square 72.wav key=72 lokey=70 hikey=75 loop_mode=loop_continuous loop_start=44543 loop_end=101933
+<region> sample=JP8 Unison Square 66.wav key=66 lokey=64 hikey=69 loop_mode=loop_continuous loop_start=43594 loop_end=92291
+<region> sample=JP8 Unison Square 60.wav key=60 lokey=58 hikey=63 loop_mode=loop_continuous loop_start=54747 loop_end=105492
+<region> sample=JP8 Unison Square 54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=44709 loop_end=96895
+<region> sample=JP8 Unison Square 48.wav key=48 lokey=46 hikey=51 loop_mode=loop_continuous loop_start=37992 loop_end=104600
+<region> sample=JP8 Unison Square 42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=39094 loop_end=103689
+<region> sample=JP8 Unison Square 36.wav key=36 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=32711 loop_end=94120

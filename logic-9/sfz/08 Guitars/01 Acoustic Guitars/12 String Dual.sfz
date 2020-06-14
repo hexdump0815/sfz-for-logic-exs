@@ -1,0 +1,37 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - 12 String Dual.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/07 Guitars/02 Acoustic Guitars/12 String Dual\
+
+<group> pan=-16 volume=1        // Microphone
+<region> sample=12STRG57MIC.aif key=57 lokey=56 hikey=58 tune=-3 loop_mode=loop_continuous loop_start=168682 loop_end=173494
+<region> sample=12STRG60MIC.aif key=60 lokey=59 hikey=61 tune=-3 loop_mode=loop_continuous loop_start=198686 loop_end=201722
+<region> sample=12STRG54MIC.aif key=54 lokey=53 hikey=55 tune=-3 loop_mode=loop_continuous loop_start=130799 loop_end=134857
+<region> sample=12STRG51MIC.aif key=51 lokey=50 hikey=52 tune=-3 loop_mode=loop_continuous loop_start=187479 loop_end=190315
+<region> sample=12STRG63MIC.aif key=63 lokey=62 hikey=64 tune=-3 loop_mode=loop_continuous loop_start=200340 loop_end=202041
+<region> sample=12STRG42MIC.aif key=42 lokey=42 hikey=43 tune=-2 loop_mode=loop_continuous loop_start=239575 loop_end=240530
+<region> sample=12STRG45MIC.aif key=45 lokey=44 hikey=46 tune=-2 loop_mode=loop_continuous loop_start=203351 loop_end=204551
+<region> sample=12STRG66MIC.aif key=66 lokey=65 hikey=67 tune=-3 loop_mode=loop_continuous loop_start=137135 loop_end=140113
+<region> sample=12STRG40MIC.aif key=40 lokey=0 hikey=41 tune=6 loop_mode=loop_continuous loop_start=140070 loop_end=141678
+<region> sample=12STRG48MIC.aif key=48 lokey=47 hikey=49 tune=-2 loop_mode=loop_continuous loop_start=247895 loop_end=249581
+<region> sample=12STRG69MIC.aif key=69 lokey=68 hikey=70 tune=-3 loop_mode=loop_continuous loop_start=103166 loop_end=132221
+<region> sample=12STRG72MIC.aif key=72 lokey=71 hikey=73 tune=-3 loop_mode=loop_continuous loop_start=96954 loop_end=98389
+<region> sample=12STRG75MIC.aif key=75 lokey=74 hikey=76 tune=-3 loop_mode=loop_continuous loop_start=86452 loop_end=119970
+<region> sample=12STRG78MIC.aif key=78 lokey=77 hikey=127 tune=-3 loop_mode=loop_continuous loop_start=64302 loop_end=84746
+
+<group> pan=16 volume=-3        // Pickup
+<region> sample=12STRG57PIK.aif key=57 lokey=56 hikey=58 tune=3 loop_mode=loop_continuous loop_start=127179 loop_end=152957
+<region> sample=12STRG60PIK.aif key=60 lokey=59 hikey=61 tune=3 loop_mode=loop_continuous loop_start=154886 loop_end=200537
+<region> sample=12STRG54PIK.aif key=54 lokey=53 hikey=55 tune=3 loop_mode=loop_continuous loop_start=128135 loop_end=148765
+<region> sample=12STRG51PIK.aif key=51 lokey=50 hikey=52 tune=3 loop_mode=loop_continuous loop_start=167539 loop_end=204980
+<region> sample=12STRG63PIK.aif key=63 lokey=62 hikey=64 tune=3 loop_mode=loop_continuous loop_start=152503 loop_end=201529
+<region> sample=12STRG42PIK.aif key=42 lokey=42 hikey=43 tune=-2 loop_mode=loop_continuous loop_start=239650 loop_end=240542
+<region> sample=12STRG45PIK.aif key=45 lokey=44 hikey=46 tune=-3 loop_mode=loop_continuous loop_start=203767 loop_end=204551
+<region> sample=12STRG66PIK.aif key=66 lokey=65 hikey=67 tune=3 loop_mode=loop_continuous loop_start=140046 loop_end=167668
+<region> sample=12STRG40PIK.aif key=40 lokey=0 hikey=41 tune=2 loop_mode=loop_continuous loop_start=140246 loop_end=141856
+<region> sample=12STRG48PIK.aif key=48 lokey=47 hikey=49 tune=4 loop_mode=loop_continuous loop_start=196104 loop_end=249592
+<region> sample=12STRG69PIK.aif key=69 lokey=68 hikey=70 tune=3 loop_mode=loop_continuous loop_start=129276 loop_end=182470
+<region> sample=12STRG72PIK.aif key=72 lokey=71 hikey=73 tune=3 loop_mode=loop_continuous loop_start=83900 loop_end=112314
+<region> sample=12STRG75PIK.aif key=75 lokey=74 hikey=76 tune=3 loop_mode=loop_continuous loop_start=103974 loop_end=128576
+<region> sample=12STRG78PIK.aif key=78 lokey=77 hikey=127 tune=3 loop_mode=loop_continuous loop_start=69021 loop_end=93158

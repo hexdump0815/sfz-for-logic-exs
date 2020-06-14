@@ -1,0 +1,58 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Violin (Arco).exs    by EXS2SFZ 1.1.7
+
+//
+// Attention!! The original files uses the unsupported sfz parameter loop_tune - your sfz-samples might be out of tune! //
+//
+
+
+<control>
+default_path=../../EXS Factory Samples/06 Pop Strings/Violin (Arco)\
+
+<group> locc1=0 hicc1=10        // Violin mf sus ln
+<region> sample=Vln sus  5 f.aif key=77 lokey=76 hikey=78 volume=-21 tune=2 loop_mode=loop_continuous loop_start=68714 loop_end=601008
+<region> sample=Vln sus  3 g#.aif key=56 lokey=0 hikey=57 volume=-13 tune=-5 loop_mode=loop_continuous loop_start=8714 loop_end=393365
+<region> sample=Vln sus  5 g#.aif key=80 lokey=79 hikey=81 volume=-16 loop_mode=loop_continuous loop_start=11098 loop_end=516105
+<region> sample=Vln sus  4b.aif key=71 lokey=70 hikey=72 volume=-19 tune=4 loop_mode=loop_continuous loop_start=195510 loop_end=705753
+<region> sample=Vln sus  5 d.aif key=74 lokey=73 hikey=75 volume=-13 tune=-2 loop_mode=loop_continuous loop_start=165378 loop_end=699351
+<region> sample=Vln sus  5b.aif key=83 lokey=82 hikey=84 volume=-19 tune=3 loop_mode=loop_continuous loop_start=39753 loop_end=573465
+<region> sample=Vln sus  6 d.aif key=86 lokey=85 hikey=87 volume=-15 tune=-2 loop_mode=loop_continuous loop_start=12970 loop_end=577531
+<region> sample=Vln sus  3b.aif key=59 lokey=58 hikey=60 volume=-17 loop_mode=loop_continuous loop_start=50999 loop_end=461681
+<region> sample=Vln sus  6 f.aif key=89 lokey=88 hikey=127 volume=-16 tune=-1 loop_mode=loop_continuous loop_start=69542 loop_end=550063
+<region> sample=Vln sus  4 f.aif key=65 lokey=64 hikey=66 volume=-12 tune=2 loop_mode=loop_continuous loop_start=69349 loop_end=454991
+<region> sample=Vln sus  4 g#.aif key=68 lokey=67 hikey=69 volume=-12 tune=4 loop_mode=loop_continuous loop_start=54280 loop_end=473257
+// (unsupported) loop_tune=-9
+
+<region> sample=Vln sus  4 d.aif key=62 lokey=61 hikey=63 volume=-12 tune=1 loop_mode=loop_continuous loop_start=17216 loop_end=398528
+
+<group> locc1=11 hicc1=116        // Violin mf sneakin ln
+<region> sample=Vln sneak in sus  5 f.aif key=77 lokey=76 hikey=78 volume=-20 tune=2 loop_mode=loop_continuous loop_start=116714 loop_end=649007
+<region> sample=Vln sneak in sus  3 g#.aif key=56 lokey=0 hikey=57 volume=-13 tune=-5 loop_mode=loop_continuous loop_start=103201 loop_end=487851
+<region> sample=Vln sneak in sus  5 g#.aif key=80 lokey=79 hikey=81 volume=-16 loop_mode=loop_continuous loop_start=41036 loop_end=546043
+<region> sample=Vln sneak in sus  4b.aif key=71 lokey=70 hikey=72 volume=-19 tune=4 loop_mode=loop_continuous loop_start=211622 loop_end=721865
+<region> sample=Vln sneak in sus  5 d.aif key=74 lokey=73 hikey=75 volume=-13 tune=-2 loop_mode=loop_continuous loop_start=84656 loop_end=618630
+<region> sample=Vln sneak in sus  5b.aif key=83 lokey=82 hikey=84 volume=-19 loop_mode=loop_continuous loop_start=94861 loop_end=628573
+<region> sample=Vln sneak in sus  6 d.aif key=86 lokey=85 hikey=87 volume=-15 tune=-2 loop_mode=loop_continuous loop_start=186161 loop_end=750721
+<region> sample=Vln sneak in sus  3b.aif key=59 lokey=58 hikey=60 volume=-18 loop_mode=loop_continuous loop_start=87047 loop_end=496817
+<region> sample=Vln sneak in sus  6 f.aif key=89 lokey=88 hikey=127 volume=-16 tune=-1 loop_mode=loop_continuous loop_start=314555 loop_end=795076
+<region> sample=Vln sneak in sus  4 f.aif key=65 lokey=64 hikey=66 volume=-16 tune=2 loop_mode=loop_continuous loop_start=39983 loop_end=425625
+<region> sample=Vln sneak in sus  4 g#.aif key=68 lokey=67 hikey=69 volume=-12 tune=4 loop_mode=loop_continuous loop_start=38310 loop_end=457288
+// (unsupported) loop_tune=-9
+
+<region> sample=Vln sneak in sus  4 d.aif key=62 lokey=61 hikey=63 volume=-12 tune=1 loop_mode=loop_continuous loop_start=74488 loop_end=455799
+
+<group> locc1=117 hicc1=127        // Violin mf mrc ln
+<region> sample=Vln mrc sus  5 f.aif key=77 lokey=76 hikey=78 volume=-11 tune=2 loop_mode=loop_continuous loop_start=82269 loop_end=614563
+<region> sample=Vln mrc sus  3 g#.aif key=56 lokey=0 hikey=57 volume=-3 tune=-5 loop_mode=loop_continuous loop_start=52855 loop_end=459253
+<region> sample=Vln mrc sus  5 g#.aif key=80 lokey=79 hikey=81 volume=-8 loop_mode=loop_continuous loop_start=260820 loop_end=765827
+<region> sample=Vln mrc sus  4b.aif key=71 lokey=70 hikey=72 volume=-16 tune=4 loop_mode=loop_continuous loop_start=41053 loop_end=551296
+<region> sample=Vln mrc sus  5 d.aif key=74 lokey=73 hikey=75 volume=-14 tune=-2 loop_mode=loop_continuous loop_start=86909 loop_end=620882
+<region> sample=Vln mrc sus  5b.aif key=83 lokey=82 hikey=84 volume=-8 loop_mode=loop_continuous loop_start=110259 loop_end=643971
+<region> sample=Vln mrc sus  6 d.aif key=86 lokey=85 hikey=87 volume=-4 tune=-2 loop_mode=loop_continuous loop_start=28492 loop_end=593053
+<region> sample=Vln mrc sus  3b.aif key=59 lokey=58 hikey=60 volume=-12 tune=-2 loop_mode=loop_continuous loop_start=44636 loop_end=455649
+<region> sample=Vln mrc sus  6 f.aif key=89 lokey=88 hikey=127 volume=-7 tune=-1 loop_mode=loop_continuous loop_start=61039 loop_end=541559
+<region> sample=Vln mrc sus  4 f.aif key=65 lokey=64 hikey=66 volume=-9 tune=2 loop_mode=loop_continuous loop_start=31799 loop_end=417441
+<region> sample=Vln mrc sus  4 g#.aif key=68 lokey=67 hikey=69 volume=-8 tune=4 loop_mode=loop_continuous loop_start=32456 loop_end=451433
+// (unsupported) loop_tune=-9
+
+<region> sample=Vln mrc sus  4 d.aif key=62 lokey=61 hikey=63 volume=-8 tune=1 loop_mode=loop_continuous loop_start=12467 loop_end=393778

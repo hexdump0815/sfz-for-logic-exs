@@ -1,0 +1,15 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Dark FM Drive.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../EXS Factory Samples/05 Synthesizers/08 Synth Waveforms/Digital Waveforms/Dark FM Bass INIT\
+
+<group>        // Group #1
+<region> sample=DarkFMBass78.wav key=78 lokey=76 hikey=127 loop_mode=no_loop
+<region> sample=DarkFMBass72.wav key=72 lokey=70 hikey=75 loop_mode=no_loop
+<region> sample=DarkFMBass66.wav key=66 lokey=64 hikey=69 loop_mode=no_loop
+<region> sample=DarkFMBass60.wav key=60 lokey=58 hikey=63 loop_mode=no_loop
+<region> sample=DarkFMBass54.wav key=54 lokey=52 hikey=57 loop_mode=no_loop
+<region> sample=DarkFMBass48.wav key=48 lokey=47 hikey=51 loop_mode=no_loop
+<region> sample=DarkFMBass45.wav key=45 lokey=44 hikey=46 loop_mode=no_loop
+<region> sample=DarkFMBass42.wav key=42 lokey=0 hikey=43 loop_mode=no_loop

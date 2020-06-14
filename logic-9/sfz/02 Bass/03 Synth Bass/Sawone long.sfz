@@ -1,0 +1,25 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Sawone long.exs    by EXS2SFZ 1.1.7
+
+//
+// Attention!! The original files uses the unsupported sfz parameter loop_tune - your sfz-samples might be out of tune! //
+//
+
+
+<control>
+default_path=../../../EXS Factory Samples/02 Bass/01 Synth Bass/Sawone long\
+
+<group>        // Group #1
+<region> sample=Sawone96.wav key=96 lokey=94 hikey=127 loop_mode=loop_continuous loop_start=28878 loop_end=28962
+// (unsupported) loop_tune=-2
+
+<region> sample=Sawone90.wav key=90 lokey=88 hikey=93 tune=2 loop_mode=loop_continuous loop_start=33327 loop_end=33446
+<region> sample=Sawone84.wav key=84 lokey=82 hikey=87 tune=4 loop_mode=loop_continuous loop_start=43944 loop_end=44282
+<region> sample=Sawone78.wav key=78 lokey=76 hikey=81 tune=4 loop_mode=loop_continuous loop_start=48048 loop_end=48526
+<region> sample=Sawone72.wav key=72 lokey=70 hikey=75 tune=4 loop_mode=loop_continuous loop_start=52406 loop_end=53082
+<region> sample=Sawone66.wav key=66 lokey=64 hikey=69 tune=4 loop_mode=loop_continuous loop_start=51664 loop_end=52142
+<region> sample=Sawone60.wav key=60 lokey=58 hikey=63 tune=4 loop_mode=loop_continuous loop_start=50447 loop_end=51123
+<region> sample=Sawone54.wav key=54 lokey=52 hikey=57 loop_mode=loop_continuous loop_start=50797 loop_end=51751
+<region> sample=Sawone48.wav key=48 lokey=46 hikey=51 tune=3 loop_mode=loop_continuous loop_start=52300 loop_end=53649
+<region> sample=Sawone42.wav key=42 lokey=40 hikey=45 loop_mode=loop_continuous loop_start=53859 loop_end=55767
+<region> sample=Sawone36.wav key=36 lokey=0 hikey=39 loop_mode=loop_continuous loop_start=51857 loop_end=54554

@@ -1,0 +1,39 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - French Horns Staccato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/French Horns/French Horns_stac_f1\
+
+<group> lovel=89 hivel=127        // HO-4_stac_f
+<region> sample=HO-4_stac_f1_D5.wav key=74 lokey=74 hikey=108 volume=-2 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_C#5.wav key=73 lokey=73 hikey=73 volume=-3 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_C5.wav key=72 lokey=71 hikey=72 volume=1 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_A#4.wav key=70 lokey=69 hikey=70 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_G#4.wav key=68 lokey=67 hikey=68 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_F#4.wav key=66 lokey=65 hikey=66 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_E4.wav key=64 lokey=63 hikey=64 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_D4.wav key=62 lokey=61 hikey=62 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_C4.wav key=60 lokey=59 hikey=60 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_A#3.wav key=58 lokey=57 hikey=58 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_G#3.wav key=56 lokey=55 hikey=56 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_F#3.wav key=54 lokey=53 hikey=54 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_E3.wav key=52 lokey=51 hikey=52 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_D3.wav key=50 lokey=50 hikey=50 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_C#3.wav key=49 lokey=49 hikey=49 loop_mode=no_loop
+<region> sample=HO-4_stac_f1_C3.wav key=48 lokey=21 hikey=48 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-2        // HO-4_stac_mf
+<region> sample=HO-4_stac_mf1_D5.wav key=74 lokey=74 hikey=108 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_C5.wav key=72 lokey=72 hikey=73 volume=3 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_G#4.wav key=68 lokey=68 hikey=69 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_F#4.wav key=66 lokey=66 hikey=67 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_A#4.wav key=70 lokey=70 hikey=71 volume=3 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_A#3.wav key=58 lokey=58 hikey=59 volume=-2 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_C4.wav key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_G#3.wav key=56 lokey=56 hikey=57 volume=5 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_F#3.wav key=54 lokey=54 hikey=55 volume=1 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_E3.wav key=52 lokey=52 hikey=53 volume=3 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_C3.wav key=48 lokey=21 hikey=49 loop_mode=no_loop
+<region> sample=HO-4_stac_mf1_D3.wav key=50 lokey=50 hikey=51 volume=3 loop_mode=no_loop

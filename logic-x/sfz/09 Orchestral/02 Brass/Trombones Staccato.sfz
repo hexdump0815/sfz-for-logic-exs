@@ -1,0 +1,40 @@
+/////////////////////////////////////////////////////////////////////////////
+// sfz definition file - Trombones Staccato.exs    by EXS2SFZ 1.1.7
+
+<control>
+default_path=../../../Sampler Files/Trombones/Trombones_stac_ff1\
+
+<group> lovel=89 hivel=127        // PO-3_stac_ff
+<region> sample=PO-3_nA_8-120_ff1_F#2.wav key=42 lokey=42 hikey=43 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_G#2.wav key=44 lokey=44 hikey=45 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_A#2.wav key=46 lokey=46 hikey=47 volume=1 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_C3.wav key=48 lokey=48 hikey=49 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_E2.wav key=40 lokey=21 hikey=40 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_D3.wav key=50 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_E3.wav key=52 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_F#3.wav key=54 lokey=54 hikey=55 volume=-3 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_G#3.wav key=56 lokey=56 hikey=57 volume=-3 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_A#3.wav key=58 lokey=58 hikey=59 volume=-1 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_C4.wav key=60 lokey=60 hikey=61 volume=-3 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_D4.wav key=62 lokey=62 hikey=63 volume=-2 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_E4.wav key=64 lokey=64 hikey=65 volume=-3 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_F#4.wav key=66 lokey=66 hikey=66 volume=-4 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_G4.wav key=67 lokey=67 hikey=108 volume=-3 loop_mode=no_loop
+<region> sample=PO-3_nA_8-120_ff1_F2.wav key=41 lokey=41 hikey=41 loop_mode=no_loop
+
+<group> lovel=0 hivel=88 volume=-2        // PO-3_stac_mf
+<region> sample=PO-3_stac_mf1_A#2.wav key=46 lokey=46 hikey=47 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_A#3.wav key=58 lokey=58 hikey=59 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_C3.wav key=48 lokey=48 hikey=49 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_C4.wav key=60 lokey=60 hikey=61 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_D3.wav key=50 lokey=50 hikey=51 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_D4.wav key=62 lokey=62 hikey=63 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_E2.wav key=40 lokey=21 hikey=41 volume=2 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_E3.wav key=52 lokey=52 hikey=53 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_E4.wav key=64 lokey=64 hikey=65 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_F#2.wav key=42 lokey=42 hikey=43 volume=2 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_F#3.wav key=54 lokey=54 hikey=55 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_F#4.wav key=66 lokey=66 hikey=66 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_G#2.wav key=44 lokey=44 hikey=45 volume=-1 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_G#3.wav key=56 lokey=56 hikey=57 loop_mode=no_loop
+<region> sample=PO-3_stac_mf1_G4.wav key=67 lokey=67 hikey=108 loop_mode=no_loop
